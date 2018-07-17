@@ -22,4 +22,4 @@ Guide pour pouvoir lancer et modifier le site sur son ordinateur.
 Système basé sur :
 
 * [jekyllrb.com](https://jekyllrb.com/) pour le site
-* [kramdown](https://kramdown.gettalong.org/) pour le format markdown
+* [kramdown](https://kramdown.gettalong.org/) pour la syntaxe et le format markdown
