@@ -1,6 +1,6 @@
 ---
 title: Fumbus l'alchimiste
-layout: page
+layout: default
 ---
 
 * **Ascendance** gobelin
