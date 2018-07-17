@@ -1,6 +1,7 @@
 ---
 title: Fumbus l'alchimiste
 layout: default
+categories: ['iconiques', 'machin']
 ---
 
 Coucou.
