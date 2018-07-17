@@ -5,7 +5,7 @@ layout: default
 
 * **Ascendance** gobelin
 * **Background** futur Éclaireur
-* **Classe** Alchimiste 1
+* **Classe** [Alchimiste](../classes/alchimiste) 1
 * **Langues** commun, gobelin, orque
 * **Perception** +1, vision dans le noir
 
