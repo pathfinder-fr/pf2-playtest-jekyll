@@ -17,8 +17,8 @@ title: Pathfinder 2 Wiki
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Bievenue sur le prototype de wiki pour pathfinder 2.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/pf2-wiki" # the subpath of your site, e.g. /blog
+url: "/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
@@ -39,3 +39,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
