@@ -3,6 +3,8 @@ title: Fumbus l'alchimiste
 layout: default
 ---
 
+Coucou.
+
 * **Ascendance** gobelin
 * **Background** futur Éclaireur
 * **Classe** [Alchimiste](../classes/alchimiste.md) 1
