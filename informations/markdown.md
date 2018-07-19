@@ -14,3 +14,4 @@ title: Informations sur la syntaxe Markdown
 | Citations | `>` au début de chaque ligne
 | Ligne     | `---` ou `***` ou `___`
 | Note en bas<br/>de page | `[^code]` à l'endroit de la référence<br/>`[^code]: explications` en fin de document<br/>On peut remplacer `code` par n'importe quel nombre ou mot
+| Tableau   | on sépare les colonnes avec |
