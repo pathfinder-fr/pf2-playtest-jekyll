@@ -72,7 +72,9 @@ Même si vous avez déjà dépensé la plupart de vos points de résonance (PR) 
 pendant vos préparations quotidiennes, vous possédez encore 2 PR que vous pouvez utiliser pour faire n'importe
 quel objet alchimique parmi ceux dont vous connaissez la recette.
 
+{:.feat}
 > ### Alchimie rapide
+>
 > alchimique, bombe, utilisation unique, feu, aspersion
 > 
 > **Coût** 1 point de résonance
@@ -86,16 +88,10 @@ quel objet alchimique parmi ceux dont vous connaissez la recette.
 
 Vous possédez le don de classe suivant.
 
+{:.feat}
 > ### Bombes rapides
-> Don 1 - Alchimiste
+> *don 1 - Alchimiste*
 >
 > Vous placez vos bombes dans des poches faciles à atteindre et avez appris comment les saisir sans même y réfléchir.
 > Lorsque vous utilisez l'action Intéragir pour prendre un objet alchimique possédant le trait "bombe", vous pouvez prendre deux bombes au lieu d'une seule.
 > Lorsque vous utilisez Alchimie rapide pour créer une bombe, vous pouvez également prendre une autre bombe au cours de l'action d'Alchimie rapide.
-> {: class="test"}
-
-|---
-| Table | Table 2 | Table 3
-|-|-|-
-| First | second | third
-{: class="no-border"}
