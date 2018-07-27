@@ -29,6 +29,10 @@ plugins:
   - jekyll-feed
   - jekyll-relative-links
 
+collections:
+  dons:
+    output: true
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
