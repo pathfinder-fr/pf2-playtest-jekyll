@@ -1,0 +1,10 @@
+---
+layout: default
+---
+{{ content }}
+{% assign my_collection = site[page.collection] | sort: 'title' %}
+<ul>
+{% for item in my_collection %}
+    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+{%- endfor -%}
+</ul>
