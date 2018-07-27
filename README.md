@@ -1,23 +1,16 @@
-# Site règles Pathfinder 2nde édition
+# Site règles Pathfinder 2de édition
 
 <http://2nd.pathfinder-fr.org>
 
-## Installation
+Ce projet contient le prototype du site PRD Pathfinder 2nde édition.
 
-*TODO*
+Le site peut être consulté à cette adresse : <http://2nd.pathfinder-fr.org>
 
-Guide pour pouvoir lancer et modifier le site sur son ordinateur.
+Les contributeurs sont invités à consulter les [différents guide de contribution](https://gitlab.com/pathfinder-fr/pf2-jekyll/wikis/home).
 
-### Windows
+Si vous avez constaté une erreur que vous souhaitez signaler, vous pouvez le faire en crééant une [issue](https://gitlab.com/pathfinder-fr/pf2-jekyll/issues) sur ce site.
 
-* Activer le sous-système Windows pour Linux
-* Installer Ubuntu depuis le MS Store
-* Installer jekyll
-* Installer git
-
-## Modifications
-
-*TOTO*
+## A Propos
 
 Système basé sur :
 
