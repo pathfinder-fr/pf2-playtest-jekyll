@@ -1,0 +1,23 @@
+#sidebar-nav {
+    /*
+    position: sticky;
+    top: 4rem;
+    */
+    margin-top: 1em;
+    height: calc(100vh - 4rem);
+    overflow-y: auto;
+    font-size: .75rem;
+}
+
+#sidebar-nav h1 { font-size: 1em; }
+
+.section-nav {
+    padding-left: 0;
+    padding-right: 0;
+    border-right: 1px solid #eee;
+}
+
+.section-nav ul { padding-left: 1rem; }
+.section-nav li { display: block; }
+.section-nav a { display: block; padding: .125rem .5rem; color: #99979c; }
+.section-nav span { display: block; padding: .125rem .5rem; color: #99979c; }

@@ -1,7 +1,5 @@
 ---
 title: Fumbus l'alchimiste
-layout: default
-categories: ['iconiques', 'machin']
 ---
 
 Coucou.
@@ -11,7 +9,7 @@ Coucou.
 * **Classe** [Alchimiste](../classes/alchimiste.md) 1
 * **Langues** commun, gobelin, orque
 * **Perception** +1, vision dans le noir
-^
+
 * **Force** 10 (+0)
 * **Dextérité** 16 (+3)
 * **Constitution** 12 (+1)
