@@ -1,7 +1,10 @@
 ---
 title: Fumbus l'alchimiste
 layout: default
+categories: ['iconiques', 'machin']
 ---
+
+Coucou.
 
 * **Ascendance** gobelin
 * **Background** futur Éclaireur
