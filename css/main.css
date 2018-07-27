@@ -21,3 +21,27 @@
 .section-nav li { display: block; }
 .section-nav a { display: block; padding: .125rem .5rem; color: #99979c; }
 .section-nav span { display: block; padding: .125rem .5rem; color: #99979c; }
+
+blockquote.spell,
+blockquote.feat,
+blockquote.trait {
+    border: solid 1px #666;
+    padding: 0.5rem;
+}
+
+blockquote.spell h3,
+blockquote.feat  h3,
+blockquote.trait h3 {
+    font-size: 1.4rem;
+    margin: -.5rem;
+    margin-bottom: 0;
+    padding: .3rem;
+    background-color: #666;
+    color: #fff;
+}
+
+blockquote.spell p:last-child,
+blockquote.feat  p:last-child,
+blockquote.trait p:last-child {
+    margin-bottom: 0
+}

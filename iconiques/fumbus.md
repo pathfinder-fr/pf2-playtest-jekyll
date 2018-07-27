@@ -9,15 +9,13 @@ Coucou.
 * **Classe** [Alchimiste](../classes/alchimiste.md) 1
 * **Langues** commun, gobelin, orque
 * **Perception** +1, vision dans le noir
-
+^
 * **Force** 10 (+0)
 * **Dextérité** 16 (+3)
 * **Constitution** 12 (+1)
 * **Intelligence** 18 (+4)
 * **Sagesse** 10 (+0)
 * **Charisme** 12 (+1)
-{: class="test"}
-
 
 ## Défenses
 
@@ -87,7 +85,6 @@ quel objet alchimique parmi ceux dont vous connaissez la recette.
 ## Dons de classe
 
 Vous possédez le don de classe suivant.
-{: class="test2"}
 
 > ### Bombes rapides
 > Don 1 - Alchimiste
