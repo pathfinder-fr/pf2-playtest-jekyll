@@ -2,8 +2,6 @@
 title: Fumbus l'alchimiste
 ---
 
-Coucou.
-
 * **Ascendance** gobelin
 * **Background** futur Éclaireur
 * **Classe** [Alchimiste](../classes/alchimiste.md) 1
@@ -57,6 +55,7 @@ Coucou.
 * **Société** +5
 * **Discrétion** +4
 * **Art du roublard** +4
+>
 * **Dons de compétence** Savoir supplémentaire*, Artisan alchimiste*
 
 (*) Les effets des capacités marquées d'une astérisque sont déjà inclus dans les caractéristiques.

@@ -54,6 +54,7 @@ title: Valéros le guerrier
 * **Savoir (ferme)** +2
 * **Savoir (art de la guerre)** +3
 * **Athéltisme** - utiliser la valeur entre parenthèses pour les actions d'attaque telles que Agripper, Repousser ou Mettre à terre [NdT : grapple, shove, trip]
+>
 * **Dons de compétence** Garantie (Athlétisme)
 
 (*) Les effets des capacités marquées d'une astérisque sont déjà inclus dans les caractéristiques.
@@ -65,17 +66,33 @@ Les effets des règles marquées d'une astérisque sont déjà inclus dans le re
 ## Dons de classe
 
 {:.feat}
-> ### Bouclier réactif
+> ### [R] Bouclier réactif
+> *don 1*
+>
+> Guerrier</br>
+> **Déclencheur** Un ennemi vous touche (réussite ou réussite critique) avec une frappe au corps à corps.
+>
+>Vous utilisez l'action Lever un bouclier et gagnez le bonus du bouclier à la CA immédiatement. Le bonus de circonstances du bouclier s'applique à votre CA pour déterminer le résultat de l'attaque déclencheur.
 >
 {:.feat}
-> ### Charge soudaine
+> ### [AA] Charge soudaine
+> *don 1*
+>
+> Attaque, guerrier, déplacement, ouverture
+>
+> Avec un sprint rapide, vous foncez jusqu'à votre ennemi et frappez. Avancez-vous d'au plus le double de votre vitesse. Si vous terminez ce mouvement à portée de frappe de corps à corps d'au moins un ennemi, vous pouvez effectuer une frappe de corps à corps contre celui-ci. Vous pouvez utiliser Charge soudaine en grimpant, volant, nageant ou creusant, pas seulement en vous avançant, si vous possédez le type de mouvement correspondant.
 > 
 ## Attaque d'opportunité
 
 Vous pouvez utiliser la réaction Attaque d'opportunité
 
-{:.feat}
-> ### Attaque d'opportunité
+{:.classfeature}
+> ### [A] Attaque d'opportunité
+>
+> Guerrier</br>
+> **Déclencheur** Une créature située dans votre portée utilise une action de manipulation ou une action de déplacement, effectue une frappe à distance ou quitte une case pendant une action de mouvement.</br>
+>
+> Portez une attaque de corps à corps contre la créature déclencheur avec une pénalité de -2. Si l'attaque touche et que le déclencheur était une action de manipulation, vous interrompez cette action. Cette Frappe n'est pas prise en compte lors du calcul de la pénalité d'attaque multiple, et votre pénalité d'attaque multiple ne s'applique pas à elle.
 
 ## Dons de compétence
 
@@ -83,24 +100,54 @@ Vous possédez le don de compétence suivant
 
 {:.feat}
 > ### Garantie (Athlétisme)
+>
+> *don 1*
+>
+> général, compétence</br>
+> **Conditions** entraîné en Athlétisme
+>
+> Vous pouvez choisir de ne pas lancer de dé pour un test de compétence d'Athlétisme et, au lieu de cela, d'utiliser un résultat de 10 (sans appliquer de bonus, pénalités ou modificateurs).
 
 ## Actions de bouclier
 
 Quand vous portez un bouclier, vous pouvez utiliser les actions suivantes.
 
-{:.feat}
-> ### Lever un bouclier
+{:.Action}
+> ### [A] Lever un bouclier
+> **Condition** Vous tenez un bouclier en main.
+>
+> Vous positionnez votre bouclier pour vous protéger. Quand vous avez Levé un bouclier, vous bénéficiez de son bonus à la CA et à la CAC sous la forme d'un bonus de circonstances et vous pouvez utiliser la réaction Blocage par bouclier. Votre bouclier reste levé jusqu'au début de votre prochain tour.
 
-{:.feat}
-> ### Blocage par bouclier
+{:.Action}
+> ### [R] Blocage par bouclier
+> **Déclencheur** Alors que vous avez votre bouclier levé, vous subissez des dégâts occasionnés par une attaque physique.
+>
+> Vous positionnez votre bouclier pour parer un coup. Votre bouclier vous permet d'éviter de subir une quantité de dégâts pouvant aller jusqu'à sa Solidité ; le bouclier subit ces dégâts au lieu de vous et peut devenir cabossé ou brisé. Si le bouclier subit des dégâts égaux ou dépassant sa Solidité (5), le bouclier acquiert 1 déformation [NdT : dent]. Si l'objet subit des dégâts égaux ou plus grands que deux fois sa Solidité (10) en un seul coup, il prend 2 déformations. Le bouclier ne peut subir qu'une seule déformation avant de devenir brisé. Une seconde déformation le rend brisé mais il peut encore être réparé. Si le bouclier devait subir une déformation supplémentaire ou devenir brisé alors qu'il est déjà brisé, il est détruit et impossible à réparer.
 
 ## Traits
 
 Les traits suivants apparaissent dans votre équipement.
 
-**Agile** La pénalité d'attaque multiplie pour cette arme est réduite à -4 et à -8.
-**Mortel** En cas de toucher critique, ajoutez un dé de dégât de la taille indiquée.
-**Finesse** Vous pouvez utiliser votre modificateur de Dextérité au lieu de votre modificateur de Force quand vous effectuez un jet d'attaque avec cette arme de corps à corps.
-**Ouverture** Vous ne pouvez utiliser une action avec le trait "ouverture" que si vous n'avez pas encore utilisé d'action avec le trait "attaque" ou "ouverture" ce tour-ci.
-**Lancé** Vous pouvez lancer cette arme en une attaque à distance avec l'incrément de portée indiqué.
-**Polyvalent** Une arme polyvalente peut être utilisée pour infliger un type de dégâts différent que celui qui est indiqué dans sa description.
+{:.trait}
+> ### Agile
+> La pénalité d'attaque multiplie pour cette arme est réduite à -4 et à -8.
+
+{:.trait}
+> ### Finesse
+> Vous pouvez utiliser votre modificateur de Dextérité au lieu de votre modificateur de Force quand vous effectuez un jet d'attaque avec cette arme de corps à corps.
+
+{:.trait}
+> ### Mortel
+> En cas de toucher critique, ajoutez un dé de dégât de la taille indiquée.
+
+{:.trait}
+> ### Ouverture
+> Vous ne pouvez utiliser une action avec le trait "ouverture" que si vous n'avez pas encore utilisé d'action avec le trait "attaque" ou "ouverture" ce tour-ci.
+
+{:.trait}
+> ### Lancé
+> Vous pouvez lancer cette arme en une attaque à distance avec l'incrément de portée indiqué.
+
+{:.trait}
+> ### Polyvalent
+> Une arme polyvalente peut être utilisée pour infliger un type de dégâts différent que celui qui est indiqué dans sa description.
