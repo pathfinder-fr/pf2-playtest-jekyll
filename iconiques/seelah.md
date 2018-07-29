@@ -78,8 +78,8 @@ Vous pouvez lancer le pouvoir suivant en dépensant 1 point de magie.
 > *pouvoir*
 >
 > guérison, nécromancie, positif  
-> **Incantation** [A] Incantation somatique</br>
-> **Portée** contact</br>
+> **Incantation** [A] Incantation somatique  
+> **Portée** contact  
 > **Cible** une créature vivante volontaire ou une créature morte-vivante
 >
 > Vos mains sont imprégnées d'énergie positive quand vous les posez sur la cible afin de soigner une cible vivante ou de blesser une cible morte-vivante. Si vous utilisez l'imposition des mains sur une cible vivante volontaire, vous lui faites récupérer 1d6+2 points de vie et, si la cible est un allié, elle gagne un bonus conditionnel de +1 à la CA pour 1 round. Contre une cible morte-vivante, vous infligez la même quantité de dégâts de type positif si vous réussissez une attaque de contact au corps à corps, et la cible subit un malus conditionnel de -1 à la CA pendant 1 round.
@@ -92,7 +92,7 @@ Vous possédez les dons de classe suivants.
 > ### Chevalier hospitalier
 > *don 1*
 >
-> Paladin</br>
+> Paladin  
 > **Condition** pouvoir de champion (imposition des mains)
 >
 > Votre degré de formation en Médecine augmente jusqu'à entraîné, et Médecine est une compétence de signature pour vous. Augmentez la quantité de points de vie redonnés par imposition des mains de d4 en d6.
@@ -101,7 +101,7 @@ Vous possédez les dons de classe suivants.
 > ### Toucher prudent
 > *don 1*
 >
-> Paladin</br>
+> Paladin  
 > **Condition** pouvoir de champion (imposition des mains)
 >
 > Vous lancez imposition des mains avec un simple geste, sans gesticulations complexes. L'action d'incantation somatique pour imposition des mains perd le trait "manipulation", ce qui la rend moins susceptible de déclencher des attaques d'opportunité ou d'être interrompue.
@@ -110,9 +110,9 @@ Vous possédez les dons de classe suivants.
 
 > Ce qui suit est le code que tous les paladins doivent suivre. Chaque édit est cité par ordre d'importance, en commençant par le plus important. Si deux édits entrent en conflit, suivez le plus important des deux.
 
-> * Ne commettez jamais volontairement un acte maléfique comme un meurtre prémédité et illégal, la torture ou l'incantation d'un sort maléfique.</br>
-> * N'accomplissez aucune action dont vous savez qu'elle va causer du tort à un innocent. Ne restez pas inactif si votre inaction va immédiatement causer du tort à un innocent alors qu'une action de votre part pourrait vraisemblablement l'éviter. Cet édit ne vous force pas à agir contre un tort qui pourrait potentiellement affecter un innocent, ni à sacrifier votre vie et votre potentiel pour tenter de protéger un innocent.</br>
-> * Agissez avec honneur, ne trichez jamais, ne mentez jamais, n'abusez jamais des autres.</br>
+> * Ne commettez jamais volontairement un acte maléfique comme un meurtre prémédité et illégal, la torture ou l'incantation d'un sort maléfique.  
+> * N'accomplissez aucune action dont vous savez qu'elle va causer du tort à un innocent. Ne restez pas inactif si votre inaction va immédiatement causer du tort à un innocent alors qu'une action de votre part pourrait vraisemblablement l'éviter. Cet édit ne vous force pas à agir contre un tort qui pourrait potentiellement affecter un innocent, ni à sacrifier votre vie et votre potentiel pour tenter de protéger un innocent.  
+> * Agissez avec honneur, ne trichez jamais, ne mentez jamais, n'abusez jamais des autres.  
 > * Respectez l'autorité légale du dirigeant légitime ou du gouvernement du territoire où vous vous trouvez, suivez leurs lois sauf si celles-ci contredisent un édit plus important.
 
 ## Capacité de classe
@@ -122,7 +122,7 @@ Vous gagnez la réaction de coup punitif.
 {:.classfeature}
 > ### [A] Coup punitif	
 >
-> Paladin</br>
+> Paladin  
 > **Déclencheur** Une créature située dans votre portée touche un allié ou une créature amie.
 >
 > Effectuez une frappe de corps à corps contre la créature déclencheur avec une pénalité de -2 avant que celle-ci ne lance les dés pour déterminer les dégâts correspondant à l'attaque déclencheur. Si votre attaque touche, la cible est affaiblie 1 pendant le reste de son tour, ou affaiblie 2 pour le reste de son tour si votre frappe était une réussite critique. L'état affaibli prend immédiatement fin si la créature effectue une frappe contre vous. Si Coup punitif met la cible hors combat ou la tue, l'attaque déclencheur n'inflige aucun dégât.
@@ -135,7 +135,7 @@ Vous possédez le don de compétence suivant
 > ### Pickpocket
 > *don 1*
 >
-> Général, compétence</br>
+> Général, compétence  
 > **Condition** Art du roublard entraîné
 >
 > Vous pouvez dérober ou voler des objets qui sont étroitement gardés comme par exemple ceux qui se trouvent dans la poche d'une créature ou encore un anneau pas trop serré. Vous ne pouvez pas voler des objets qui sont activement manipulés ou dont l'extraction serait évidente à percevoir ou prendrait trop de temps (comme des chaussures ou une armure portées).
