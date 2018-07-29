@@ -11,7 +11,7 @@ title: Kyra la prêtresse
 * **Classe** Prêtresse de Sarenrae 1
 * **Langues** commun, kéléshite
 * **Perception** +5
-^
+>
 * **Force** 14 (+2)
 * **Dextérité** 12 (+1)
 * **Constitution** 10 (+0)
