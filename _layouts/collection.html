@@ -18,7 +18,7 @@ layout: default
             <td><a href="{{ item.url }}">{{ item.title }}</a></td>
             {% for col in page.colonnes %}
                 {% if col.estListe %}
-                    <td>{{ item[col.attribut] | join: col["séparateur"] }}</td>
+                    <td>{{ item[col.attribut] | join: col.separateur }}</td>
                 {% else %}
                     <td>{{ item[col.attribut] }}</td>
                 {%- endif -%}

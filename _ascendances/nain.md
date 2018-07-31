@@ -13,7 +13,7 @@ langues:
 augmentations:
   - Constitution
   - Sagesse
-pénalité: Charisme
+penalite: Charisme
 ---
 
 Blah blah blah...

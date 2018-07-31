@@ -11,13 +11,13 @@ colonnes:
   - titre: "Augmentations"
     attribut: "augmentations"
     estListe: true
+    separateur: " "
   - titre: "Pénalité"
-    attribut: "pénalité"
-    séparateur: " "
+    attribut: "penalite"
   - titre: "Langues"
     attribut: "langues"
     estListe: true
-    séparateur: ", "
+    separateur: ", "
 ---
 
 Liste des ascendances.
