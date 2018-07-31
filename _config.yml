@@ -33,6 +33,12 @@ collections:
   dons:
     output: true
     category: ['don']
+  ascendances:
+    output: true
+    category: ['ascendance']
+  backgrounds:
+    output: true
+    category: ['background']
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

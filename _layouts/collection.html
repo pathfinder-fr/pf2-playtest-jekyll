@@ -3,8 +3,29 @@ layout: default
 ---
 {{ content }}
 {% assign my_collection = site[page.collection] | sort: 'title' %}
-<ul>
-{% for item in my_collection %}
-    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-{%- endfor -%}
-</ul>
+<table>
+    <tr>
+        <th>Nom</th>
+        {% for col in page.colonnes %}
+            <th> {{col.titre}} </th>
+        {%- endfor -%}
+        {% if page.inclureSource %}
+            <th>Source</th>
+        {%- endif -%}
+    </tr>
+    {% for item in my_collection %}
+        <tr>
+            <td><a href="{{ item.url }}">{{ item.title }}</a></td>
+            {% for col in page.colonnes %}
+                {% if col.estListe %}
+                    <td>{{ item[col.attribut] | join: col["séparateur"] }}</td>
+                {% else %}
+                    <td>{{ item[col.attribut] }}</td>
+                {%- endif -%}
+            {%- endfor -%}
+            {% if page.inclureSource %}
+                <td> {{item.source}} </td>
+            {%- endif -%}
+        </tr>
+    {%- endfor -%}
+</table>
