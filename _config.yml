@@ -39,6 +39,9 @@ collections:
   backgrounds:
     output: true
     category: ['background']
+  classes:
+    output: true
+    category: ['class']
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

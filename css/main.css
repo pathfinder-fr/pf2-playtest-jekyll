@@ -22,12 +22,13 @@
 .section-nav a { display: block; padding: .125rem .5rem; color: #99979c; }
 .section-nav span { display: block; padding: .125rem .5rem; color: #99979c; }
 
-table th, td {
-    padding: 1px 6px 2px 1px;
-}
-
 table tr {
     border-bottom: 1px solid #999;
+}
+
+table th,
+table td {
+    padding: 1px 6px 1px 6px;
 }
 
 table tr:first-of-type {
@@ -41,11 +42,18 @@ table tr:nth-child(2n+3) {
     background-color: #CCC;
 }
 
+/*
+table td:not(:last-child),
+table th:not(:last-child) {
+    border-right: 1px solid #777;
+}
+*/
+
 blockquote.spell,
 blockquote.feat,
 blockquote.trait,
 .enbref {
-    border: solid 1px #666;
+    border: solid 1px #BBB;
     padding: 0.5rem;
 }
 

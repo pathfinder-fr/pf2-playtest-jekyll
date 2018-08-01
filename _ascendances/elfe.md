@@ -11,9 +11,9 @@ langues:
   - commun
   - nain
 augmentations:
-  - Constitution
-  - Sagesse
-penalite: Charisme
+  - Con
+  - Sag
+penalite: Cha
 ---
 
 Blah blah blah...
