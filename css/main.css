@@ -30,6 +30,11 @@
     background-color: #6cc6e0;
 }
 
+mark {
+    background-color: #C00;
+    color: white;
+}
+
 /* TABLEAUX STANDARDS */
 
 table tr {
