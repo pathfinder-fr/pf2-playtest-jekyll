@@ -126,6 +126,7 @@ requis pour avoir accès à un élément de règle, ce niveau est indiqué à dr
 un ou plusieurs traits ; pour en savoir plus sur les traits, référez-vous à [cette section](#Traits).
 
 {: .bloc .action1 }
+> {: .no_toc}
 > ### Nom du don ou de l'action **Niveau**
 > *Traits*  
 > **Prérequis** Les caractéristiques minimales, dons, degrés de formation et autres conditions que vous devez posséder
@@ -162,341 +163,140 @@ du jeu se trouvent <mark>à partir de la page 290</mark> mais voici déjà quelq
 
 * **Obtenir un 1 est mauvais.** Quand cela se produit, votre test est un échec critique. C'est encore pire qu'un échec normal. Vous obtenez également un échec critique si votre total est inférieur d'au moins 10 points au Degré de Difficulté. Plus d'informations sur les échecs critiques à <mark>la page 292</mark>.
 
+### Votre Degré de Difficulté
 
+Vous lancez souvent des dés contre un Degré de Difficulté déterminé par le MJ mais, quand une créature ou une situation
+teste les capacités de votre personnage, elle doit effectuer un test contre un Degré de Difficulté dépendant de la
+capacité la plus pertinente de votre personnage. Quelle que soit cette capacité, le DD est de 10 plus tous les
+modificateurs que vous ajouteriez à un lancer de d20 basé sur cette capacité.
 
+### Modificateurs, bonus et pénalités
 
+Vous pouvez obtenir les types de modificateurs, bonus et pénalités suivants sur vos jets et vos DD. Plus d'informations sur les modificateurs, les bonus et les pénalités à la <mark>page 290</mark>.
 
+#### Modificateurs de caractéristiques
 
+Quasiment tous les lancers de dés sont liés à une caractéristique. Vos modificateurs de caractéristiques sont déduits de
+vos caractéristiques comme indiqué <mark>à la page 20</mark>. Par exemple, une Force de 10 vous donne un modificateur de
+Force de +0 alors qu'un Charisme de 17 vous donne un modificateur de Charisme de +3. Vous n'ajoutez qu'un seul
+modificateur de caractéristique à votre lancer.
 
-3 actions and 1 reaction to use each round. Each player
-character can also take any number of free actions. Rules
-elements that describe actions, reactions, or free actions
-carry special symbols to indicate this, as described below.
-Actions
-Actions start with this symbol: . You can use 3 actions
-on your turn, in any order you see fit. When you use an
-action, you generate an effect. Sometimes this effect is
-automatic. Other times, actions necessitate that you roll
-a die and generate an effect based on this roll. More
-information about die rolling and its importance to the
-game is found in the Die Rolls section on page 8.
-Reactions
-Reactions start with this symbol: . Reactions are similar
-to actions in their effects, but are used differently. You can
-spend only 1 reaction per round, and only when its specific
-trigger is fulfilled. You can use your reaction on your turn
-or another character’s turn, as long as the trigger is satisfied
-(often, the trigger is another creature’s action).
-Free Actions
-Free actions start with this symbol: . Free actions follow
-the same trigger rules as reactions, and like reactions, you
-can use them on your turn or on another character’s turn.
-Unlike with actions or reactions, you can use as many
-free actions per round as you like, as long as their triggers
-occur. However, a specific trigger can trigger only one of a
-character’s free actions.
-Activities
-Activities are special tasks that you complete by spending
-1 or more actions. Usually, they take 2 or more actions and
-let you do more than a single action would allow. All tasks
-that take longer than a turn are activities. Spellcasting is
-one of the most common activities, as most spells require
-you to spend several actions in a sequence to create their
-effects. Once you spend the last action required, your
-activity is complete and its effects occur. A few activities
-can be performed by spending a free action or a reaction,
-such as spells you can cast in an instant. Activities that use
-2 actions start with this symbol: . Activities that use 3
-actions start with this symbol: .
-FORMAT OF RULES ELEMENTS
-In Pathfinder, player characters use rules elements to act
-or in response to the situation. Many are feats, which are
-mechanical elements that characters can access through
-leveling up or making certain character creation choices.
-Others are more basic elements of the game to which all
-characters have access from the beginning of play.
-Regardless of the type of game mechanic, rules elements
-are always presented in the following format. Entries are
-omitted from the game’s rules text when they don’t apply,
-so not all rules elements have all of the entries given below.
-Actions, reactions, and free actions have an appropriate
-icon next to them to indicate their type. An activity that
-can be completed in a single turn has a number of icons
-indicating how many actions are required to complete
-it; activities that take more than a single turn to perform
-omit these icons. When a certain level is required before
-the element can be accessed, that level is indicated to the
-right of the name. Rules also often have one or more traits
-associated with them; for more about traits, see page 10.
-FEAT OR ACTION NAME LEVEL
-Prerequisites Any minimum ability score, feats,
-proficiency rank, or other prerequisites you must have before you
-can access this element is listed here. The element’s level is always
-an additional prerequisite.
-Frequency This is the limit on how many times you can use an
-ability within a certain length of time.
-Cost Any extra cost of materials to use the ability (for instance, in
-spells that require special reagents) is listed here.
-Trigger Reactions and free actions both have triggers that must
-be met in order to use them. The trigger is listed here.
-Requirements Sometimes you must have a certain item or be in a
-certain circumstance to use an ability. If so, it’s listed in this section.
-This section describes the effects or benefits of a rules element.
-If the rule is an action, activity, reaction, or free action, it explains
-what the effect is or what you must roll to determine the effect.
-If it’s a feat that modifies an existing action or grants a constant
-effect, the benefit is explained here.
-Special Any special qualities of the rule are explained in
-this section. Usually the special section appears in a feat you can
-select more than once, and explains what happens when you do.
-Traits
-DIE ROLLS
-Rolling dice to determine a character’s success or failure at
-a given task is a core element of the game. Pathfinder uses
-a set of polyhedral dice to accomplish this; most important
-is the 20-sided die, often abbreviated as d20. Many rolls
-in Pathfinder involve rolling a d20, adding bonuses or
-penalties, and telling the GM the result so she can compare
-it to the number representing the difficult of the task. This is
-called a check. More about rolls, checks, bonuses, penalties,
-and other key elements of the game is described beginning
-on page 290, but the following basics are good to know:
-• Rolling high is good. You want your roll’s total to meet
-or exceed the threshold for success, which is called the
-Difficulty Class (or DC). The DC is a number chosen by
-the GM if you’re going up against a challenge in the
-environment. If you’re rolling against a creature, you’ll
-instead use a DC based on one of its statistics. More about
-Difficulty Classes is on page 291.
-• Rolling 20 is better! Rolling a 20 on the die means you
-critically succeed, which often has a greater effect than
-normal. You also gain a critical success if your total meets
-or exceeds the Difficulty Class by 10 or more. More about
-critical successes is on page 292.
-• Rolling 1 is bad. When you do, you critically fail your check.
-This is even worse than a regular failure. You also critically
-fail if your total is lower than the Difficulty Class by 10 or
-more. More about critical failures is on page 292.
-Your Diff iculty Class
-Often, you roll dice against a Difficulty Class determined
-by the GM. But when a creature or situation is testing your
-character’s ability, it attempts a check against a Difficulty
-Class based on the most relevant of your character’s
-statistics. The DC for any statistic is 10 plus all the same
-modifiers you’d add to a d20 roll using that statistic.
-Modifiers, Bonuses, and Penalties
-You can get the following types of modifiers, bonuses, and
-penalties on your rolls and DCs. More about modifiers,
-bonuses, and penalties can be found on page 290.
-Ability Modifier
-Almost all rolls are keyed to an ability score. Your
-ability modifiers are derived from your ability scores, as
-described on page 20. For example, a Strength of 10 gives
-you a +0 Strength modifier, while a Charisma of 17 gives
-you a +3 Charisma modifier. You add only one ability
-modifier to a roll.
-Proficiency Modifier
-For most of your statistics, your class and other character
-choices will give you a proficiency rank. When you make a
-roll, you add a proficiency modifier that depends on your
-level and your proficiency rank in the statistic or item you
-are using. You add only one proficiency modifier to a roll.
-You’re untrained if you have little or no knowledge in
-the statistic or item. Your proficiency modifier is equal to
-your level minus 2. Unless your class or another choice
-you’ve made gives you a different rank of proficiency,
-you’re untrained.
-If you’ve been trained in the statistic or item, your
-proficiency modifier is equal to your level.
-As an expert, you are highly trained in the statistic or
-item. Your proficiency modifier is equal to your level plus 1.
-At a master rank, you’ve achieved world-class
-proficiency in the statistic or item. Your proficiency
-modifier is equal to your character level plus 2.
-If you’re legendary, your statistic or familiarity with
-the item is so high that you’ll go down in history. Your
-proficiency modifier is equal to your level plus 3.
-When you have a proficiency rank, you also have all
-lower ranks except for untrained. Thus, if you have master
-proficiency rank, you also have the expert and trained
-proficiency ranks (though you use only the highest modifier).
-Bonuses and Penalties
-Other bonuses and penalties come in several types. If you
-have more than one bonus or penalty of the same type,
-you use only the highest bonus or penalty.
-KEY TERMS
-As you navigate this book, it’s helpful to be familiar
-with the key basic terms found in this section. For a full
-glossary of game terms, see page 420.
-Ability Score
-Each creature has six ability scores: Strength, Dexterity,
-Constitution, Intelligence, Wisdom, and Charisma. These
-scores represent a creature’s raw potential and basic
-attributes. The higher the score, the greater the creature’s
-potential in that ability score. You can learn more about
-ability scores on page 18.
-Alignment
-Alignment represents a creature’s basic moral and ethical
-attitude. See page 16 for more details.
-Ancestry
-An ancestry is the broad family of people that a character
-or creature belongs to. Ancestry determines a character’s
-starting Hit Points, languages, Speed, and senses, and it
-grants access to a set of ancestry feats.
-Armor Class (AC )
-All creatures in the game have an Armor Class. This score
-represents how hard it is to hit and damage a creature. It
-typically serves as the Difficulty Class for hitting a creature
-with an attack. Learn more on page 16.
-Att ack
-When a creature tries to harm another creature, it makes
-an attack roll against the target’s Armor Class. Most
-attacks use the Strike action (see page 308), but some
-spells and other abilities are also attacks.
-Class
-A class represents the main adventuring profession chosen
-by a character. A character’s class determines most of their
-proficiencies, grants the character a certain number of Hit
-Points when they gain a new level, and gives access to a set
-of class feats. Classes appear in Chapter 3.
-Condition
-An ongoing effect that changes how you can act or alters
-some of your statistics is called a condition. These often
-come from spells. Some frequently occurring conditions
-appear on page 320.
-Feat
-A feat is an ability that a character gains from their ancestry,
-background, class, general training, or skill training. Some
-feats grant an action, activity, free action, or reaction.
-Game Master (GM)
-The Game Master is the player who adjudicates the rules
-and controls the various elements of the Pathfinder story
-and world that the other players explore. A GM’s duty
-is to provide a fair and fun game—she wants the other
-players to ultimately succeed in their goals, but only after
-much danger and many heroic trials.
-Golarion
-Pathfinder is set on Golarion, a world with a rich
-diversity of peoples, filled with exciting locations to
-explore and deadly villains to challenge heroes of any
-level. Throughout this book there are references to
-Golarion, most notably in discussion of the deities that
-your character can choose to venerate. You can set your
-game in Golarion or any other world of your choosing,
-using these rules to create a rich setting all your own. For
-more information on Golarion, see Pathfinder Campaign
-Setting: The Inner Sea World Guide and other books in
-the Pathfinder Campaign Setting line.
-Hit Points (HP)
-Hit Points represent the amount of punishment a creature
-can take before it falls unconscious and begins dying.
-Damage decreases Hit Points on a 1-to-1 basis, while
-healing restores Hit Points at the same rate. Learn more
-on page 294.
+#### Modificateur de formation
+
+Votre classe et les autres choix relatifs à votre personnage vous donne des degrés de formation pour la plupart de vos
+capacités. Quand vous effectuez un lancer, vous ajoutez un modificateur de formation qui dépend de votre niveau et
+de votre degré de formation dans cette capacité ou dans l'objet que vous utilisez. Vous n'ajoutez qu'un seul
+modificateur de formation à un lancer.
+
+Vous êtes non entraîné si vous ne connaissez rien ou quasiment rien à une capacité ou à l'utilisation d'un objet. Votre
+modificateur de formation est égal à votre niveau moins 2. Sauf si votre classe ou un autre choix de personnage
+vous donne un meilleur degré de formation, vous êtes non entraîné.
+
+Si vous avez été entraîné dans une capacité ou à l'utilisation d'un objet, votre modificateur de formation est égal à
+votre niveau.
+
+En tant qu'expert, vous êtes hautement entraîné dans une capacité ou à l'utilisation d'un objet. Votre modificateur de
+formation est égal à votre niveau plus 1.
+
+Au degré de formation maître, vous avez atteint un niveau de classe mondiale dans une capacité ou à l'utilisation d'un
+objet. Votre modificateur de formation est égal à votre niveau de personnage plus 2.
+
+Si vous êtes légendaire, votre capacité ou votre familiarité avec un objet est si haute que vous laisserez une trace
+dans l'histoire. Votre modificateur de formation vaut votre niveau plus 3.
+
+Quand vous avez un degré de formation, vous possédez également tous les degrés de formation inférieurs à part non
+entraîné. Ainsi, si vous possédez un degré de formation de maître, vous êtes également expert et entraîné (mais vous
+n'utilisez que le modificateur le plus élevé).
+
+#### Bonus et pénalités
+
+D'autres bonus et pénalités de types variés peuvent exister. Si vous possédez plus d'un bonus ou d'une pénalité
+d'un même type, seul le plus important s'applique.
+
+## Termes clefs
+
+Pour lire ces règles, il peut être pratique de se familiariser avec certains termes basiques qu'on retrouve dans
+cette section. Pour un glossaire plus complet, consultez <mark>page 420</mark>.
+
+Alignement
+: L'alignement représente l'attitude de base d'une créature en ce qui concerne la moralité et l'éthique. Voir <mark>page 16</mark> pour plus de détails.
+
+Ascendance
+: Une ascendance est un large groupe d'individus auquel un personnage ou une créature appartient. L'ascendance détermine les Points de Vie de départ, les langues connues, la Vitesse et les sens, et elle peut donner accès à certains dons d'ascendance.
+
+Attaque
+: Quand une créature tente de blesser une autre créature, elle effectue un jet d'attaque contre la Classe d'Armure de la cible. La plupart des attaques utilisent l'action de Frappe (voir <mark>page 308</mark>) mais certains sorts et autres capacités sont également des attaques.
+
+Caractéristique (valeur de caractéristique)
+: Chaque créature possède six caractéristiques : Force, Dextérité, Constitution, Intelligence, Sagesse et Charisme. Ces valeurs représentent le potentiel d'une créature et ses caractéristiques de base. Plus la valeur est élevée et plus le potentiel de la créature dans ce domaine est grand. Plus d'informations sur les caractéristiques à la <mark>page 18</mark>.
+
+Classe
+: Une classe représente la principale profession d'aventurier qu'un personnage a choisi. La classe d'un personnage détermine certaines de ses capacités, lui donne un certain nombre de Points de Vie lorsqu'il gagne un nouveau niveau et lui donne accès à un groupe de dons de classes. Les classes apparaissent dans <mark>le chapitre 3</mark>.
+
+Classe d'armure (CA)
+: Toutes les créatures du jeu possèdent une Classe d'Armure. Cette valeur indique à quel point il est difficile de toucher et de blesser la créature. La CA sert généralement de Degré de Difficulté lorsqu'il s'agit de toucher une créature lors d'une attaque. Voir <mark>page 16</mark>.
+
+Compétence
+: Une compétence représente la capacité d'une créature à réaliser certaines tâches qui ne peuvent être entièrement maîtrisées qu'avec un entraînement. Les compétences citent généralement les diverses manières dont vous pouvez les utiliser, même si vous êtes non entraîné, ainsi que les utilisations qui nécessitent une formation. Plus d'informations à la <mark>page 142</mark>.
+
+Déplacement
+: Vous pouvez vous parcourir d'au plus votre Vitesse au cours d'une action de Déplacement (voir <mark>page 308</mark>).
+
+Don
+: Un don est une capacité qu'un personnage gagne grâce à son ascendcance, son background, sa classe, son entraînement général ou sa formation dans une compétence. Certains dons permettent une nouvelle action, activité, action libre ou réaction.
+
+État
+: Un effet en cours qui modifie la manière dont vous pouvez agir ou change certaines de vos capacités est un état. Les étatss proviennent généralement des sorts. Certains états qui apparaissent souvent dans le jeu sont présentés à la <mark>page 320</mark>.
+
+Frappe(r)
+: Vous pouvez utiliser l'action Frappe(r) pour porter une attaque. Elle est décrite à la <mark>page 308</mark>.
+
 Initiative
-At the start of an encounter, all creatures involved roll
-for initiative to determine the order the participants act
-during combat. The higher the result of the roll, the earlier
-a creature gets to act. Usually you’ll use Perception for
-your initiative rolls, but you might roll some kind of skill
-check instead. Learn more on page 304.
-Level
-A level is a number that measures something’s overall power.
-A character has a character level, ranging from 1 to 20,
-representing their level of experience. Monsters, hazards,
-and afflictions have levels from 0 to 20 or higher that
-measure the danger they pose. An item’s level indicates its
-power and suitability as treasure, also from 0 to 20 or higher.
-Spells have levels ranging from 1 to 10, which measure
-their power and relate to a creature’s ability to cast them.
-Nonplayer Character (NPC)
-A nonplayer character is controlled by the GM for the
-purpose of interacting with players and helping advance
-the story.
-Percept ion
-Perception measures your character’s ability to notice
-hidden objects or unusual situations, and it usually
-determines how quickly you spring into action in combat.
-Learn more on page 301.
-Player Character (PC)
-This is a character created and controlled by a player.
-Rarity
-Nearly all elements of the game are associated with a
-rarity—that is, how often they’re encountered in the
-game’s world. Rarity primarily applies to equipment and
-magic items, but spells, feats, and other mechanical aspects
-of the game also each have a specific rarity.
-The majority of such elements are commonly found
-within the world, which means that anyone can buy
-them, in the case of items, or access them, in the case of
-feats, without any trouble. The common rarity, marked in
-black, is the default.
-The uncommon rarity indicates an element available
-only to those who have been initiated into a special kind
-of training, grow up in a certain culture, or come from a
-particular part of the world. A character can’t take these
-options by default. Specific choices, such as class features
-or backgrounds, might give access to certain uncommon
-elements. The GM can grant any character access to
-uncommon options if she so chooses. The level (or type of
-element for those without levels) is marked in red.
-Elements that are rare are practically unknown or
-impossible to find in the game world. These elements
-appear in the game only if the GM chooses to include
-them. Rare elements are marked in orange.
-The unique rarity indicates an element that is one of
-a kind. This means that there’s only one in the game’s
-world. Artifacts, for example, are often unique. Unique
-elements are marked in blue (one appears in Pathfinder
-Playtest Adventure: Doomsday Dawn).
-Roleplaying
-Describing a character’s actions, often while acting from
-the perspective of the character, is called roleplaying. When
-a player speaks or describes action from the perspective of
-a character, they are “in character.”
-Saving Throw (Save)
-When a creature is subject to dangerous effects it must
-attempt to avoid with its body or mind, it can often roll
-a saving throw to mitigate the effect. You roll a saving
-throw automatically—you don’t have to use an action
-or a reaction. Unlike most types of checks, the character
-who isn’t acting rolls the d20 for a saving throw and the
-creature who is acting generates the DC.
-There are three types of saving throws: Fortitude (to
-resist poisons, diseases, and physical effects), Reflex (to
-mitigate effects that you could quickly dodge), and Will
-(to resist effects that target the mind and personality). You
-can learn more on page 17.
-Skill
-A skill represents a creature’s ability to perform certain
-tasks that require training to master. Skills typically list
-ways you can use them even if you’re untrained in the
-skill, followed by uses that require you to be trained in the
-skill. You can learn more on page 142.
-Speed
-Speed is the number of feet that a character can move
-using the Stride action (see page 310).
-Spell
-Spells are magical effects generated by using an activity to
-cast them. Spells specify what they target, their effects, the
-actions needed to cast them, and how they can be resisted.
-Learn more on page 192.
-Stride
-You can move up to your Speed with the Stride action,
-which appears on page 308.
-Strike
-You use the Strike action to make an attack. You can find
-it on page 308.
-Trait
-A trait is an indicator that a rules element obeys special
-rules or has certain features. Often, traits have rules
-attached that govern how something works. Other times,
-they are indicators of how other rules interact with an
-ability, creature, item, or other rules element that has that
-trait. An index of all the traits used in this book appears
-in Appendix A: Traits on page 414.
-Turn
-During the course of a round, each creature takes a single
-turn. A creature can typically use up to 3 actions during
-its turn. Learn more on page 304.
+: Au début d'une rencontre, toutes les créatures concernées lancent des dés pour l'initiative, ce qui détermine l'ordre dans lequel les participants agissent pendant le combat. Plus le résultat du lancer est élevé et plus tôt une créature pourra agir. Généralement, vous utiliserez la Perception pour vos jets d'initiative mais, dans certains cas, vous utiliserez un autre type de test. Plus d'informations à la <mark>page 304</mark>.
 
+Jet de sauvegarde (jds)
+: Quand une créature est la cible d'un effet dangereux qu'elle tente d'éviter grâce à ses facultés physiques ou mentales, elle peut généralement lancer un jet de sauvegarde pour en diminuer les conséquences. Vous lancez les jets de sauvegarde automatiquement, sans avoir à utiliser une action ou une réaction. Contrairement à la plupart des autres tests, le personnage qui subit (plutôt que celui qui agit) lance le d20 pour le jet de sauvegarde et la créature qui agit détermine le DD. <br/>
+Il y a trois types de jets de sauvegarde : Réflexes (pour faire face aux effets que vous pourriez éviter par une esquive rapide), Volonté (pour résister aux effets qui ciblent l'esprit et la personnalité) et Vigueur (pour résister aux poisons, maladies et effets physiques). Plus d'informations à la <mark>page 17</mark>.
+
+Maître du jeu (MJ)
+: Le Maître du Jeu est le joueur qui interprète les règles et contrôle les divers éléments de l'histoire et du monde que les joueurs explorent. La tâche d'un MJ est de proposer une partie juste et amusante ; son objectif est qu eles autres joueurs finissent par atteindre leurs objectifs mais seulement après avoir affronté de nombreux dangereux et plusieurs défis héroïques.
+
+Monde de Jeu
+: Les aventures de Pathfinder se déroulent dans le Monde de Jeu, un monde avec une riche diversité de peuples, rempli de lieux passionnants à explorer et d'ennemis mortels pour défier les héros de tous niveaux. À travers ces règles se trouvent plusieurs références au Monde de Jeu, plus spécialement dans la discussion des divinités que votre personnage peut choisir de vénérer. Vous pouvez situer vos parties dans le Monde de Jeu ou dans n'importe quel autre monde de votre choix et utiliser ces règles pour créer un cadre de jeu de votre cru.
+
+Niveau
+: Un niveau est un nombre qui indique la puissance générale de quelque chose. Un personnage a un niveau de personnage qui peut aller de 1 à 20 et qui représente son niveau d'expérience. Les monstres, les dangers et les afflictions possèdent des niveaux allant de 0 à 20 ou plus encore, qui mesurent le danger qu'ils représentent.
+
+Perception
+: La Perception mesure la capacité de votre personnage à repérer des objets cachés ou des situations inhabituelles et elle détermine généralement votre rapidité à passer à l'action lors d'un combat. Plus d'informations à la <mark>page 301</mark>.
+
+Personnage joueur
+: C'est un personnage créé et contrôlé par un joueur.
+
+Personnage non joueur (PNJ)
+: Un personnage non joueur est contrôlé par le MJ lorsqu'il intéragit avec les joueurs et aide à faire progresser l'histoire.
+
+Points de Vie
+: Les Points de Vie représentent la quantité de dégâts qu'une créature peut subir avant de tomber inconsciente et de commencer à mourir. Les dégâts diminuent les Points de Vie (à un taux de 1 PV par point de dégât) alors que les soins permettent de récupérer des Points de Vie (au même taux). Plus d'informations à la <mark>page 294</mark>.
+
+Rareté
+: Quasiment tous les éléments du jeu sont associés à une rareté indiquant si on les rencontre plus ou moins souvent dans le monde de jeu. La rareté s'applique non seulement à l'équipement et aux objets magiques mais les sorts, les dons et les autres aspects mécaniques du jeu possèdent eux aussi chacun une rareté spécifique. <br/>
+La majorité de ces choses se trouvent régulièrement à travers le monde, ce qui signifie que n'importe qui peut facilement les acheter (dans le cas d'objets) ou y avoir accès (dans le cas de dons). La rareté "commun", indiqué par la couleur noire, est la rareté par défaut. <br/>
+La rareté "peu commun" indique un élément disponible uniquement à ceux qui ont été initié avec un entraînement spécifique, ont grandi au sein d'une culture spécifique ou proviennent d'une partie spécifique du monde. Un personnage ne peut pas choisir ses options par défaut. Des choix spécifiques, comme des capacités de classe ou des backgrounds, peuvent lui donner accès à certains éléments peu communs. Le MJ peut permettre à un personnage d'accéder à des options peu communes s'il le choisit. Le niveau (ou le type, lorsqu'il n'y a pas de niveau donné) des éléments peu communs est indiqué en rouge. <br/>
+Les éléments qui sont rares sont quasiment inconnus ou impossibles à trouver dans le monde de jeu. Ces éléments apparaissent dans le jeu seulement si le MJ choisit de les inclure. Les éléments rares sont marqués en orange. <br/>
+La rareté "unique" indique un élément dont il n'existe qu'un seul exemplaire dans le monde de jeu. Les artefacts, par exemple, sont souvent uniques. Les éléments uniques sont marqués en bleu.
+
+Roleplay
+: Décrire les actions d'un personnage, souvent en prenant le point de vue du personnage, est ce qu'on appelle faire du roleplay. C'est quand un personnage parle ou décrit les actions en se mettant dans la peau du personnage.
+
+Sort
+: Les sorts sont des effets magiques engendrés en utilisant une activité consistant à les lancer. Les sorts indiquent ce qu'ils ciblent, leurs effets, les actions nécessaires à leur incantation et comment il est possible d'y résister. Plus d'inforamtions à la <mark>page 192</mark>.
+
+Tour
+: Pendant un round, chaque créature dispose d'un tour. Une créature peut généralement utiliser jusqu'à 3 actions pendant son tour. Plus d'informations à la <mark>page 304</mark>.
+
+Trait
+: Un trait indique qu'un élément de règles suit certaines règles ou possède certaines particularités. Souvent, les traits sont attachés à des règles qui précisent comment quelque chose fonctionne. Parfois, ils indiquent comment d'autres règles intéragissent avec une capacité, une créature, un objet ou un autre élément de règles qui possède ce trait. Un index de tous les traits utilisés dans ces règles se trouve <mark>ici</mark>.
+
+Vitesse
+: La vitesse est le nombre de cases qu'un personnage peut parcourir en utilisant l'action Déplacement (voir <mark>page 310</mark>).

@@ -31,14 +31,22 @@
 }
 
 mark {
-    background-color: #C00;
-    color: white;
+    color: #C00;
+    text-decoration: underline;
+
 }
 
 #markdown-toc {
     background-color: #DDD;
     padding-top: 4px;
     padding-bottom: 4px;
+}
+
+dd {
+    margin-left: .6rem;
+    padding-left: .6rem;
+    border-left: 1px solid #999;
+    border-bottom: 1px solid #999;
 }
 
 /* TABLEAUX STANDARDS */
