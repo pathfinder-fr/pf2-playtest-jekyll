@@ -49,18 +49,96 @@ table th:not(:last-child) {
 }
 */
 
+/* BLOCS POURS DONS, SORTS, ... */
+
+blockquote.bloc {
+    border: 1px solid #BBB;
+    padding: 0.5rem;
+}
+
+blockquote.bloc h3 {
+    background-color: #666;
+    color: #fff;
+    font-size: 1.3rem;
+    margin: -.5rem -.5rem 0 -.5rem;
+    padding: .3rem;
+}
+
+blockquote.bloc.action1 h3::before {
+    background-image:url("../images/action.png");
+    background-size: 34px 24px;
+    display: inline-block;
+    width: 34px;
+    height: 24px;
+    margin: 0 0.2rem 0 0;
+    padding: 0;
+    vertical-align: bottom;
+    content: "";
+}
+
+blockquote.bloc.action2 h3::before {
+    background-image:url("../images/action.png");
+    background-size: 34px 24px;
+    display: inline-block;
+    width: 68px;
+    height: 24px;
+    margin: 0 0.2rem 0 0;
+    padding: 0;
+    vertical-align: bottom;
+    content: "";
+}
+
+blockquote.bloc h3 strong {
+    float: right;
+    font-weight: normal;
+}
+
+blockquote.bloc hr {
+    margin: 0;
+    margin-top: -0.8rem;
+}
+
+blockquote.bloc :last-child {
+    margin-bottom: 0;
+}
+
+/* EN BREF */
+
+.enbref {
+    border: solid 1px #BBB;
+    padding: 0.5rem;
+}
+
+.enbref h3 {
+    font-size: 1.4rem;
+    margin: -.5rem;
+    margin-bottom: 0;
+    padding: .3rem;
+    background-color: #666;
+    color: #fff;
+}
+
+.enbref ul {
+    padding-left: 1rem;
+}
+
+.enbref :last-child {
+    margin-bottom: 0;
+}
+
+
+/* ANCIENNES RÈGLES */
+
 blockquote.spell,
 blockquote.feat,
-blockquote.trait,
-.enbref {
+blockquote.trait {
     border: solid 1px #BBB;
     padding: 0.5rem;
 }
 
 blockquote.spell h3,
 blockquote.feat  h3,
-blockquote.trait h3,
-.enbref h3 {
+blockquote.trait h3 {
     font-size: 1.4rem;
     margin: -.5rem;
     margin-bottom: 0;
@@ -71,8 +149,6 @@ blockquote.trait h3,
 
 blockquote.spell p:last-child,
 blockquote.feat  p:last-child,
-blockquote.trait p:last-child,
-.enbref p:last-child,
-.enbref ul:last-child {
+blockquote.trait p:last-child {
     margin-bottom: 0
 }

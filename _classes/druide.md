@@ -27,3 +27,31 @@ compSignature:
 
 Blah blah blah... description du druide
 
+
+
+{:.bloc .action2}
+> ### Forme élémentaire **Don 10**
+> *Druide, Ordre sauvage*  
+> **Conditions** Forme sauvage
+> 
+> ---
+> Vous pouvez lancer forme élémentaire en dépensant un point de votre réserve
+> de forme sauvage.  
+> Test avec plusieurs paragraphes.
+
+
+{:.bloc .action1}
+> ### Forme élémentaire **Don 10**
+> *Druide, Ordre sauvage*  
+> **Conditions** Forme sauvage
+> 
+> ---
+> Vous pouvez lancer forme élémentaire en dépensant un point de votre réserve
+> de forme sauvage.  
+> Test avec plusieurs paragraphes.  
+> Ça a l'air de fonctionner. On peut aussi ajouter des résultats de jds.  
+> **Échec critique** : t'es mort.  
+> **Échec** : t'es à moitié mort.  
+> **Réussite** : tu saignes juste un peu.  
+> **Réussite critique** : tu n'as rien. 
+
