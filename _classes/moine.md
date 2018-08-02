@@ -5,25 +5,23 @@ source: "Playtest Pathfinder"
 layout: classe
 
 #Partie propre aux classes
-caracteristiqueClef: Sag
-pv: 8
+caracteristiqueClef: Dex ou For
+pv: 10
 
 #Degrés: NE Ent Exp Maî Lég
 degrePerception: Ent
 degreVigueur: Exp
-degreReflexes: Ent
+degreReflexes: Exp
 degreVolonte: Exp
 
-competences: 4
-armes: "Ent pour toutes les armes simples et le cimeterre"
-armures: "Ent pour les armures légères et intermédiaires non métalliques"
-sorts: "Ent pour les jets et les DD des sorts primaires"
+competences: 3
+armes: "Ent pour toutes les attaque sans arme"
+armures: "NE pour toutes les armures"
 compSignature:
-  - "Artisanat"
-  - "Nature"
-  - "Survie"
-  - "une compétence dépendant de l'ordre"
+  - "Acrobatie"
+  - "Athlétisme"
+  - "Religion"
 ---
 
-Blah blah blah... description du druide
+La description du moine va ici
 
