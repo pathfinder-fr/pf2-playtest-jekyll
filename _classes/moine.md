@@ -25,6 +25,27 @@ compSignature:
 
 La description du moine va ici
 
+
+| Niveau | Capacité
+| 1 |
+| 1 |
+| 1 |
+| 1 |
+| 1 |
+| 1 |
+| 1 |
+| 1 |
+| 1 |
+| 1 |
+| 1 |
+| 1 |
+| 1 |
+| 1 |
+| 1 |
+| 1 |
+| 1 |
+
+
 ## Capacités de classe
 En tant que moine vous gagnez les caapcités de classe suivantes. Celles gagnées à un niveau supérieur listent le niveau à côté du nom.
 
