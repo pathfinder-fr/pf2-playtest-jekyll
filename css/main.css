@@ -35,6 +35,12 @@ mark {
     color: white;
 }
 
+#markdown-toc {
+    background-color: #DDD;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
 /* TABLEAUX STANDARDS */
 
 table tr {

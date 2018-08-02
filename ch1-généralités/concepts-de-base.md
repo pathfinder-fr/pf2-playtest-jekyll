@@ -4,6 +4,9 @@ source: "Playtest Pathfinder"
 layout: default
 ---
 
+* Liste pour toc
+{:toc}
+
 Pathfinder est un jeu riche rempli de nuances tant dans les règles que dans les histoires qu'il permet de
 raconter. Voici quelques concepts de base avec lesquels il peut être utile de vous familiariser avant de jouer
 ou de faire jouer une session de Pathfinder.
@@ -57,79 +60,114 @@ qui mène les personnages vers la base secrète d'un culte et vers une rencontre
 jouez à Pathfinder et plus vous constaterez que chacun de ces modes possède ses méthodes de jeu propres mais que passer
 de l'un à l'autre se fait sans obstacle.
 
+## Agir et les effets de ces actions
+
+La principale manière dont les joueurs et leurs adversaires influencent le monde de Pathfinder est en dépensant des
+actions et en produisant des effets. C'est tout particulièrement le cas dans le mode "rencontres", où chaque action
+compte.
+
+Dans le mode "rencontres", chaque personnage joueur gagne 3 actions et 1 réaction à utiliser chaque round et peut
+également effectuer n'importe quel nombre d'actions libres. Les éléments de règles qui décrivent les actions,
+réactions et actions libres sont accompagnés de symboles spéciaux qui sont décrits ci-dessous.
+
+### ![action](/images/1action.png) Actions
+
+Les actions commencent avec le symbole repris ci-dessus. Vous pouvez utiliser 3 actions au cours de votre tour, dans
+l'ordre que vous voulez. Quand vous utilisez une action, vous engendrez un effet. Dans certains cas, cet effet est
+automatique. Dans d'autres cas, ces actions nécessitent que vous lanciez un dé et leurs effets dépendront du
+résultat de ce jet. Vous trouverez plus d'informations sur les dés à lancer et leur importance pour le jeu dans
+la section [Lancement de dés](#lancers-de-dés).
+
+### ![réaction](/images/réaction.png) Réactions
+
+Les réactions commencent avec le symbole repris ci-dessus. Les réactions sont similaires à des actions au niveau des
+effets mais elles sont utilisées de manière différente. Vous ne pouvez utiliser qu'une seule réaction par round, et
+seulement lorsque son déclencheur se produit. Vous pouvez utiliser votre réaction pendant votre tour ou pendant le
+tour d'un autre personnage, tant que le déclencheur se produit (bien souvent, le déclencheur en question est l'action
+d'une autre créature).
+
+### ![action libre](/images/actionlibre.png) Actions libres
+
+Les actions libres commencent avec le symbole repris ci-dessus. Les actions libres utilisent les mêmes règles que les
+réactions en ce qui concerne les déclencheurs et, comme les réactions, vous pouvez les utiliser pendant votre tour
+ou pendant le tour d'un autre personnage. Contrairement aux actions et aux réactions, les actions libres ne sont pas
+limitées en nombres : vous pouvez en utiliser autant que vous voulez, pour autant que leurs déclencheurs se
+produisent. Cependant, un déclencheur donné ne peut déclencher qu'une seule action libre par personnage.
+
+### Activités
+
+Les activités sont des tâches spéciales que vous réalisez en dépensant une ou plusieurs actions. Généralement, elles
+nécessitent 2 actions ou plus et vous permettent d'accomplir plus que ce qu'une unique action permettrait. Toutes les
+tâches qui durent plus longtemps qu'un tour sont des activités. Lancer un sort est l'une des activités les plus
+communes, car la majorité des sorts nécessitent de dépenser plusieurs actions à la suite l'une de l'autre pour que
+leurs effets prennent place. Une fois que vous avez dépensé la dernière action, l'activité est terminée et
+ses effets se produisent. Quelques activités peuvent être réalisées en dépensant une action libre ou une réaction,
+comme les sorts que vous pouvez lancer en un instant.
+
+Les activités qui utilisent 2 actions commencent par le symbole ![deux actions](/images/2actions.png).
+
+Les activités qui utilisent 3 actions commencent par le symbole ![trois actions](/images/3actions.png).
+
+## Format des éléments de règles
+
+À Pathfinder, les personnages joueurs utilisent des éléments de règles pour agir ou réagir aux situations données.
+Bon nombre de ces éléments de règles sont des dons, qui sont des éléments auxquels les personnages ont accès en
+gagnant des niveaux ou lors des choix effectués pendant la création de personnage. D'autres éléments de règles sont
+des éléments plus fondamentaux du jeu auxquels tous les personnages ont accès dès le début.
+
+Quel que soit leur type, tous les éléments de règles sont présentés au format suivant. Les informations qui ne sont
+pas pertinentes sont omises, de sorte que certains éléments de règles ne possèdent pas toutes les indications reprises
+ci-dessous.
+
+Les actions, réactions et actions libres portent l'icone correspondante à côté de leur nom, pour indiquer leur type. Une
+activité qui peut être effectuée en un tour possède une icone marquant le nombre d'actions nécessaires à son
+accomplissement ; les activités qui prennent plus d'un tour ne possèdent pas d'icones. Quand un certain niveau est
+requis pour avoir accès à un élément de règle, ce niveau est indiqué à droite du nom. Les règles possèdent souvent
+un ou plusieurs traits ; pour en savoir plus sur les traits, référez-vous à [cette section](#Traits).
+
+{: .bloc .action1 }
+> ### Nom du don ou de l'action **Niveau**
+> *Traits*  
+> **Prérequis** Les caractéristiques minimales, dons, degrés de formation et autres conditions que vous devez posséder
+> avant de pouvoir accéder à cet élément sont cités ici. Le niveau de l'élément est également un prérequis.  
+> **Fréquence** Elle indique la limite au nombre d'utilisations de la capacité en une période donnée. 
+> **Coût** Les coûts matériels supplémentaires nécessaires à l'utilisation de la capacité (par exemple, dans le cas
+> des sorts nécessitant certains réactifs) sont cités ici.  
+> **Déclencheur** Les réactions et les actions libres possèdent des déclencheurs qui doivent se produire avant qu'elles
+> ne puissent être utilisées. Le déclencheur est indiqué ici.  
+> **Conditions** Parfois, vous devez posséder un objet spécifique ou être dans des circonstances spécifiques pour pouvoir
+> utiliser une capacité. Si c'est le cas, ces conditions sont citées dans cette section.
+> 
+> ---
+> 
+> Cette section décrit les effets ou les avantages d'un élément de règle. Si la règle est une action, une activité,
+> une réaction ou une action libre, on y explique ses effets ou quels dés vous devez lancer pour déterminer ses effets.
+> S'il s'agit d'un don qui modifie une action existante ou donne un effet constant, cet avantage est décrit ici.  
+> **Spécial** Toutes les particularités de la règles sont expliquées dans cette section. Généralement, cette section
+> spéciale apparaît dans les dons que vous pouvez choisir plus d'une fois et explique ce qui se produit quand vous
+> le faites.
+
+## Lancers de dés 
+
+Lancer des dés pour déterminer si un personnage réussit ou échoue lors d'une tâche est un élément fondamental du jeu.
+Pathfinder utilise plusieurs dés à cet effet ; le plus important étant le dé à 20 faces, souvent abrégé en d20. Bon
+nombre de lancers de dés à Pathfinder consistent à lancer un d20, à ajouter un bonus ou des pénalités,
+puis à indiquer au MJ le résultat pour qu'il puisse le comparer à la difficulté de la tâche. C'est ce qu'on appelle
+un test. Plus d'informations à propos des lancers de dés, des tests, des bonus, des pénalités et d'autres éléments
+du jeu se trouvent <mark>à partir de la page 290</mark> mais voici déjà quelques éléments de base.
+
+* **Plus le résultat est élevé et mieux c'est.** Votre objectif est que votre total atteigne ou dépasse le seuil de réussite, qu'on appelle Degré de Difficulté (ou DD). Le DD est un nombre choisi par le MJ si vous affrontez un élément de l'environnement. Si vous affrontez une créature, vous utilisez un DD calculé à partir de l'une de ses caractéristiques. Plus d'informations sur les Degrés de Difficulté <mark>à la page 291</mark>.
+   
+* **Obtenir un 20 est encore mieux !** Obtenir un 20 sur le dé signifie que vous effectuez une réussite critique, ce qui se traduit souvent par un effet plus important que la normale. Vous pouvez également obtenir une réussite critique si votre total dépasse le Degré de Difficulté de 10 points ou plus. Plus d'informations sur les réussites critiques à la <mark>page 292</mark>.
+
+* **Obtenir un 1 est mauvais.** Quand cela se produit, votre test est un échec critique. C'est encore pire qu'un échec normal. Vous obtenez également un échec critique si votre total est inférieur d'au moins 10 points au Degré de Difficulté. Plus d'informations sur les échecs critiques à <mark>la page 292</mark>.
 
 
 
-standards that might look a bit unusual at first. These
-standards are in place to make this book easier to read.
-Specifically, the game’s rules are set apart in this text using
-specialized capitalization or italicization.
-The names of specific statistics, skills, feats, actions,
-activities, reactions, free actions, and some other
-mechanical elements in Pathfinder are capitalized. This
-way, when you see the statement “a Strike targets Armor
-Class,” you know that both Strike and Armor Class
-are used with their rules meanings. Pathfinder also uses
-many terms that are typically expressed as abbreviations.
-If you’re ever confused about a capitalized term or an
-abbreviation, you can always turn to the glossary or index,
-found on pages 420 and 424, and look it up.
-If a word or a phrase is italicized, it is describing a spell
-or a magic item. This way, when you see the statement
-“he is protected by shield,” you know that in this case
-the word denotes the shield spell, rather than a shield, the
-item. The descriptions of spells are found in Chapter 7,
-beginning on page 203, while magic items are found in
-Chapter 12, beginning on page 380.
-This book is divided into chapters that contain information
-for creating a character, playing the game, and building the
-game’s world. Many of these chapters contain lengthy rules
-or stat blocks. Where appropriate, the explanation of the
-format of these rules or stat blocks appears before them.
-For example, the Ancestry section of Chapter 2, which
-begins on page 22, contains rules entries for each of the
-game’s six core ancestries, and an explanation of these rules
-appears at the beginning of the chapter.
-MODES OF PLAY
-There are three main modes of play in a Pathfinder game:
-encounter mode, exploration mode, and downtime mode.
-The different modes of play are discussed in more detail
-starting on page 290, but knowing the following basics
-before beginning a game is helpful.
-Encounter mode is made up of rounds, during which
-each player in turn can spend actions to advance the group’s
-goals, whether the party wants to sneak past a crowd or
-defeat some enemies. This is the most mechanically rigorous
-mode of play and works best when running combat or
-when a situation changes from moment to moment.
-Exploration mode happens when the characters
-travel significant distances, delve into mysterious new
-locations, interact with nonplayer characters outside of
-combat or simply watch for danger. In this mode, time
-moves at whatever pace the GM sees fit. Players still have
-opportunities to affect the game world, though in a much
-more free-form manner. Exploration mode takes place
-between encounters and often sets the stage for roundby-
-round play.
-Downtime takes place when the characters aren’t
-facing any active threats. Downtime typically happens
-while the characters are within the safety and security of
-a settlement, and it allows them to train, employ a trade,
-and experience life beyond their perilous adventures.
-These three modes are distinct, but the game’s flow
-between them isn’t always clear-cut. It’s possible that a
-day that starts with downtime will involve the exploration
-of the city’s sewage tunnels, leading the characters to the
-secret base of a depraved cult and then into an encounter
-with the cultists. The more you play the game, the more
-you’ll see that each mode features of its own play methods,
-but moving from mode to mode has few hard boundaries.
-ACTING AND EFFECTS
-The main way that characters and their adversaries
-affect the world of Pathfinder is by spending actions and
-producing effects. This is especially the case in encounter
-play, where every action counts.
-During encounter mode, each player character gains
+
+
+
+
 3 actions and 1 reaction to use each round. Each player
 character can also take any number of free actions. Rules
 elements that describe actions, reactions, or free actions
