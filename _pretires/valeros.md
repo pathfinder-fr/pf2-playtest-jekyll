@@ -1,5 +1,10 @@
 ---
 title: Valéros le guerrier
+
+# Spécifique aux prétirés
+classe: Guerrier
+niveau: 1
+ascendance: humain
 ---
 
 * **Ascendance** humain

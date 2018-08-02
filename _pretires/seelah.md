@@ -1,5 +1,10 @@
 ---
 title: Seelah la paladine
+
+# Spécifique aux prétirés
+classe: Paladin
+niveau: 1
+ascendance: humain
 ---
 
 * **Ascendance** humain

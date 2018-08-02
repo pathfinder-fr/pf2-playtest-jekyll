@@ -1,5 +1,10 @@
 ---
 title: Kyra la prêtresse
+
+# Spécifique aux prétirés
+classe: Prêtre
+niveau: 1
+ascendance: humain
 ---
 
 *Kyra a pas mal de sorts différents, y compris rayon de feu grâce à son domaine et plein de guérisons grâce à sa canalisation d'énergie.*

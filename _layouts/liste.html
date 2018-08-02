@@ -2,7 +2,7 @@
 layout: default
 ---
 {{ content }}
-{% assign my_collection = site[page.collection] | sort: 'title' %}
+{% assign my_collection = site[page[collection]] | sort: 'title' %}
 <table>
     <tr>
         <th>Nom</th>

@@ -41,7 +41,10 @@ collections:
     category: ['background']
   classes:
     output: true
-    category: ['class']
+    category: ['classe']
+  pretires:
+    output: true
+    category: ['prétiré']
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

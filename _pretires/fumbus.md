@@ -1,5 +1,10 @@
 ---
 title: Fumbus l'alchimiste
+
+# Spécifique aux prétirés
+classe: Alchimiste
+niveau: 1
+ascendance: gobelin
 ---
 
 * **Ascendance** gobelin

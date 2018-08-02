@@ -22,6 +22,16 @@
 .section-nav a { display: block; padding: .125rem .5rem; color: #99979c; }
 .section-nav span { display: block; padding: .125rem .5rem; color: #99979c; }
 
+#header {
+    background-image: url("../images/banner.jpg");
+    background-position: right center;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-color: #6cc6e0;
+}
+
+/* TABLEAUX STANDARDS */
+
 table tr {
     border-bottom: 1px solid #999;
 }
@@ -41,13 +51,6 @@ table tr:first-of-type {
 table tr:nth-child(2n+3) {
     background-color: #CCC;
 }
-
-/*
-table td:not(:last-child),
-table th:not(:last-child) {
-    border-right: 1px solid #777;
-}
-*/
 
 /* BLOCS POURS DONS, SORTS, ... */
 
