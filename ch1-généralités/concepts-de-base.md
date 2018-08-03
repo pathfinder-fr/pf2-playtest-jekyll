@@ -125,17 +125,22 @@ accomplissement ; les activités qui prennent plus d'un tour ne possèdent pas d
 requis pour avoir accès à un élément de règle, ce niveau est indiqué à droite du nom. Les règles possèdent souvent
 un ou plusieurs traits ; pour en savoir plus sur les traits, référez-vous à [cette section](#Traits).
 
-{: .bloc .action1 }
+{: .block .action1 }
 > {: .no_toc}
 > ### Nom du don ou de l'action **Niveau**
-> *Traits*  
+> *Traits*
+> 
 > **Prérequis** Les caractéristiques minimales, dons, degrés de formation et autres conditions que vous devez posséder
-> avant de pouvoir accéder à cet élément sont cités ici. Le niveau de l'élément est également un prérequis.  
-> **Fréquence** Elle indique la limite au nombre d'utilisations de la capacité en une période donnée. 
+> avant de pouvoir accéder à cet élément sont cités ici. Le niveau de l'élément est également un prérequis.
+> 
+> **Fréquence** Elle indique la limite au nombre d'utilisations de la capacité en une période donnée.
+> 
 > **Coût** Les coûts matériels supplémentaires nécessaires à l'utilisation de la capacité (par exemple, dans le cas
-> des sorts nécessitant certains réactifs) sont cités ici.  
+> des sorts nécessitant certains réactifs) sont cités ici.
+> 
 > **Déclencheur** Les réactions et les actions libres possèdent des déclencheurs qui doivent se produire avant qu'elles
-> ne puissent être utilisées. Le déclencheur est indiqué ici.  
+> ne puissent être utilisées. Le déclencheur est indiqué ici.
+> 
 > **Conditions** Parfois, vous devez posséder un objet spécifique ou être dans des circonstances spécifiques pour pouvoir
 > utiliser une capacité. Si c'est le cas, ces conditions sont citées dans cette section.
 > 
@@ -143,7 +148,8 @@ un ou plusieurs traits ; pour en savoir plus sur les traits, référez-vous à [
 > 
 > Cette section décrit les effets ou les avantages d'un élément de règle. Si la règle est une action, une activité,
 > une réaction ou une action libre, on y explique ses effets ou quels dés vous devez lancer pour déterminer ses effets.
-> S'il s'agit d'un don qui modifie une action existante ou donne un effet constant, cet avantage est décrit ici.  
+> S'il s'agit d'un don qui modifie une action existante ou donne un effet constant, cet avantage est décrit ici.
+> 
 > **Spécial** Toutes les particularités de la règles sont expliquées dans cette section. Généralement, cette section
 > spéciale apparaît dans les dons que vous pouvez choisir plus d'une fois et explique ce qui se produit quand vous
 > le faites.

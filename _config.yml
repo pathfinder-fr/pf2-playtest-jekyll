@@ -42,6 +42,9 @@ collections:
   pretires:
     output: true
     category: ['prétiré']
+  donsascendance:
+    output: true
+    category: ['don-ascendance']
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

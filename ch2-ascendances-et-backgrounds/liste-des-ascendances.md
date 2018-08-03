@@ -1,23 +1,31 @@
 ---
-title: Ascendances
+title: Liste des ascendances
 layout: liste
 collection: ascendances
-inclureSource: true
-colonnes:
-  - titre: "Pv bonus"
-    attribut: "pvBonus"
-  - titre: "Augmentations"
-    attribut: "augmentations"
-    estListe: true
-    separateur: ", "
-  - titre: "Pénalité"
-    attribut: "penalite"
-  - titre: "Langues"
-    attribut: "langues"
-    estListe: true
-    separateur: ", "
-  - titre: "VO"
-    attribut: "titleVO"
+includeSource: true
+cols:
+  - title: "pv"
+    info: "pv en bonus"
+    attribute: bonusHP
+  - title: "Taille"
+    attribute: size
+  - title: "Vit"
+    info: "Vitesse en cases"
+    attribute: speed
+  - title: "Accroissement"
+    attribute: abilityBoosts
+    isAList: true
+    separator: ", "
+  - title: "Réduction"
+    attribute: abilityFlaw
+  - title: "Traits"
+    attribute: traits
+    isAList: true
+    separator: ", "
+  - title: "Langues"
+    attribute: languages
+    isAList: true
+    separator: ", "
+  - title: "VO"
+    attribute: titleEN
 ---
-
-Liste des ascendances.

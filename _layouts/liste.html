@@ -7,10 +7,14 @@ layout: default
     <thead class="thead-light">
     <tr>
         <th>Nom</th>
-        {% for col in page.colonnes %}
-            <th> {{col.titre}} </th>
+        {% for col in page.cols %}
+            <th
+                {% if col.info %}
+                title=" {{col.info}} "
+                {%- endif -%}
+             > {{col.title}} </th>
         {%- endfor -%}
-        {% if page.inclureSource %}
+        {% if page.includeSource %}
             <th>Source</th>
         {%- endif -%}
     </tr>
@@ -19,24 +23,24 @@ layout: default
     {% for item in my_collection %}
         <tr>
             <td><a href="{{ item.url }}">{{ item.title }}</a></td>
-            {% for col in page.colonnes %}
+            {% for col in page.cols %}
                 <td>
-                {% if col.estMultiligne %}
-                    {% for ligne in col.lignes %}
-                        {% if ligne != col.lignes.first %}
+                {% if col.isMultiline %}
+                    {% for row in col.rows %}
+                        {% if row != col.rows.first %}
                             <br/>
                         {%- endif -%}
-                        <strong>{{ ligne.titre }}</strong> :
-                        {{ item[ligne.attribut] }}
+                        <strong>{{ row.title }}</strong> :
+                        {{ item[row.attribute] }}
                     {%- endfor -%}
-                {% elsif col.estListe %}
-                    {{ item[col.attribut] | join: col.separateur }}
+                {% elsif col.isAList %}
+                    {{ item[col.attribute] | join: col.separator }}
                 {% else %}
-                    {{ item[col.attribut] }}
+                    {{ item[col.attribute] }}
                 {%- endif -%}
                 </td>
             {%- endfor -%}
-            {% if page.inclureSource %}
+            {% if page.includeSource %}
                 <td> {{item.source}} </td>
             {%- endif -%}
         </tr>

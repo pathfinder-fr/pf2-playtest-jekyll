@@ -78,12 +78,12 @@ table tr:nth-child(2n+3) {
 
 /* BLOCS POURS DONS, SORTS, ... */
 
-blockquote.bloc {
+blockquote.block {
     border: 1px solid #BBB;
     padding: 0.5rem;
 }
 
-blockquote.bloc h3 {
+blockquote.block h3 {
     background-color: #666;
     color: #fff;
     font-size: 1.3rem;
@@ -91,42 +91,22 @@ blockquote.bloc h3 {
     padding: .3rem;
 }
 
-blockquote.bloc.action1 h3::before {
-    background-image:url("../images/action.png");
-    background-size: 34px 24px;
-    display: inline-block;
-    width: 34px;
-    height: 24px;
-    margin: 0 0.2rem 0 0;
-    padding: 0;
+blockquote.block .action-icon {
     vertical-align: bottom;
-    content: "";
 }
 
-blockquote.bloc.action2 h3::before {
-    background-image:url("../images/action.png");
-    background-size: 34px 24px;
-    display: inline-block;
-    width: 68px;
-    height: 24px;
-    margin: 0 0.2rem 0 0;
-    padding: 0;
-    vertical-align: bottom;
-    content: "";
-}
-
-blockquote.bloc h3 strong {
+blockquote.block h3 strong {
     float: right;
     font-weight: normal;
 }
 
-blockquote.bloc hr {
-    margin: 0;
-    margin-top: -0.8rem;
+blockquote.block p,
+blockquote.block hr {
+    margin: 2px 0;
 }
 
-blockquote.bloc :last-child {
-    margin-bottom: 0;
+blockquote.block .traits {
+    font-variant: small-caps;
 }
 
 /* EN BREF */

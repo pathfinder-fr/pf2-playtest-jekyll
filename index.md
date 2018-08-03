@@ -14,6 +14,7 @@ layout: default
 
 * <a href="{{ '/ch2-ascendances-et-backgrounds/ascendances.html' | relative_url }}">Ascendances</a>
 * <a href="{{ '/ch2-ascendances-et-backgrounds/liste-des-ascendances.html' | relative_url }}">Liste des ascendances</a>
+* <a href="{{ '/ch2-ascendances-et-backgrounds/liste-des-dons-ascendance.html' | relative_url }}">Liste des dons d'ascendance</a>
 * <a href="{{ '/ch2-ascendances-et-backgrounds/backgrounds.html' | relative_url }}">Backgrounds</a>
 * <a href="{{ '/ch2-ascendances-et-backgrounds/langages.html' | relative_url }}">Langages</a>
 

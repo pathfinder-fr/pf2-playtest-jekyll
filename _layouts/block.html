@@ -1,0 +1,73 @@
+---
+layout: default
+---
+<blockquote class="block">
+    <h3>
+        {% case page.action %}
+        {% when '1' %}
+            <img class="action-icon" src="../images/1action.png"
+            title="1 action" />
+        {% when '2' %}
+            <img class="action-icon" src="../images/2actions.png"
+            title="2 actions" />
+        {% when '3' %}
+            <img class="action-icon" src="../images/3actions.png"
+            title="3 actions" />
+        {% when 'R' %}
+            <img class="action-icon" src="../images/réaction.png"
+            title="réaction" />
+        {% when 'L' %}
+            <img class="action-icon" src="../images/actionlibre.png"
+            title="action libre" />
+        {%- endcase -%}
+        {{ page.title }}
+        <strong>
+            {{ page.type }} {{ page.level }}
+            {% case page.rarity %}
+            {% when 'PC' %}
+              (Peu commun)
+            {% when 'R' %}
+              (Rare)
+            {% when 'Uµ' %}
+              (Unique)
+            {%- endcase -%}
+        </strong>
+    </h3>
+    {% if page.traits %}
+        <p class="traits">{{ page.traits | sort | join: ", " }}</p>
+    {%- endif -%}
+    {% if page.prerequisites %}
+        <p>
+            <strong>Prérequis</strong>
+            {{ page.prerequisites }}<br/>
+        </p>
+    {%- endif -%}
+    {% if page.frequency %}
+        <p>
+            <strong>Fréquence</strong>
+            {{ page.frequency }}<br/>
+        </p>
+    {%- endif -%}
+    {% if page.cost %}
+        <p>
+            <strong>Coût</strong>
+            {{ page.cost }}<br/>
+        </p>
+    {%- endif -%}
+    {% if page.trigger %}
+        <p>
+                <strong>Déclencheur</strong>
+            {{ page.trigger }}<br/>
+        </p>
+    {%- endif -%}
+    {% if page.requirements %}
+        <p>
+            <strong>Conditions</strong>
+            {{ page.requirements }}<br/>
+        </p>
+    {%- endif -%}
+    {% if page.traits or page.prerequisites or page.frequency or page.cost or page.trigger or page.requirements %}
+        <hr/>
+    {%- endif -%}
+    {{content}}
+</blockquote>
