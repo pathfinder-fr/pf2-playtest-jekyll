@@ -3,7 +3,8 @@ layout: default
 ---
 {{ content }}
 {% assign my_collection = site[page[collection]] | sort: 'title' %}
-<table>
+<table class="table table-sm">
+    <thead class="thead-light">
     <tr>
         <th>Nom</th>
         {% for col in page.colonnes %}
@@ -13,6 +14,8 @@ layout: default
             <th>Source</th>
         {%- endif -%}
     </tr>
+    </thead>
+    <tbody>
     {% for item in my_collection %}
         <tr>
             <td><a href="{{ item.url }}">{{ item.title }}</a></td>
@@ -38,4 +41,5 @@ layout: default
             {%- endif -%}
         </tr>
     {%- endfor -%}
+</tbody>
 </table>

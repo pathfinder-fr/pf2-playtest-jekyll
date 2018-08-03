@@ -50,6 +50,9 @@ dd {
 }
 
 /* TABLEAUX STANDARDS */
+/*
+// inutile remplacé par les tableaux standards bootstrap
+// https://getbootstrap.com/docs/4.1/content/tables/
 
 table tr {
     border-bottom: 1px solid #999;
@@ -70,6 +73,8 @@ table tr:first-of-type {
 table tr:nth-child(2n+3) {
     background-color: #CCC;
 }
+
+*/
 
 /* BLOCS POURS DONS, SORTS, ... */
 
