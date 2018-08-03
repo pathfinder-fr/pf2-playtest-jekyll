@@ -1,36 +1,14 @@
-<!DOCTYPE html>
-<html>
-  {%- include head.html -%}
-  <body>
-    {%- include header.html -%}
-    <main class="container-fluid">
-      <div class="row">
-        <div class="col-sm-3">
-          {%- include sidebar.html -%}
-        </div>
-        <div class="col-sm-9">
-          {% unless page.hidetitle %}{% if page.title %}
-          <h1 class="page-title">{{ page.title }}</h1>
-          {% endif %}{% endunless %}
-          <div class="enbref">
-            <h3>En bref...</h3>
-            <ul>
-                <li>Points de vie en bonus : {{page.pvBonus}}</li>
-                <li>Vitesse : {{page.vitesseCases}} cases</li>
-                <li>Langues : {{page.langues | join: ", "}}</li>
-                <li>Augmentations : {{page.augmentations | join: ", "}}</li>
-                <li>Pénalité : {{page.penalite}}</li>
-            </ul>
-          </div>
-          {{ content }}
-          <hr />
-          <a href="https://gitlab.com/pathfinder-fr/pf2-jekyll/blob/master/{{ page.path }}">Modifier</a>
-        </div>
-      </div>
-    </main>
-    {%- include footer.html -%}    
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-  </body>
-</html>
+---
+layout: default
+---
+<div class="enbref">
+  <h3>En bref...</h3>
+  <ul>
+      <li>Points de vie en bonus : {{page.pvBonus}}</li>
+      <li>Vitesse : {{page.vitesseCases}} cases</li>
+      <li>Langues : {{page.langues | join: ", "}}</li>
+      <li>Augmentations : {{page.augmentations | join: ", "}}</li>
+      <li>Pénalité : {{page.penalite}}</li>
+  </ul>
+</div>
+{{ content }}
