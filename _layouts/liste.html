@@ -35,6 +35,17 @@ layout: default
                     {%- endfor -%}
                 {% elsif col.isAList %}
                     {{ item[col.attribute] | join: col.separator }}
+                {% elsif col.isALink %}
+                    <a href="
+                        {% if item[col.fileName] %}
+                            {{ col.urlPrefix }}{{ item[col.link] }}{{ col.urlSuffix }}
+                        {% else %}
+                            {% assign file = item[col.pageName] | replace: " ", "-" | downcase %}
+                            {{ col.urlPrefix }}{{ file }}{{ col.urlSuffix }}
+                        {%- endif -%}
+                    ">
+                        {{ item[col.attribute] }}
+                    </a>
                 {% else %}
                     {{ item[col.attribute] }}
                 {%- endif -%}

@@ -36,6 +36,9 @@ collections:
   ascendances:
     output: true
     category: ['ascendance']
+  backgrounds:
+    output: true
+    category: ['background']
   classes:
     output: true
     category: ['classe']
@@ -44,7 +47,10 @@ collections:
     category: ['prétiré']
   donsascendance:
     output: true
-    category: ['don-ascendance']
+    category: ['don', 'don-ascendance']
+  donscompetence:
+    output: true
+    category: ['don', 'don-competence']
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
