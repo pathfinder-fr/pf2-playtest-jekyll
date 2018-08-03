@@ -26,24 +26,28 @@ compSignature:
 La description du moine va ici
 
 
-| Niveau | Capacité
-| 1 |
-| 1 |
-| 1 |
-| 1 |
-| 1 |
-| 1 |
-| 1 |
-| 1 |
-| 1 |
-| 1 |
-| 1 |
-| 1 |
-| 1 |
-| 1 |
-| 1 |
-| 1 |
-| 1 |
+| Niveau | Capacité            | Mouvement incroyable
+| ------ | ------------------- | -------------------------------------
+|      1 | [Don d'ascendance](moine.md#dons-dascendance-5), Background, [Déluge de coups](moine.md#déluge-de-coups), [Expertise gracieuse](moine.md#expertise-gracieuse), Formations initiales, [Don de moine](moine.md#dons-de-moine), [Poing puissant](moine.md#poing-puissant) | +0 case
+|      2 | [Don de moine](moine.md#dons-de-moine), [Don de compétence](moine.md#dons-de-compétence-2) | +0 case
+|      3 | [Don général](moine.md#dons-généraux-3), [Mouvement incroyable](moine.md#mouvement-incroyable-3), [Frappes magiques](moine.md#frappes-magiques-3), [Amélioration de compétence](moine.md#amélioration-de-compétences-3) | +2 cases
+|      4 | [Don de moine](moine.md#dons-de-moine), [Don de compétence](moine.md#dons-de-compétence-2) | +2 cases
+|      5 | [Accroissement de caractéristique](moine.md#accroissement-de-caractéristiques-5), [Don d'ascendance](moine.md#dons-dascendance-5), [Frappes métalliques](moine.md#frappes-métalliques-5), [Amélioration de compétence](moine.md#amélioration-de-compétences-3) | +2 cases
+|      6 | [Don de moine](moine.md#dons-de-moine), [Don de compétence](moine.md#dons-de-compétence-2) | +3 cases
+|      7 | [Don général](moine.md#dons-généraux-3), [Voie de la perfection](moine.md#voie-de-la-perfection-7), [Amélioration de compétence](moine.md#amélioration-de-compétences-3) | +3 cases
+|      8 | [Don de moine](moine.md#dons-de-moine), [Don de compétence](moine.md#dons-de-compétence-2) | +3 cases
+|      9 | [Don d'ascendance](moine.md#dons-dascendance-5), [Déluge violent](moine.md#déluge-violent-9), [Amélioration de compétence](moine.md#amélioration-de-compétences-3) | +4 cases
+|     10 | [Accroissement de caractéristique](moine.md#accroissement-de-caractéristiques-5), [Don de moine](moine.md#dons-de-moine), [Don de compétence](moine.md#dons-de-compétence-2) | +4 cases
+|     11 | [Don général](moine.md#dons-généraux-3), [Seconde voie de la perfection](moine.md#seconde-voie-de-la-perfection-11), [Amélioration de compétence](moine.md#amélioration-de-compétences-3) | +4 cases
+|     12 | [Don de moine](moine.md#dons-de-moine), [Don de compétence](moine.md#dons-de-compétence-2) | +5 cases
+|     13 | [Don d'ascendance](moine.md#dons-dascendance-5), [Maîtrise gracieuse](moine.md#maîtrise-gracieuse-13), [Amélioration de compétence](moine.md#amélioration-de-compétences-3), [Maître sans armes](moine.md#maître-sans-armes-13) | +5 cases
+|     14 | [Don de moine](moine.md#dons-de-moine), [Don de compétence](moine.md#dons-de-compétence-2) | +5 cases
+|     15 | [Accroissement de caractéristique](moine.md#accroissement-de-caractéristiques-5), [Don général](moine.md#dons-généraux-3), [Amélioration de compétence](moine.md#amélioration-de-compétences-3), [Troisième voie de la perfection](moine.md#troisième-voie-de-la-perfection-15) | +6 cases
+|     16 | [Don de moine](moine.md#dons-de-moine), [Don de compétence](moine.md#dons-de-compétence-2) | +6 cases
+|     17 | [Frappes d'adamantine](moine.md#frappes-dadamantine-17), [Don d'ascendance](moine.md#dons-dascendance-5), [Légende gracieuse](moine.md#légende-gracieuse-17), [Amélioration de compétence](moine.md#amélioration-de-compétences-3) | +6 cases
+|     18 | [Don de moine](moine.md#dons-de-moine), [Don de compétence](moine.md#dons-de-compétence-2) | +7 cases
+|     19 | [Don général](moine.md#dons-généraux-3), [Forme parfaite](moine.md#forme-parfaite-19), [Amélioration de compétence](moine.md#amélioration-de-compétences-3) | +7 cases
+|     20 | [Accroissement de caractéristique](moine.md#accroissement-de-caractéristiques-5), [Don de moine](moine.md#dons-de-moine), [Don de compétence](moine.md#dons-de-compétence-2) | +7 cases
 
 
 ## Capacités de classe
@@ -63,8 +67,8 @@ Vous pouvez attaquer rapidement avec vos poings. Vous gagnez l'action Déluge de
 ### Expertise gracieuse
 Votre degré de formation en défense sans armure passe à Exp.
 
-### Powerful Fist
-Quand vous frappez avec le poing vous infligez 1d6 de dégâts au lieu de 1d4. Vous utilisez votre formation normale pour attaquer en léthal avec une attaque sans arme non-léthale.
+### Poing puissant
+Quand vous frappez avec le poing vous infligez 1d6 de dégâts au lieu de 1d4. Vous utilisez votre formation normale pour attaquer en létal avec une attaque non-létale sans arme.
 
 ### Dons de moine
 Au niveau 1 et tout les niveaux paires par le suite, vous gagnez un don de moine.
@@ -90,7 +94,7 @@ Au niveau 5 et tout les 5 niveaux par la suite, vous gagnez 4 accroissements de 
 ### Dons d'ascendance (5)
 En plus du don d'ascendance avec lequel vous avez commencé, vous en gagnez un supplémentaire au niveau 5 et tout les 4 niveaux suivants. 
 
-### Frappes métaliques (5)
+### Frappes métalliques (5)
 Vos attaques sans armes sont traitées comme du fer froid et de l'argent.
 
 ### Voie de la perfection (7)
@@ -111,7 +115,7 @@ Votre degré de formation en attaques sans armes passe à Maî.
 ### Troisième voie de la perfection (15)
 Choisissez un jet de sauvegarde parmis Vigueur, Réflexes ou Volonté. Si votre degré de formation pour le jet de sauvegarde choisi est de Maî ce dernier passe à Lég. Sinon, il passe à Maî.
 
-### Frappe d'adamantine (17)
+### Frappes d'adamantine (17)
 Vos attaques sans armes sont traitées comme de l'Adamantine.
 
 ### Légende gracieuse (17)
