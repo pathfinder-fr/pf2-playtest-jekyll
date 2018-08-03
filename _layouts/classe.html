@@ -1,28 +1,45 @@
 ---
 layout: default
 ---
-<div class="enbref">
-  <h3>En bref...</h3>
-  <ul>
-      <li><strong>Caractéristique principale</strong> : {{page.caracteristiqueClef}}</li>
-      <li><strong>Points de vie</strong> : {{page.pv}} plus votre modificateur de Constitution</li>
-      <li><strong>Formation</strong></li>
-      <ul>
-          <li><strong>Perception</strong> : {{page.degrePerception}}</li>
-          <li><strong>Réflexes</strong> : {{page.degreReflexes}}</li>
-          <li><strong>Vigueur</strong> : {{page.degreVigueur}}</li>
-          <li><strong>Volonté</strong> : {{page.degreVolonte}}</li>
-      </ul>
-      <li><strong>Compétences</strong></li>
-      <ul>
-          <li>Entraîné dans ({{page.competences}} + modificateur d'Intelligence) compétences</li>
-          <li>Compétences de signature : {{page.compSignature | join: ", "}}</li>
-      </ul>
-      <li><strong>Armes</strong> : {{page.armes}}</li>
-      <li><strong>Armures</strong> : {{page.armures}}</li>
-      {% if page.sorts %}
-          <li><strong>Sorts</strong> : {{page.sorts}}</li>
-      {%- endif -%}
-  </ul>
+<div class="summary">
+    <h3>En bref...</h3>
+    <ul>
+        <li>
+            <strong>Caractéristique principale</strong> : {{page.keyAbility}}
+            </li>
+        <li>
+            <strong>Points de vie</strong> : {{page.hp}} plus votre modificateur de Constitution
+        </li>
+        <li>
+            <strong>Perception</strong> : {{page.profPerception}}
+        </li>
+
+        <li>
+            <strong>Jets de sauvegarde</strong>
+        </li>
+        <ul>
+            <li><strong>Réflexes</strong> : {{page.profReflex}}</li>
+            <li><strong>Vigueur</strong> : {{page.profFortitude}}</li>
+            <li><strong>Volonté</strong> : {{page.profWill}}</li>
+        </ul>
+        <li>
+            <strong>Compétences</strong>
+        </li>
+        <ul>
+            <li>Entraîné dans ({{page.skills}} + modificateur d'Intelligence) compétences</li>
+            <li>Compétences de signature : {{page.signatureSkills | join: ", "}}</li>
+        </ul>
+        <li>
+            <strong>Armes</strong> : {{page.weapons}}
+        </li>
+        <li>
+            <strong>Armures</strong> : {{page.armor}}
+        </li>
+        {% if page.spells %}
+            <li>
+                <strong>Sorts</strong> : {{page.spells}}
+            </li>
+        {%- endif -%}
+    </ul>
 </div>
 {{ content }}

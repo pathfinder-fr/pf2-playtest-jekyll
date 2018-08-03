@@ -51,6 +51,9 @@ collections:
   donscompetence:
     output: true
     category: ['don', 'don-competence']
+  donsclasse:
+    output: true
+    category: ['don', 'don-classe']
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

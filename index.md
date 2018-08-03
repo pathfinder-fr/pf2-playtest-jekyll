@@ -22,7 +22,7 @@ layout: default
 
 * <a href="{{ '/ch3-classes/classes.html' | relative_url }}">Règles générales</a>
 * <a href="{{ '/ch3-classes/liste-des-classes.html' | relative_url }}">Liste des classes</a>
-
+* <a href="{{ '/ch3-classes/liste-des-dons-classe.html' | relative_url }}">Liste des dons de classe</a>
 
 #### Appendices
 

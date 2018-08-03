@@ -20,6 +20,7 @@ abilityFlaw: Cha
 languages:
   - commun
   - nain
+bonusLanguages: "draconique, gnoll, gnome, halfling, nain ou orque"
 traits:
   - nain
   - humanoïde

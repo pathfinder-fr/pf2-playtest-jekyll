@@ -49,34 +49,28 @@ dd {
     border-bottom: 1px solid #999;
 }
 
-/* TABLEAUX STANDARDS */
-/*
-// inutile remplacé par les tableaux standards bootstrap
-// https://getbootstrap.com/docs/4.1/content/tables/
-
-table tr {
-    border-bottom: 1px solid #999;
-}
-
-table th,
-table td {
-    padding: 1px 6px 1px 6px;
-}
-
-table tr:first-of-type {
-    background-color: #666;
-    color: #ddd;
-    font-weight: bold;
-    border-bottom: 1px solid black;
-}
-
-table tr:nth-child(2n+3) {
-    background-color: #CCC;
-}
-
-*/
-
 /* BLOCS POURS DONS, SORTS, ... */
+
+blockquote.block.action1 h3::before {
+    content: url("../images/1action.png");
+}
+
+blockquote.block.action2 h3::before {
+    content: url("../images/3actions.png");
+}
+
+blockquote.block.action3 h3::before {
+    content: url("../images/3actions.png");
+}
+
+blockquote.block.reaction h3::before {
+    content: url("../images/réaction.png");
+}
+
+blockquote.block.actionlibre h3::before {
+    content: url("../images/actionlibre.png");
+}
+
 
 blockquote.block {
     border: 1px solid #BBB;
@@ -111,12 +105,12 @@ blockquote.block .traits {
 
 /* EN BREF */
 
-.enbref {
+.summary {
     border: solid 1px #BBB;
     padding: 0.5rem;
 }
 
-.enbref h3 {
+.summary h3 {
     font-size: 1.4rem;
     margin: -.5rem;
     margin-bottom: 0;
@@ -125,17 +119,18 @@ blockquote.block .traits {
     color: #fff;
 }
 
-.enbref ul {
+.summary ul {
     padding-left: 1rem;
 }
 
-.enbref :last-child {
+.summary :last-child {
     margin-bottom: 0;
 }
 
 
 /* ANCIENNES RÈGLES */
 
+/*
 blockquote.spell,
 blockquote.feat,
 blockquote.trait {
@@ -159,3 +154,4 @@ blockquote.feat  p:last-child,
 blockquote.trait p:last-child {
     margin-bottom: 0
 }
+*/

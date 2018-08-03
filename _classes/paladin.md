@@ -1,29 +1,28 @@
 ---
 title: Paladin
-titleVO: Paladin
+titleEN: Paladin
 source: "Playtest Pathfinder"
 layout: classe
 
-#Partie propre aux classes
-caracteristiqueClef: Sag
-pv: 8
+#PARTIE PROPRE AUX CLASSES
+
+keyAbility: Int
+hp: 8
 
 #Degrés: NE Ent Exp Maî Lég
-degrePerception: Ent
-degreVigueur: Exp
-degreReflexes: Ent
-degreVolonte: Exp
+profPerception: Ent
+profFortitude: Exp
+profReflex: Exp
+profWill: Ent
 
-competences: 4
-armes: "Ent pour toutes les armes simples et le cimeterre"
-armures: "Ent pour les armures légères et intermédiaires non métalliques"
-sorts: "Ent pour les jets et les DD des sorts primaires"
-compSignature:
-  - "Artisanat"
-  - "Nature"
-  - "Survie"
-  - "une compétence dépendant de l'ordre"
+skills: 2
+weapons: "Ent pour toutes les armes simples, Ent pour les bombes alchimiques"
+armor: "Ent pour les armures légères"
+spells:
+signatureSkills:
+  - Arcanes
+  - Artisanat
+  - Médecine
 ---
 
-Blah blah blah... description du druide
-
+Blah blah blah... description
