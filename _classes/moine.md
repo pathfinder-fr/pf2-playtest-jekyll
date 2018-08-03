@@ -23,7 +23,7 @@ compSignature:
   - "Religion"
 ---
 
-La description du moine va ici
+*La force du poing découle de la puissance du corps et de l'esprit. Vous cherchez à atteindre la perfection- à forger vôtre corps en un outil de perfection et votre esprit en une forteresse de loi et de sagesse. Vous êtes un redoutable combattant reconnu pour ses prouesses martiales et sa capacité à adopter des postures en fonction du déroulement du combat. Même si le défi de maîtriser différents styles de combat et de vaincre de puissants ennemis vous pousse à atteindre des sommets, vous aimez égalemment méditer et découvrir de nouvelles voies pour atteindre la paix et l'illumination.*
 
 
 | Niveau | Capacité            | Mouvement incroyable
