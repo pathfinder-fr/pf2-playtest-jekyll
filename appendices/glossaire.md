@@ -53,7 +53,7 @@ Une aura affecte automatiquement les créatures ou les objets qui se trouvent da
 Un background représente une profession ou un autre aspect significatif de votre vie avant le moment où vous êtes devenu aventurier. Les backgrounds vous donnent des accroissements de caractéristiques, des compétences de signature et des dons. Voir [Backgrounds](/ch2-ascendances-et-backgrounds/backgrounds.html).
 
 #### Bonus
-Les bonus sont des nombres positifs qui sont ajoutés à une valeur ou à un lancer de dés. Il y a trois types de bonus : les bonus d'objet, les bonus conditionnels et les bonus de circonstances. Si vous gagnez plusieurs bonus d'un même type, vous n'appliquez que le bonus le plus élevé et ignorez les autres. Voir <mark>page 291</mark>. Voir aussi [modificateur](#modificateur)] et [pénalité](#pénalité) pour d'autres nombres qui peuvent modifier vos résultats.
+Les bonus sont des nombres positifs qui sont ajoutés à une valeur ou à un lancer de dés. Il y a trois types de bonus : les bonus d'objet, les bonus de condition et les bonus de circonstances. Si vous gagnez plusieurs bonus d'un même type, vous n'appliquez que le bonus le plus élevé et ignorez les autres. Voir <mark>page 291</mark>. Voir aussi [modificateur](#modificateur)] et [pénalité](#pénalité) pour d'autres nombres qui peuvent modifier vos résultats.
 
 #### Capacité
 Une capacité est une chose que vous pouvez faire et qui constitue une exception aux règles générales du jeu. On utilise souvent "capacité" comme un terme général désignant des règles qui peuvent provenir d'une source qu'on ne précise pas ; ainsi, "une capacité qui donne un bonus aux jets de dégâts" pourrait être un don, un sort, une capacité de classe etc.
@@ -89,6 +89,9 @@ Une compétence représente la capacité d'une créature à réaliser certaines 
 Vous pouvez atteindre les degrés de formation Maître et Légendaire dans vos compétences de signature, qui sont généralement octroyées par votre classe.
 
 #### Condition
+Un effet non instantané qui change la manière dont vous pouvez agir ou qui modifie certaines de vos valeurs numériques est une condition. Les conditions sont généralement causées par des sorts. Certaines conditions revenant régulièrement en jeu sont appelées des conditions de base et décrites <mark>page 320</mark>.
+
+#### Conditions
 Vous devez remplir les conditions d'une action, d'un don, d'un sort, d'un objet ou d'une autre capacité avant de pouvoir l'utiliser.
 
 #### Constitution (Con)
@@ -151,9 +154,6 @@ Un effet est le résultat d'une capacité, mais l'effet d'une capacité donnée 
 #### Encombrement
 L'encombrement est une mesure de la quantité de choses que vous portez. Si vous portez un Encombrement total égal ou supérieur à 5 plus votre modificateur de Force, vous êtes encombré. Vous ne pouvez pas porter un Encombrement qui dépasse 10 plus votre modificateur de Force. Plus aux <mark>pages 174-175</mark>.
 
-#### État
-Un effet non instantané qui change la manière dont vous pouvez agir ou qui modifie certaines de vos valeurs numériques est un état. Les états sont généralement causés par des sorts. Certains états revenant régulièrement en jeu sont appelées des états de base et décrits <mark>page 320</mark>.
-
 #### Exploration
 En mode "exploration", le jeu est plus libre, avec des tactiques abstraites plutôt qu'un compte précis action par action. Le mode "exploration" est utilisé pour le voyage et l'exploration, quand le temps qui passe dans le monde de jeu a moins d'importance et défile plus vite. Plus à la <mark>page 316</mark>.
 
@@ -213,7 +213,7 @@ La magie occulte est une tradition qui combine les essences spirituelles et ment
 La Perception mesure les capacités de votre personnage à apercevoir les objets et ustensiles cachés. Elle détermine également la rapidité avec laquelle vous percevez le danger et agissez lorsqu'une bataille se déclenche. Votre modificateur de Perception est égal à votre modificateur de formation de Perception plus votre modificateur de Sagesse, plus tout autre bonus et pénalité qui s'appliquerait. Voir <mark>page 301</mark>.
 
 #### Pénalité
-Les pénalités sont des valeurs négatives qui réduisent un lancer ou une valeur. Il existe trois types de pénalités : les pénalités conditionnelles, les pénalités de circonstances et (plus rarement) les pénalités d'objet. Si vous subissez plusieurs pénalités d'un même type, vous n'appliquez que la pire et ignorez les autres. Certaines pénalités que vous recevez pour représenter les malus inhérents à vos choix, comme la pénalité d'attaques multiples, ne sont pas typées ; dans ce cas-là, elles sont cumulatives et toutes s'appliquent. Voir <mark>page 291</mark>. Voir aussi [bonus](#bonus) et [modificateur](#modificateur)] pour d'autres nombres qui peuvent modifier vos résultats.
+Les pénalités sont des valeurs négatives qui réduisent un lancer ou une valeur. Il existe trois types de pénalités : les pénalités de condition, les pénalités de circonstances et (plus rarement) les pénalités d'objet. Si vous subissez plusieurs pénalités d'un même type, vous n'appliquez que la pire et ignorez les autres. Certaines pénalités que vous recevez pour représenter les malus inhérents à vos choix, comme la pénalité d'attaques multiples, ne sont pas typées ; dans ce cas-là, elles sont cumulatives et toutes s'appliquent. Voir <mark>page 291</mark>. Voir aussi [bonus](#bonus) et [modificateur](#modificateur)] pour d'autres nombres qui peuvent modifier vos résultats.
 
 #### Pénalité d'attaques multiples
 Quand vous effectuez plus d'une action d'attaque au cours d'un round, vous subissez une pénalité aux jets d'attaques après le premier. La pénalité d'attaques multiples est de -5 sur votre seconde attaque et de -10 sur toutes les attaques suivantes. Plus d'informations à la <mark>page 178</mark>.

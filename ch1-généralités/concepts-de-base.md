@@ -242,6 +242,9 @@ Classe
 Classe d'armure (CA)
 : Toutes les créatures du jeu possèdent une Classe d'armure. Cette valeur indique à quel point il est difficile de toucher et de blesser la créature. La CA sert généralement de Degré de difficulté lorsqu'il s'agit de toucher une créature lors d'une attaque. Voir <mark>page 16</mark>.
 
+Condition
+: Un effet en cours qui modifie la manière dont vous pouvez agir ou change certaines de vos capacités est une condition. Les conditions proviennent généralement des sorts. Certaines conditions qui apparaissent souvent dans le jeu sont présentées à la <mark>page 320</mark>.
+
 Compétence
 : Une compétence représente la capacité d'une créature à réaliser certaines tâches qui ne peuvent être entièrement maîtrisées qu'avec un entraînement. Les compétences citent généralement les diverses manières dont vous pouvez les utiliser, même si vous êtes non entraîné, ainsi que les utilisations qui nécessitent une formation. Plus d'informations à la <mark>page 142</mark>.
 
@@ -250,9 +253,6 @@ Déplacement
 
 Don
 : Un don est une capacité qu'un personnage gagne grâce à son ascendance, son background, sa classe, son entraînement général ou sa formation dans une compétence. Certains dons permettent une nouvelle action, activité, action libre ou réaction.
-
-État
-: Un effet en cours qui modifie la manière dont vous pouvez agir ou change certaines de vos capacités est un état. Les états proviennent généralement des sorts. Certains états qui apparaissent souvent dans le jeu sont présentés à la <mark>page 320</mark>.
 
 Frappe(r)
 : Vous pouvez utiliser l'action Frappe(r) pour porter une attaque. Elle est décrite à la <mark>page 308</mark>.

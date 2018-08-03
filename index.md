@@ -24,6 +24,50 @@ layout: default
 * <a href="{{ '/ch3-classes/liste-des-classes.html' | relative_url }}">Liste des classes</a>
 * <a href="{{ '/ch3-classes/liste-des-dons-classe.html' | relative_url }}">Liste des dons de classe</a>
 
+#### Compétences
+
+* <a href="{{ '/ch4-compétences/compétences.html' | relative_url }}">Règles générales</a>
+* <a href="{{ '/ch4-compétences/acrobaties.html' | relative_url }}">Acrobaties</a>
+* <a href="{{ '/ch4-compétences/arcanes.html' | relative_url }}">Arcanes</a>
+* <a href="{{ '/ch4-compétences/art-du-voleur.html' | relative_url }}">Art du voleur</a>
+* <a href="{{ '/ch4-compétences/artisanat.html' | relative_url }}">Artisanat</a>
+* <a href="{{ '/ch4-compétences/athlétisme.html' | relative_url }}">Athlétisme</a>
+* <a href="{{ '/ch4-compétences/diplomatie.html' | relative_url }}">Diplomatie</a>
+* <a href="{{ '/ch4-compétences/discrétion.html' | relative_url }}">Discrétion</a>
+* <a href="{{ '/ch4-compétences/intimidation.html' | relative_url }}">Intimidation</a>
+* <a href="{{ '/ch4-compétences/médecine.html' | relative_url }}">Médecine</a>
+* <a href="{{ '/ch4-compétences/nature.html' | relative_url }}">Nature</a>
+* <a href="{{ '/ch4-compétences/occultisme.html' | relative_url }}">Occultisme</a>
+* <a href="{{ '/ch4-compétences/religion.html' | relative_url }}">Religion</a>
+* <a href="{{ '/ch4-compétences/représentation.html' | relative_url }}">Représentation</a>
+* <a href="{{ '/ch4-compétences/savoir.html' | relative_url }}">Savoir</a>
+* <a href="{{ '/ch4-compétences/société.html' | relative_url }}">Société</a>
+* <a href="{{ '/ch4-compétences/survie.html' | relative_url }}">Survie</a>
+* <a href="{{ '/ch4-compétences/tromperie.html' | relative_url }}">Tromperie</a>
+
+#### Jouer à Pathfinder
+
+* <a href="{{ '/ch9-jouer-à-pathfinder/jouer-à-pathfinder.html' | relative_url }}">Jouer à Pathfinder</a>
+* <a href="{{ '/ch9-jouer-à-pathfinder/tests.html' | relative_url }}">Les tests</a>
+* <a href="{{ '/ch9-jouer-à-pathfinder/dégâts.html' | relative_url }}">Les dégâts</a>
+* <a href="{{ '/ch9-jouer-à-pathfinder/points-de-vie-et-guérison.html' | relative_url }}">Points de vie et guérison</a>
+* <a href="{{ '/ch9-jouer-à-pathfinder/actions-et-activités.html' | relative_url }}">Actions et activités</a>
+* <a href="{{ '/ch9-jouer-à-pathfinder/réactions-et-actions-libres.html' | relative_url }}">Réactions et actions libres</a>
+* <a href="{{ '/ch9-jouer-à-pathfinder/effets.html' | relative_url }}">Les effets</a>
+* <a href="{{ '/ch9-jouer-à-pathfinder/conventions-de-jeu.html' | relative_url }}">Conventions de jeu</a>
+* <a href="{{ '/ch9-jouer-à-pathfinder/points-héroïques.html' | relative_url }}">Points héroïques</a>
+* <a href="{{ '/ch9-jouer-à-pathfinder/perception.html' | relative_url }}">Perception</a>
+* <a href="{{ '/ch9-jouer-à-pathfinder/mode-rencontres.html' | relative_url }}">Mode "rencontres"</a>
+* <a href="{{ '/ch9-jouer-à-pathfinder/actions-de-base.html' | relative_url }}">Actions de base</a>
+* <a href="{{ '/ch9-jouer-à-pathfinder/mouvement-et-positionnement.html' | relative_url }}">Mouvement et positionnement</a>
+* <a href="{{ '/ch9-jouer-à-pathfinder/combats-spéciaux.html' | relative_url }}">Combats spéciaux</a>
+* <a href="{{ '/ch9-jouer-à-pathfinder/mode-exploration.html' | relative_url }}">Mode "exploration"</a>
+* <a href="{{ '/ch9-jouer-à-pathfinder/mode-temps-libre.html' | relative_url }}">Mode "temps libre"</a>
+* <a href="{{ '/ch9-jouer-à-pathfinder/conditions.html' | relative_url }}">Les conditions</a>
+* <a href="{{ '/ch9-jouer-à-pathfinder/afflictions.html' | relative_url }}">Les afflictions</a>
+
+
+
 #### Appendices
 
 * <a href="{{ '/appendices/traits.html' | relative_url }}">Traits</a>
