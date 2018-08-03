@@ -36,9 +36,6 @@ collections:
   ascendances:
     output: true
     category: ['ascendance']
-  backgrounds:
-    output: true
-    category: ['background']
   classes:
     output: true
     category: ['classe']

@@ -1,5 +1,5 @@
 ---
-title: "Caractéristiques"
+title: "Valeurs des caractéristiques"
 source: "Playtest Pathfinder"
 layout: default
 ---

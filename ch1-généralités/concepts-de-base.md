@@ -19,7 +19,7 @@ distinguent du reste du texte grâce à l'utilisation de majuscules ou de texte 
 
 Les noms des caractéristiques, des compétences, des dons, des actions, des activités, des réactions, des actions
 libres et certains autres éléments de règles de Pathfinder commencent par une majuscule. Grâce à cela, quand vous
-voyez une phrase telle que "Une Frappe cible la Classe d'Armure," vous savez que les mots Frappe et Classe d'Armure
+voyez une phrase telle que "Une Frappe cible la Classe d'armure," vous savez que les mots Frappe et Classe d'armure
 sont à prendre au sens décrits dans les règles. Pathfinder utilise églement de nombreux termes qui sont
 généralement présentés sous forme abrégée. Si un terme commençant par une majuscule ou une abréviation vous fait
 hésiter, vous pouvez toujours vous référer au <mark>glossaire</mark> ou à <mark>l'index</mark> pour en apprendre plus.
@@ -28,7 +28,7 @@ Si un mot ou un groupe de mots est en italique, il désigne un sort ou un objet 
 protégé par *bouclier*," vous savez que le mot *bouclier* désigne le sort plutôt qu'un objet bouclier. Les descriptions des sorts se trouvent dans <mark>le chapitre 7</mark> alors que les objets magiques se trouvent au <mark>chapitre 12</mark>.
 
 Ce livre est divisé en chapitres qui contiennent des informations pour créer un personnage, jouer à Pathfinder et
-construire le monde de jeu. Plusieurs de ces chapitres contiennent des règles plutôt longues ou des blocs de
+construire le Monde de jeu. Plusieurs de ces chapitres contiennent des règles plutôt longues ou des blocs de
 description technique. Là où c'est pertinent, la description des formats utilisés dans ces règles ou ces blocs
 techniques est donnée juste avant eux. Par exemple, la section sur les ascendances du <mark>Chapitre 2</mark> contient
 des pour chacune des 6 ascendances de base et une explication de ces règles est fournie juste au début de ce chapitre.
@@ -47,7 +47,7 @@ pour gérer des combats ou quand une situation peut changer d'un moment à l'aut
 Le mode "exploration" se déroule quand les personnages parcourent des distances importantes, explorent de nouveaux
 lieux mystérieus, intéragissent avec des PNJ autrement qu'au cours d'un combat ou sont tout simplement à l'affût
 de tout danger. Dans ce mode, le temps passe au rythme que le MJ décide. Les joueurs disposent toujours d'occasions
-pour influencer le monde de jeu mais d'une manière beaucoup plus libre. Le mode "exploration" se déroule entre les
+pour influencer le Monde de jeu mais d'une manière beaucoup plus libre. Le mode "exploration" se déroule entre les
 rencontres et permet souvent de planter le décor pour un moment de jeu round par round.
 
 Le "temps libre" se déroule quand les personnages ne sont pas confrontés à des dangers imminents, généralement quand
@@ -157,16 +157,16 @@ puis à indiquer au MJ le résultat pour qu'il puisse le comparer à la difficul
 un test. Plus d'informations à propos des lancers de dés, des tests, des bonus, des pénalités et d'autres éléments
 du jeu se trouvent <mark>à partir de la page 290</mark> mais voici déjà quelques éléments de base.
 
-* **Plus le résultat est élevé et mieux c'est.** Votre objectif est que votre total atteigne ou dépasse le seuil de réussite, qu'on appelle Degré de Difficulté (ou DD). Le DD est un nombre choisi par le MJ si vous affrontez un élément de l'environnement. Si vous affrontez une créature, vous utilisez un DD calculé à partir de l'une de ses caractéristiques. Plus d'informations sur les Degrés de Difficulté <mark>à la page 291</mark>.
+* **Plus le résultat est élevé et mieux c'est.** Votre objectif est que votre total atteigne ou dépasse le seuil de réussite, qu'on appelle Degré de difficulté (ou DD). Le DD est un nombre choisi par le MJ si vous affrontez un élément de l'environnement. Si vous affrontez une créature, vous utilisez un DD calculé à partir de l'une de ses caractéristiques. Plus d'informations sur les Degrés de Difficulté <mark>à la page 291</mark>.
    
-* **Obtenir un 20 est encore mieux !** Obtenir un 20 sur le dé signifie que vous effectuez une réussite critique, ce qui se traduit souvent par un effet plus important que la normale. Vous pouvez également obtenir une réussite critique si votre total dépasse le Degré de Difficulté de 10 points ou plus. Plus d'informations sur les réussites critiques à la <mark>page 292</mark>.
+* **Obtenir un 20 est encore mieux !** Obtenir un 20 sur le dé signifie que vous effectuez une réussite critique, ce qui se traduit souvent par un effet plus important que la normale. Vous pouvez également obtenir une réussite critique si votre total dépasse le Degré de difficulté de 10 points ou plus. Plus d'informations sur les réussites critiques à la <mark>page 292</mark>.
 
-* **Obtenir un 1 est mauvais.** Quand cela se produit, votre test est un échec critique. C'est encore pire qu'un échec normal. Vous obtenez également un échec critique si votre total est inférieur d'au moins 10 points au Degré de Difficulté. Plus d'informations sur les échecs critiques à <mark>la page 292</mark>.
+* **Obtenir un 1 est mauvais.** Quand cela se produit, votre test est un échec critique. C'est encore pire qu'un échec normal. Vous obtenez également un échec critique si votre total est inférieur d'au moins 10 points au Degré de difficulté. Plus d'informations sur les échecs critiques à <mark>la page 292</mark>.
 
-### Votre Degré de Difficulté
+### Votre Degré de difficulté
 
-Vous lancez souvent des dés contre un Degré de Difficulté déterminé par le MJ mais, quand une créature ou une situation
-teste les capacités de votre personnage, elle doit effectuer un test contre un Degré de Difficulté dépendant de la
+Vous lancez souvent des dés contre un Degré de difficulté déterminé par le MJ mais, quand une créature ou une situation
+teste les capacités de votre personnage, elle doit effectuer un test contre un Degré de difficulté dépendant de la
 capacité la plus pertinente de votre personnage. Quelle que soit cette capacité, le DD est de 10 plus tous les
 modificateurs que vous ajouteriez à un lancer de d20 basé sur cette capacité.
 
@@ -222,19 +222,19 @@ Alignement
 : L'alignement représente l'attitude de base d'une créature en ce qui concerne la moralité et l'éthique. Voir <mark>page 16</mark> pour plus de détails.
 
 Ascendance
-: Une ascendance est un large groupe d'individus auquel un personnage ou une créature appartient. L'ascendance détermine les Points de Vie de départ, les langues connues, la Vitesse et les sens, et elle peut donner accès à certains dons d'ascendance.
+: Une ascendance est un large groupe d'individus auquel un personnage ou une créature appartient. L'ascendance détermine les Points de vie de départ, les langues connues, la Vitesse et les sens, et elle peut donner accès à certains dons d'ascendance.
 
 Attaque
-: Quand une créature tente de blesser une autre créature, elle effectue un jet d'attaque contre la Classe d'Armure de la cible. La plupart des attaques utilisent l'action de Frappe (voir <mark>page 308</mark>) mais certains sorts et autres capacités sont également des attaques.
+: Quand une créature tente de blesser une autre créature, elle effectue un jet d'attaque contre la Classe d'armure de la cible. La plupart des attaques utilisent l'action de Frappe (voir <mark>page 308</mark>) mais certains sorts et autres capacités sont également des attaques.
 
 Caractéristique (valeur de caractéristique)
 : Chaque créature possède six caractéristiques : Force, Dextérité, Constitution, Intelligence, Sagesse et Charisme. Ces valeurs représentent le potentiel d'une créature et ses caractéristiques de base. Plus la valeur est élevée et plus le potentiel de la créature dans ce domaine est grand. Plus d'informations sur les caractéristiques à la <mark>page 18</mark>.
 
 Classe
-: Une classe représente la principale profession d'aventurier qu'un personnage a choisi. La classe d'un personnage détermine certaines de ses capacités, lui donne un certain nombre de Points de Vie lorsqu'il gagne un nouveau niveau et lui donne accès à un groupe de dons de classes. Les classes apparaissent dans <mark>le chapitre 3</mark>.
+: Une classe représente la principale profession d'aventurier qu'un personnage a choisi. La classe d'un personnage détermine certaines de ses capacités, lui donne un certain nombre de Points de vie lorsqu'il gagne un nouveau niveau et lui donne accès à un groupe de dons de classes. Les classes apparaissent dans <mark>le chapitre 3</mark>.
 
 Classe d'armure (CA)
-: Toutes les créatures du jeu possèdent une Classe d'Armure. Cette valeur indique à quel point il est difficile de toucher et de blesser la créature. La CA sert généralement de Degré de Difficulté lorsqu'il s'agit de toucher une créature lors d'une attaque. Voir <mark>page 16</mark>.
+: Toutes les créatures du jeu possèdent une Classe d'armure. Cette valeur indique à quel point il est difficile de toucher et de blesser la créature. La CA sert généralement de Degré de difficulté lorsqu'il s'agit de toucher une créature lors d'une attaque. Voir <mark>page 16</mark>.
 
 Compétence
 : Une compétence représente la capacité d'une créature à réaliser certaines tâches qui ne peuvent être entièrement maîtrisées qu'avec un entraînement. Les compétences citent généralement les diverses manières dont vous pouvez les utiliser, même si vous êtes non entraîné, ainsi que les utilisations qui nécessitent une formation. Plus d'informations à la <mark>page 142</mark>.
@@ -259,10 +259,10 @@ Jet de sauvegarde (jds)
 Il y a trois types de jets de sauvegarde : Réflexes (pour faire face aux effets que vous pourriez éviter par une esquive rapide), Volonté (pour résister aux effets qui ciblent l'esprit et la personnalité) et Vigueur (pour résister aux poisons, maladies et effets physiques). Plus d'informations à la <mark>page 17</mark>.
 
 Maître du jeu (MJ)
-: Le Maître du Jeu est le joueur qui interprète les règles et contrôle les divers éléments de l'histoire et du monde que les joueurs explorent. La tâche d'un MJ est de proposer une partie juste et amusante ; son objectif est qu eles autres joueurs finissent par atteindre leurs objectifs mais seulement après avoir affronté de nombreux dangereux et plusieurs défis héroïques.
+: Le Maître du jeu est le joueur qui interprète les règles et contrôle les divers éléments de l'histoire et du monde que les joueurs explorent. La tâche d'un MJ est de proposer une partie juste et amusante ; son objectif est qu eles autres joueurs finissent par atteindre leurs objectifs mais seulement après avoir affronté de nombreux dangereux et plusieurs défis héroïques.
 
-Monde de Jeu
-: Les aventures de Pathfinder se déroulent dans le Monde de Jeu, un monde avec une riche diversité de peuples, rempli de lieux passionnants à explorer et d'ennemis mortels pour défier les héros de tous niveaux. À travers ces règles se trouvent plusieurs références au Monde de Jeu, plus spécialement dans la discussion des divinités que votre personnage peut choisir de vénérer. Vous pouvez situer vos parties dans le Monde de Jeu ou dans n'importe quel autre monde de votre choix et utiliser ces règles pour créer un cadre de jeu de votre cru.
+Monde de jeu
+: Les aventures de Pathfinder se déroulent dans le Monde de jeu, un monde avec une riche diversité de peuples, rempli de lieux passionnants à explorer et d'ennemis mortels pour défier les héros de tous niveaux. À travers ces règles se trouvent plusieurs références au Monde de jeu, plus spécialement dans la discussion des divinités que votre personnage peut choisir de vénérer. Vous pouvez situer vos parties dans le Monde de jeu ou dans n'importe quel autre monde de votre choix et utiliser ces règles pour créer un cadre de jeu de votre cru.
 
 Niveau
 : Un niveau est un nombre qui indique la puissance générale de quelque chose. Un personnage a un niveau de personnage qui peut aller de 1 à 20 et qui représente son niveau d'expérience. Les monstres, les dangers et les afflictions possèdent des niveaux allant de 0 à 20 ou plus encore, qui mesurent le danger qu'ils représentent.
@@ -276,15 +276,15 @@ Personnage joueur
 Personnage non joueur (PNJ)
 : Un personnage non joueur est contrôlé par le MJ lorsqu'il intéragit avec les joueurs et aide à faire progresser l'histoire.
 
-Points de Vie
-: Les Points de Vie représentent la quantité de dégâts qu'une créature peut subir avant de tomber inconsciente et de commencer à mourir. Les dégâts diminuent les Points de Vie (à un taux de 1 PV par point de dégât) alors que les soins permettent de récupérer des Points de Vie (au même taux). Plus d'informations à la <mark>page 294</mark>.
+Points de vie
+: Les Points de vie représentent la quantité de dégâts qu'une créature peut subir avant de tomber inconsciente et de commencer à mourir. Les dégâts diminuent les Points de vie (à un taux de 1 PV par point de dégât) alors que les soins permettent de récupérer des Points de vie (au même taux). Plus d'informations à la <mark>page 294</mark>.
 
 Rareté
-: Quasiment tous les éléments du jeu sont associés à une rareté indiquant si on les rencontre plus ou moins souvent dans le monde de jeu. La rareté s'applique non seulement à l'équipement et aux objets magiques mais les sorts, les dons et les autres aspects mécaniques du jeu possèdent eux aussi chacun une rareté spécifique. <br/>
+: Quasiment tous les éléments du jeu sont associés à une rareté indiquant si on les rencontre plus ou moins souvent dans le Monde de jeu. La rareté s'applique non seulement à l'équipement et aux objets magiques mais les sorts, les dons et les autres aspects mécaniques du jeu possèdent eux aussi chacun une rareté spécifique. <br/>
 La majorité de ces choses se trouvent régulièrement à travers le monde, ce qui signifie que n'importe qui peut facilement les acheter (dans le cas d'objets) ou y avoir accès (dans le cas de dons). La rareté "commun", indiqué par la couleur noire, est la rareté par défaut. <br/>
 La rareté "peu commun" indique un élément disponible uniquement à ceux qui ont été initié avec un entraînement spécifique, ont grandi au sein d'une culture spécifique ou proviennent d'une partie spécifique du monde. Un personnage ne peut pas choisir ses options par défaut. Des choix spécifiques, comme des capacités de classe ou des backgrounds, peuvent lui donner accès à certains éléments peu communs. Le MJ peut permettre à un personnage d'accéder à des options peu communes s'il le choisit. Le niveau (ou le type, lorsqu'il n'y a pas de niveau donné) des éléments peu communs est indiqué en rouge. <br/>
-Les éléments qui sont rares sont quasiment inconnus ou impossibles à trouver dans le monde de jeu. Ces éléments apparaissent dans le jeu seulement si le MJ choisit de les inclure. Les éléments rares sont marqués en orange. <br/>
-La rareté "unique" indique un élément dont il n'existe qu'un seul exemplaire dans le monde de jeu. Les artefacts, par exemple, sont souvent uniques. Les éléments uniques sont marqués en bleu.
+Les éléments qui sont rares sont quasiment inconnus ou impossibles à trouver dans le Monde de jeu. Ces éléments apparaissent dans le jeu seulement si le MJ choisit de les inclure. Les éléments rares sont marqués en orange. <br/>
+La rareté "unique" indique un élément dont il n'existe qu'un seul exemplaire dans le Monde de jeu. Les artefacts, par exemple, sont souvent uniques. Les éléments uniques sont marqués en bleu.
 
 Roleplay
 : Décrire les actions d'un personnage, souvent en prenant le point de vue du personnage, est ce qu'on appelle faire du roleplay. C'est quand un personnage parle ou décrit les actions en se mettant dans la peau du personnage.
