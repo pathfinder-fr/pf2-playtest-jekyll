@@ -10,6 +10,18 @@ layout: default
 * <a href="{{ '/ch1-généralités/créer-un-personnage.html' | relative_url }}">Créer un personnage</a>
 * <a href="{{ '/ch1-généralités/caractéristiques.html' | relative_url }}">Caractéristiques</a>
 
+#### Ascendances et backgrounds
+
+* <a href="{{ '/ch2-ascendances-et-backgrounds/ascendances.html' | relative_url }}">Ascendances</a>
+* <a href="{{ '/ch2-ascendances-et-backgrounds/liste-des-ascendances.html' | relative_url }}">Liste des ascendances</a>
+* <a href="{{ '/ch2-ascendances-et-backgrounds/backgrounds.html' | relative_url }}">Backgrounds</a>
+* <a href="{{ '/ch2-ascendances-et-backgrounds/langages.html' | relative_url }}">Langages</a>
+
+#### Classes
+
+* <a href="{{ '/ch3-classes/classes.html' | relative_url }}">Règles générales</a>
+* <a href="{{ '/ch3-classes/liste-des-classes.html' | relative_url }}">Liste des classes</a>
+
 
 #### Appendices
 
