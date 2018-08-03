@@ -20,7 +20,7 @@ distinguent du reste du texte grâce à l'utilisation de majuscules ou de texte 
 Les noms des caractéristiques, des compétences, des dons, des actions, des activités, des réactions, des actions
 libres et certains autres éléments de règles de Pathfinder commencent par une majuscule. Grâce à cela, quand vous
 voyez une phrase telle que "Une Frappe cible la Classe d'armure," vous savez que les mots Frappe et Classe d'armure
-sont à prendre au sens décrits dans les règles. Pathfinder utilise églement de nombreux termes qui sont
+sont à prendre au sens décrits dans les règles. Pathfinder utilise également de nombreux termes qui sont
 généralement présentés sous forme abrégée. Si un terme commençant par une majuscule ou une abréviation vous fait
 hésiter, vous pouvez toujours vous référer au <mark>glossaire</mark> ou à <mark>l'index</mark> pour en apprendre plus.
 
@@ -45,7 +45,7 @@ vaincre des ennemis. C'est le mode de jeu le plus rigoureux au niveau des mécan
 pour gérer des combats ou quand une situation peut changer d'un moment à l'autre.
 
 Le mode "exploration" se déroule quand les personnages parcourent des distances importantes, explorent de nouveaux
-lieux mystérieus, intéragissent avec des PNJ autrement qu'au cours d'un combat ou sont tout simplement à l'affût
+lieux mystérieux, interagissent avec des PNJ autrement qu'au cours d'un combat ou sont tout simplement à l'affût
 de tout danger. Dans ce mode, le temps passe au rythme que le MJ décide. Les joueurs disposent toujours d'occasions
 pour influencer le Monde de jeu mais d'une manière beaucoup plus libre. Le mode "exploration" se déroule entre les
 rencontres et permet souvent de planter le décor pour un moment de jeu round par round.
@@ -55,7 +55,7 @@ ils sont en sécurité, à l'abri dans une zone civilisée. Cela leur donne l'oc
 un métier et de profiter de la vie autrement qu'en participant à des aventures périlleuses.
 
 Ces trois modes de jeu sont distincts mais les passages de l'un à l'autre ne sont pas toujours fort évidents. Il est
-possible qu'une journée qui commence avec du temps libre se poursuive avec l'exploration des égoûts de la ville, ce
+possible qu'une journée qui commence avec du temps libre se poursuive avec l'exploration des égouts de la ville, ce
 qui mène les personnages vers la base secrète d'un culte et vers une rencontre avec les membres de ce culte. Plus vous
 jouez à Pathfinder et plus vous constaterez que chacun de ces modes possède ses méthodes de jeu propres mais que passer
 de l'un à l'autre se fait sans obstacle.
@@ -243,10 +243,10 @@ Déplacement
 : Vous pouvez vous parcourir d'au plus votre Vitesse au cours d'une action de Déplacement (voir <mark>page 308</mark>).
 
 Don
-: Un don est une capacité qu'un personnage gagne grâce à son ascendcance, son background, sa classe, son entraînement général ou sa formation dans une compétence. Certains dons permettent une nouvelle action, activité, action libre ou réaction.
+: Un don est une capacité qu'un personnage gagne grâce à son ascendance, son background, sa classe, son entraînement général ou sa formation dans une compétence. Certains dons permettent une nouvelle action, activité, action libre ou réaction.
 
 État
-: Un effet en cours qui modifie la manière dont vous pouvez agir ou change certaines de vos capacités est un état. Les étatss proviennent généralement des sorts. Certains états qui apparaissent souvent dans le jeu sont présentés à la <mark>page 320</mark>.
+: Un effet en cours qui modifie la manière dont vous pouvez agir ou change certaines de vos capacités est un état. Les états proviennent généralement des sorts. Certains états qui apparaissent souvent dans le jeu sont présentés à la <mark>page 320</mark>.
 
 Frappe(r)
 : Vous pouvez utiliser l'action Frappe(r) pour porter une attaque. Elle est décrite à la <mark>page 308</mark>.
@@ -259,7 +259,7 @@ Jet de sauvegarde (jds)
 Il y a trois types de jets de sauvegarde : Réflexes (pour faire face aux effets que vous pourriez éviter par une esquive rapide), Volonté (pour résister aux effets qui ciblent l'esprit et la personnalité) et Vigueur (pour résister aux poisons, maladies et effets physiques). Plus d'informations à la <mark>page 17</mark>.
 
 Maître du jeu (MJ)
-: Le Maître du jeu est le joueur qui interprète les règles et contrôle les divers éléments de l'histoire et du monde que les joueurs explorent. La tâche d'un MJ est de proposer une partie juste et amusante ; son objectif est qu eles autres joueurs finissent par atteindre leurs objectifs mais seulement après avoir affronté de nombreux dangereux et plusieurs défis héroïques.
+: Le Maître du jeu est le joueur qui interprète les règles et contrôle les divers éléments de l'histoire et du monde que les joueurs explorent. La tâche d'un MJ est de proposer une partie juste et amusante ; son objectif est que les autres joueurs finissent par atteindre leurs objectifs mais seulement après avoir affronté de nombreux dangereux et plusieurs défis héroïques.
 
 Monde de jeu
 : Les aventures de Pathfinder se déroulent dans le Monde de jeu, un monde avec une riche diversité de peuples, rempli de lieux passionnants à explorer et d'ennemis mortels pour défier les héros de tous niveaux. À travers ces règles se trouvent plusieurs références au Monde de jeu, plus spécialement dans la discussion des divinités que votre personnage peut choisir de vénérer. Vous pouvez situer vos parties dans le Monde de jeu ou dans n'importe quel autre monde de votre choix et utiliser ces règles pour créer un cadre de jeu de votre cru.
@@ -274,7 +274,7 @@ Personnage joueur
 : C'est un personnage créé et contrôlé par un joueur.
 
 Personnage non joueur (PNJ)
-: Un personnage non joueur est contrôlé par le MJ lorsqu'il intéragit avec les joueurs et aide à faire progresser l'histoire.
+: Un personnage non joueur est contrôlé par le MJ lorsqu'il interagit avec les joueurs et aide à faire progresser l'histoire.
 
 Points de vie
 : Les Points de vie représentent la quantité de dégâts qu'une créature peut subir avant de tomber inconsciente et de commencer à mourir. Les dégâts diminuent les Points de vie (à un taux de 1 PV par point de dégât) alors que les soins permettent de récupérer des Points de vie (au même taux). Plus d'informations à la <mark>page 294</mark>.
@@ -290,13 +290,13 @@ Roleplay
 : Décrire les actions d'un personnage, souvent en prenant le point de vue du personnage, est ce qu'on appelle faire du roleplay. C'est quand un personnage parle ou décrit les actions en se mettant dans la peau du personnage.
 
 Sort
-: Les sorts sont des effets magiques engendrés en utilisant une activité consistant à les lancer. Les sorts indiquent ce qu'ils ciblent, leurs effets, les actions nécessaires à leur incantation et comment il est possible d'y résister. Plus d'inforamtions à la <mark>page 192</mark>.
+: Les sorts sont des effets magiques engendrés en utilisant une activité consistant à les lancer. Les sorts indiquent ce qu'ils ciblent, leurs effets, les actions nécessaires à leur incantation et comment il est possible d'y résister. Voir les règles sur la [Magie](/ch7-sorts/magie.html).
 
 Tour
 : Pendant un round, chaque créature dispose d'un tour. Une créature peut généralement utiliser jusqu'à 3 actions pendant son tour. Plus d'informations à la <mark>page 304</mark>.
 
 Trait
-: Un trait indique qu'un élément de règles suit certaines règles ou possède certaines particularités. Souvent, les traits sont attachés à des règles qui précisent comment quelque chose fonctionne. Parfois, ils indiquent comment d'autres règles intéragissent avec une capacité, une créature, un objet ou un autre élément de règles qui possède ce trait. Un index de tous les traits utilisés dans ces règles se trouve <mark>ici</mark>.
+: Un trait indique qu'un élément de règles suit certaines règles ou possède certaines particularités. Souvent, les traits sont attachés à des règles qui précisent comment quelque chose fonctionne. Parfois, ils indiquent comment d'autres règles interagissent avec une capacité, une créature, un objet ou un autre élément de règles qui possède ce trait. Un index de tous les traits utilisés dans ces règles se trouve <mark>ici</mark>.
 
 Vitesse
 : La vitesse est le nombre de cases qu'un personnage peut parcourir en utilisant l'action Déplacement (voir <mark>page 310</mark>).

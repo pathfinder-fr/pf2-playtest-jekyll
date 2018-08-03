@@ -85,15 +85,14 @@ Def
 Def
 
 
-#### Bien
-Def
-
-
 #### Blessure
 Def
 
 
 #### Bombe
+Def
+
+#### Bon
 Def
 
 
@@ -337,7 +336,7 @@ Def
 Def
 
 
-#### Loi
+#### Loyal
 Def
 
 
@@ -357,9 +356,6 @@ Def
 Def
 
 
-#### Mal
-Def
-
 
 #### Maladie
 Def
@@ -375,6 +371,12 @@ Def
 
 #### Manipulation
 Def
+
+
+#### Mauvais
+Def
+
+
 
 
 #### Mental

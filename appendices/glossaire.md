@@ -17,7 +17,7 @@ Un accroissement de caractéristique vous permet d'augmenter l'une de vos valeur
 Vous pouvez augmenter une valeur de caractéristiques de votre choix grâce à un accroissement de caractéristique libre.
 
 #### Action (![action](/images/1action.png))
-Une action est une tâche déterminée réalisée pendant votre tour et provoquant un effet bien précis, nécessitant peut-être que vous réalisiez un test pour déterminer le résultat. Les actions peuvent être utilisées pour accomplir diverses choses comme se déplacer, attaquer, réaliser une partie de l'incantation d'un sort ou intéragir avec un objet. La plupart des créatures peuvent entreprendre 3 actions pendant leur tour. Plus d'informations <mark>page 296</mark>.
+Une action est une tâche déterminée réalisée pendant votre tour et provoquant un effet bien précis, nécessitant peut-être que vous réalisiez un test pour déterminer le résultat. Les actions peuvent être utilisées pour accomplir diverses choses comme se déplacer, attaquer, réaliser une partie de l'incantation d'un sort ou interagir avec un objet. La plupart des créatures peuvent entreprendre 3 actions pendant leur tour. Plus d'informations <mark>page 296</mark>.
 
 #### Action libre (![action libre](/images/actionlibre.png))
 Les actions libres sont des capacités à déclencheur que vous pouvez utiliser à n'importe quel moment quand le déclencheur se produit. Il n'y a pas de limite au nombre d'actions libres que vous pouvez effectuer par round mais vous ne pouvez pas utiliser plus d'une action libre pour un déclencheur donné. Voir <mark>page 297</mark>.
@@ -47,7 +47,7 @@ Un archétype est un groupe de dons spéciaux optionnel que vous pouvez prendre 
 Quand une créature en attaque une autre, elle effectue un jet d'attaque contre la Classe d'armure de la cible. La plupart des jets d'attaque sont effectués en utilisant l'action Frapper, mais le trait attaque apparaît parfois sur certains sorts ou d'autres capacités (comme Pousser). Votre modificateur d'attaque est égal à votre modificateur de formation pour votre arme plus votre modificateur de Force pour une arme de corps à corps (à moins que la description de l'arme ne spécifie autre chose) ou votre modificateur de Dextérité pour une arme à distance, plus tout bonus d'objet pour l'arme et tout autre bonus et pénalité.
 
 #### Aura
-Une aura affecte automatiquement les créatures ou les objets qui se trouvent dans un rayon donné autour d'une créature-origine sans que cette créture n'ait besoin de dépenser une action. Ses effets sont appliqués à un certain moment, comme par exemple à la fin du tour de chaque créature.
+Une aura affecte automatiquement les créatures ou les objets qui se trouvent dans un rayon donné autour d'une créature-origine sans que cette créature n'ait besoin de dépenser une action. Ses effets sont appliqués à un certain moment, comme par exemple à la fin du tour de chaque créature.
 
 #### Background
 Un background représente une profession ou un autre aspect significatif de votre vie avant le moment où vous êtes devenu aventurier. Les backgrounds vous donnent des accroissements de caractéristiques, des compétences de signature et des dons. Voir [Backgrounds](/ch2-ascendances-et-backgrounds/backgrounds.html).
@@ -71,7 +71,7 @@ Votre caractéristique principale est la caractéristique que vous utilisez pour
 Cette caractéristique mentale mesure votre charme et votre force de caractère.
 
 #### Classe
-Les classes représentent la principale profession d'aventurier choisie par un personnage. Une classe détermine les degrés de formation initiaux du personnage pour les armes, les armures, ses sorts (s'il en a) et en Perception, ainsi que les compétences de signature du personnage et les Poins de vie qu'il obtient en gagnant un nouveau niveau. La classe d'un personnage lui donne également accès à un ensemble de capacités et de dons de classes. Voir [Classes](/ch3-classes/classes.md).
+Les classes représentent la principale profession d'aventurier choisie par un personnage. Une classe détermine les degrés de formation initiaux du personnage pour les armes, les armures, ses sorts (s'il en a) et en Perception, ainsi que les compétences de signature du personnage et les Points de vie qu'il obtient en gagnant un nouveau niveau. La classe d'un personnage lui donne également accès à un ensemble de capacités et de dons de classes. Voir [Classes](/ch3-classes/classes.md).
 
 #### Classe d'armure (CA)
 Toutes les créatures possèdent une Classe d'armure. Cette valeur représente à quel point il est difficile de toucher et de blesser la créature. La CA sert généralement de Degré de difficulté pour toucher une créature avec une attaque. Votre Classe d'armure vaut 10 plus votre modificateur de Dextérité (limité par le modificateur de Dextérité maximal de votre armure), votre modificateur de formation avec votre armure et le bonus d'objet à la CA de votre armure, en plus de tout autre bonus et pénalité. Voir <mark>page 176</mark>.
@@ -107,7 +107,7 @@ Votre DD de classe vaut 10 + votre niveau + le modificateur de votre caractéris
 Voir [jet de sort](#jet-de-sort).
 
 #### Déclencheur
-Un déclencheur est un événement ou une action qui doit se produire afin que vous puissiez utiliser une réaction ou uen action libre. Parfois, des effets de sorts, des monstres, des pièges ou d'autres effets réagissent à des déclencheurs. Plus d'informations à la <mark>page 297</mark>.
+Un déclencheur est un événement ou une action qui doit se produire afin que vous puissiez utiliser une réaction ou une action libre. Parfois, des effets de sorts, des monstres, des pièges ou d'autres effets réagissent à des déclencheurs. Plus d'informations à la <mark>page 297</mark>.
 
 #### Dégâts physiques
 Les dégâts de type contondant, perforant et tranchant sont rassemblés sous l'appellation dégâts physiques. Un effet qui résiste les dégâts physiques ou se déclenche suite à des dégâts physiques (comme par exemple résistance 10 contre les dégâts physiques) fonctionne contre tous ces types de dégâts.
@@ -136,7 +136,7 @@ Les divinités sont des entités puissantes qui vivent au-delà du monde et qui 
 #### Don
 Un don est une capacité qu'un personnage choisit en fonction de son ascendance, de son background, de sa classe, de son entraînement général ou de sa formation en matière de compétences.
 
-#### Don de coméptence
+#### Don de compétence
 Les dons de compétence sont des dons généraux qui sont plus particulièrement liés à une compétence. Vous pouvez choisir un don de compétence seulement si vous possédez le degré de formation requis dans la compétence associée.
 
 #### Échec
@@ -174,7 +174,7 @@ Cette caractéristique mentale mesure votre intellect et votre capacité à rais
 
 #### Jet de sauvegarde (jds)
 Quand vous êtes soumis à un effet dangereux, vous pouvez généralement effectuer un jet de sauvegarde (jds) pour en atténuer les effets. Vous lancez les jets de sauvegarde automatiquement : vous n'avez pas besoin de dépenser une action ou une réaction pour ce faire. Contrairement à la majorité des tests, la personne qui n'agit pas lance le d20 du jet de sauvegarde et la personne qui agit détermine le DD. <br/>
-Il y a trois types de jets de sauvegarde : Réflexes (basé sur la Dextérité et utilisé pour contrer les effets que vous pouvez esquivez en faisant preuve de rapidité), Vigueur (basé sur la Constitution et utilisé pour résister aux poisons, maladies, mouvements imposés et autres effets physiques) et Volonté (basé sur la Sagesse et utilisé pour résister aux effets qui ciblent votre esprit ou votre moral). Votre modificateur de jet de savuegarde est égal à votre modificateur de formation plus le modificateur de la caractéristique mentionnée ci-dessus, ainsi que tout autre bonus ou pénalité. Plus d'informations à la <mark>page 17</mark>.
+Il y a trois types de jets de sauvegarde : Réflexes (basé sur la Dextérité et utilisé pour contrer les effets que vous pouvez esquivez en faisant preuve de rapidité), Vigueur (basé sur la Constitution et utilisé pour résister aux poisons, maladies, mouvements imposés et autres effets physiques) et Volonté (basé sur la Sagesse et utilisé pour résister aux effets qui ciblent votre esprit ou votre moral). Votre modificateur de jet de sauvegarde est égal à votre modificateur de formation plus le modificateur de la caractéristique mentionnée ci-dessus, ainsi que tout autre bonus ou pénalité. Plus d'informations à la <mark>page 17</mark>.
 
 #### Jet de sort
 Vous effectuez un jet de sort quand vous testez la puissance de votre magie contre une cible particulière. Votre modificateur de jet de sort est égal à votre modificateur de formation plus le modificateur de caractéristique principale, ainsi que tout autre bonus et pénalité (mais ces derniers sont rares). De nombreux sorts permettent un jet de sauvegarde contre votre DD de sort (10 plus votre modificateur de jet de sort).
@@ -213,19 +213,19 @@ La magie occulte est une tradition qui combine les essences spirituelles et ment
 La Perception mesure les capacités de votre personnage à apercevoir les objets et ustensiles cachés. Elle détermine également la rapidité avec laquelle vous percevez le danger et agissez lorsqu'une bataille se déclenche. Votre modificateur de Perception est égal à votre modificateur de formation de Perception plus votre modificateur de Sagesse, plus tout autre bonus et pénalité qui s'appliquerait. Voir <mark>page 301</mark>.
 
 #### Pénalité
-Les pénalités sont des valeurs négatives qui réduisent un lancer ou une valeur. Il existe trois types de pénalités : les pénalités conditionnelles, les pénalités de circonstances et (plus rarement) les pénalités d'objet. Si vous subissez plusieurs pénalités d'un même type, vous n'appliquez que la pire et ignorez les autres. Certaines pénaltés que vous recevez pour représenter les malus inhérents à vos choix, comme la pénalité d'attaques mutliples, ne sont pas typées ; dans ce cas-là, elles sont cumulatives et toutes s'appliquent. Voir <mark>page 291</mark>. Voir aussi [bonus](#bonus) et [modificateur](#modificateur)] pour d'autres nombres qui peuvent modifier vos résultats.
+Les pénalités sont des valeurs négatives qui réduisent un lancer ou une valeur. Il existe trois types de pénalités : les pénalités conditionnelles, les pénalités de circonstances et (plus rarement) les pénalités d'objet. Si vous subissez plusieurs pénalités d'un même type, vous n'appliquez que la pire et ignorez les autres. Certaines pénalités que vous recevez pour représenter les malus inhérents à vos choix, comme la pénalité d'attaques multiples, ne sont pas typées ; dans ce cas-là, elles sont cumulatives et toutes s'appliquent. Voir <mark>page 291</mark>. Voir aussi [bonus](#bonus) et [modificateur](#modificateur)] pour d'autres nombres qui peuvent modifier vos résultats.
 
-#### Pénalité d'attaques mutliples
+#### Pénalité d'attaques multiples
 Quand vous effectuez plus d'une action d'attaque au cours d'un round, vous subissez une pénalité aux jets d'attaques après le premier. La pénalité d'attaques multiples est de -5 sur votre seconde attaque et de -10 sur toutes les attaques suivantes. Plus d'informations à la <mark>page 178</mark>.
 
 #### Personnage joueur (personnage ou PJ)
-Un personnage contrôlé par un joueur, un personnage joueur, partipe à des aventures, rencontre d'autres personnages, combat, progresse et poursuit tous les objectifs que le joueur peut imaginer. Dans la plupart des parties, chaque joueur sauf le MJ possède un personnage joueur.
+Un personnage contrôlé par un joueur, un personnage joueur, participe à des aventures, rencontre d'autres personnages, combat, progresse et poursuit tous les objectifs que le joueur peut imaginer. Dans la plupart des parties, chaque joueur sauf le MJ possède un personnage joueur.
 
 #### Personnage non joueur (PNJ)
 Les personnages non joueurs sont un type de créatures. Ils peuvent représenter des personnes amicales, alliées ou s'opposant aux personnages joueurs dans le monde de jeu ou encore des adversaires que les personnages joueurs affrontent. Ils peuvent être construits en utilisant la même mécanique que les monstres ou qu'un personnage joueur en fonction des préférences du MJ pour ce PNJ spécifique.
 
 #### Peu commun
-Une chose de rareté "peu commun" n'est pas disponible pour tout le monde. Un entraînement spécial peut être nécessaire, ou la chose peut provenir d'une région spécifique du monde. Certains choix de personangers peuvent automatiquement permettre à un personnage d'accéder à des options peu communes, et le MJ peut choisir d'y donner accès. Si quelque chose est peu commun, son niveau est indiqué en rouge (la deuxième teinte la plus foncée des raretés dans le cas de documents en noir et blanc).
+Une chose de rareté "peu commun" n'est pas disponible pour tout le monde. Un entraînement spécial peut être nécessaire, ou la chose peut provenir d'une région spécifique du monde. Certains choix de personnages peuvent automatiquement permettre à un personnage d'accéder à des options peu communes, et le MJ peut choisir d'y donner accès. Si quelque chose est peu commun, son niveau est indiqué en rouge (la deuxième teinte la plus foncée des raretés dans le cas de documents en noir et blanc).
 
 #### Piège
 Les pièges sont le type le plus courant de dangers. Ils sont construits intentionnellement pour blesser ou ralentir des intrus.
@@ -249,16 +249,16 @@ Bon nombre de dons et d'autres capacités ne peuvent être choisis que si vous r
 La magie primaire est la tradition qui combine les essences matérielles et vitales. Elle trouve ses racines dans une connexion instinctive avec et une foi en le monde naturel.
 
 #### Rare
-Cette rareté indique qu'une capacité, un objet ou un sort n'est accessible aux joueurs que si le MJ décide de l'inclure dans la partie, généralement au cours d'une découverte effectuée lors d'une aventure. Si quelque chose est rare, son niveau est indiqué en oragne (la 3e teinte en partant de la plus sombre dans le cas de publication en noir et blanc).
+Cette rareté indique qu'une capacité, un objet ou un sort n'est accessible aux joueurs que si le MJ décide de l'inclure dans la partie, généralement au cours d'une découverte effectuée lors d'une aventure. Si quelque chose est rare, son niveau est indiqué en orange (la 3e teinte en partant de la plus sombre dans le cas de publication en noir et blanc).
 
 #### Réaction (![réaction](/images/réaction.png))
-Une réaction est une chose que vous pouvez faire même lorsque ce n'est pas votre tour, pour autant que le déclencheur de la réaction se produise. Vous ne pouvez généralement utiliser qu'une seule réaction par tour et, dans tous les cas, vous ne pouvez pas utiliser plus du'ne réaction pour un déclencheur donné. Plus d'informations <mark>page 297</mark>.
+Une réaction est une chose que vous pouvez faire même lorsque ce n'est pas votre tour, pour autant que le déclencheur de la réaction se produise. Vous ne pouvez généralement utiliser qu'une seule réaction par tour et, dans tous les cas, vous ne pouvez pas utiliser plus d'une réaction pour un déclencheur donné. Plus d'informations <mark>page 297</mark>.
 
 #### Réentraînement
 Si vous n'êtes pas satisfait d'un de vos choix de personnages, vous pouvez utiliser une partie de vos temps libres pour changer d'option. Plus d'informations à la <mark>page 318</mark>.
 
 #### Rencontres
-En mode de jeu "rencontres", le jeu est divié en rounds de 6 secondes avec des règles extrêmement précises indiquant qui agit quand et ce qu'il peut faire. Le mode "rencontres" est utilisé pour les combats, les débats intenses et les autres conflits similaires où le temps est important. Plus d'information <mark>page 304</mark>.
+En mode de jeu "rencontres", le jeu est divisé en rounds de 6 secondes avec des règles extrêmement précises indiquant qui agit quand et ce qu'il peut faire. Le mode "rencontres" est utilisé pour les combats, les débats intenses et les autres conflits similaires où le temps est important. Plus d'information <mark>page 304</mark>.
 
 #### Réussite
 Une réussite est un degré de réussite qui provient d'un résultat de test qui atteint ou dépasse le Degré de difficulté ou qui correspond à un 20 naturel qui donne un résultat inférieur au Degré de difficulté. Si un test ne comporte pas de description en cas de réussite, cela signifie qu'il n'y a aucun effet en cas de réussite.
@@ -282,7 +282,7 @@ Les sorts sont des effets magiques engendré par l'activité Lancer un sort. Les
 Un sort inné est un sort octroyé pas par votre classe mais par votre ascendance ou un objet magique. Plus d'informations aux pages <mark>192 et 193</mark>.
 
 #### Sortilège
-Les sortilèges sont des sorts simples qu'un lanceur de sorts peut lancer autant de fois qu'il le désire et qui sont toujours élevés jusqu'au niveau de sort le plus haut auquel il a accès dans cette classe (ou la moitié de son niveau, arrondie vers la bas, si le sortilège n'est pas lié à une classe de lanceur de sorts, comme pour un sort inné). Voir <mark>page 193</mark> pour plus d'information.
+Les sortilèges sont des sorts simples qu'un lanceur de sorts peut lancer autant de fois qu'il le désire et qui sont toujours élevés jusqu'au niveau de sort le plus haut auquel il a accès dans cette classe (ou la moitié de son niveau, arrondie vers le bas, si le sortilège n'est pas lié à une classe de lanceur de sorts, comme pour un sort inné). Voir <mark>page 193</mark> pour plus d'information.
 
 #### Temps libre
 Le temps libre est un mode de jeu qui peut recouvrir de longues périodes très rapidement, en découpant les activités par jour ou en périodes encore plus longues. Quand les personnages ne sont pas en aventures, ils sont en temps libre. Plus à la <mark>page 318</mark>.
@@ -300,7 +300,7 @@ Un test secret est un test que le MJ lance en secret, généralement parce que v
 Pendant un round, chaque créature reçoit un tour ; elle peut généralement accomplir jusqu'à 3 actions pendant son tour (voir <mark>page 304</mark>).
 
 #### Trait
-Un trait est un indicateur qu'un don, une action, un objet, un sort, un monstre ou un autre élément de règles suit des règles spéciales définies par ce trait ou intéragit avec d'autres règles d'une manière particulière. Par exemple, un sort de feu ou un monster fait de feu possède le trait feu. Voir les [Traits](traits.html).
+Un trait est un indicateur qu'un don, une action, un objet, un sort, un monstre ou un autre élément de règles suit des règles spéciales définies par ce trait ou interagit avec d'autres règles d'une manière particulière. Par exemple, un sort de feu ou un monstre fait de feu possède le trait feu. Voir les [Traits](traits.html).
 
 #### Unique
 La rareté "unique" s'applique aux choses dont il n'existe qu'un seul exemplaire. Comme les règles du playtest ne comportent pas d'artefacts, aucune description n'est de rareté unique, mais certains monstres du playtest sont uniques. Si quelque chose est unique, son niveau est indiqué en bleu clair (la teinte la plus claire des raretés dans le cas de documents en noir et blanc).
