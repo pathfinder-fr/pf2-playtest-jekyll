@@ -1,5 +1,5 @@
 ---
-title: Sang des ancêtres
+title: Sang des ancients
 titleEN: Ancient's Blood
 source: "Playtest Pathfinder"
 layout: block

@@ -145,7 +145,7 @@ Quand vous savez que votre action ou capacité résulte en une réussite, vous p
 
 Les effets de chance et de malchance peuvent modifier la manière dont vous lancer des dés. Ces capacités vous permettent de relancer un jet raté, vous contraignent à relancer les dés en cas de test réussi, vous permettent de lancer deux fois les dés et de prendre le meilleur résultat ou encore vous contraignent à lancer les dés deux fois et à prendre le moins bon résultat.
 
-Vous ne pouvez jamais appliquer plus d'un effet de chance ou de malchance sur un jet donné. Par exemple, si vous lancez les dés deux fois et prenez le meilleur résultat, vous ne pouvez pas utiliser Chance du halfling pour relancer si vous échez. Dans les cas où plusieurs effets de chance devraient normalement s'appliquer, vous devez choisir celui que vous voulez utiliser. Quand deux effets de malchance devraient normalement s'appliquer, le MJ décide lequel des deux est le pire et sera d'application.
+Vous ne pouvez jamais appliquer plus d'un effet de chance ou de malchance sur un jet donné. Par exemple, si vous lancez les dés deux fois et prenez le meilleur résultat, vous ne pouvez pas utiliser [Halfling chanceux](../donsascendance/halfling-chanceux.md) pour relancer si vous échez. Dans les cas où plusieurs effets de chance devraient normalement s'appliquer, vous devez choisir celui que vous voulez utiliser. Quand deux effets de malchance devraient normalement s'appliquer, le MJ décide lequel des deux est le pire et sera d'application.
 
 Si vous êtes le sujet à la fois d'un effet de chance et d'un effet de malchance pour le même lancer, les deux effets s'annulent mutuellement et vous effectuez le lancer normalement.
 
