@@ -24,4 +24,4 @@ requirements:
 summary: "un sortilège arcanique devient un sort inné, lançable à volonté"
 ---
 
-Choisissez un sortilège dans la liste des sorts arcaniques (voir page <mark>199</mark>). Vous pouvez lancer ce sortilège à volonté comme un sort arcanique inné. Le niveau du sortilège est élevé jsuqu'à la moitié de votre niveau arrondie à l'unité supérieure. Pour plus d'informations sur les sorts, voir page <mark>192</mark>.
+Choisissez un sortilège dans la liste des sorts arcaniques (voir page <mark>199</mark>). Vous pouvez lancer ce sortilège à volonté comme un sort arcanique inné. Le niveau du sortilège est élevé jusqu'à la moitié de votre niveau arrondie à l'unité supérieure. Pour plus d'informations sur les sorts, voir page <mark>192</mark>.

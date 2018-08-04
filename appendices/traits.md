@@ -518,6 +518,11 @@ Def
 #### Potion
 Def
 
+#### Pousser
+Def
+
+
+
 
 #### Prestige
 Def
@@ -546,9 +551,6 @@ Def
 #### Rage
 Def
 
-
-#### Repousser
-Def
 
 
 #### Revers
