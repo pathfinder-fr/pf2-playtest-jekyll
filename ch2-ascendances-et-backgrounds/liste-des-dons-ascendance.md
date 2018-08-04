@@ -2,7 +2,7 @@
 title: Liste des dons d'ascendance
 layout: liste
 collection: donsascendance
-includeSource: true
+includeSource: false
 cols:
   - title: "Niveau"
     attribute: level

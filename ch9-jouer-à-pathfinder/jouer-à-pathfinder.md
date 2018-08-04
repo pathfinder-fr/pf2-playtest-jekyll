@@ -5,7 +5,7 @@ layout: default
 ---
 
 
-Les aventures Pathfinder vous emmèneront vers de nouvelles contrées, vous plongeront dans des conflits avec des monstres et des rivaux maléfiques et vous permettront de rencontrer de nouveaux amis et alliés. Les règles principales qui indiquent comment vos décisions et actions affecteront le monde qui vous entoure sont décrites dans ce chapitre.
+Les aventures Pathfinder vous emmèneront vers de nouvelles contrées, vous plongeront dans des conflits avec des monstres et des rivaux maléfiques et vous permettront de rencontrer de nouveaux amis et alliés. Les règles principales qui indiquent comment vos décisions et actions modifieront le monde qui vous entoure sont décrites dans ce chapitre.
 
 Avant de parler de la manière de jouer, il est important de comprendre les trois différents modes de jeu, qui dépendent de l'histoire et du rythme de l'aventure. Chaque mode de jeu correspond à un rythme différent pour le passage du temps dans le monde de jeu et à un niveau de risques différent pour les joueurs. C'est au Maître du jeu qu'il revient de déterminer quel mode de jeu convient le mieux pour ce que les personnages font ; c'est lui qui contrôle les transitions entre les modes. Chaque mode possède ses propres règles pour résoudre les actions et les activités.
 

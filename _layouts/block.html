@@ -3,7 +3,8 @@ layout: default
 ---
 <blockquote class="block">
     <h3>
-        {% case page.action %}
+        {% assign action = page.action | append: "" %}
+        {% case action %}
         {% when '1' %}
             <img class="action-icon" src="../images/1action.png"
             title="1 action" />
