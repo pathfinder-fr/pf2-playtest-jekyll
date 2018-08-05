@@ -7,7 +7,7 @@ layout: block
 #PARTIE PROPRE AUX BLOCS TECHNIQUES
 
 #Action: (rien), 1/2/3 (1/2/3 action[s]), R (réaction), L (action libre)
-action: 1
+action: L
 type: don
 level: 1
 #Rareté : C (commun), PC (peu commun), R (rare), U (unique)
