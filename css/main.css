@@ -53,22 +53,27 @@ dd {
 
 blockquote.block.action1 h3::before {
     content: url("../images/1action.png");
+    padding-right: .2rem;
 }
 
 blockquote.block.action2 h3::before {
-    content: url("../images/3actions.png");
+    content: url("../images/2actions.png");
+    padding-right: .2rem;
 }
 
 blockquote.block.action3 h3::before {
     content: url("../images/3actions.png");
+    padding-right: .2rem;
 }
 
 blockquote.block.reaction h3::before {
     content: url("../images/réaction.png");
+    padding-right: .2rem;
 }
 
 blockquote.block.actionlibre h3::before {
     content: url("../images/actionlibre.png");
+    padding-right: .2rem;
 }
 
 
