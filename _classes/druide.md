@@ -33,7 +33,7 @@ Blah blah blah... description du druide
 {:.bloc .action2}
 > ### Forme élémentaire **Don 10**
 > *Druide, Ordre sauvage*  
-> **Conditions** Forme sauvage
+> **Condition** Forme sauvage
 > 
 > ---
 > Vous pouvez lancer forme élémentaire en dépensant un point de votre réserve
@@ -44,7 +44,7 @@ Blah blah blah... description du druide
 {:.bloc .action1}
 > ### Forme élémentaire **Don 10**
 > *Druide, Ordre sauvage*  
-> **Conditions** Forme sauvage
+> **Condition** Forme sauvage
 > 
 > ---
 > Vous pouvez lancer forme élémentaire en dépensant un point de votre réserve

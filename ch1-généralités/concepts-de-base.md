@@ -141,7 +141,7 @@ un ou plusieurs traits ; pour en savoir plus sur les traits, référez-vous à [
 > **Déclencheur** Les réactions et les actions libres possèdent des déclencheurs qui doivent se produire avant qu'elles
 > ne puissent être utilisées. Le déclencheur est indiqué ici.
 > 
-> **Conditions** Parfois, vous devez posséder un objet spécifique ou être dans des circonstances spécifiques pour pouvoir
+> **Condition** Parfois, vous devez posséder un objet spécifique ou être dans des circonstances spécifiques pour pouvoir
 > utiliser une capacité. Si c'est le cas, ces conditions sont citées dans cette section.
 > 
 > ---

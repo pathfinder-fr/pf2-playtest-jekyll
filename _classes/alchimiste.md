@@ -35,7 +35,7 @@ Blah blah blah... description de l'alchimiste
 > 
 > **Coût** 1 point de résonance
 > 
-> **Conditions** Vous devez posséder des outils d'alchimiste (voir <mark>page 184</mark>), la formule de l'objet alchimique que vous créez et une main libre.
+> **Condition** Vous devez posséder des outils d'alchimiste (voir <mark>page 184</mark>), la formule de l'objet alchimique que vous créez et une main libre.
 > 
 > ---
 >
