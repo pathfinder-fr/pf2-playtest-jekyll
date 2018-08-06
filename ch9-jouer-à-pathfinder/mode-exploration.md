@@ -71,7 +71,6 @@ Vous maintenez actif un sort qui demande de la concentration et vous déplacez �
 ### Suivre des traces
 Vous Pistez des créatures en suivant leurs traces et en vous déplaçant à la moitié de votre Vitesse de voyage.
 
-
 ## Tactiques sociales
 Le mode "exploration" ne recouvre pas seulement les situations où vous vous voyagez dans des terres sauvages ou explorez un donjon : on peut également l'utiliser en ville lors d'une visite au marché ou d'un échange de paroles avec des nobles pendant la fête de la reine. Utilisez les idées suivantes comme sources d'inspiration pour décrire vos actions dans un cadre urbain ou social.
 

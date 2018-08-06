@@ -43,7 +43,7 @@ Les hommes sont généralement plus larges que les femmes et beaucoup d'hommes o
 La distance entre les citadelles montagnardes naines a créé un vaste fossé culturel mais de nombreux nains partagent une passion pour l'architecture, le travail des gemmes, la forge, la mine et la sculpture de la pierre. Les nains révèrent la justice, l'honneur et les traditions de leurs clans et de leurs royaumes.
 Peu de nains sont vus sans une dague de clan, une arme forgée juste avant leur naissance et portant une gemme du clan.
 
-## Aventuriers Nains:
+## Les aventuriers nains:
 Certains backgrounds sont particulièrement adaptés aux nains. Vous pourriez considérer un background d'acolyte si vous avez des tendances religieuses, le background de nomade si vous voyagez loin de votre foyer, ou le background de combattant si vous avez été élevé pour défendre une communauté naine. Les background de tavernier, forgeron, paysan et marchand correspondent aussi a la façon de vivre des nains.
 
 Les nains excellent dans beaucoup de classes martiales, comme le barbare, le guerrier, le moine, le rôdeur, mais ils font également d'excellents prêtres ou druides.

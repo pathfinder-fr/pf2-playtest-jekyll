@@ -25,4 +25,4 @@ requirements:
 summary: "gagne une résistance au poison ; réduit plus facilement les effets du poison"
 ---
 
-Votre corps est doté d'une vigueur intense et vous pouvez ignorer les toxines qui auraient terrassé d'autres personnes. Vous gagnez une résistance au poison égale à la moitié de votre niveau (minimum 1), et chaque jet de sauvegarde reussi contre un poison réduit son stade de 2 unités, ou de 1 unité pour un poison virulent. Chaque réussite critique contre un poison continu réduit son stade de 3, ou de 2 pour un poison virulent.
+Votre corps est doté d'une vigueur intense et vous pouvez ignorer les toxines qui auraient terrassé d'autres personnes. Vous gagnez une résistance au poison égale à la moitié de votre niveau (minimum 1), et chaque jet de sauvegarde reussi contre un poison réduit son stade de 2 unités, ou de 1 unité pour un poison virulent. Chaque réussite critique contre un poison réduit son stade de 3, ou de 2 pour un poison virulent.

@@ -37,4 +37,5 @@ Les sections suivantes s'intéressent à des règles générales que tous les jo
 * <a href="{{ '/ch9-jouer-à-pathfinder/mode-temps-libre.html' | relative_url }}"><strong>Mode "temps libre"</strong></a>
 
 * <a href="{{ '/ch9-jouer-à-pathfinder/conditions.html' | relative_url }}">Les conditions</a>
+* <a href="{{ '/ch9-jouer-à-pathfinder/liste-des-conditions.html' | relative_url }}">Liste des conditions</a>
 * <a href="{{ '/ch9-jouer-à-pathfinder/afflictions.html' | relative_url }}">Les afflictions</a>

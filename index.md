@@ -64,6 +64,7 @@ layout: default
 * <a href="{{ '/ch9-jouer-à-pathfinder/mode-exploration.html' | relative_url }}">Mode "exploration"</a>
 * <a href="{{ '/ch9-jouer-à-pathfinder/mode-temps-libre.html' | relative_url }}">Mode "temps libre"</a>
 * <a href="{{ '/ch9-jouer-à-pathfinder/conditions.html' | relative_url }}">Les conditions</a>
+* <a href="{{ '/ch9-jouer-à-pathfinder/liste-des-conditions.html' | relative_url }}">Liste des conditions</a>
 * <a href="{{ '/ch9-jouer-à-pathfinder/afflictions.html' | relative_url }}">Les afflictions</a>
 
 

@@ -54,6 +54,9 @@ collections:
   donsclasse:
     output: true
     category: ['don', 'don-classe']
+  conditions:
+    output: true
+    category: ['condition']
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

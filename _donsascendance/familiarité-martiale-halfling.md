@@ -24,8 +24,8 @@ requirements:
 summary: "Ent avec les armes halflings, accès facilités aux armes halflings"
 ---
 
-Vous privilégiez les armes traditionelles halflings. Vous êtes entraîné avec les frondes, les fustibales et les épées courtes. 
+Vous privilégiez les armes traditionelles halflings. Vous êtes entraîné avec les frondes, les fustibales et les épées courtes. De plus, vous gagnez accès à toutes les armes halflings peu communes. 
 
-De plus, vous gagnez accès à toutes les armes halflings peu communes. Pour déterminer votre degré de formation, vous traitez toutes les armes martiales halflings comme des armes simples et les armes exotiques halflings comme des armes martiales.
+Pour déterminer votre degré de formation, vous traitez toutes les armes martiales halflings comme des armes simples et les armes exotiques halflings comme des armes martiales.
 
 Pour plus d'informations sur les armes, voir page <mark>178</mark>.
