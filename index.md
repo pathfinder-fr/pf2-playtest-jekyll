@@ -45,6 +45,14 @@ layout: default
 * <a href="{{ '/ch4-compétences/survie.html' | relative_url }}">Survie</a>
 * <a href="{{ '/ch4-compétences/tromperie.html' | relative_url }}">Tromperie</a>
 
+#### Progression et options
+
+* [Progression et options](/ch8-progression-et-options/progression-et-options.html)
+* [Gagner un niveau](/ch8-progression-et-options/gagner-un-niveau.html)
+* [Archétypes](/ch8-progression-et-options/archétypes.html)
+* [Compagnons animaux et familiers](/ch8-progression-et-options/compagnons-animaux.html)
+* [Divinités](/ch8-progression-et-options/divinités.html)
+
 #### Jouer à Pathfinder
 
 * <a href="{{ '/ch9-jouer-à-pathfinder/jouer-à-pathfinder.html' | relative_url }}">Jouer à Pathfinder</a>
