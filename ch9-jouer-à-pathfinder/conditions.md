@@ -31,7 +31,7 @@ Les capacités qui enlèvent une condition la suppriment entièrement, quelle qu
 
 Certaines conditions en cachent d'autres, comme indiqué dans les descriptions des conditions. Tous les effets de la condition cachée sont supprimés jusqu'à ce que la condition qui cache se termine. Les durées liées à la condition cachée continuent de diminuer et celle-ci pourrait bel et bien se terminer alors qu'elle est encore cachée.
 
-## Contrer des conditions
+## Contrer une condition
 
 Certaines capacités contrent des conditions, des [afflictions](#afflictions) et d'autres effets. Quand vous tentez de contrer un effet, comparez le niveau de puissance de l'effet avec celui de la capacité que vous utlisez. Le niveau de puissance d'un sort est égal à son niveau de sort ; pour les niveaux de puissance des autres capacités, consultez la table ci-dessous.
 

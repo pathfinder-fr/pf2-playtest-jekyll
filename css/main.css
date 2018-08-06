@@ -105,7 +105,7 @@ blockquote.block h3 strong {
 
 blockquote.block p,
 blockquote.block hr {
-    margin: 2px 0;
+    margin: 4px 0;
 }
 
 blockquote.block .traits {

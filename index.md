@@ -56,6 +56,13 @@ layout: default
 
 #### Sorts 
 
+* [Sorts](/ch7-sorts/sorts.html)
+* [Sorts préparés, spontanés, innés, pouvoirs et sortilèges](/ch7-sorts/types-de-sorts.html)
+* [Traditions, écoles et traits magiques](/ch7-sorts/traditions-écoles-traits.html)
+* [Lancer un sort](/ch7-sorts/lancer un sort.html)
+* [Format de description des sorts](/ch7-sorts/description-des-sorts.html)
+* [Liste des sorts](/ch7-sorts/liste-des-sorts.html)
+
 #### Progression et options
 
 * [Progression et options](/ch8-progression-et-options/progression-et-options.html)
