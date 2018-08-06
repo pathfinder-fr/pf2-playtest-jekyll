@@ -3,6 +3,7 @@ title: "Confus"
 titleEN: "Confused"
 source: "Playtest Pathfinder"
 layout: condition
+summary: "attaque le dernier attaquant ou agit aléatoirement (voir tableau)"
 ---
 
 Vous n'avez pas les idées claires et vous agissez sans réfléchir. Vous ne pouvez pas utiliser de réactions, vous ne pouvez pas [Retarder](/ch9-jouer-à-pathfinder/actions-de-base.html#retarder) ni [Préparer](/ch9-jouer-à-pathfinder/actions-de-base.html#préparer). Lors de chacun de vos tours, vous devez utiliser vos actions pour attaquer la créature qui vous a attaqué le plus récemment depuis votre tour précédent. Le MJ pourrait vous permettre d'utiliser des actions pour dégainer une arme, vous déplacer pour vous rapprocher de la créature en question etc. pour autant que l'action corresponde à l'objectif final d'effectuer l'attaque prévue.

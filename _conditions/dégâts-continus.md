@@ -3,6 +3,7 @@ title: "Dégâts continus"
 titleEN: "Persistent Damage"
 source: "Playtest Pathfinder"
 layout: condition
+summary: "dégâts en fin de tour et pur DD 20 pour y mettre fin (ou 15 avec action)"
 ---
 
 Les dégâts continus proviennent d'effets tels que l'acide ou le feu et son présentés sous la forme "X points de dégâts continus de [type]" où X est la quantité de dégâts et [type] est le type de dégâts. Si vous êtes affecté par des dégâts continus, à la fin de chacun de vos tours, vous subissez la quantité de dégâts indiquée, après quoi vous pouvez tenter un [test pur](/ch9-jouer-à-pathfinder/tests.html#tests-purs) de DD 20 pour supprimer vous débarrasser de la condition. Vous lancez les dés de dégâts chaque fois que vous subissez les dégâts continus. Les immunités, résistances et faiblesses s'appliquent aux dégâts continus. Si un effet inflige des dégâts immédiatement ainsi que des dégâts continus, vous ne subissez pas les dégâts continus si les autres dégâts n'ont pas été appliqués parce qu'ils ont été annulés. Par exemple, une attaque qui inflige des dégâts tranchants et des dégâts continus de siagnement n'infligerait pas les dégâts continus de saignement si vous aviez bloqué tous les dégâts tranchants.

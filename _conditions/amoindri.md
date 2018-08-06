@@ -3,6 +3,7 @@ title: "Amoindri"
 titleEN: "Enervated"
 source: "Playtest Pathfinder"
 layout: condition
+summary: "pénalité aux modificateurs de formation et au niveau"
 ---
 
 Amoindri vous rend moins compétent, comme si l'expérience que vous avez si durement accumulée avait été drainée. Amoindri est toujours accompagné d'une valeur. Vous subissez une pénalité de condition égale à cette valeur aux tests qui incluent un modificateur de formation. La pénalité ne peut pas dépasser votre niveau, même si la valeur d'amoindri est plus grande. Par exemple, si vous devenez amoindri 4 et que vous êtes niveau 3, vous ne subiriez qu'une pénalité de -3.

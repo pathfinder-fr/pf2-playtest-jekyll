@@ -3,6 +3,7 @@ title: "Nauséeux"
 titleEN: "Sick"
 source: "Playtest Pathfinder"
 layout: condition
+summary: "pénalité à tous les tests, ne peut rien avaler, hauts-le-coeur pour tenter de réduire"
 ---
 
 Vous vous sentez nauséeux. Nauséeux s'accompagne toujours d'une valeur. Vous subissez une pénalité de condition égale à cette valeur sur tous vos tests. Il vous est impossible d'ingérer quoi que ce soit de manière volontaire (y compris une potion) quand vous êtes nauséeux.
