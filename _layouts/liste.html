@@ -2,7 +2,7 @@
 layout: default
 ---
 {{ content }}
-{% assign my_collection = site[page[collection]] | sort: 'title' %}
+{% assign my_collection = site[page[collection]] | sort_ignore_accent_marks: "title" %}
 
 <table class="table table-sm table-striped table-hover">
     <thead class="thead-light">

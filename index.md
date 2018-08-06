@@ -45,6 +45,17 @@ layout: default
 * <a href="{{ '/ch4-compétences/survie.html' | relative_url }}">Survie</a>
 * <a href="{{ '/ch4-compétences/tromperie.html' | relative_url }}">Tromperie</a>
 
+#### Équipement
+
+* [Règles générales](/ch6-équipement/règles-générales.html)
+* [Armures et boucliers](/ch6-équipement/armures-et-boucliers.html)
+* [Armes](/ch6-équipement/armes.html)
+* [Équipement](/ch6-équipement/équipement.html)
+* [Qualité des objets](/ch6-équipement/qualité-des-objets.html)
+* [Objets et tailles](/ch6-équipement/objets-et-tailles.html)
+
+#### Sorts 
+
 #### Progression et options
 
 * [Progression et options](/ch8-progression-et-options/progression-et-options.html)
