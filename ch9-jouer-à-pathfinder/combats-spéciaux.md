@@ -17,7 +17,7 @@ Par exemple, si vous chevauchez un cheval et que vous portez trois attaques, vot
 
 ### Attaques montées
 
-Vous et votre monture combattez ensemble. Vous partagez donc la même pénalité d'attaque multiple. Par exemple, si vous Frappez puis Donner à votre monture l'ordre de Frapper, l'attaque de votre monture subit une pénalité d'attaque multiple de -5.
+Vous et votre monture combattez ensemble. Vous partagez donc la même pénalité d'attaques multiples. Par exemple, si vous Frappez puis Donner à votre monture l'ordre de Frapper, l'attaque de votre monture subit une pénalité d'attaques multiples de -5.
 
 Vous agissez comme si vous vous trouviez dans n'importe quelle case de l'espace occupé par votre monture lorsque vous portez vos propres attaques. Cela signifie que, en tant que créature de taille Moyenne, vous pouvez attaquer une créature située d'un côté de votre monture puis attaquer une créature de l'autre côté de votre monture avec votre action suivante. Si vous avez une allonge, la distance de votre allonge dépend entre autres de la taille de votre monture. Dans le cas d'une monture de taille Moyenne ou moins, utilisez votre allonge normale. Si vous chevauchez une Grande ou Très Grande monture, vous pouvez attaquer n'importe quelle case adjacente à votre monture si vous possédez une allonge de 1 ou 2 cases, ou n'importe quelle case située à 2 cases ou moins de votre monture (y compris en diagonale) si vous avez une allonge de 3 cases.
 

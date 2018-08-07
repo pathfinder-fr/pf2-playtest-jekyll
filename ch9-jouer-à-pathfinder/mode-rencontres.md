@@ -85,11 +85,11 @@ La **Frappe** est une action possédant le trait attaque et vous permettant d'at
 
 Vous devez attaquer une créature qui se trouve dans votre allonge si vous utilisez une arme de corps à corps ou une attaque sans arme, ou une créature qui est à portée si vous utilisez une arme à distance. Votre allonge est la distance que vous pouvez atteindre en tendant une partie de votre corps pour porter une attaque sans arme ou la distance maximale que vous pouvez atteindre avec une arme de corps à corps. L'allonge est généralement de 1 case mais des armes spéciales et des créatures plus grandes peuvent avoir des allonges plus longues. La portée est la distance que vous pouvez atteindre avec une arme à distance ou avec une attaque magique. Différentes armes et attaques magiques possèdent des portées maximales différentes, et les armes à distance deviennent de moins en moins efficaces quand vous dépassez leur incrément de portée.
 
-Frapper plusieurs fois est également de plus en plus difficile. La pénalité d'attaque multiple s'applique aux attaques après la première, qu'il s'agisse de Frappes, d'attaques spéciales comme Agripper (via la compétence d'Athlétisme) ou des attaques provenant d'un sort.
+Frapper plusieurs fois est également de plus en plus difficile. La pénalité d'attaques multiples s'applique aux attaques après la première, qu'il s'agisse de Frappes, d'attaques spéciales comme Agripper (via la compétence d'Athlétisme) ou des attaques provenant d'un sort.
 
-#### Pénalité d'attaque multiple
+#### Pénalité d'attaques multiples
 
-Les attaques sont particulièrement épuisantes et deviennent de moins en moins efficaces quand vous en utilisez plusieurs au cours d'un même tour. La deuxième fois que vous utilisez une action d'attaque (tout ce qui possède le trait attaque) pendant votre tour, vous subissez une pénalité de -5 à votre jet d'attaque. Votre troisième attaque (et les suivantes si vous pouvez en porter d'autres) subissent une pénalité de -10. Cette pénalité est appellée la pénalité d'attaque multiple. Elle ne s'applique que pendant votre tour et retombe à 0 à la fin de votre tour. Les attaques que vous portez en-dehors de votre tour pourraient cependant subir d'autres pénalités spécifiques.
+Les attaques sont particulièrement épuisantes et deviennent de moins en moins efficaces quand vous en utilisez plusieurs au cours d'un même tour. La deuxième fois que vous utilisez une action d'attaque (tout ce qui possède le trait attaque) pendant votre tour, vous subissez une pénalité de -5 à votre jet d'attaque. Votre troisième attaque (et les suivantes si vous pouvez en porter d'autres) subissent une pénalité de -10. Cette pénalité est appellée la pénalité d'attaques multiples. Elle ne s'applique que pendant votre tour et retombe à 0 à la fin de votre tour. Les attaques que vous portez en-dehors de votre tour pourraient cependant subir d'autres pénalités spécifiques.
 
 #### Activités en mode "rencontres"
 
@@ -113,13 +113,13 @@ Certaines réactions sont conçues pour être utilisées avant tout en combat et
 > 
 > ---
 > 
-> Effectuez une Frappe de corps à corps contre la créature déclencheur avec une pénalité de -2. Si l'attaque touche et que l'action déclencheur était une action de manipulation, vous la perturbez. Cette Frappe n'est pas prise en compte pour le calcul de votre pénalité d'attaque multiple, et votre pénalité d'attaque multiple ne s'applique pas pour elle.
+> Effectuez une Frappe de corps à corps contre la créature déclencheur avec une pénalité de -2. Si l'attaque touche et que l'action déclencheur était une action de manipulation, vous la perturbez. Cette Frappe n'est pas prise en compte pour le calcul de votre pénalité d'attaques multiples, et votre pénalité d'attaques multiples ne s'applique pas pour elle.
 
 Cette réaction vous permet d'effectuer une Frappe au corps à corps si une créature située dans votre portée utilise une action de manipulation, une action de mouvement, effectue une attaque à distance ou quitte une case alors qu'elle effectue une action mouvement. Le diagramme suivant présente des exemples de mouvements qui pourraient déclencher une Attaque d'opportunité de la part d'une créature avec ou sans allonge.
 
 <mark>XXX DIAGRAMME PAGE 306 XXX</mark>
 
-Vous remarquerez que cette réction vous permet d'utiliser une action de base modifiée, une Frappe. C'est une application des règles sur les [dépendances](actions-et-activités.html#dépendances). Comme une Attaque d'opportunité est une Frappe rapide et opportuniste, vous subissez une pénalité de -2 quand vous l'utilisez et, même s'il s'agit d'une action d'attaque, elle ne subit pas de pénalité d'attaque multiple sur le jet d'attaque. 
+Vous remarquerez que cette réction vous permet d'utiliser une action de base modifiée, une Frappe. C'est une application des règles sur les [dépendances](actions-et-activités.html#dépendances). Comme une Attaque d'opportunité est une Frappe rapide et opportuniste, vous subissez une pénalité de -2 quand vous l'utilisez et, même s'il s'agit d'une action d'attaque, elle ne subit pas de pénalité d'attaques multiples sur le jet d'attaque. 
 
 ### Étape 3 : Finissez votre tour
 

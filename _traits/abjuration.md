@@ -1,7 +1,9 @@
 ---
-title: "Affaibli"
-titleEN: "Enfeebled"
+title: "Abjuration"
+titleEN: "Abjuration"
 source: "Playtest Pathfinder"
 layout: trait
+summary: "lié à l'école de magie abjuration"
 ---
 
+Les effets et objets magiques portant ce trait sont liés à l'école de magie d'abjuration, qui concerne généralement les protections, la surveillance et les contre-sorts.

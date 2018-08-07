@@ -97,7 +97,7 @@ Vous pouvez utiliser la réaction Attaque d'opportunité
 > Guerrier</br>
 > **Déclencheur** Une créature située dans votre portée utilise une action de manipulation ou une action de déplacement, effectue une frappe à distance ou quitte une case pendant une action de mouvement.</br>
 >
-> Portez une attaque de corps à corps contre la créature déclencheur avec une pénalité de -2. Si l'attaque touche et que le déclencheur était une action de manipulation, vous interrompez cette action. Cette Frappe n'est pas prise en compte lors du calcul de la pénalité d'attaque multiple, et votre pénalité d'attaque multiple ne s'applique pas à elle.
+> Portez une attaque de corps à corps contre la créature déclencheur avec une pénalité de -2. Si l'attaque touche et que le déclencheur était une action de manipulation, vous interrompez cette action. Cette Frappe n'est pas prise en compte lors du calcul de la pénalité d'attaques multiples, et votre pénalité d'attaques multiples ne s'applique pas à elle.
 
 ## Dons de compétence
 

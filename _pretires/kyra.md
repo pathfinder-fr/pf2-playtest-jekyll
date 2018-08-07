@@ -37,7 +37,7 @@ ascendance: humain
 
 * **S'avancer** 4 cases
 * **Frappe en corps à corps** cimeterre, +3 (balayage, élan) ; Dégâts 1d6+2 tranchant
-* **Frappe à distance** fronde, +2 (portée 10 cases, propulsion, recharger 1 action) ; Dégâts 1d6+1 contondant
+* **Frappe à distance** fronde, +2 (portée 10 cases, propulsé, recharger 1 action) ; Dégâts 1d6+1 contondant
 * **Frappe à distance** rayon de feu, +2 contact (invocation, feu) ; Dégâts 1d6 feu + 4 feu
 
 ## Sorts
@@ -229,5 +229,5 @@ Les traits suivants apparaissent dans votre équipement.
 > Quand vous attaquez avec cette arme, vous gagnez un bonus de circonstances de +1 au jet d'attaque si vous avez déjà tenté une attaque au cours de ce tour contre une créature autre que la cible actuelle de votre attaque.
 
 {:.trait}
-> ### Propulsif
+> ### Propulsé
 > Ajoutez la moitié de votre modificateur de Force aux dégâts.

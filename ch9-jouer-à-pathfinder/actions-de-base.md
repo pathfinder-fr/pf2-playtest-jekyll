@@ -124,7 +124,7 @@ Si vous pouvez lancer des sorts, les activités et actions pour le lancement de 
 > 
 > Vous vous préparez à utiliser une action qui se produira en-dehors de votre tour. Choisissez une unique action que vous pouvez utiliser et désignez un déclencheur. Votre tour se termine ensuite. Si le déclencheur que vous avez choisi se produit avant le début de votre prochain tour, vous pouvez utiliser l'action choisie en tant que réaction (pour autant que vous remplissiez encore les conditions pour l'utiliser).
 > 
-> Si vous avez une [pénalité d'attaque multiple](mode-rencontres.html#pénalité-dattaque-multiple) et que votre action préparée est une action d'attaque, votre attaque préparée subit la pénalité d'attaque multiple comme si vous aviez utilisé votre attaque préparée au cours de votre tour. C'est l'une des rares occasions où la pénalité d'attaque multiple s'applique quand ce n'est pas votre tour.
+> Si vous avez une [pénalité d'attaques multiples](mode-rencontres.html#pénalité-dattaques-multiples) et que votre action préparée est une action d'attaque, votre attaque préparée subit la pénalité d'attaques multiples comme si vous aviez utilisé votre attaque préparée au cours de votre tour. C'est l'une des rares occasions où la pénalité d'attaques multiples s'applique quand ce n'est pas votre tour.
 
 {: .block .action1 #recherche }
 > ### Rechercher

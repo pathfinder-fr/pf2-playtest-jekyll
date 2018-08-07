@@ -1,7 +1,8 @@
 ---
-title: "Affaibli"
-titleEN: "Enfeebled"
+title: "Inhalé"
+titleEN: "Inhaled"
 source: "Playtest Pathfinder"
 layout: trait
+summary: "poison activé quand il est inhalé"
 ---
-
+Ce poison s'active quand il est inhalé.
