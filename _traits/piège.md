@@ -1,7 +1,8 @@
 ---
-title: "Affaibli"
-titleEN: "Enfeebled"
+title: "Piège"
+titleEN: "Trap"
 source: "Playtest Pathfinder"
 layout: trait
+summary: "danger ou objet visant à gêner les intrus"
 ---
-
+Un danger ou un objet portant ce trait est positionné ou construit volontairement pour mettre des bâtons dans les roues des intrus.

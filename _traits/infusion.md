@@ -1,5 +1,5 @@
 ---
-title: "infusion"
+title: "Infusion"
 titleEN: "Infused"
 source: "Playtest Pathfinder"
 layout: trait
