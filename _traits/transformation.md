@@ -4,6 +4,8 @@ titleEN: "Morph"
 source: "Playtest Pathfinder"
 layout: trait
 summary: "modifie légèrement la forme d'une créature"
+categories:
+  - "effet"
 ---
 Les sorts qui modifient légèrement la forme d'une créature portent ce trait. Vous pouvez être affecté par plusieurs sorts de transformation en même temps mais si vous transformez la même partie de votre corps plus d'une fois, le premier effet est automatiquement annulé.
 

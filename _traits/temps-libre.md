@@ -4,5 +4,7 @@ titleEN: "Downtime"
 source: "Playtest Pathfinder"
 layout: trait
 summary: "capacité utilisable uniquement en temps libre"
+categories:
+  - "action"
 ---
-Cette capacité peu têtre utilisée seulement pendant le temps libre, entre deux aventures.
+Cette capacité peut être utilisée seulement pendant le temps libre, entre deux aventures.

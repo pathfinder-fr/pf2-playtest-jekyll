@@ -6,6 +6,10 @@ includeSource: false
 cols:
   - title: "VO"
     attribute: titleEN
+  - title: "Catégorie(s)"
+    attribute: categories
+    isAList: yes
+    separator: "<br/>"
   - title: "Résumé"
     attribute: summary
 ---

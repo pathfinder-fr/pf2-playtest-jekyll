@@ -4,6 +4,8 @@ titleEN: "Magical"
 source: "Playtest Pathfinder"
 layout: trait
 summary: "objet possédant une aura magique"
+categories:
+  - "tradition magique"
 ---
 Les objets magiques sont dotés d'énergies magiques. Chacun d'eux possède une aura magique teintée selon son école de magie dominante (abjuration, conjuration, divination, enchantement, évocation, illusion, nécromancie ou transmutation). Un personnage ne peut fabriquer des objets magiques que s'il possède le don Artisanat magique.
 

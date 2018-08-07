@@ -4,6 +4,8 @@ titleEN: "Possession"
 source: "Playtest Pathfinder"
 layout: trait
 summary: "effet permettant d'envahir le corps d'une autre créature"
+categories:
+  - "effet"
 ---
 Les effets qui portent ce trait permettent à une créature de projeter son esprit et sa conscience dans une cible. Une créature immunisée aux effets [mentaux](mental.html) ne peut pas utiliser un effet de possession. Quand une cible est possédée, le corps du possesseur est [inconscient](/conditions/inconscient.html) (et ne peut pas sortir de l'inconscience en utilisant les règles habituelles), à moins que l'effet de possession ne permette à la créature de rentrer physiquement dans la cible. Chaque fois que la cible subit des dégâts, le possesseur des dégâts mentaux égaux à la moitié des dégâts initiaux.
 
