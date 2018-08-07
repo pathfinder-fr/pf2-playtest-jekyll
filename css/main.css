@@ -54,6 +54,21 @@ blockquote.inset {
 
 }
 
+.tabletitle {
+    font-size: 120%;
+    margin-bottom: 2px;
+    text-align: right;
+    text-transform: uppercase;
+    color: #666;
+    font-weight: bold;
+}
+
+.tablenotes {
+    font-size: small;
+    margin-top: -1rem;
+    border-top: 2px solid #dee2e6;
+}
+
 /* BLOCS POURS DONS, SORTS, ... */
 
 blockquote.block.action1 h3::before {

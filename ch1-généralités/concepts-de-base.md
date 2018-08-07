@@ -128,7 +128,9 @@ un ou plusieurs traits ; pour en savoir plus sur les traits, référez-vous à [
 {: .block .action1 }
 > {: .no_toc}
 > ### Nom du don ou de l'action **Niveau**
-> *Traits*
+> 
+> {: .traits}
+> Traits
 > 
 > **Prérequis** Les caractéristiques minimales, dons, degrés de formation et autres conditions que vous devez posséder
 > avant de pouvoir accéder à cet élément sont cités ici. Le niveau de l'élément est également un prérequis.
