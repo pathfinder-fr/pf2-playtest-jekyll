@@ -3,7 +3,9 @@ module Jekyll
         def sort_ignore_accent_marks(input, property = nil, nils = "first")
             raise ArgumentError, "Cannot sort a null object." if input.nil?
             if property.nil?
-                input.sort
+                input.sort { |a,b|
+                  remove_accent_marks(a) <=> remove_accent_marks(b)
+                }
             else
                 if nils == "first"
                 order = - 1

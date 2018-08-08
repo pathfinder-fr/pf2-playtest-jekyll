@@ -15,6 +15,7 @@ rarity: R
 
 traits:
 price: 18 000 po
+ammunition:
 methodOfUse: tenu, 1 main
 bulk: L
 activation:

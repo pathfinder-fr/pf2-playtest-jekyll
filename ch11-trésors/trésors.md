@@ -21,4 +21,5 @@ Il comporte les sections suivantes.
 * [Trappes](trappes.html) : pièges spéciaux généralement fabriqués par des rôdeurs
 * [Objets alchimiques](objets-alchimiques.html) : substances non magiques avec des effets extraordinaires qui sont généralement créés par des alchimistes
 * [Runes](runes.html) : objets qui peuvent être incrustés dans des armes et des armures pour les améliorer ou leur donner des propriétés magiques
+* [Liste des runes](liste-des-runes.html)
 * [Objets magiques](objets-magiques.html) : objets magiques allant des armes magiques aux babioles mineures

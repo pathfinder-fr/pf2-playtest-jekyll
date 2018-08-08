@@ -29,11 +29,11 @@ layout: default
 * <a href="{{ '/ch4-compétences/compétences.html' | relative_url }}">Règles générales</a>
 * <a href="{{ '/ch4-compétences/acrobaties.html' | relative_url }}">Acrobaties</a>
 * <a href="{{ '/ch4-compétences/arcanes.html' | relative_url }}">Arcanes</a>
-* <a href="{{ '/ch4-compétences/art-du-voleur.html' | relative_url }}">Art du voleur</a>
 * <a href="{{ '/ch4-compétences/artisanat.html' | relative_url }}">Artisanat</a>
 * <a href="{{ '/ch4-compétences/athlétisme.html' | relative_url }}">Athlétisme</a>
 * <a href="{{ '/ch4-compétences/diplomatie.html' | relative_url }}">Diplomatie</a>
 * <a href="{{ '/ch4-compétences/discrétion.html' | relative_url }}">Discrétion</a>
+* <a href="{{ '/ch4-compétences/filouterie.html' | relative_url }}">Filouterie</a>
 * <a href="{{ '/ch4-compétences/intimidation.html' | relative_url }}">Intimidation</a>
 * <a href="{{ '/ch4-compétences/médecine.html' | relative_url }}">Médecine</a>
 * <a href="{{ '/ch4-compétences/nature.html' | relative_url }}">Nature</a>

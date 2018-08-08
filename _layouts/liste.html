@@ -2,6 +2,7 @@
 layout: default
 ---
 {{ content }}
+
 {% assign my_collection = site[page[collection]] | sort_ignore_accent_marks: "title" %}
 
 <table class="table table-sm table-striped table-hover">
@@ -32,14 +33,14 @@ layout: default
                             <br/>
                         {%- endif -%}
                         <strong>{{ row.title }}</strong> :
-                        {% if row.isAList %}
-                          {{ item[row.attribute] | join: row.separator }}
+                        {% if row.isAList and item[row.attribute] %}
+                          {{ item[row.attribute] | sort_ignore_accent_marks | join: row.separator }}
                         {% else %}
                             {{ item[row.attribute] }}
                         {%- endif -%}
                     {%- endfor -%}
-                {% elsif col.isAList %}
-                    {{ item[col.attribute] | join: col.separator }}
+                {% elsif col.isAList and item[col.attribute] %}
+                    {{ item[col.attribute] | sort_ignore_accent_marks | join: col.separator }}
                 {% elsif col.isALink %}
                     <a href="
                         {% if item[col.fileName] %}

@@ -17,6 +17,7 @@ traits:
   - évocation
   - magique
 price: 15 000 po
+ammunition:
 methodOfUse: inscruté, arme de corps à corps infligeant des dégâts tranchants
 bulk:
 activation:

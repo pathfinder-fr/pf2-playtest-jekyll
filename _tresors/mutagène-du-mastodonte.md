@@ -20,6 +20,7 @@ traits:
   - mutagène
   - métamorphose
 price: 90 po
+ammunition:
 methodOfUse: tenu, 1 main
 bulk: L
 activation: 

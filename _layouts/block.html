@@ -63,6 +63,12 @@ layout: default
             {{ page.price }}<br/>
         </p>
     {%- endif -%}
+    {% if page.ammunition %}
+        <p>
+            <strong>Munition</strong>
+            {{ page.ammunition }}<br/>
+        </p>
+    {%- endif -%}
     {% if page.methodOfUse %}
         <p>
             <strong>Méthode d'utilisation</strong>
@@ -129,7 +135,7 @@ layout: default
         </p>
     {%- endif -%}
 <!-- Description -->
-    {% if page.traits or page.prerequisites or page.frequency or page.cost or page.trigger or page.requirements or page.price or page.methodOfUse or page.bulk or page.activation or page.onset %}
+    {% if page.traits or page.prerequisites or page.frequency or page.cost or page.trigger or page.requirements or page.price or page.ammunition or page.methodOfUse or page.bulk or page.activation or page.onset %}
         <hr/>
     {%- endif -%}
     {{content}}
