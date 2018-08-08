@@ -95,6 +95,12 @@ layout: default
 
 #### Maîtriser à Pathfinder
 
+* [Préparer une session de jeu](/ch10-maîtriser-à-pathfinder/préparer-une-session-de-jeu.html)
+* [Gérer les modes de jeu](/ch10-maîtriser-à-pathfinder/gérer-les-modes-de-jeu.html)
+* [Degrés de difficulté](/ch10-maîtriser-à-pathfinder/degrés-de-difficulté.html)
+* [Récompenses](/ch10-maîtriser-à-pathfinder/récompenses.html)
+* [Environnement](/ch10-maîtriser-à-pathfinder/environnement.html)
+
 #### Trésors
 
 * [Les trésors](/ch11-trésors/trésors.html)

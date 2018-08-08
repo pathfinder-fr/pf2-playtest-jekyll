@@ -25,56 +25,65 @@ signatureSkills:
   - Médecine
 ---
 
+* Liste pour toc
+{:toc .float-right .ml-2}
+
 *Il n'y a pas de plus beau spectacle qu'un étrange brassage bouillonnant dans les fioles de votre laboratoire, et vous consommez vos diverses créations avec abandon. Vous êtes peut-être fasciné par la découverte des secrets de la magie et de la science, ou vous aimez peut-être simplement regarder des réactions chimiques volatiles. Quoi qu’il en soit, vous expérimentez constamment dans votre laboratoire ou en déplacement avec des concoctions inventives peaufinées pour toute éventualité. Avec votre intrépidité face au risque, votre chemin unique vers la grandeur passe notamment par l'Artisanat alchimique qui pousse votre esprit et votre corps jusqu'à leurs limites.*
 
 ## Jouer un alchimiste
-Les joueurs ayant un personnage alchimiste peuvent  approcher le gameplay des manières suivantes:
+
+Les joueurs qui incarnent un personnage alchimiste pourraient adopter les approches suivantes :
+
 * Pendant un combat, vous lancez des bombes sur vos ennemis et les harcelez tout en soutenant vos compagnons avec vos élixirs puissants. Aux niveaux supérieurs, vous durcissez votre corps en utilisant des mutagènes.
 * Lors de rencontres sociales, vous fournissez des connaissances et de l’expérience sur les objets alchimiques et les secrets connexes, tels que les poisons et les maladies.
 * Pendant des phases d'exploration, vous gardez un oeil sur d'éventuels problèmes, bombes prêtes, tout en prodiguant des conseils sur tout ce qui concernent l'alchimique et les choses mystérieuses.
 * Pendant les pauses, vous passez du temps dans un laboratoire alchimique à préparer des élixirs, à fabriquer des bombes et à approfondir vos connaissances alchimiques.
 
-## Interpréter le rôle d'un alchimiste
+## Le rôle d'un alchimiste
 Les alchimistes recherchent avant tout l'innovation scientifique, combinant des pouvoirs incroyables issus de la nature grâce à leur intelligence vive et leur insatiable curiosité.
 
-### Si vous êtes alchimiste, vous allez probablement ...
-* Vous amuser avec des formules étranges et des réactifs alchimiques, souvent avec un dévouement et une insouciance qui offre aux autres une pause.
-* Faire des ravages avec les préparations alchimiques que vous avez concoctées, et vous amuser à regarder les choses brûler, se dissoudre, geler et vibrer.
-* Expérimenter sans cesse à la recherche de nouveaux outils alchimiques et magiques plus puissants.
+**Si vous êtes un alchimiste, alors, très probablement...**
+* vous vous amusez avec des formules étranges et des réactifs alchimiques, souvent avec un dévouement et une insouciance qui offrent aux autres une pause.
+* vous faites des ravages avec les préparations alchimiques que vous avez concoctées, et vous vous amusez à regarder les choses brûler, se dissoudre, geler et vibrer.
+* vous expérimentez sans cesse à la recherche de nouveaux outils alchimiques et magiques plus puissants.
 
-### Les autres vont probablement ...
-* Penser que vous êtes au minimum étrange. Ils ne vont pas votre comprendre votre zèle pour l’alchimie, la créativité et l’invention.
-* Craindre que vos créations ne soient dangereuses, volatiles, ou les deux.
-* Supposer que si vous n’avez pas encore causé de catastrophe avec vos expérimentations, vous le ferez inévitablement.
-* Penser que vous êtes une sorte de sorcier ou de magicien excentrique. Ils ne comprendront pas que vous n'êtes pas un lanceur de sorts; Les vrais lanceurs de sorts qui s'essaient maladroitement à l'alchimie ne font que renforcer ce préjugé.
+**Quant aux autres…**
+* ils pensent que vous êtes au minimum étrange. Ils ne comprennent pas votre zèle pour l’alchimie, la créativité et l’invention.
+* ils craignent que vos créations ne soient dangereuses, volatiles, ou les deux.
+* ils supposent que si vous n’avez pas encore causé de catastrophe avec vos expérimentations, vous le ferez inévitablement.
+* ils pensent que vous êtes une sorte de sorcier ou de magicien excentrique. Ils ne comprennent pas que vous n'êtes pas un lanceur de sorts; Les vrais lanceurs de sorts qui s'essaient maladroitement à l'alchimie ne font que renforcer ce préjugé.
 
 ## Capacités de classe
 
-### Progression de l'alchimiste
+Vous gagnez les capacités suivantes en tant qu'alchimiste. 
 
-{: .table .table-sm }
-| Niveau | Capacités |            
-|:-------|:-------|
-| 1 | [Alchimie avancée](alchimiste.html#alchimie-avancée), [don de classe (alchimiste)](alchimiste.html#dons-de-classe-alchimiste), [don d'ascendance](alchimiste.html#dons-d'ascendance), background, [livre de formules](alchimiste.html#livre-de-formules), [formations initiales](alchimiste.html#formations-initiales), [résonance étudiée](alchimiste.html#résonance-étudiée) |
-| 2 | [Don de classe (alchimiste)](alchimiste.html#dons-de-classe-alchimiste), [don de compétence](alchimiste.html#dons-de-compétence) |
-| 3 | [Bombes amplifiées (x2)](alchimiste.html#bombes-amplifiées), [don général](alchimiste.html#dons-généraux), [augmentation de compétence](alchimiste.html#augmentation-de-compétence) |
-| 4 | [Don de classe (alchimiste)](alchimiste.html#dons-de-classe-alchimiste), [don de compétence](alchimiste.html#dons-de-compétence) |
-| 5 | [Accroissement de caractéristique](alchimiste.html#accroissement-de-caractéristique), [don d'ascendance](alchimiste.html#dons-d'ascendance), [préparation de mutagènes](alchimiste.html#préparation-de-mutagènes), [augmentation de compétence](alchimiste.html#augmentation-de-compétence) |
-| 6 | [Don de classe (alchimiste)](alchimiste.html#dons-de-classe-alchimiste), [don de compétence](alchimiste.html#dons-de-compétence) |
-| 7 | [Bombes amplifiées (x3)](alchimiste.html#bombes-amplifiées), [don général](alchimiste.html#dons-généraux), [augmentation de compétence](alchimiste.html#augmentation-de-compétence) |
-| 8 | [Don de classe (alchimiste)](alchimiste.html#dons-de-classe-alchimiste), [don de compétence](alchimiste.html#dons-de-compétence) |
-| 9 | [Don d'ascendance](alchimiste.html#dons-d'ascendance), [Résonance étendue](alchimiste.html#résonance-étendue), [augmentation de compétence](alchimiste.html#augmentation-de-compétence) |
-| 10 | [Accroissement de caractéristique](alchimiste.html#accroissement-de-caractéristique), [don de classe (alchimiste)](alchimiste.html#dons-de-classe-alchimiste), [don de compétence](alchimiste.html#dons-de-compétence) |
-| 11 | [Bombes amplifiées (x4)](alchimiste.html#bombes-amplifiées), [don général](alchimiste.html#dons-généraux), [augmentation de compétence](alchimiste.html#augmentation-de-compétence) |
-| 12 | [Don de classe (alchimiste)](alchimiste.html#dons-de-classe-alchimiste), [don de compétence](alchimiste.html#dons-de-compétence) |
-| 13 | [Don d'ascendance](alchimiste.html#dons-d'ascendance), [double élixir](alchimiste.html#double-élixir), [augmentation de compétence](alchimiste.html#augmentation-de-compétence) |
-| 14 | [Don de classe (alchimiste)](alchimiste.html#dons-de-classe-alchimiste), [don de compétence](alchimiste.html#dons-de-compétence) |
-| 15 | [Accroissement de caractéristique](alchimiste.html#accroissement-de-caractéristique), [bombes amplifiées (x5)](alchimiste.html#bombes-amplifiées), [don général](alchimiste.html#dons-généraux), [augmentation de compétence](alchimiste.html#augmentation-de-compétence) |
-| 16 | [Don de classe (alchimiste)](alchimiste.html#dons-de-classe-alchimiste), [don de compétence](alchimiste.html#dons-de-compétence) |
-| 17 | [Empressement alchimique](alchimiste.html#empressement-alchimique), [don d'ascendance](alchimiste.html#dons-d'ascendance), [augmentation de compétence](alchimiste.html#augmentation-de-compétence) |
-| 18 | [Don de classe (alchimiste)](alchimiste.html#dons-de-classe-alchimiste), [don de compétence](alchimiste.html#dons-de-compétence) |
-| 19 | [Bombes amplifiées (x6)](alchimiste.html#bombes-amplifiées), [don général](alchimiste.html#dons-généraux), [augmentation de compétence](alchimiste.html#augmentation-de-compétence) |
-| 20 | [Accroissement de caractéristique](alchimiste.html#accroissement-de-caractéristique), [don de classe (alchimiste)](alchimiste.html#dons-de-classe-alchimiste), [don de compétence](alchimiste.html#dons-de-compétence) |
+
+{: .tabletitle}
+Progression de l'alchimiste
+
+{: .table .table-striped .table-sm .table-hover}
+| Niveau | Capacités de classe |
+|:-------|:--------------------|
+| 1 | Background, [alchimie avancée](#alchimie-avancée), [don d'alchimiste](#dons-dalchimiste), [don d'ascendance](#dons-dascendance), formations initiales, [livre de formules](#livre-de-formules), [résonance étudiée](#résonance-étudiée) |
+| 2 | [Don d'alchimiste](#dons-dalchimiste), [don de compétence](#dons-de-compétence) |
+| 3 | [Bombes amplifiées (x2)](#bombes-amplifiées), [don général](#dons-généraux), [augmentation de compétence](#augmentation-de-compétence) |
+| 4 | [Don d'alchimiste](#dons-dalchimiste), [don de compétence](#dons-de-compétence) |
+| 5 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [don d'ascendance](#dons-dascendance), [préparation de mutagènes](#préparation-de-mutagènes), [augmentation de compétence](#augmentation-de-compétence) |
+| 6 | [Don d'alchimiste](#dons-dalchimiste), [don de compétence](#dons-de-compétence) |
+| 7 | [Bombes amplifiées (x3)](#bombes-amplifiées), [don général](#dons-généraux), [augmentation de compétence](#augmentation-de-compétence) |
+| 8 | [Don d'alchimiste](#dons-dalchimiste), [don de compétence](#dons-de-compétence) |
+| 9 | [Don d'ascendance](#dons-dascendance), [Résonance étendue](#résonance-étendue), [augmentation de compétence](#augmentation-de-compétence) |
+| 10 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [don d'alchimiste](#dons-dalchimiste), [don de compétence](#dons-de-compétence) |
+| 11 | [Bombes amplifiées (x4)](#bombes-amplifiées), [don général](#dons-généraux), [augmentation de compétence](#augmentation-de-compétence) |
+| 12 | [Don d'alchimiste](#dons-dalchimiste), [don de compétence](#dons-de-compétence) |
+| 13 | [Don d'ascendance](#dons-dascendance), [double élixir](#double-élixir), [augmentation de compétence](#augmentation-de-compétence) |
+| 14 | [Don d'alchimiste](#dons-dalchimiste), [don de compétence](#dons-de-compétence) |
+| 15 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [bombes amplifiées (x5)](#bombes-amplifiées), [don général](#dons-généraux), [augmentation de compétence](#augmentation-de-compétence) |
+| 16 | [Don d'alchimiste](#dons-dalchimiste), [don de compétence](#dons-de-compétence) |
+| 17 | [Empressement alchimique](#empressement-alchimique), [don d'ascendance](#dons-dascendance), [augmentation de compétence](#augmentation-de-compétence) |
+| 18 | [Don d'alchimiste](#dons-dalchimiste), [don de compétence](#dons-de-compétence) |
+| 19 | [Bombes amplifiées (x6)](#bombes-amplifiées), [don général](#dons-généraux), [augmentation de compétence](#augmentation-de-compétence) |
+| 20 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [don d'alchimiste](#dons-dalchimiste), [don de compétence](#dons-de-compétence) |
 
 ### Alchimie avancée
 Vous gagnez le don Artisanat alchimique (voir page <mark>162</mark>), même si vous ne répondez pas aux prérequis, et vous obtenez les quatre formules alchimiques communes supplémentaires de niveau 1 que le don octroie. La liste des objets alchimiques commence à la page <mark>360</mark>. Vous pouvez utiliser ce don pour créer des objets alchimiques communs pour autant que vous possédiez leurs formules dans votre livre de formules, même si leur puissance est éphémère. Vous pouvez créer ces objets de deux manières différentes, comme décrit ci-dessous. Un objet alchimique que vous créez de cette manière possède le trait infusion.
@@ -104,7 +113,7 @@ Chaque fois que vous gagnez un nouveau niveau, vous pouvez ajouter les formules 
 ### Résonance étudiée
 Vos connaissances, plus que votre personnalité, alimente la façon dont vous interagissez avec les substances et les dispositifs alchimiques et magiques. Le nombre maximal de vos Points de résonance est égal à votre niveau plus votre modificateur d'Intelligence (au lieu de votre modificateur de Charisme).
 
-### Dons de classe (alchimiste)
+### Dons d'alchimiste
 Au niveau 1 et à chaque niveau pair ensuite, vous obtenez un don de classe alchimiste. Les dons de classe alchimiste sont décrits à partir de la page <mark>48</mark>.
 
 ??? Tableau généré automatiquement ???
