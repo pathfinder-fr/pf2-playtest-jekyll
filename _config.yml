@@ -47,19 +47,22 @@ collections:
     category: ['prétiré']
   donsascendance:
     output: true
-    category: ['don', 'don-ascendance']
+    category: ["don d'ascendance"]
   donscompetence:
     output: true
-    category: ['don', 'don-competence']
+    category: ['don de competence']
   donsclasse:
     output: true
-    category: ['don', 'don-classe']
+    category: ['don de classe']
   conditions:
     output: true
     category: ['condition']
   traits:
     output: true
     category: ['trait']
+  tresors:
+    output: true
+    category: ['trésor']
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

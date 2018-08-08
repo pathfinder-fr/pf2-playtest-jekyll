@@ -15,7 +15,7 @@ profFortitude: Exp
 profReflex: Ent
 profWill: Exp
 
-skills: 4
+skills: 3
 weapons: "Ent pour toutes les armes simples et le cimeterre"
 armor: "Ent pour les armures légères et intermédiaires non métalliques"
 spells: "Ent pour les jets, les DD et les jets d'attaque des sorts primaires"
@@ -25,6 +25,8 @@ signatureSkills:
   - Survie
   - une compétence déterminée par l'ordre
 ---
+
+NOTE : le skills = 3 vient d'un errata ; il est correct !
 
 Blah blah blah... description du druide
 

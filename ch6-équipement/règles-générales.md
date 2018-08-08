@@ -4,7 +4,7 @@ source: "Playtest Pathfinder"
 layout: default
 ---
 
-Pour laisser une trace de votre passage dans le monde, vous devrez tout d'abord bien vous équiper, avec par cemple une armure, des armes et de l'équipement divers. Ce chapitre présente les divers objets que vous pouvez acheter pendant la création de votre personnage ou, de manière plus générale, en visitant la plupart des villes et des communautés civilisées.
+Pour laisser une trace de votre passage dans le monde, vous devrez tout d'abord bien vous équiper, avec par exemple une armure, des armes et de l'équipement divers. Ce chapitre présente les divers objets que vous pouvez acheter pendant la création de votre personnage ou, de manière plus générale, en visitant la plupart des villes et des communautés civilisées.
 
 Votre personnage commence sa carrière avec 150 pièces d'argent (pa) qu'il peut dépenser pour se procurer les objets communs de ce chapitre. Les objets de rareté peu commune ne peuvent être achetés que si vous disposez d'un accès spécial ou que le MJ l'autorise. Si vous jouez un lanceur de sorts et que vous désirez acheter des objets magiques (comme des potions, des parchemins ou de l'eau bénite) ou un alchimiste et désirez acheter des objets alchimiques, votre MJ peut vous permettre de vous en procurer ; il vous dira quels objets vous pouvez choisir et combien ils coûtent.
 
@@ -38,7 +38,7 @@ La plupart des objets présentés ici possèdent un Prix, qui est la quantité d
 
 ## Niveau d'un objet
 
-Chaque objet possède un niveau d'objet qui représente sa complexité et la magie nécessaire à sa fabrication. Les opjets les plus simples, avec un niveau plus bas, sont plus faciles à fabriquer et vous ne pouvez pas Fabriquer un objet dont le niveau est plus grand que le vôtre. Les personnages peuvent utiliser des objets de tous les niveaux mais le MJ devrait garder à l'esprit que permettre à des personnages d'avoir accès à des objets d'un niveau bien supérieur au leur pourrait déséquilibrer le jeu.
+Chaque objet possède un niveau d'objet qui représente sa complexité et la magie nécessaire à sa fabrication. Les objets les plus simples, avec un niveau plus bas, sont plus faciles à fabriquer et vous ne pouvez pas Fabriquer un objet dont le niveau est plus grand que le vôtre. Les personnages peuvent utiliser des objets de tous les niveaux mais le MJ devrait garder à l'esprit que permettre à des personnages d'avoir accès à des objets d'un niveau bien supérieur au leur pourrait déséquilibrer le jeu.
 
 ## Transporter et utiliser des objets
 
@@ -85,7 +85,7 @@ En règle générale, un objet qui pèse entre 2,50 et 5 kg correspond à 1 Enco
 
 ### Revêtir et enlever une armure
 
-Revêtir et enlever une armure sont deux activités qui nécessitent plusiurs actions d'Interactions. Il faut 1 minute pour revêtir une armure légère, 5 minutes pour une armure intermédiaire ou une armure lourde, et 1 minute pour enlever une armure (quel que soit son type).
+Revêtir et enlever une armure sont deux activités qui nécessitent plusieurs actions d'Interactions. Il faut 1 minute pour revêtir une armure légère, 5 minutes pour une armure intermédiaire ou une armure lourde, et 1 minute pour enlever une armure (quel que soit son type).
 
 ### Prendre des objets en main
 

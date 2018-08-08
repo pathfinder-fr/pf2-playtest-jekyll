@@ -37,6 +37,7 @@ layout: default
     {% if page.traits %}
         <p class="traits">{{ page.traits | sort | join: ", " }}</p>
     {%- endif -%}
+<!-- Dons -->
     {% if page.prerequisites %}
         <p>
             <strong>Prérequis</strong>
@@ -55,9 +56,69 @@ layout: default
             {{ page.cost }}<br/>
         </p>
     {%- endif -%}
+<!-- Trésors -->
+    {% if page.price %}
+        <p>
+            <strong>Prix</strong>
+            {{ page.price }}<br/>
+        </p>
+    {%- endif -%}
+    {% if page.methodOfUse %}
+        <p>
+            <strong>Méthode d'utilisation</strong>
+            {{ page.methodOfUse }}<br/>
+        </p>
+    {%- endif -%}
+    {% if page.bulk %}
+        <p>
+            <strong>Encombrement</strong>
+            {{ page.bulk }}<br/>
+        </p>
+    {%- endif -%}
+    {% if page.activation %}
+        <p>
+            <strong>Activation</strong>
+            {% assign firststep = true %}
+            {% for step in page.activation %}
+                {% if step.action %}
+                    {% unless first %}
+                        ,
+                    {% endunless %}
+                    {% assign action = step.action | append: "" %}
+                    {% case action %}
+                    {% when '1' %}
+                        <img class="sm-action-icon" src="../images/1action.png"
+                        title="1 action" />
+                    {% when '2' %}
+                        <img class="sm-action-icon" src="../images/2actions.png"
+                        title="2 actions" />
+                    {% when '3' %}
+                        <img class="sm-action-icon" src="../images/3actions.png"
+                        title="3 actions" />
+                    {% when 'R' %}
+                        <img class="sm-action-icon" src="../images/réaction.png"
+                        title="réaction" />
+                    {% when 'L' %}
+                        <img class="sm-action-icon" src="../images/actionlibre.png"
+                        title="action libre" />
+                    {%- endcase -%}
+                {% endif %}
+                {{ step.description }}
+                {% assign firststep = false %}
+            {% endfor %}
+            <br/>
+        </p>
+    {%- endif -%}
+    {% if page.onset %}
+        <p>
+            <strong>Onset</strong>
+            {{ page.onset }}<br/>
+        </p>
+    {%- endif -%}
+<!-- Partie commune -->
     {% if page.trigger %}
         <p>
-                <strong>Déclencheur</strong>
+            <strong>Déclencheur</strong>
             {{ page.trigger }}<br/>
         </p>
     {%- endif -%}
@@ -67,7 +128,8 @@ layout: default
             {{ page.requirements }}<br/>
         </p>
     {%- endif -%}
-    {% if page.traits or page.prerequisites or page.frequency or page.cost or page.trigger or page.requirements %}
+<!-- Description -->
+    {% if page.traits or page.prerequisites or page.frequency or page.cost or page.trigger or page.requirements or page.price or page.methodOfUse or page.bulk or page.activation or page.onset %}
         <hr/>
     {%- endif -%}
     {{content}}

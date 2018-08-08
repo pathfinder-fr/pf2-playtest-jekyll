@@ -93,6 +93,20 @@ layout: default
 * <a href="{{ '/ch9-jouer-à-pathfinder/liste-des-conditions.html' | relative_url }}">Liste des conditions</a>
 * <a href="{{ '/ch9-jouer-à-pathfinder/afflictions.html' | relative_url }}">Les afflictions</a>
 
+#### Maîtriser à Pathfinder
+
+#### Trésors
+
+* [Les trésors](/ch11-trésors/trésors.html)
+* [Comment lire la description d'un objet](comment-lire-la-description-d'un-objet.html)
+* [Distribuer le trésor](/ch11-trésors/distribuer-le-trésor.html)
+* [Tables de trésors](/ch11-trésors/tables-de-trésors.html)
+* [Objets spéciaux non magiques](/ch11-trésors/objets-spéciaux-non-magiques.html)
+* [Trappes](/ch11-trésors/trappes.html)
+* [Objets alchimiques](/ch11-trésors/objets-alchimiques.html)
+* [Runes](/ch11-trésors/runes.html)
+* [Objets magiques](/ch11-trésors/objets-magiques.html)
+
 
 
 #### Appendices
