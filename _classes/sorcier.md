@@ -230,78 +230,69 @@ Une voix provenant d'au-delà des étoiles ou des profondeurs de la terre vous p
 
 **Compétences de signature** Acrobaties, Discrétion, Intimidation, Occultisme
 
-**Sorts octroyés**
+**Sorts octroyés** Sortilège : *hébétement*, 1 : *douleur fantôme*, 2 : *agrandissement*, 3 : *lecture de l'esprit*, 4 : *confusion*, 5 : *tentacules noirs*, 6 : *débilité*, 7 : *distorsion de l'esprit*, 8 : *esprit impénétrable*, 9 : *changement de forme*
 
-**Pouvoirs de lignage** Pouvoir initial : *x*; Pouvoir avancé : *x* ; Pouvoir supérieur : *x*
-
-#### Le lignage aberrant
-
-Une voix provenant d'au-delà des étoiles ou des profondeurs de la terre vous parle. Ancienne et indescriptible, cette influence étrange s'impose à votre esprit et vous accorde des pouvoirs. Qui peut dire si ces dons s'accompagnent d'un prix à payer ? 
-
-**Liste de sorts** occulte
-
-**Compétences de signature** Acrobaties, Discrétion, Intimidation, Occultisme
-
-**Sorts octroyés**
-
-**Pouvoirs de lignage** Pouvoir initial : *x*; Pouvoir avancé : *x* ; Pouvoir supérieur : *x*
+**Pouvoirs de lignage** Pouvoir initial : *membres tentaculaires*; Pouvoir avancé : *murmures aberrants* (2) ; Pouvoir supérieur : *anatomie étrange* (2)
 
 #### Le lignage angélique
 
-Une voix provenant d'au-delà des étoiles ou des profondeurs de la terre vous parle. Ancienne et indescriptible, cette influence étrange s'impose à votre esprit et vous accorde des pouvoirs. Qui peut dire si ces dons s'accompagnent d'un prix à payer ? 
+L'un de vos ancêtres était un ange provenant de l'un des royaumes célestes, ou l'un de vos ancêtres a peut-être fait preuve d'une telle dévotion que sa descendance a été bénie suite à une intervention divine.
 
-**Liste de sorts** occulte
+**Liste de sorts** divin
 
-**Compétences de signature** Acrobaties, Discrétion, Intimidation, Occultisme
+**Compétences de signature** Diplomatie, Intimidation, Médecine, Religion
 
-**Sorts octroyés**
+**Sorts octroyés** Sortilège : *lumière*, 1 : *bénédiction*, 2 : *restauration*, 3 : *lumière brûlante*, 4 : *colère divine*, 5 : *colonne de flammes*, 6 : *barrière de lames*, 7 : *décret divin*, 8 : *aura divine*, 9 : *prémonition*
 
-**Pouvoirs de lignage** Pouvoir initial : *x*; Pouvoir avancé : *x* ; Pouvoir supérieur : *x*
+**Pouvoirs de lignage** Pouvoir initial : *aura angélique*; Pouvoir avancé : *ailes angéliques* (2) ; Pouvoir supérieur : *marque céleste* (2)
 
 #### Le lignage démonique
 
-Une voix provenant d'au-delà des étoiles ou des profondeurs de la terre vous parle. Ancienne et indescriptible, cette influence étrange s'impose à votre esprit et vous accorde des pouvoirs. Qui peut dire si ces dons s'accompagnent d'un prix à payer ? 
+Les démons des Abysses corrompent tout ce qu'ils touchent, et l'un de vos ancêtres a été la victime de cette corruption. De sombres pensées encombrent votre esprit, incitant un désir de destruction. Cette envie peut être domptée si vous choisissez de vous y opposer, mais la beauté de pêché ne cessera jamais de vous tenter.
 
-**Liste de sorts** occulte
+**Liste de sorts** divin
 
-**Compétences de signature** Acrobaties, Discrétion, Intimidation, Occultisme
+**Compétences de signature** Athlétisme, Intimidation, Religion, Tromperie
 
-**Sorts octroyés**
+**Sorts octroyés** Sortilège : *détection de la magie*, 1 : *peur*, 2 : *résistance à une énergie*, 3 : *ralentissement*, 4 : *colère divine*, 5 : *bannissement*, 6 : *désintégration*, 7 : *décret divin*, 8 : *mot de pouvoir étourdissant*, 9 : *nuée de météores*
 
-**Pouvoirs de lignage** Pouvoir initial : *x*; Pouvoir avancé : *x* ; Pouvoir supérieur : *x*
+**Pouvoirs de lignage** Pouvoir initial : *mâchoires du dévoreur*; Pouvoir avancé : *marécage de la paresse* (2) ; Pouvoir supérieur : *colère abyssale* (2)
 
 #### Le lignage draconique
 
-Une voix provenant d'au-delà des étoiles ou des profondeurs de la terre vous parle. Ancienne et indescriptible, cette influence étrange s'impose à votre esprit et vous accorde des pouvoirs. Qui peut dire si ces dons s'accompagnent d'un prix à payer ? 
+Le sang des dragons coule dans vos veines. Ces bêtes sont à la fois effrayantes en combat et talentueuses en magie, et vous vous inscrivez dans cette tradition. 
 
-**Liste de sorts** occulte
+**Type de dragon** Au niveau 1, vous choisissez le type de dragon qui a influencé votre lignage. Cette décision modifiera la manière dont certains pouvoirs de lignage fonctionneront. Vous ne pouvez pas changer votre type de dragon plus tard. Les dragons métalliques d'alignement Bon et les types de dégâts correspondants sont : airain (feu), argent (froid), bronze (électricité), cuivre (acide) et or (feu). Les dragons chromatiques d'alignement Mauvais et les types de dégâts correspondants sont : blanc (froid), bleu (électricité), noir (acide), rouge (feu) et vert (poison).
 
-**Compétences de signature** Acrobaties, Discrétion, Intimidation, Occultisme
+**Liste de sorts** arcanique
 
-**Sorts octroyés**
+**Compétences de signature** Acrobaties, Arcanes, Athlétisme, Intimidation
 
-**Pouvoirs de lignage** Pouvoir initial : *x*; Pouvoir avancé : *x* ; Pouvoir supérieur : *x*
+**Sorts octroyés** Sortilège : *détection de la magie*, 1 : *peur*, 2 : *résistance à une énergie*, 3 : *discours captivant*, 4 : *vol*, 5 : *mur chromatique*, 6 : *forme draconique*, 7 : *doigt de mort*, 8 : *mot de pouvoir étourdissant*, 9 : *nuée de météores*
+
+**Pouvoirs de lignage** Pouvoir initial : *griffes du dragon*; Pouvoir avancé : *souffle du dragon* (2) ; Pouvoir supérieur : *ailes du dragon* (2)
+
 
 #### Le lignage féerique
 
-Une voix provenant d'au-delà des étoiles ou des profondeurs de la terre vous parle. Ancienne et indescriptible, cette influence étrange s'impose à votre esprit et vous accorde des pouvoirs. Qui peut dire si ces dons s'accompagnent d'un prix à payer ? 
+Depuis une rencontre amoureuse dans une clairière à la belle étoile ou une exposition à la magie des fées, les enchantements du Monde des Fées se sont immiscés dans votre lignage. Vous êtes parfois aussi capricieux et émotif que les fées.
 
-**Liste de sorts** occulte
+**Liste de sorts** primaire
 
-**Compétences de signature** Acrobaties, Discrétion, Intimidation, Occultisme
+**Compétences de signature** Arcanes, Diplomatie, Nature, Tromperie
 
-**Sorts octroyés**
+**Sorts octroyés** Sortilège : *son fantomatique*, 1 : *charme*,; 2 : *rire irrésistible*, 3 : *discours captivant*, 4 : *liberté de mouvement*, 5 : *passe-muraille*, 6 : *double illusoire*, 7 : *régénération*, 8 : *danse irrésistible*, 9 : *tempête vengeresse*
 
-**Pouvoirs de lignage** Pouvoir initial : *x*; Pouvoir avancé : *x* ; Pouvoir supérieur : *x*
+**Pouvoirs de lignage** Pouvoir initial : *poussière de fée*; Pouvoir avancé : *disparition féerique* (2) ; Pouvoir supérieur : *notion ridicule* (2)
 
 #### Le lignage impérial
 
-Une voix provenant d'au-delà des étoiles ou des profondeurs de la terre vous parle. Ancienne et indescriptible, cette influence étrange s'impose à votre esprit et vous accorde des pouvoirs. Qui peut dire si ces dons s'accompagnent d'un prix à payer ? 
+Les anciens mortels maîtrisaient les traditions magiques et l'un de vos distants ancêtres se trouvait parmi eux. Cet héritage est peut-être resté en sommeil pendant plusieurs générations mais il se manifeste pleinement en vous.
 
-**Liste de sorts** occulte
+**Liste de sorts** arcanique
 
-**Compétences de signature** Acrobaties, Discrétion, Intimidation, Occultisme
+**Compétences de signature** Arcanes, Diplomatie, Intimidation, Société
 
-**Sorts octroyés**
+**Sorts octroyés** Sortilège : *détection de la magie*, 1 : *peur*, 2 : *invisibilité*, 3 : *dissipation de la magie*, 4 : *porte dimensionnelle*, 5 : *oeil magique*, 6 : *téléportation*, 7 : *rayons prismatiques*, 8 : *mot de pouvoir étourdissant*, 9 : *sphère prismatique*
 
-**Pouvoirs de lignage** Pouvoir initial : *x*; Pouvoir avancé : *x* ; Pouvoir supérieur : *x*
+**Pouvoirs de lignage** Pouvoir initial : *pouvoir des anciens*; Pouvoir avancé : *raccourci du métamagicien* (2) ; Pouvoir supérieur : *contre-mesures arcaniques* (2)
