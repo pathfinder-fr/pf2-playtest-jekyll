@@ -1,0 +1,4 @@
+{
+    // par défaut on démarre directement le terminal Bash
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\bash.exe"
+}
