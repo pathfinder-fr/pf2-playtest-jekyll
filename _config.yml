@@ -50,7 +50,7 @@ collections:
     category: ["don d'ascendance"]
   donscompetence:
     output: true
-    category: ['don de competence']
+    category: ['don de compétence']
   donsclasse:
     output: true
     category: ['don de classe']
