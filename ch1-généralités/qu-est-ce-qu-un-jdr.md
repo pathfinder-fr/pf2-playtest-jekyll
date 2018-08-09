@@ -4,219 +4,47 @@ source: "Playtest Pathfinder"
 layout: default
 ---
 
-WHAT IS A ROLEPLAYING GAME?
-Pathfinder is a tabletop adventure roleplaying game (RPG):
-an interactive story in which one player, the Game Master
-(GM), sets the scene and presents challenges, while the
-other players each assume the role of a sword and sorcery
-adventurer, called a player character (PC), and attempt to
-overcome those challenges. While many of these challenges
-come in the form of monsters, devious traps, and the
-machinations of adversarial agents, Pathfinder provides
-enough depth to create challenges in the form of political
-scheming, puzzle solving, interpersonal drama, and more.
-The game is typically played in a group of four to
-seven players, with one of those players serving as the
-group’s Game Master. The GM prepares, presents,
-and presides over the game’s world and its story,
-posing challenges and playing adversaries, allies, and
-bystanders alike. By responding to situations according
-to their player characters’ personalities and abilities, the
-players help to create the story’s plot as the outcome
-of each scene leads into the next. Die rolls combined
-with preassigned statistics add an element of chance
-and determine whether characters succeed or fail at the
-actions they attempt.
-You can think of an RPG as theater: the players are the
-actors, while the Game Master is the director. Whether you
-choose to play a premade adventure, such as Pathfinder
-Playtest Adventure: Doomsday Dawn, or an adventure of
-your own making is up to you!
-The Game’s Flow
-Each time your group gets together to play Pathfinder,
-that’s one game session. A complete game of Pathfinder
-can be as short as a single session, commonly referred to
-as a “one-shot,” or a game can stretch on for multiple
-sessions in a campaign that lasts for months or even years.
-A game of Pathfinder can be played for as long as the
-Game Master has an ongoing story she enjoys exploring
-and advancing with her players. As you continue to
-play Pathfinder, the player characters will defeat vile
-beasts, escape fiendish traps, and complete heroic quests.
-When they do, they accumulate Experience Points, often
-denoted as XP. Once a character reaches 1,000 XP, that
-character gains a level. The higher your character’s level,
-the greater the challenges they can face in the game!
-The Players
-Before the game begins, players typically invent their
-own characters’ backgrounds and personalities. While it’s
-possible to play multiple characters at once, it’s generally
-the most fun to have one character per player so that
-players can really get into their roles.
-In the case of this playtest, Doomsday Dawn provides
-suggestions about the types of characters best suited to
-each of its parts. In some cases, the adventure requires
-players to create specific types of characters, though these
-requirements are strictly for the purposes of playtesting.
-In general, Pathfinder limits character concepts only to the
-players’ imaginations and the GM’s parameters.
-Players use the game’s rules to build their characters’
-numerical statistics, which determine the characters’
-abilities, strengths, and weaknesses. In-depth instructions
-for how to create a character, pointing you toward
-relevant rules in other chapters, appear in the Character
-Creation section on page 11.
-During the game, the players describe the actions their
-characters take. Some players particularly enjoy acting
-(or roleplaying) the game’s events as if they were their
-characters, while others describe their characters’ actions
-as if narrating a story. Do whatever feels best!
-Many in-game situations in Pathfinder have rules that
-govern how they’re resolved. Chapter 9, for example,
-provides detailed information about the different modes
-of play, how to use the rules to spend actions when a
-fight breaks out, and much more. All of the rules that
-players need to play Pathfinder are found in this book.
-Keep in mind, though, that this is a playtest and that
-Pathfinder Second Edition’s final rules will be published
-in August 2019 after we have gathered and incorporated
-all of your feedback.
-The Game Master
-While the rest of the players create their characters for
-a Pathfinder game, the Game Master is in charge of the
-story and world. The Game Master is a player, but for the
-sake of simplicity, she is referred to in this book and other
-Pathfinder products as the Game Master or GM, whereas
-the other players are referred to simply as players. The
-Game Master must detail the situations she wants the
-players to experience as part of an overarching story,
-consider how the actions of the player characters might
-affect her plans, and understand the rules and statistics
-for the challenges they will face along the way. Game
-Masters who use Doomsday Dawn will find that much
-of this work is addressed in the adventure, though there’s
-nothing wrong with participating in the playtest using
-original adventures.
-Gaming Is for All
-Whether you’re a player or a Game Master, participating
-in a tabletop roleplaying game involves an inherent social
-contract: everyone has gathered to have fun together,
-and the table is a safe space for everyone. Everyone has
-a right to play and enjoy Pathfinder regardless of their
-age, gender, race, religion, sexual orientation, or any other
-identities and life experiences. Pathfinder is for everyone,
-and Pathfinder games should be as safe, inclusive, and fun
-as possible for all.
-Players
-As a player, it is your responsibility to ensure that you are
-not creating or contributing to an environment that makes
-any other players feel uncomfortable or unwelcome,
-particularly if those players are members of minority
-or marginalized communities that haven’t always been
-welcome or represented in the larger gaming population.
-Thus, it’s important to consider your character concepts and
-roleplaying style and avoid any approach that could cause
-harm to another player. A character whose concept and
-mannerisms are racist tropes, for example, is exceptionally
-harmful and works against the goal of providing fun for
-all. A roleplaying style in which a player or character is
-constantly interrupting others or treating certain players
-or characters with condescension is similarly unacceptable.
-Furthermore, standards of respect don’t vanish simply
-because you’re playing a character in a fantasy game.
-For example, it’s never acceptable to refer to another
-person using an offensive term or a slur, and doing so
-“in character” is just as bad as doing so directly. If your
-character’s concept requires you act this way, that’s a good
-sign your concept is harmful, and you have a responsibility
-to change it. Sometimes, you might not realize that your
-character concept or roleplaying style is making others
-feel unwelcome at the gaming table. If another player
-tells you that your character concept or roleplaying style
-makes them uncomfortable, you shouldn’t argue about
-what they should or shouldn’t find offensive or say that
-what you’re doing is common (and therefore okay) among
-players or in other media. Instead, you should simply stop
-and make sure the game is a fun experience for everyone.
-After all, that’s what gaming is about!
-Game Masters
-The role of Game Master comes with the responsibility of
-ensuring that none of your players violate the game’s social
-contract, especially when playing in a public space. Be on
-the lookout for behavior that’s inappropriate, whether
-intentional or inadvertent, and pay careful attention to
-players’ body language during gameplay. If you notice
-a player becoming uncomfortable, you are empowered
-to pause the game, take it in a new direction, privately
-check in with your players during or after the session, or
-take any other action you think is appropriate to move
-the game toward a fun experience for everyone. That
-said, you should never let players who are uncomfortable
-with different identities or experiences derail your game.
-People of all identities and experiences have a right to be
-represented in the game, even if they’re not necessarily
-playing at your table.
-Otherwise, if a player tells you they’re uncomfortable
-with something in the game, whether it’s content you’ve
-presented as the GM or another player’s actions, listen
-to them and take steps to ensure they can once again
-have fun during your game. If you’re preparing written
-material and you find the description of a character or a
-situation to be inappropriate, you are fully empowered
-to change any details as you see fit to best suit your
-players. Making sure the game is fun for everyone is your
-biggest job!
-HOW DO I PLAY?
-Playing Pathfinder often involves meeting in someone’s
-home or at a game store, but there are myriad virtual
-tabletop applications—special programs or web
-interfaces—that allow players to meet online to roll dice
-and move pieces virtually. Some groups even mix the two,
-meeting with some friends in person while having others
-participate virtually. There is no wrong method to play
-Pathfinder!
-If you don’t have a local group, we encourage you
-to seek a play-by-post game in the forums on the Paizo
-website at paizo.com or a playtest at your local Pathfinder
-Society Roleplaying Guild lodge. More about Pathfinder
-Society can be found at paizo.com/pathfindersociety.
-Several Pathfinder playtest products are designed to help
-showcase the game’s new rules and to provide clear avenues
-from which we can gather your feedback. These include this
-rulebook, Doomsday Dawn, and the Pathfinder Playtest
-Bestiary, which provides statistics for monsters, hazards,
-and traps to populate your game. These products are all
-available for free in PDF form at paizo.com. Additionally,
-you can purchase print copies of this book and other
-Pathfinder Playtest products at paizo.com or at your local
-gaming store.
-Other supplies for the playtest are described below.
-Playtesting Supp lies
-Each person participating in this playtest can bring their
-own set of the following supplies, but it’s common for
-members of a group to share some materials, like books,
-pencils, and dice.
-• This book.
-• Pencils or other writing utensils.
-• Character sheets (found on page 429 and at paizo.com).
-• A set of polyhedral dice (see page 11 for a description of
-these specialized gaming dice).
-• Optionally, a miniature or pawn to represent your
-adventuring character.
-Game Master Supp lies
-As well as a copy of this book, writing utensils, and dice,
-the Game Master will need a few additional supplies:
-• Doomsday Dawn, found at your local game store and
-for free at paizo.com.
-• Pathfinder Playtest Bestiary, available as a free PDF
-download at paizo.com.
-• Optionally, a large piece of paper or laminated mat
-with a battle grid of 1-inch squares to use as a visual
-aid for combat encounters. Pathfinder Playtest Flip-
-Mat Multi-Pack is specifically designed for the playtest
-adventure and is available at paizo.com and your local
-gaming store.
-• Optionally, miniatures, pawns, or chits to represent the
-characters and monsters on the battle grid.
-• Optionally, a Pathfinder Combat Pad to track the order
-of combat.
+* Liste pour toc
+{:toc .float-right .ml-2}
+
+Pathfinder est un jeu de rôle, une histoire interactive au cours de laquelle un des joueurs, le Maître du jeu (MJ), plante le décor et présente les défis alors que chacun des autres joueurs incarnent un aventurier maniant épée et magie, appelé personnage-joueur (PJ), et tente de vaincre ces défis. Bon nombre de ces défis prennent la forme de monstres, de pièges sournois et de complots ourdis par des adversaires mais Pathfinder offre suffisamment de profondeur de jeu pour permettre d'autres formes de défis tels que des ruses politiques, des énigmes, des drames interpersonnels etc.
+
+Le jeu se pratique généralement avec un groupe de 4 à 7 joueurs, dont l'un d'eux sert de Maître du jeu. Le MJ prépare, présente et anime le monde de jeu et son histoire, place les défis et joue les adversaires, les alliés et les observateurs neutres. En répondant aux situations en fonction des personnalités et capacités de leurs personnages, les joueurs contribuent à créer une histoire au fil des scènes qui s'enchaînent. Des lancers de dés, combinés avec des caractéristiques numériques associées à chaque intervenant, ajoutent un élément de hasard et permettent de déterminer si les personnages réussissent les actions qu'ils tentent ou échouent.
+
+Vous pouvez voir un jeu de rôle comme une sorte de théâtre : les joueurs sont les acteurs et le MJ est le metteur en scène. Et vous pouvez choisir d'y jouer une aventure préfabriquée ou une aventure de votre propre crû.
+
+### Le rythme de jeu
+
+Chaque fois que le groupe se rassemble pour jouer à Pathfinder, on parle de session de jeu. Une partie complète de Pathfinder peut se limiter à une seule session, ce qu'on appelle généralement un "*one-shot*", ou s'étendre sur de nombreuses sessions pour former une "campagne" qui dure plusieurs mois, voire plusieurs années.
+
+Une partie de Pathfinder peut se poursuivre sans limite pour autant que le MJ ait une histoire en cours qu'il a envie de continuer à explorer et à faire progresser avec ses joueurs. Plus vous jouez à Pathfinder et plus vos personnages vaincront de viles créatures, échapperont à des pièges insidieux et accompliront des quêtes héroïques. Ce faisant, ils accumuleront des Points d'expérience, généralement notés XP (ou PE ou PX). Quand un personnage atteint 1000 XP, il gagne un niveau. Plus votre personnage est de haut niveau et plus les défis auxquels il devra faire face seront importants !
+
+### Les joueurs
+
+Avant le début de la partie, les joueurs inventent généralement les historiques et personnalités de leurs propres personnages. C'est possible de jouer plusieurs personnages en même temps mais il est généralement plus amusant de n'avoir qu'un seul personnage par joueur, de sorte que les joueurs puissent vraiment rentrer dans leur rôle.
+
+Les joueurs utilisent les règles du jeu pour construire les aspects numériques de leurs personnages, qui déterminent leurs capacités, leurs forces et leurs faiblesses. Des instructions détaillées sur la manière de créer un personnage se trouvent dans la section [Créer un personnage](créer-un-personnage.html).
+
+Pendant le jeu, les joueurs décrivent les actions que leurs personnages entreprennent. Certains joueurs apprécient tout particulièrement le fait de jouer les événements de la partie comme s'ils étaient leurs personnages (le roleplay) alors que d'autres décrivent les actions de leurs personnages comme s'ils narraient une histoire. Utilisez la méthode qui vous convient le mieux !
+
+À Pathfinder, de nombreuses situations de jeu sont gérées par des règles indiquant comment les représenter. Les sections suivantes présentent par exemple des informations sur les modes de jeu, sur la manière d'effectuer des actions quand un combat se lance et plus encore. Toutes les règles dont un joueur a besoin pour pouvoir jouer à Pathfinder se trouvent dans ce livre. Gardez cependant à l'esprit qu'il s'agit d'un playtest et que les règles finales de la 2e édition de Pathfinder seront publiées en août 2019 une fois que tous les retours d'expérience auront été collectés et intégrés.
+
+### Le Maître du jeu
+
+Pendant que le autres joueurs créent leurs personnages pour une partie de Pathfinder, le Maître du jeu est responsable de l'histoire et du monde. Le Maître du jeu est également un joueur mais, pour plus de facilité, on le désigne à travers ces règles sous l'appellation MJ ou Maître du jeu et on désigne les autres joueurs tout simplement par "les joueurs". Le MJ doit détailler les situations qu'il veut faire vivre aux personnages-joueurs dans le cadre de l'aventure, considérer comment les actions des personnages-joueurs pourraient modifier ses plans et comprendre les règles et les valeurs numériques des défis qu'ils rencontreront en chemin.
+
+### Le jeu est pour tout le monde
+
+Que vous voyiez joueur ou MJ, participer à un jeu de rôle implique une sorte de contrat social implicite : tous ceux qui sont rassemblés autour de la table de jeu cherchent à s'amuser et la table est un espace sûr pour tout le monde. Tout le monde a le droit de jouer et d'apprécier Pathfinder, sans distinction d'âge, de genre, de race, de religion, d'orientation sexuelle ou de toute autre question d'identité ou d'expérience de vie. Pathfinder est pour tout le monde et les parties de Pathfinder devraient être des moments aussi sûrs, inclusifs et amusants que possible.
+
+#### Du côté des joueurs
+
+En tant que joueur, il en va de votre responsabilité de faire en sorte de ne pas créer (ou aggraver) un environnement qui met les autres joueurs mal à l'aise ou leur donne l'impression de ne pas être les bienvenus, tout particulièrement si ces joueurs font partie de minorités ou de communautés marginalisées qui n'ont pas toujours été bien accueillies ou représentées parmi les joueurs. Ainsi, c'est important réfléchir au concept de votre personnage et à votre style de roleplay et d'éviter toute approche qui pourrait blesser un autre joueur. Par exemple, un personnage dont le concept et les manières tournent autour de clichés racistes est plutôt offusquant et ne contribue pas à ce que tout le monde autour de la table puisse prendre du plaisir dans le jeu. Un style de roleplay où un personnage ou un joueur interrompt constamment les autres ou traite certains joueurs ou personnages avec condescendance est également inacceptable.
+
+De plus, le respect reste de mise même quand vous incarnez un personnage dans un jeu imaginaire. Par exemple, il n'est jamais acceptable d'appeler une personne en utilisant un terme offensif ou insultant et mettre de telles paroles dans la bouche de votre personnage ne vaut pas mieux que de les prononcer vous-mêmes. Si le concept de votre personnage vous incite à agir de cette manière, c'est un indice du fait que le concept en question est blessant, et vous devriez le modifier. Il se peut parfois que vous ne vous rendiez pas compte immédiatement que le concept de votre personnage ou votre style de roleplay met un autre joueur mal à l'aise. Si un autre joueur vous en fait part, vous ne devriez pas contester ce qu'ils peuvent considérer comme dérangeant ou pas ni dire que ce que vous faites se pratique régulièrement entre joueurs ou dans les médias (et donc est acceptable). Au lieu de cela, vous devriez tout simplement arrêter et faire en sorte que le jeu est une expérience amusante pour tout le monde. Après tout, c'est l'objectif principal du jeu !
+
+#### Du côté du maître du jeu
+
+En tant que MJ, vous devez vous assurer qu'aucun de vos joueurs ne viole le contrat social de la partie, tout particulièrement lorsque vous jouez dans un espace public. Soyez attentif aux comportements inappropriés, qu'ils soient volontaires ou pas, et faites fort attention au langage corporel. Si vous remarquez qu'un joueur se sent mal à l'aise, vous avez tout à fait le droit de mettre la partie en pause, de changer la direction que prend l'aventure, de discuter avec vos joueurs pendant ou après la session, ou de prendre toute autre action que vous jugez nécessaire afin de rendre l'expérience plus amusante pour tout le monde. Ceci dit, vous ne devriez jamais permettre aux joueurs dérangés par des identités ou des expériences différentes de perturber votre partie. Tous les joueurs sont les bienvenus autour de la table de jeu, quelles que soient leur identité et leur expérience de vie.
+
+Outre cela, si un joueur vous dit que quelque chose dans la partie le dérange, qu'il s'agisse d'un contenu que vous avez présenté en tant que MJ ou des actions d'un autre joueur, écoutez-le et prenez des mesures pour vous assurer qu'ils peuvent à nouveau prendre du plaisir dans le jeu. Si vous préparez une aventure écrite et que vous trouvez que la description d'un personnage ou d'une situation est inappropriée, vous avez tout à fait le droit de la modifier pour qu'elle convienne à vos joueurs. Vous assurer que le jeu est amusant pour tout le monde est la plus importante de vos tâches.
