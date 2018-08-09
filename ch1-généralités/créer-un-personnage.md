@@ -4,6 +4,9 @@ source: "Playtest Pathfinder"
 layout: default
 ---
 
+* Liste pour toc
+{:toc .float-right .ml-2}
+
 Quand vous vous apprêtez à faire une partie de Pathfinder en tant que joueur, la première chose que vous avez besoin de faire est de créer un personnage dont les aventures seront détaillées en jeu. C'est à vous d'imaginer le passé de votre personnage, sa personnalité et sa manière de voir le monde car ces décisions formeront la base sur laquelle vous fonderez votre roleplay pendant la partie. Vous utiliserez les règles du jeu pour déterminer les capacités de départ de votre personnage et les talents spéciaux qu'il pourra utiliser en jeu.
 
 Cette section vous présente un guide pas à pas pour créer un personnage en utilisant les règles de Pathfinder. L'ordre dans lequel ces étapes sont citées est une suggestion : vous êtes libre de les réaliser dans l'ordre que vous préférez. Dans certains cas, quand les règles relatives à une étape nécessitent des explications plus longues, la description de l'étape vous renvoie vers d'autres parties où ces règles sont détaillées.
@@ -11,9 +14,6 @@ Cette section vous présente un guide pas à pas pour créer un personnage en ut
 Plusieurs des étapes ci-dessous vous demandent de remplir certains champs sur votre feuille de personnage. Notez que la feuille de personnage en question est organisée pour être facile à utiliser pendant les parties plutôt qu'en fonction des étapes de la création d'un personnage. De plus, les champs qui apparaissent sur les feuilles de personnage recouvrent toutes les possibilités : tous ne seront pas forcément utilisés, cela dépend du personnage construit. Par exemple, tous les personnages de niveau 1 n'ont pas forcément accès à une réaction. Si un champ de la feuille de personnage n'est pas pertinent pour votre personnage, laissez-le vierge. Chaque étape de la création de personnage détaillée ci-dessous est annoté d'un numéro qu'on retrouve sur la feuille de personnage, ce qui vous permet de retrouver facilement dans quel champ noter les informations. Les champs qu'il n'est pas nécessaire de remplir sur la deuxième et troisième pages de la feuille de personnage sont cités dans le texte.
 
 Si vous créez un personnage de plus haut niveau, il vaut mieux commencer par les instructions qui se trouvent ici avant de visiter la section [Gagner un niveau](/ch8-progression-et-options/gagner-un-niveau.html) pour lire comment faire évoluer votre personnage.
-
-* Liste pour toc
-{:toc}
 
 ### Les dés
 
@@ -31,7 +31,7 @@ Chaque joueur possède une approche différente quand il s'agit de créer un per
 
 Les tables qui suivent présentent des résumés rapides pour ceux qui cherchent à optimiser leurs caractéristiques de départ. Dans le tableau des ascendances, les mentions "Libre" indique que vous pouvez choisir quelle caractéristique va être augmentée. La table indique également les caractéristiques qui sont réduites. Vous pourrez trouver plus d'informations sur les valeurs de caractéristiques dans la section [Valeurs des caractéristiques](valeurs-des-caractéristiques.html).
 
-{: .table .table-sm .small}
+{: .table .table-sm .small .table-striped}
 | Ascendance | Description | Accroissements de caractéristiques | Réduction |
 |:-----------|:------------|:-----------------------------------|:----------|
 | Nain | Les nains sont des gens trapus et de petite taille qui sont souvent bornés, acharnés et extrêmement fidèles. | Consitution, Sagesse, Libre | Charisme | 
@@ -48,7 +48,7 @@ La table des classes repend la caractéristique principale de chacune d'elles, c
 
 Gardez à l'esprit que le background d'un personnage influence également ses valeurs de caractéristiques, même s'il y a plus de flexibilité dans les accroissements de caractéristiques offerts par les backgrounds que dans ceux liés aux classes.
 
-{: .table .table-sm .small}
+{: .table .table-sm .small .table-striped}
 | Classe | Description | Carac principale | Carac secondaires |
 |:-------|:------------|:-----------------|-------------------|
 | Alchimiste | L'alchimiste lance des bombes alchimiques et boit des décoctions qu'il fabrique lui-même pendant les combats. | Intelligence | Constitution, Dextérité |
@@ -170,7 +170,7 @@ Il existe 9 alignements possibles à Pathfinder, comme indiqué dans la table ci
 
 L'alignement de votre personnage est mesuré par deux groupes de valeurs opposées : l'axe du Bien et du Mal et l'axe de la Loi et du chaos. Un personnage qui ne prend pas vraiment position fortement d'un côté ou de l'autre est Neutre sur l'axe en question. L'alignement est un sujet complexe, et même des actes qui pourraient être considérés comme bons peuvent être utilisés pour des objectifs maléfiques et vice versa. Le MJ est l'arbitre final pour les questions visant à déterminer l'effet d'actions spécifiques sur l'alignement de votre personnage.
 
-{: .table }
+{: .table .table-sm }
 |   | Bon | Neutre | Mauvais |
 |:-:|:----:|:------:|:---:|
 | **Loyal** | Loyal Bon (LG) | Loyal Neutre (LN) | Loyal Mauvais (LM) |

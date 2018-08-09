@@ -89,7 +89,7 @@ Tâches ordinaires pour Acrobaties
 | Tâche | Niveau | Ajustements de difficulté | Trivial |
 |:------|:------:|:--------------------------|:-------:|
 | Avancer sans tomber sur un tronc couché | 1 | étroit, pourri, glissant | 6
-| Se serrer dans une fissure | 1 | forme étrange, humide | 6
+| Se Faufiler dans une fissure | 1 | forme étrange, humide | 6
 | Avancer sans tomber sur une corde tendue | 3 | vents forts | 9
 
 {: .tabletitle}

@@ -4,314 +4,189 @@ source: "Playtest Pathfinder"
 layout: default
 ---
 
-Your character has six ability scores that represent her
-basic attributes and raw potential: Strength, Dexterity,
-Constitution, Intelligence, Wisdom, and Charisma. These
-scores each influence different aspects of your character’s
-capabilities. As your character progresses through the
-game’s story and increases in level, she gains ability boosts
-that improve her ability scores, allowing you to decide
-how her experiences have developed her raw capabilities.
-THE SIX ABILITIES
-Your ability scores are split into two main types: physical
-and mental. Strength, Dexterity, and Constitution are
-physical ability scores and measure your character’s
-physical power, agility, and stamina. Intelligence,
-Wisdom, and Charisma are mental ability scores and
-measure your character’s learned prowess, reasoning, and
-force of personality.
-Strengt h
-Strength measures your character’s physical power.
-Strength is important if your character plans to engage
-in the hand-to-hand fighting of melee combat. Fighters,
-monks, paladins, and rangers all benefit from having a
-high Strength score. Strength also determines how much
-Bulk your character can carry (see page 175).
-Dexterity
-Dexterity measures your character’s agility, balance, and
-reflexes. Dexterity is important if your character plans to
-use stealth to surprise foes or to make attacks with ranged
-weapons. Rogues in particular benefit from having a high
-Dexterity score, as do rangers and some fighters and
-monks. A high Dexterity score allows your character to
-reduce or avoid attacks and magical effects that can be
-dodged or outright evaded, such as dragon’s breath.
-Constitution
-Constitution measures your character’s health and
-stamina. Constitution is an important statistic for all
-characters, especially those who fight in close combat.
-Fighters, monks, paladins, rangers, and rogues particularly
-benefit from a solid Constitution score. Additionally,
-Constitution grants characters extra Hit Points and makes
-them more resistant against poison and disease.
-Intelligence
-Intelligence measures how well your character can learn
-and reason. Intelligence is a vital statistic if your character
-is an alchemist or a wizard, since these classes use
-complicated formulas or spell notations when using their
-abilities. A high Intelligence score allows your character
-to perceive and understand patterns, and to pick up skills
-that can serve her during her adventuring career.
-Wisdom
-Wisdom measures your character’s common sense,
-awareness, and intuition. Wisdom helps you understand
-religion and nature, and is a crucial statistic for clerics
-and druids. A high Wisdom score can help your character
-shake off mental spells and effects. Additionally, Wisdom
-affects your character’s Perception modifier, which
-measures how well she observes and identifies threats or
-curiosities among her surroundings.
-Charisma
-This score measures your character’s strength of personality,
-personal magnetism, and ability to influence the thoughts
-and moods of others. Charisma is an important statistic
-for bards and sorcerers, and it grants benefits to clerics
-and paladins. Charisma also determines your character’s
-Resonance Points (see page 376).
-GENERATING ABILITY SCORES
-When you’re ready to calculate your character’s ability
-scores, follow the steps below. Your character’s ability
-scores each start at 10, and then you’ll apply the ability
-boosts and flaw she receives from her ancestry, background,
-and class, plus four free ability boosts she receives at 1st
-level. This process allows you to customize your character.
-Ability Boosts
-An ability boost is a one-time increase to a single ability
-score. Typically, an ability boost increases an ability
-score’s value by 2. However, if the ability score to which
-you’re applying an ability boost is 18 or higher, its value
-increases by only 1. At 1st level, a character can never
-have any ability score that’s higher than 18.
-When your character receives an ability boost, the rules
-indicate whether it must be applied to a specific ability
-score or one of two scores, or whether it is a “free” ability
-boost that can be applied to any ability score of your
-choice. When you gain multiple ability boosts at the same
-time, you must apply each one to a different score. So,
-for example, if your character is a dwarf, she receives an
-ability boost to her Constitution score, her Wisdom score,
-and one free ability boost, which can be applied to any
-score other than Constitution or Wisdom.
-When your character advances to 5th, 10th, 15th, and
-20th levels, she receives ability boosts in four different
-ability scores. These function similarly to the ability
-boosts she receives at 1st level, but she is free to use them
-to increase her ability scores above 18. Keep in mind
-that once an ability score is 18 or higher, an ability boost
-increases the value of that score by only 1.
-Ability Flaws
-Ability flaws are not nearly as common in Pathfinder as
-are ability boosts. If your character has an ability flaw—
-likely from her ancestry—it means she decreases that
-ability score by 2 during Step 1 on page 19.
+* Liste pour toc
+{:toc .float-right .ml-2}
 
-STEP-BY-STEP INSTRUCTIONS
-The following instructions will help you calculate your
-character’s ability scores at 1st level. You’ll start with a
-value of 10 in each ability score, then make adjustments
-for your character’s ancestry ability boosts and ability
-flaws. This is followed by adding two ability boosts from
-her background and four free ability boosts at 1st level.
-Finally, she will receive one ability boost to her key ability
-score from her class. After determining all of her ability
-boosts, record the ability scores you’ve generated on your
-character sheet. For information about modifying your
-character’s ability scores as she gains levels, see Ability
-Boosts on page 18 or the Ability Boosts sections of each
-class entry in Chapter 3.
-Step 1: Start with 10
-On your character sheet (see pages 429-431) or a piece
-of scratch paper, write down all six abilities—Strength,
-Dexterity, Constitution, Intelligence, Wisdom, and
-Charisma. Each ability starts with a score of 10.
-Str 10, Dex 10, Con 10, Int 10, Wis 10, Cha 10
-Step 2: Ancestry Ability Boosts and Flaws
-Now apply the ability boosts that your character’s
-ancestry provides. Most ancestries provide ability boosts
-to two specific ability scores and another free ability
-boost. (Humans are an exception—they receive two free
-ability boosts instead.) When you apply these ability
-boosts, keep in mind that you must apply each one to a
-different score.
-Then, apply the ability flaw your character’s ancestry
-requires, if any. An ability flaw reduces that ability score
-by 2. You can apply your free ability boost to that score
-to bring your score back to 10.
-For example, let’s say you’re making a human
-character, and you want her to be a fighter. Human
-characters receive two free ability boosts, and you
-want to make a fighter who bashes skulls and can take
-a beating. For that, you’ll want a good Strength and
-Constitution. Remember that you can’t apply multiple
-ability boosts from the same source to a score at a time,
-so you couldn’t have a Strength score of 14 quite yet.
-After the ancestry step, your ability scores might look
-like this:
-Str 12, Dex 10, Con 12, Int 10, Wis 10, Cha 10
-As a second example, if you were making a dwarven
-fighter, you’d receive ability boosts to Constitution and
-Wisdom, plus one free ability boost, but you’d have an
-ability flaw in Charisma. Your ability scores would start
-out like this:
-Str 12, Dex 10, Con 12, Int 10, Wis 12, Cha 8
+Votre personnage possède 6 valeurs de caractéristiques qui représentent ses attributs de base et son potentiel brut : la Force, la Dextérité, la Constitution, l'Intelligence, la Sagesse et le Charisme. Ces valeurs influencent chacune différents aspects des capacités de votre personnage. En progressant dans l'histoire et en gagnant des niveaux, votre personnage gagne des accroissements de caractéristiques qui améliorent ses valeurs de caractéristiques et vous permettent de décider comment les expériences qu'il a vécues ont développé ses talents de base.
 
-OPTIONAL: VOLUNTARY FLAWS
-Sometimes, it’s fun to play a character with a major flaw even if
-you’re not playing an ancestry that automatically starts with one.
-If you want to reduce any ability scores for your character below
-what they would normally start at, that’s fine—playing a brutish
-barbarian with an Intelligence score of 6 or a sickly wizard with
-a Constitution score of 4 could allow for some fun roleplaying
-opportunities—but you don’t get any benefit from taking on these
-voluntary flaws. Beware of making your scores so low that your
-character can’t keep up with the party!
+## Les six caractéristiques
 
-Step 3: Two Background Ability Boosts
-Once you’ve applied your character’s ability boosts and
-ability flaw, if any, from her ancestry, it’s time to apply
-her ability boosts from her background. (Descriptions of
-Pathfinder’s character backgrounds begin on page 38.)
-The background you choose gives your character two
-ability boosts. Usually, this consists of one free ability
-boost and one ability boost limited to certain choices by
-the background.
-Let’s say you want your human fighter to have been
-a hardworking farmhand in her past. The farmhand
-background says your character gets an ability boost that
-must be applied to either Constitution or Wisdom. You
-want your fighter to be hardy, so you pick Constitution.
-Next, for your character’s free ability boost, you decide
-to keep increasing her Strength. Now your ability scores
-are the following:
-Str 14, Dex 10, Con 14, Int 10, Wis 10, Cha 10
-If you were making the dwarven fighter we mentioned
-earlier into a farmhand, you’d instead have these scores:
-Str 14, Dex 10, Con 14, Int 10, Wis 12, Cha 8
-Step 4: Four Free Ability Boosts
-After you’ve chosen your character’s ancestry and
-background, you have four free ability boosts you can
-assign to her ability scores as you see fit. These represent
-your character’s variety of experiences growing up
-before she became an adventurer.
-Let’s take the sample human fighter from above. We
-know you want your fighter to be strong, so you decide
-to spend one of this step’s free ability boosts on Strength.
-Dexterity is important for defense, so you put one
-into Dexterity. You want to keep making your fighter
-tough, so you apply an ability boost to Constitution,
-too. Wisdom affects your defense against most mental
-magic, and since a strong, tough fighter is the last person
-you want controlled by some evil wizard, you decide to
-put your last ability boost into Wisdom. After the four
-ability boosts, your ability scores look like this:
-Str 16, Dex 12, Con 16, Int 10, Wis 12, Cha 10
-Let’s examine how this step might play out for the
-dwarven fighter mentioned above. You decide you’ll
-have fun roleplaying an uncharismatic character,
-so you stick with the 8 in Charisma. You apply the
-ability boosts to Strength, Dexterity, Constitution, and
-Wisdom, just like the human fighter. Your ability scores
-now look like this:
-Str 16, Dex 12, Con 16, Int 10, Wis 14, Cha 8
-Step 5: One Class Ability Boost
-Finally, your choice of your character’s class will give
-you one ability boost in a score that’s important to your
-class’s abilities. This ability score is called your class’s
-key ability. Most of the class write-ups in Chapter 3
-indicate a specific score you apply this ability boost to
-when you choose that class, but some let you select from
-one or two choices.
-Because our sample character is a fighter, you get to
-choose Strength or Dexterity for your character’s class
-ability boost. Your character’s Dexterity isn’t doing
-so hot, and it might be a liability, but you don’t want
-to miss out on having a Strength score of 18, so that’s
-where you put your final ability boost. If you’re really
-worried about your Dexterity, you could go back and
-reassign an ancestry ability boost from Constitution
-to Dexterity, or change your background to one that
-allows Strength or Dexterity as a choice. Assuming you
-stick with your burly character, though, your ability
-scores look like this:
-Str 18, Dex 12, Con 16, Int 10, Wis 12, Cha 10
-Our dwarf picks Strength, too:
-Str 18, Dex 12, Con 16, Int 10, Wis 14, Cha 8
-Step 6: Record Ability Scores and Modifiers
-Once you’ve determined your ability scores, write
-them down in the appropriate boxes on your character
-sheet. You’ll then want to reference Table 1–4: Ability
-Modifiers below to determine the ability modifier
-tied to each of your ability scores. Record this ability
-modifier in the box just to the left of each ability score.
-If you ever need to calculate an ability modifier on
-the fly, it’s a fairly easy formula: simply subtract 10
-from the ability score, then divide the result by two
-(rounding down).
-TABLE 1–4: ABILITY MODIFIERS
-Ability Score Modifier
-1 –5
-2–3 –4
-4–5 –3
-6–7 –2
-8–9 –1
-10–11 +0
-12–13 +1
-14–15 +2
-16–17 +3
-18–19 +4
-20–21 +5
-22–23 +6
-24 +7
+Vos six valeurs de caractéristiques forment deux grands groupes : les caractéristiques physiques et les caractéristiques mentales. La Force, la Dextérité et la Constitution sont des caractéristiques physiques qui mesurent la puissance physique, l'agilité et l'endurance de votre personnage. L'Intelligence, la Sagesse et le Charisme sont des caractéristiques mentales qui mesurent l'érudition, le raisonnement et la force de caratère de votre personnage.
 
-OPTIONAL: ROLLING ABILITY SCORES
+### La Force
 
-The standard method of generating ability scores described
-earlier in this section works great if you want to create a perfectly
-customized, balanced character. But your GM may decide to inject a
-little randomness into character creation and elect to let dice decide
-what kind of character the players are going to play. In this case,
-you can use this alternative method to generate your ability scores.
-Be warned—the same randomness that makes this system fun also
-allows it to sometimes create characters that are significantly more
-(or less) powerful than the standard ability score system does or
-other Pathfinder rules assume. If your GM opts for rolling ability
-scores, follow these alternative steps.
-17s and 18s
-If you reach a 17 or 18 in an ability score, you’re still limited to the cap
-of 18 in any ability score at level 1. This might mean a step will require
-you to put an ability boost into an ability that would raise it above the
-cap. When this happens, you can put the ability boost into another
-score instead, or you can put it into a 17 and lose the excess increase.
-For instance, if you rolled a 17 for Constitution and were creating a
-dwarf, you could apply your dwarf’s racial Constitution ability boost
-to your Strength of 14 instead. You could still apply it to Constitution
-anyway, making it an 18, but you’d lose the long-term benefits you
-would have gained if you’d applied it to a lower score.
+La Force mesure la puissance physique de votre personnage. Elle est importante si votre personnage compte s'engager au combat rapproché appelé corps à corps. Les guerriers, les moines, les paladins et les rôdeurs ont besoin d'une valeur de Force élevée. La Force détermine également l'Encombrement que votre personnage peut transporter.
 
-Step-by-Step Instructions
-Step 1: Roll Base Ability Scores
-Roll four six-sided dice (4d6) and discard the lowest die result. Add the three remaining results together and record the sum on a
-piece of scratch paper. Repeat this process until you’ve generated six such values.
-Step 2: Assign Values to Ability Scores
-Pick which of these values will become each of your ability scores. For example, let’s again assume you are creating a fighter that’s
-both strong and tough, and you have received the following values from rolling:
+### La Dextérité
+
+La Dextérité mesure l'agilité, l'équilibre et les réflexes de votre personnage. La Dextérité est importante si votre personnage compte utiliser la Discrétion pour surprendre ses ennemis ou les attaquer avec des armes à distance. Les roublards ont tout particulièrement besoin d'une valeur de Dextérité élevée, tout comme les rôdeurs, certains guerriers et les moines. Une valeur de Dextérité élevée permet à votre personnage de réduire ou d'éviter les attaques et les effets magiques qui peuvent être esquivés en partie ou en totalité, comme un souffle de dragon.
+
+### La Constitution
+
+La Constitution mesure la santé et l'endurance de votre personnage. C'est une caractéristique importante pour tous les personnages, tout particulièrement ceux qui combattent au corps à corps. Les guerriers, les moines, les paladins, les rôdeurs et les roublards ont particulièrement besoin d’une bonne valeur de Constitution. De plus, la Constitution donne aux personnages des Points de vie supplémentaires et les rend plus résistants aux poisons et aux maladies.
+
+### L'Intelligence
+
+L'Intelligence mesure la facilité avec laquelle votre personnage apprend et raisonne. C'est une caractéristique vitale si votre personnage est un alchimiste ou un magicien car ces classes utilisent des formules complexes et notations magiques pour exercer leur art. Une valeur d'Intelligence élevée permet à votre personnage de percevoir et de comprendre des motifs et d'apprendre diverses compétences qui lui serviront pendant sa carrière d'aventurier.
+
+### La Sagesse
+
+La Sagesse mesure le bon sens, l'éveil et l'intuition de votre personnage. Elle vous aide à comprendre la religion et la nature et est cruciale pour les prêtres et les druides. Une valeur de Sagesse élevée peut aider votre personnage à se libérer de sorts et effets mentaux. De plus, la Sagesse influence le modificateur de Perception de votre personnage, qui mesure à quel point il observe et identifie les menaces et les étrangetés dans son environnement.
+
+### Le Charisme
+
+Cette valeur mesure la force de personnalité et le magnétisme de votre personnage ainsi que sa capacité à influencer les pensées et les humeurs des autres. Le Charisme est une caractéristique importante pour les bardes et les sorciers, qui est également utile aux prêtres et aux paladins. Le Charisme détermine également le nombre de Points de résonance que votre personnage possède.
+
+## Déterminer les valeurs des caractéristiques
+
+Quand vous êtes prêt à calculer les valeurs de caractéristiques de votre personnage, suivez les étapes ci-dessous. Les valeurs de caractéristiques de votre personnage commencent toutes à 10. Appliquez ensuite les accroissements et diminution de caractéristiques qu'il reçoit de son ascendance, de son background et de sa classe, ainsi que quatre accroissements de caractéristiques libres qu'il reçoit au niveau 1. Ce processus vous permet de particulariser votre personnage selon vos préférences.
+
+### Accroissements de caractéristiques
+
+Un accroissement de caractéristique est une augmentation à appliquer à une valeur de caractéristique. Généralement, une augmentation de caractéristique augmente une valeur de caractéristique de 2. Cependant, si la valeur de caractéristique à laquelle il s'applique est de 18 ou plus, sa valeur n'augmente que de 1. Au niveau 1, un personnage ne peut jamais avoir de valeur de caractéristique supérieure à 18.
+
+Quand votre personnage reçoit un accroissement de caractéristique, les règles précisent s'il doit être appliqué à une caractéristique particulière ou à une caractéristique choisie entre deux options données ou s'il s'agit d'un accroissement "libre" qui peut être appliqué à n'importe quelle caractéristique. Quand vous gagnez plusieurs accroissements de caractéristiques en une seule fois, vous devez appliquer chacun d'entre eux à une caractéristique différente. Ainsi, par exemple, si votre personnage est un nain, il reçoit un accroissement de caractéristique en Constitution, un accroissement de caractéristique en Sagesse et un autre accroissement de caractéristique libre qui peut être appliqué à n'importe quelle caractéristique autre que Constitution et Sagesse.
+
+Quand votre personnage atteint les niveaux 5, 10, 15 et 20, il reçoit des accroissements de caractéristiques dans quatre caractéristiques différentes. Ceux-ci fonctionnent de la même manière que les accroissements reçus au niveau 1 mais il peut les utiliser pour faire monter ses valeurs de caractéristiques au-delà de 18. Rappelez-vous qu'une fois qu'une valeur de caractéristique vaut 18 ou plus, un accroissement de caractéristique n'augmente plus sa valeur que de 1.
+
+### Diminution de caractéristique
+
+Les diminutions de caractéristiques ne sont pas aussi courantes à Pathfinder que les accroissements de caractéristiques. Si votre personnage a une diminution de caractéristique (sans doute pour son ascendance), cela signifie qu'il diminue une valeur de caractéristique de 2 points.
+
+### Option : défauts volontaires
+
+De temps en temps, c'est amusant de jouer un personnage avec un défaut important même si vous ne choisissez pas une ascendance qui vous en donne automatiquement un. Si vous voulez réduire une des valeurs de caractéristiques de votre personnage jusqu'à un seuil inférieur à la valeur où elle commencerait normalement, c'est possible. Jouer un barbare brutal avec une valeur d'Intelligence de 6 ou un magicien chétif avec une valeur de Constitution de 4 pourrait engendrer d'amusants moments de roleplay. Cependant, vous ne gagneriez aucun avantage en contrepartie de ces défauts. Faites attention à ne pas rendre vos valeurs de caractéristiques si basses que votre personnage ne peut plus suivre le groupe cependant !
+
+## Instructions pas à pas
+
+Les instructions qui suivent vous aideront à calculer vos valeurs de caractéristiques au niveau 1. Vous commencerez avec une valeur de 10 dans chaque caractéristique puis ajusterez ces nombres en fonction des accroissements et de la diminution de caractéristiques de l'ascendance de votre personnage. Viennent ensuite deux accroissements de caractéristiques pour son background et quatre accroissements de caractéristiques libres donnés au niveau 1. Finalement, il recevra un dernier accroissement de caractéristique à sa caractéristique principale grâce à sa classe. Après avoir déterminé tous ses accroissements de caractéristiques, notez les valeurs de caractéristiques obtenues sur votre feuille de personnage. Ces valeurs évolueront ensuite au fil des niveaux comme indiqué [précédemment](#accroissements-de-caractéristiques).
+
+### Étape 1 : commencez avec 10
+
+Sur votre feuille de personnage ou un morceau de papier, notez les six caractéristiques : Force, Dextérité, Constitution, Intelligence, Sagesse et Charisme. Chaque caractéristique commence avec une valeur de 10.
+
+For 10, Dex 10, Con 10, Int 10, Sag 10, Cha 10
+
+### Étape 2 : accroissements et diminution de caractéristiques de l'ascendance
+
+Appliquez maintenant les accroissements de caractéristiques que l'ascendance de votre personnage lui donne. La plupart des ascendances donne deux accroissements de caractéristiques pour des caractéristiques imposées et un accroissement de caractéristique libre. Les humains constituent une exception : ils reçoivent uniquement deux accroissements de caractéristiques. Quand vous appliquez ces accroissements, gardez en tête qu'ils doivent cibler des caractéristiques différentes.
+
+Appliquez ensuite la diminution de caractéristique imposée par l'ascendance de votre personnage s'il y en a une. Une diminution de caractéristique diminue cette valeur de 2. Vous pouvez appliquer votre accroissement de caractéristique libre à la même caractéristique pour que sa valeur reste à 10.
+
+Par exemple, disons que vous faites un personnage humain et que vous le destinez à la carrière de guerrier. Les humains reçoivent deux accroissements de caractéristiques libres. Comme vous voulez un guerrier capable de fracasser les crânes et d'accuser les coups, vous aurez besoin d'une bonne Force et d'une bonne Constitution. Souvenez-vous que vous ne pouvez pas appliquer plusieurs accroissements de caractéristiques à la même valeur de caractéristique : vous ne pourriez pas avoir une Force de 14 à ce moment-ci par exemple.
+
+Après l'étape de s'ascendance, vos valeurs de caractéristiques pourraient être les suivantes.
+
+For **12**, Dex 10, Con **12**, Int 10, Sag 10, Cha 10
+
+Comme deuxième exemple, si vous construisiez un guerrier nain, vous recevriez des accroissements de caractéristiques en Constitution et en Sagesse, plus un accroissement de caractéristique libre mais vous auriez une diminution de caractéristique en Charisme. Vos valeurs de caractéristiques pourraient alors être :
+
+For **12**, Dex 10, Con **12**, Int 10, Sag **12**, Cha **8**
+
+### Étape 3 : deux accroissements de caractéristiques du background
+
+Une fois que vous avez appliqué les accroissements de caractéristiques et la diminution de caractéristique (s'il y en a une) provenant de l'ascendance de votre personnage, il est temps de tenir compte des accroissements de caractéristiques pour son background. Le background que vous choisissez donne à votre personnage deux accroissements de caractéristiques. Généralement, l'un d'eux est libre et l'autre est restreinte à un certain nombre de caractéristiques.
+
+Disons que vous décidez que votre guerrier humain a travaillé dans une ferme dans le passé. Le background paysan indique que votre personnage gagne un accroissement de caractéristique qui doit s'appliquer en Constitution ou en Sagesse. Vu que vous voulez que votre guerrier soit robuste, vous choisissez Constitution. Ensuite, pour l'accroissement de caractéristique libre, vous décidez d'augmenter sa Force. Vos valeurs de caractéristiques deviennent alors :
+
+For **14**, Dex 10, Con **14**, Int 10, Sag 10, Cha 10
+
+S'il s'était agi du guerrier nain mentionné plus haut, son background de paysan aurait pu donner les caractéristiques suivantes :
+
+For **14**, Dex 10, Con **14**, Int 10, Sag 12, Cha 8
+
+### Étape 4 : quatre accroissements de caractéristiques libres
+
+Après avoir choisi l'ascendance et le background de votre personnage, vous disposez de quatre accroissements de caractéristiques libres que vous pouvez utiliser comme vous le voulez. Ils représentent les choses diverses que votre personnage a vécues en grandissant, avant de devenir aventurier.
+
+Revenons au guerrier humain. Nous savons que vous voulez que votre guerrier soit fort ; vous décidez donc de dépenser l'un de ces accroissements de caractéristiques en Force. La Dextérité est également importante pour les défenses, donc vous en consacrez un à la Dextérité.  Vous voulez continuer à rendre votre guerrier robuste, donc un accroissement de caractéristique ira en Constitution. La Sagesse influence vos défenses contre la majorité des effets magiques mentaux et, comme un fort et robuste guerrier est la dernière personne que vous avez envie de voire contrôlée par un magicien maléfique, vous décidez d'utiliser votre dernier accroissement de caractéristique en Sagesse. Une fois les quatre accroissements de caractéristiques effectués, vos valeurs de caractéristiques pourraient ressembler à :
+
+For **16**, Dex **12**, Con **16**, Int 10, Sag 12, Cha 10
+
+Examinons comment cette étape pourrait se dérouler pour le guerrier nain. Vous décidez que vous avez envie de jouer un personnage très peu charismatique, donc vous conservez le 8 en Charisme. Vous appliquez les accroissements de caractéristiques en Force, Dextérité, Constitution et Sagesse, tout comme pour le guerrier humain. Vos valeurs de caractéristiques deviendraient alors :
+
+For **16**, Dex **12**, Con **16**, Int 10, Sag **14**, Cha **8**
+
+### Étape 5 : un accroissement de caractéristique de la classe
+
+Finalement, votre choix de classe vous donne un dernier accroissement de caractéristique dans une caractéristique qui est importante pour vos capacités de classe. Cette valeur de caractéristique est appelée "caractéristique principale" de votre classe. La plupart des descriptions de classe précisent à quelle valeur de caractéristique vous devez appliquer cet accroissement mais certaines vous permettent de choisir entre deux options.
+
+Comme le personnage que nous avons pris comme exemple est un guerrier, vous pouvez choisir la Force ou la Dextérité comme accroissement de caractéristique de classe. La Dextérité de votre personnage n'est pas très bonne, et cela pourrait être un problème, mais vous n'avez pas envie de passer à côté de l'occasion d'avoir un 18 en Force, donc c'est là que vous utilisez votre dernier accroissement de caractéristique. Si la Dextérité vous embêtait vraiment, vous pourriez revenir en arrière et déplacer un accroissement de caractéristique de la Constitution vers la Dextérité ou changer de background pour en prendre un qui permet d'augmenter la Force ou la Dextérité. En supposant que vous conserviez votre robuste personnage, vos valeurs de caractéristiques seraient :
+
+For **18**, Dex 12, Con 16, Int 10, Sag 12, Cha 10
+
+Si le nain choisit également la Force, il obtiendrait :
+
+For **18**, Dex 12, Con 16, Int 10, Sag 14, Cha 8
+
+### Étape 6 : notez vos valeurs et modificateurs de caractéristiques
+
+Une fois que vous avez déterminé les valeurs de vos caractéristiques, écrivez-les aux endroits appropriés sur la feuille de personnage. Vous vous référerez ensuite à la table ci-dessous pour déterminer les modificateurs de caractéristiques associés à chaque valeur de caractéristique. Notez ces modificateurs sur la feuille de personnage à côté des valeurs de caractéristiques. Pour calculer un modificateur à la volée, notez que la formule est relativement simple : enlevez 10 à la valeur de caractéristique puis divisez le résultat par deux en arrondissant vers le bas.
+
+{: .tabletitle}
+Modificateurs de caractéristiques
+
+{: .table .table-sm}
+| Valeur de caractéristique | Modificateur |
+|:--------------------------|:------------:|
+| 1 | -5
+| 2 ou 3 | -4
+| 4 ou 5 | -3
+| 6 ou 7 | -2
+| 8 ou 9 | -1
+| 10 ou 11 | +0
+| 12 ou 13 | +1
+| 14 ou 15 | +2
+| 16 ou 17 | +3
+| 18 ou 19 | +4
+| 20 ou 21 | +5
+| 22 ou 23 | +6
+| 24 | +7
+
+## Règles optionnelles : déterminer les caractéristiques aux dés
+
+La méthode standard pour déterminer les valeurs de caractéristiques décrite ci-dessus fonctionne bien si vous voulez créer un personnage personnalisé et équilibré. Mais votre MJ pourrait décider d'introduire un peu de hasard dans la création de personnage et de laisser les dés décider du type de personnage que les joueurs vont utiliser. Dans ce cas, vous pouvez utiliser cette méthode alternative pour déterminer vos caractéristiques. Attention... le hasard qui rend ce système amusant mène aussi parfois à des personnages qui sont significativement plus (ou moins) puissants que ceux du système standard, qui sont la norme sur base de laquelle les règles de Pathfinder ont été construites. Si votre MJ choisit de faire lancer les dés pour les valeurs de caractéristiques, suivez les étapes suivantes.
+
+### Étape 1 : déterminez les valeurs de caractéristiques de base
+
+Lancez quatre dés à 6 faces (4d6) et éliminez le dé avec le plus petit résultat. Calculez la somme des trois résultats restants et notez-la sur un bout de papier. Répétez l'opération jusqu'à ce que vous ayez dix valeurs.
+
+### Étape 2 : distribuez les valeurs entre les caractéristiques
+
+Choisissez les valeurs qui vont devenir chacune de vos valeurs de caractéristiques. Par exemple, supposons une fois encore que vous voulez créer un guerrier à la fois robuste et fort et que les dés aient donné les valeurs suivantes :
+
 17, 14, 13, 11, 9, 9
-You assign them to your ability scores as follows. At this stage, the human and dwarven fighters would have the same scores.
-Str 17, Dex 13, Con 14, Int 9, Wis 11, Cha 9
-Step 3: Apply Ancestry Ability Boosts and Flaws
-Next you apply the ability boosts your character gains from her ancestry, but she receives one fewer free ability boost than normal.
-If your character’s ancestry has any ability flaws, you apply those at this point, as well. Our human fighter would have only one free
-ability boost using this method. After putting the ability boost into Dexterity, your ability scores would look like this:
-Str 17, Dex 15, Con 14, Int 9, Wis 11, Cha 9
-Our dwarf would get two ability boosts (instead of three), which must go into Constitution and Wisdom. She does not receive a
-free ability boost, but she must still reduce her Charisma by 2 because of her ability flaw. The adjusted scores would be as follows:
-Str 17, Dex 13, Con 16, Int 9, Wis 13, Cha 7
-Step 4: Apply Background Ability Boost
-With the rolling method of ability score generation, your character loses the free ability boost from her background. You can still
-boost your human farmhand’s Constitution or Wisdom score. Selecting Constitution, the human farmhand would have these scores:
-Str 17, Dex 15, Con 16, Int 9, Wis 11, Cha 9
-The dwarven farmhand would have these scores:
-Str 17, Dex 13, Con 18, Int 9, Wis 13, Cha 7
-Step 5: Record Ability Scores
-In the rolling method, you don’t get free ability boosts or an ability boost from your class. Write down your scores and modifiers, just
-as you would if you had used the standard method of generating ability scores described earlier in this section.
+
+Vous les distribuez comme suit entre vos caractéristiques. À cette étape, le guerrier nain et le guerrier humain auraient les mêmes valeurs.
+
+For 17, Dex 13, Con 14, Int 9, Sag 11, Cha 9
+
+### Étape 3 : Appliquez les accroissements et diminution de caractéristique de votre ascendance
+
+Ensuite, vous appliquez les accroissements de caractéristiques que votre personnage gagne grâce à son ascendance, mais il en reçoit un de moins que la normale. Si l'ascendance de votre personnage possède une diminution de caractéristique, vous l'appliquez également à ce moment-ci. Notre guerrier humain ne recevrait qu'un seul accroissement de caractéristique selon cette méthode. Après l'avoir utilisé en Dextérité, ses valeurs de caractéristiques deviendraient :
+
+For 17, Dex **15**, Con 14, Int 9, Sag 11, Cha 9
+
+Le nain, quant à lui, obtiendrait deux accroissements de caractéristiques (au lieu de trois), qui doivent aller en Constitution et en Sagesse. Il ne reçoit pas d'accroissement de caractéristique libre mais doit tout de même réduire son Charisme de 2 points à cause de la diminution de caractéristique. Une fois ajustés, ses valeurs deviendraient :
+
+For 17, Dex 13, Con *16*, Int 9, Sag *13*, Cha *7*
+
+### Étape 4 : Appliquez l'accroissement de caractéristique de votre background
+
+Avec la méthode aléatoire de génération des valeurs des caractéristiques, voter personnage perd l'accroissement de caractéristique libre de son background. Vous pouvez toujours augmenter la Constitution ou la Sagesse de votre paysan humain par contre. Si vous choisissez la Constitution, le guerrier humain aurait les valeurs suivantes :
+
+For 17, Dex 15, Con **16**, Int 9, Sag 11, Cha 9
+
+Le paysan nain, quant à lui, aurait les scores suivants :
+
+For 17, Dex 13, Con *18*, Int 9, Sag 13, Cha 7
+
+### Étape 5 : Notez vos valeurs de caractéristiques
+
+Avec la méthode aléatoire, vous ne recevez pas d'accroissements de caractéristiques libres ni d'accroissement de caractéristique provenant de la classe. Notez vos valeurs de caractéristiques ainsi que vos modificateurs, tout comme vous le feriez avec la méthode standard décrite ci-dessus.
+
+### Note : les 17 et les 18
+
+Même si vous atteignez un 17 ou un 18 dans une valeur de caractéristique, au niveau 1, la règle continue de s'appliquer : vos valeurs de caractéristiques ne peuvent pas dépasser 18. Cela signifie qu'une étape pourrait vous demander d'utiliser un accroissement de caractéristique qui augmenterait une valeur au-delà de la limite. Si cela se produit, vous pouvez soit appliquer l'accroissement à une autre caractéristique soit accroître le 17 en 18 et perdre l'accroissement excédentaire.
+
+Par exemple, si vous aviez obtenu un 17 en Constitution lors de la création d'un nain, vous pourriez choisir d'appliquer l'accroissement de Constitution provenant de l'ascendance naine à votre Force de 14. Ou vous pourriez tout de même l'appliquer à votre Constitution, qui deviendrait un 18, mais vous perdriez une partie des avantages à long terme que vous auriez pu obtenir en l'appliquant à une valeur plus faible.

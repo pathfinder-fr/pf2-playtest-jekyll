@@ -111,7 +111,7 @@ Les créatures de taille [Très Petite](#taille-et-espace) constituent une excep
 
 #### Objets
 
-Comme les objets ne sont pas aussi mobiles que les créatures, ils peuvent plus facilement bloquer complètement un espace. Cela signifie que vous ne pouvez pas toujours traverser leur espace aussi facilement que s'il s'agissait d'une créature. Vous pourriez peut-être occuper le même espace qu'une statue de votre taille, mais pas celui d'une épaisse colonne. Le MJ détermine si vous pouvez traverser l'espace d'un objet normalement, si vous devez vous Serrer dans son espace ou s'il n'est pas possible du tout de passer dans cet espace. 
+Comme les objets ne sont pas aussi mobiles que les créatures, ils peuvent plus facilement bloquer complètement un espace. Cela signifie que vous ne pouvez pas toujours traverser leur espace aussi facilement que s'il s'agissait d'une créature. Vous pourriez peut-être occuper le même espace qu'une statue de votre taille, mais pas celui d'une épaisse colonne. Le MJ détermine si vous pouvez traverser l'espace d'un objet normalement, si vous devez vous Faufiler dans son espace ou s'il n'est pas possible du tout de passer dans cet espace. 
 
 ## Le terrain
 

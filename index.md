@@ -8,7 +8,7 @@ layout: default
 * <a href="{{ '/ch1-généralités/qu-est-ce-qu-un-jdr.html' | relative_url }}">Qu'est-ce qu'un jeu de rôle ?</a>
 * <a href="{{ '/ch1-généralités/concepts-de-base.html' | relative_url }}">Concepts de base</a>
 * <a href="{{ '/ch1-généralités/créer-un-personnage.html' | relative_url }}">Créer un personnage</a>
-* <a href="{{ '/ch1-généralités/caractéristiques.html' | relative_url }}">Caractéristiques</a>
+* <a href="{{ '/ch1-généralités/valeurs-des-caractéristiques.html' | relative_url }}">Valeurs des caractéristiques</a>
 
 #### Ascendances et backgrounds
 
