@@ -1,48 +1,76 @@
 ---
-title: "Acrobaties"
+title: "Acrobaties (Dextérité)"
 titleEN: "Acrobatics"
 source: "Playtest Pathfinder"
 layout: default
+
+index:
+  - key: "Acrobaties (compétence)"
+    anchor: ""
+  - key: "Avancer sans tomber"
+    anchor: "avancer-sans-tomber"
+  - key: "Garder son équilibre"
+    anchor: "garder-son-équilibre"
+  - key: "se Faufiler"
+    anchor: "se-faufiler"
 ---
 
-# Acrobaties (Dextérité)
 La compétence Acrobaties mesure votre capacité à accomplir des exploits physiques qui nécessitent de l’équilibre, de la coordination et de la grâce.
 
 ## Utilisations de la compétence Acrobaties sans entraînement
 
 Les utilisations sans entrainement de la compétence sont les suivants :
 
-### Action1 Avancer sans tomber
-Mouvement
-Vous pouvez vous déplacer sur une surface étroite ou un sol inégal en lançant un test d’Acrobaties contre le DD de la surface étroite ou du sol inégal.
-Vous débutez cette action lorsque vous êtes sur la case qui contient la surface étroite, le sol inégal ou une surface similaire.
-ous êtes toujours pris au dépourvu lorsque vous vous trouvez sur une surface étroite ou un sol inégal.
+{: .block .action1}
+> ### Avancer sans tomber
+> 
+> {: .traits}
+> Mouvement
+> 
+> ---
+> 
+> Vous pouvez vous déplacer sur une surface étroite ou un sol inégal en lançant un test d’Acrobaties contre le DD de la surface étroite ou du sol inégal.
+> 
+> Vous débutez cette action lorsque vous êtes sur la case qui contient la surface étroite, le sol inégal ou une surface similaire.
+> 
+> Vous êtes toujours pris au dépourvu lorsque vous vous trouvez sur une surface étroite ou un sol inégal.
+> 
+> **Réussite** Vous vous déplacez à votre Vitesse sur la surface étroite ou le sol inégal traitant le terrain comme un terrain difficile [voir page 312].
+> 
+> **Réussite critique** Vous vous déplacez à votre Vitesse sur la surface étroite ou le sol inégal traitant le terrain comme terrain un terrain normal.
+> 
+> **Échec** Vous devez rester sur cette case (gâchant votre action) ou vous chutez. Si vous chutez, votre tour se termine.
+> 
+> **Échec critique** Vous tombez et votre tour se termine.
 
-Réussite Vous vous déplacez à votre Vitesse sur la surface étroite ou le sol inégal traitant le terrain comme un terrain difficile [voir page 312].
+{: .block .actionlibre}
+> ### Garder son Équilibre
+> 
+> **Déclencheur** Vous subissez des dégâts alors que vous vous trouvez sur une surface étroite ou un sol inégal ou que vous êtes en équilibre, tel que le MJ l’a déterminé.
+> 
+> ---
+> 
+> Vous essayez de conserver votre équilibre pour éviter la chute.
+> 
+> **Réussite critique** Vous parvenez à garder votre équilibre et n’avez plus besoin de faire de tentative pour ce round.
+> 
+> **Échec** Vous tombez.
 
-Réussite critique Vous vous déplacez à votre Vitesse sur la surface étroite ou le sol inégal traitant le terrain comme terrain un terrain normal.
-
-Échec Vous devez rester sur cette case (gâchant votre action) ou vous chutez. Si vous chutez, votre tour se termine.
-
-Échec critique Vous tombez et votre tour se termine.
-
-### Action libre Garder son Équilibre
-Déclencheur Vous subissez des dégâts alors que vous vous trouvez sur une surface étroite ou un sol inégal ou que vous êtes en équilibre, tel que le MJ l’a déterminé.
-
-Vous essayez de conserver votre équilibre pour éviter la chute.
-
-Réussite critique Vous parvenez à garder votre équilibre et n’avez plus besoin de faire de tentative pour ce round.
-Échec Vous tombez.
-
-### Activité Se faufiler
-Mouvement
-Vous essayez de vous faufiler dans un espace étroit en vous contorsionnant pour passer au travers.
-
-Réussite Vous vous faufilez d’une case par minute.
-
-Réussite critique Vous vous faufilez de 2 cases au travers de l’espace étroit.
-
-Échec critique Vous restez coincé dans cet espace étroit. Tant que vous êtes coincé, vous devez passer une minute avant d’essayer un autre test d’Acrobaties contre le même DD. Tout autre résultat que celui d’un échec critique permet de vous décoincer.
+{: .block}
+> ### Se faufiler
+> 
+> {: .traits}
+> Mouvement
+> 
+> ---
+> 
+> Vous essayez de vous faufiler dans un espace étroit en vous contorsionnant pour passer au travers.
+> 
+> **Réussite** Vous vous faufilez d’une case par minute.
+> 
+> **Réussite critique** Vous vous faufilez de 2 cases au travers de l’espace étroit.
+> 
+> **Échec critique** Vous restez coincé dans cet espace étroit. Tant que vous êtes coincé, vous devez passer une minute avant d’essayer un autre test d’Acrobaties contre le même DD. Tout autre résultat que celui d’un échec critique permet de vous décoincer.
 
 ### Réaction Se rattraper au bord
 Manipulation
