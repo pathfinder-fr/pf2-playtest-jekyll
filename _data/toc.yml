@@ -1,0 +1,12 @@
+- url: /
+  title: Accueil
+
+# Classes
+#
+
+- title: Classes
+  items:
+  - url: /classes/guerrier.html
+    title: Guerrier
+  - url: /classes/druide.html
+    title: Druide
