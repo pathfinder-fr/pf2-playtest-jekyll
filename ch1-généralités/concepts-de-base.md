@@ -2,10 +2,27 @@
 title: "Concepts de base"
 source: "Playtest Pathfinder"
 layout: default
+index:
+  - key: modes de jeu
+    anchor: modes-de-jeu
+  - key: actions
+    anchor: -actions
+  - key: réactions
+    anchor: -réactions
+  - key: actions libres
+    anchor: -actions-libres
+  - key: activités
+    anchor: activités
+  - key: degré de difficulté
+    anchor: votre-degré-de-difficulté
+  - key: modificateur de formation
+    anchor: modificateur-de-formation
+
+
 ---
 
 * Liste pour toc
-{:toc}
+{:toc .float-right .ml-2}
 
 Pathfinder est un jeu riche rempli de nuances tant dans les règles que dans les histoires qu'il permet de
 raconter. Voici quelques concepts de base avec lesquels il peut être utile de vous familiariser avant de jouer
@@ -13,14 +30,14 @@ ou de faire jouer une session de Pathfinder.
 
 ## Lire ces règles
 
-À travers ces règles, vous rencontrer des informations formattées d'une manière qui peut paraître étrange à
+À travers ces règles, vous rencontrez des informations présentées dans des formats qui peuvent  paraître étranges à
 première vue. Ces formats sont utilisés pour faciliter la lecture. Par exemple, les éléments de règle du jeu se
 distinguent du reste du texte grâce à l'utilisation de majuscules ou de texte italique.
 
 Les noms des caractéristiques, des compétences, des dons, des actions, des activités, des réactions, des actions
 libres et certains autres éléments de règles de Pathfinder commencent par une majuscule. Grâce à cela, quand vous
 voyez une phrase telle que "Une Frappe cible la Classe d'armure," vous savez que les mots Frappe et Classe d'armure
-sont à prendre au sens décrits dans les règles. Pathfinder utilise également de nombreux termes qui sont
+sont à prendre au sens décrit dans les règles. Pathfinder utilise également de nombreux termes qui sont
 généralement présentés sous forme abrégée. Si un terme commençant par une majuscule ou une abréviation vous fait
 hésiter, vous pouvez toujours vous référer au <mark>glossaire</mark> ou à <mark>l'index</mark> pour en apprendre plus.
 
@@ -28,10 +45,8 @@ Si un mot ou un groupe de mots est en italique, il désigne un sort ou un objet 
 protégé par *bouclier*," vous savez que le mot *bouclier* désigne le sort plutôt qu'un objet bouclier. Les descriptions des sorts se trouvent dans <mark>le chapitre 7</mark> alors que les objets magiques se trouvent au <mark>chapitre 12</mark>.
 
 Ce livre est divisé en chapitres qui contiennent des informations pour créer un personnage, jouer à Pathfinder et
-construire le Monde de jeu. Plusieurs de ces chapitres contiennent des règles plutôt longues ou des blocs de
-description technique. Là où c'est pertinent, la description des formats utilisés dans ces règles ou ces blocs
-techniques est donnée juste avant eux. Par exemple, la section sur les ascendances du <mark>Chapitre 2</mark> contient
-des pour chacune des 6 ascendances de base et une explication de ces règles est fournie juste au début de ce chapitre.
+construire le Monde de jeu. Plusieurs de ces chapitres contiennent des règles ou des descriptions techniques plutôt longues. Là où c'est pertinent, l'explication des formats utilisés dans ces règles ou ces descriptions techniques est donnée juste avant eux. Par exemple, la section sur les ascendances du <mark>Chapitre 2</mark> contient
+des éléments de règles pour chacune des 6 ascendances de base et une explication de ces règles est fournie juste au début de ce chapitre.
 
 ## Modes de jeu
 
@@ -41,12 +56,12 @@ de jeu sont décrits en détail <mark>à partir de la page 290</mark> mais conna
 
 Le mode "rencontres" est constitué de rounds pendant lesquels chacun des joueurs peut, à son tour, utiliser des actions
 pour aider le groupe à atteindre ses objectifs, qu'il s'agisse de se faufiler discrètement à travers une foule ou de
-vaincre des ennemis. C'est le mode de jeu le plus rigoureux au niveau des mécaniques de jeu et il est surtout utile
+vaincre des ennemis. C'est le mode de jeu où les mécaniques de jeu sont les plus précises et il est surtout utile
 pour gérer des combats ou quand une situation peut changer d'un moment à l'autre.
 
 Le mode "exploration" se déroule quand les personnages parcourent des distances importantes, explorent de nouveaux
 lieux mystérieux, interagissent avec des PNJ autrement qu'au cours d'un combat ou sont tout simplement à l'affût
-de tout danger. Dans ce mode, le temps passe au rythme que le MJ décide. Les joueurs disposent toujours d'occasions
+de tout danger. Dans ce mode, le temps passe au rythme jugé adéquat par le MJ. Les joueurs disposent toujours d'occasions
 pour influencer le Monde de jeu mais d'une manière beaucoup plus libre. Le mode "exploration" se déroule entre les
 rencontres et permet souvent de planter le décor pour un moment de jeu round par round.
 
@@ -54,21 +69,21 @@ Le "temps libre" se déroule quand les personnages ne sont pas confrontés à de
 ils sont en sécurité, à l'abri dans une zone civilisée. Cela leur donne l'occasion de s'entraîner, de pratiquer
 un métier et de profiter de la vie autrement qu'en participant à des aventures périlleuses.
 
-Ces trois modes de jeu sont distincts mais les passages de l'un à l'autre ne sont pas toujours fort évidents. Il est
+Ces trois modes de jeu sont distincts mais les passages de l'un à l'autre ne sont pas toujours très évidents. Il est
 possible qu'une journée qui commence avec du temps libre se poursuive avec l'exploration des égouts de la ville, ce
 qui mène les personnages vers la base secrète d'un culte et vers une rencontre avec les membres de ce culte. Plus vous
 jouez à Pathfinder et plus vous constaterez que chacun de ces modes possède ses méthodes de jeu propres mais que passer
 de l'un à l'autre se fait sans obstacle.
 
-## Agir et les effets de ces actions
+## Les actions et leurs effets
 
-La principale manière dont les joueurs et leurs adversaires influencent le monde de Pathfinder est en dépensant des
-actions et en produisant des effets. C'est tout particulièrement le cas dans le mode "rencontres", où chaque action
+Les joueurs et leurs adversaires influencent le monde de Pathfinder principalement par leurs actions et 
+par les effets qui en découlent. C'est tout particulièrement le cas dans le mode "rencontres", où chaque action
 compte.
 
-Dans le mode "rencontres", chaque personnage joueur gagne 3 actions et 1 réaction à utiliser chaque round et peut
+Dans le mode "rencontres", chaque personnage joueur gagne 3 actions et 1 réaction à utiliser chaque round. Il peut
 également effectuer n'importe quel nombre d'actions libres. Les éléments de règles qui décrivent les actions,
-réactions et actions libres sont accompagnés de symboles spéciaux qui sont décrits ci-dessous.
+réactions et actions libres sont accompagnés de symboles spéciaux comme précisé ci-dessous.
 
 ### ![action](/images/1action.png) Actions
 
@@ -99,8 +114,8 @@ produisent. Cependant, un déclencheur donné ne peut déclencher qu'une seule a
 Les activités sont des tâches spéciales que vous réalisez en dépensant une ou plusieurs actions. Généralement, elles
 nécessitent 2 actions ou plus et vous permettent d'accomplir plus que ce qu'une unique action permettrait. Toutes les
 tâches qui durent plus longtemps qu'un tour sont des activités. Lancer un sort est l'une des activités les plus
-communes, car la majorité des sorts nécessitent de dépenser plusieurs actions à la suite l'une de l'autre pour que
-leurs effets prennent place. Une fois que vous avez dépensé la dernière action, l'activité est terminée et
+communes, car la majorité des sorts nécessitent de dépenser plusieurs actions à la suite l'une de l'autre pour obtenir 
+les effets désirés. Une fois que vous avez dépensé la dernière action nécessaire, votre activité est terminée et
 ses effets se produisent. Quelques activités peuvent être réalisées en dépensant une action libre ou une réaction,
 comme les sorts que vous pouvez lancer en un instant.
 
@@ -111,8 +126,8 @@ Les activités qui utilisent 3 actions commencent par le symbole ![trois actions
 ## Format des éléments de règles
 
 À Pathfinder, les personnages joueurs utilisent des éléments de règles pour agir ou réagir aux situations données.
-Bon nombre de ces éléments de règles sont des dons, qui sont des éléments auxquels les personnages ont accès en
-gagnant des niveaux ou lors des choix effectués pendant la création de personnage. D'autres éléments de règles sont
+Bon nombre de ces éléments de règles sont des dons, qui sont des éléments auxquels les personnages ont accès lors 
+de leur création ou quand ils gagnent des niveaux. D'autres éléments de règles sont
 des éléments plus fondamentaux du jeu auxquels tous les personnages ont accès dès le début.
 
 Quel que soit leur type, tous les éléments de règles sont présentés au format suivant. Les informations qui ne sont
@@ -135,7 +150,7 @@ un ou plusieurs traits ; pour en savoir plus sur les traits, référez-vous à [
 > **Prérequis** Les caractéristiques minimales, dons, degrés de formation et autres conditions que vous devez posséder
 > avant de pouvoir accéder à cet élément sont cités ici. Le niveau de l'élément est également un prérequis.
 > 
-> **Fréquence** Elle indique la limite au nombre d'utilisations de la capacité en une période donnée.
+> **Fréquence** Elle indique la limite en terme de nombre d'utilisations de la capacité durant une période donnée.
 > 
 > **Coût** Les coûts matériels supplémentaires nécessaires à l'utilisation de la capacité (par exemple, dans le cas
 > des sorts nécessitant certains réactifs) sont cités ici.
@@ -180,7 +195,8 @@ modificateurs que vous ajouteriez à un lancer de d20 basé sur cette capacité.
 
 ### Modificateurs, bonus et pénalités
 
-Vous pouvez obtenir les types de modificateurs, bonus et pénalités suivants sur vos jets et vos DD. Plus d'informations sur les modificateurs, les bonus et les pénalités à la <mark>page 290</mark>.
+Vous pouvez obtenir les types de modificateurs, bonus et pénalités suivants sur vos jets et vos DD. Plus d'informations 
+sur les modificateurs, les bonus et les pénalités à la <mark>page 290</mark>.
 
 #### Modificateurs de caractéristiques
 
@@ -191,25 +207,25 @@ modificateur de caractéristique à votre lancer.
 
 #### Modificateur de formation
 
-Votre classe et les autres choix relatifs à votre personnage vous donne des degrés de formation pour la plupart de vos
-capacités. Quand vous effectuez un lancer, vous ajoutez un modificateur de formation qui dépend de votre niveau et
-de votre degré de formation dans cette capacité ou dans l'objet que vous utilisez. Vous n'ajoutez qu'un seul
-modificateur de formation à un lancer.
+Votre classe et les autres choix relatifs à votre personnage vous donnent des degrés de formation initiaux dans certaines 
+compétences et dans l'utilisation d'armes ou d'armures. Quand vous effectuez un lancer, vous ajoutez un modificateur de 
+formation qui dépend de votre niveau et de votre degré de formation pour la compétence ou l'objet utilisé. Vous n'ajoutez 
+qu'un seul modificateur de formation à un lancer.
 
-Vous êtes non entraîné si vous ne connaissez rien ou quasiment rien à une capacité ou à l'utilisation d'un objet. Votre
+Vous êtes non entraîné si vous ne connaissez rien ou quasiment rien à une compétence ou à l'utilisation d'un objet. Votre
 modificateur de formation est égal à votre niveau moins 2. Sauf si votre classe ou un autre choix de personnage
 vous donne un meilleur degré de formation, vous êtes non entraîné.
 
-Si vous avez été entraîné dans une capacité ou à l'utilisation d'un objet, votre modificateur de formation est égal à
+Si vous avez été entraîné dans une compétence ou à l'utilisation d'un objet, votre modificateur de formation est égal à
 votre niveau.
 
-En tant qu'expert, vous êtes hautement entraîné dans une capacité ou à l'utilisation d'un objet. Votre modificateur de
+En tant qu'expert, vous êtes hautement entraîné dans une compétence ou à l'utilisation d'un objet. Votre modificateur de
 formation est égal à votre niveau plus 1.
 
-Au degré de formation maître, vous avez atteint un niveau de classe mondiale dans une capacité ou à l'utilisation d'un
+Au degré de formation maître, vous avez atteint un niveau de classe mondiale dans une compétence ou à l'utilisation d'un
 objet. Votre modificateur de formation est égal à votre niveau de personnage plus 2.
 
-Si vous êtes légendaire, votre capacité ou votre familiarité avec un objet est si haute que vous laisserez une trace
+Si vous êtes légendaire, votre compétence ou votre familiarité avec un objet est si haute que vous laisserez une trace
 dans l'histoire. Votre modificateur de formation vaut votre niveau plus 3.
 
 Quand vous avez un degré de formation, vous possédez également tous les degrés de formation inférieurs à part non
@@ -221,7 +237,7 @@ n'utilisez que le modificateur le plus élevé).
 D'autres bonus et pénalités de types variés peuvent exister. Si vous possédez plus d'un bonus ou d'une pénalité
 d'un même type, seul le plus important s'applique.
 
-## Termes clefs
+## Termes importants
 
 Pour lire ces règles, il peut être pratique de se familiariser avec certains termes basiques qu'on retrouve dans
 cette section. Pour un glossaire plus complet, consultez <mark>page 420</mark>.
@@ -239,7 +255,7 @@ Caractéristique (valeur de caractéristique)
 : Chaque créature possède six caractéristiques : Force, Dextérité, Constitution, Intelligence, Sagesse et Charisme. Ces valeurs représentent le potentiel d'une créature et ses caractéristiques de base. Plus la valeur est élevée et plus le potentiel de la créature dans ce domaine est grand. Plus d'informations sur les caractéristiques à la <mark>page 18</mark>.
 
 Classe
-: Une classe représente la principale profession d'aventurier qu'un personnage a choisi. La classe d'un personnage détermine certaines de ses capacités, lui donne un certain nombre de Points de vie lorsqu'il gagne un nouveau niveau et lui donne accès à un groupe de dons de classes. Les classes apparaissent dans <mark>le chapitre 3</mark>.
+: Une classe représente la principale profession d'aventurier qu'un personnage a choisie. La classe d'un personnage détermine certaines de ses capacités, lui donne un certain nombre de Points de vie lorsqu'il gagne un nouveau niveau et lui donne accès à un groupe de dons de classe. Les classes apparaissent dans <mark>le chapitre 3</mark>.
 
 Classe d'armure (CA)
 : Toutes les créatures du jeu possèdent une Classe d'armure. Cette valeur indique à quel point il est difficile de toucher et de blesser la créature. La CA sert généralement de Degré de difficulté lorsqu'il s'agit de toucher une créature lors d'une attaque. Voir <mark>page 16</mark>.
@@ -248,10 +264,10 @@ Condition
 : Un effet en cours qui modifie la manière dont vous pouvez agir ou change certaines de vos capacités est une condition. Les conditions proviennent généralement des sorts. Certaines conditions qui apparaissent souvent dans le jeu sont présentées à la <mark>page 320</mark>.
 
 Compétence
-: Une compétence représente la capacité d'une créature à réaliser certaines tâches qui ne peuvent être entièrement maîtrisées qu'avec un entraînement. Les compétences citent généralement les diverses manières dont vous pouvez les utiliser, même si vous êtes non entraîné, ainsi que les utilisations qui nécessitent une formation. Plus d'informations à la <mark>page 142</mark>.
+: Une compétence représente la capacité d'une créature à réaliser certaines tâches qui ne peuvent être entièrement maîtrisées qu'avec un entraînement. La description des compétences citent généralement les diverses manières dont vous pouvez les utiliser, même si vous êtes non entraîné, ainsi que les utilisations qui nécessitent une formation. Plus d'informations à la <mark>page 142</mark>.
 
 Déplacement
-: Vous pouvez vous parcourir d'au plus votre Vitesse au cours d'une action de Déplacement (voir <mark>page 308</mark>).
+: Vous pouvez vous déplacer d'au plus votre Vitesse au cours d'une action de Déplacement (voir <mark>page 308</mark>).
 
 Don
 : Un don est une capacité qu'un personnage gagne grâce à son ascendance, son background, sa classe, son entraînement général ou sa formation dans une compétence. Certains dons permettent une nouvelle action, activité, action libre ou réaction.
@@ -267,7 +283,7 @@ Jet de sauvegarde (jds)
 Il y a trois types de jets de sauvegarde : Réflexes (pour faire face aux effets que vous pourriez éviter par une esquive rapide), Volonté (pour résister aux effets qui ciblent l'esprit et la personnalité) et Vigueur (pour résister aux poisons, maladies et effets physiques). Plus d'informations à la <mark>page 17</mark>.
 
 Maître du jeu (MJ)
-: Le Maître du jeu est le joueur qui interprète les règles et contrôle les divers éléments de l'histoire et du monde que les joueurs explorent. La tâche d'un MJ est de proposer une partie juste et amusante ; son objectif est que les autres joueurs finissent par atteindre leurs objectifs mais seulement après avoir affronté de nombreux dangereux et plusieurs défis héroïques.
+: Le Maître du jeu est le joueur qui interprète les règles et contrôle les divers éléments de l'histoire et du monde que les joueurs explorent. La tâche d'un MJ est de proposer une partie juste et amusante ; son objectif est que les autres joueurs finissent par atteindre leurs objectifs mais seulement après avoir affronté de nombreux dangers et plusieurs défis héroïques.
 
 Monde de jeu
 : Les aventures de Pathfinder se déroulent dans le Monde de jeu, un monde avec une riche diversité de peuples, rempli de lieux passionnants à explorer et d'ennemis mortels pour défier les héros de tous niveaux. À travers ces règles se trouvent plusieurs références au Monde de jeu, plus spécialement dans la discussion des divinités que votre personnage peut choisir de vénérer. Vous pouvez situer vos parties dans le Monde de jeu ou dans n'importe quel autre monde de votre choix et utiliser ces règles pour créer un cadre de jeu de votre cru.
@@ -284,15 +300,11 @@ Personnage joueur
 Personnage non joueur (PNJ)
 : Un personnage non joueur est contrôlé par le MJ lorsqu'il interagit avec les joueurs et aide à faire progresser l'histoire.
 
-Points de vie
-: Les Points de vie représentent la quantité de dégâts qu'une créature peut subir avant de tomber inconsciente et de commencer à mourir. Les dégâts diminuent les Points de vie (à un taux de 1 PV par point de dégât) alors que les soins permettent de récupérer des Points de vie (au même taux). Plus d'informations à la <mark>page 294</mark>.
+Points de vie (pv)
+: Les Points de vie représentent la quantité de dégâts qu'une créature peut subir avant de tomber inconsciente et de commencer à mourir. Les dégâts diminuent les Points de vie (à un taux de 1 pv par point de dégât) alors que les soins permettent de récupérer des Points de vie (au même taux). Plus d'informations à la <mark>page 294</mark>.
 
 Rareté
-: Quasiment tous les éléments du jeu sont associés à une rareté indiquant si on les rencontre plus ou moins souvent dans le Monde de jeu. La rareté s'applique non seulement à l'équipement et aux objets magiques mais les sorts, les dons et les autres aspects mécaniques du jeu possèdent eux aussi chacun une rareté spécifique. <br/>
-La majorité de ces choses se trouvent régulièrement à travers le monde, ce qui signifie que n'importe qui peut facilement les acheter (dans le cas d'objets) ou y avoir accès (dans le cas de dons). La rareté "commun", indiqué par la couleur noire, est la rareté par défaut. <br/>
-La rareté "peu commun" indique un élément disponible uniquement à ceux qui ont été initié avec un entraînement spécifique, ont grandi au sein d'une culture spécifique ou proviennent d'une partie spécifique du monde. Un personnage ne peut pas choisir ses options par défaut. Des choix spécifiques, comme des capacités de classe ou des backgrounds, peuvent lui donner accès à certains éléments peu communs. Le MJ peut permettre à un personnage d'accéder à des options peu communes s'il le choisit. Le niveau (ou le type, lorsqu'il n'y a pas de niveau donné) des éléments peu communs est indiqué en rouge. <br/>
-Les éléments qui sont rares sont quasiment inconnus ou impossibles à trouver dans le Monde de jeu. Ces éléments apparaissent dans le jeu seulement si le MJ choisit de les inclure. Les éléments rares sont marqués en orange. <br/>
-La rareté "unique" indique un élément dont il n'existe qu'un seul exemplaire dans le Monde de jeu. Les artefacts, par exemple, sont souvent uniques. Les éléments uniques sont marqués en bleu.
+: Quasiment tous les éléments du jeu sont associés à une rareté indiquant si on les rencontre plus ou moins souvent dans le Monde de jeu. La rareté s'applique non seulement à l'équipement et aux objets magiques mais les sorts, les dons et les autres aspects mécaniques du jeu possèdent eux aussi chacun une rareté spécifique.  La majorité de ces choses se trouvent régulièrement à travers le monde, ce qui signifie que n'importe qui peut facilement les acheter (dans le cas d'objets) ou y avoir accès (dans le cas de dons). La rareté "commun", indiquée par la couleur noire, est la rareté par défaut.  La rareté "peu commun" indique un élément disponible uniquement à ceux qui ont été initiés avec un entraînement spécifique, ont grandi au sein d'une culture spécifique ou proviennent d'une partie spécifique du monde. Un personnage ne peut pas choisir ses options par défaut. Des choix spécifiques, comme des capacités de classe ou des backgrounds, peuvent lui donner accès à certains éléments peu communs. Le MJ peut permettre à un personnage d'accéder à des options peu communes s'il le choisit. Le niveau (ou le type, lorsqu'il n'y a pas de niveau donné) des éléments peu communs est indiqué en rouge.  Les éléments qui sont "rares" sont quasiment inconnus ou impossibles à trouver dans le Monde de jeu. Ces éléments apparaissent dans le jeu seulement si le MJ choisit de les inclure. Les éléments rares sont marqués en orange.  La rareté "unique" indique un élément dont il n'existe qu'un seul exemplaire dans le Monde de jeu. Les artefacts, par exemple, sont souvent uniques. Les éléments uniques sont marqués en bleu.
 
 Roleplay
 : Décrire les actions d'un personnage, souvent en prenant le point de vue du personnage, est ce qu'on appelle faire du roleplay. C'est quand un personnage parle ou décrit les actions en se mettant dans la peau du personnage.

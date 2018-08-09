@@ -2,6 +2,11 @@
 title: "Créer un personnage"
 source: "Playtest Pathfinder"
 layout: default
+index:
+  - key: "personnage (création)"
+    anchor: ""
+  - key: "création de personnage"
+    anchor: ""
 ---
 
 * Liste pour toc

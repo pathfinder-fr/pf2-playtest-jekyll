@@ -130,6 +130,7 @@ blockquote.block hr {
 
 blockquote.block ul {
     padding-left: 1rem;
+    margin: 0;
 }
 
 blockquote.block .traits {

@@ -17,6 +17,7 @@ Il comporte les sections suivantes.
 * [Comment lire la description d'un objet](comment-lire-la-description-d'un-objet.html)
 * [Distribuer le trésor](distribuer-le-trésor.html) : comment répartir le trésor en quantités appropriées à travers vos aventures
 * [Tables de trésors](tables-de-trésors.html) : listes d'options de trésors triées par niveau, catégorie et Prix
+* [Matériaux](matériaux.html) : certains métaux et bois rencontrés dans le monde de jeu peuvent donner des propriétés spécciales aux objets
 * [Objets spéciaux non magiques](objets-spéciaux-non-magiques.html) : des objets spécifiques créés dans des matières spéciales, qui ne sont pas magiques mais sont particulièrement précieux et plus puissants que des objets ordinaires
 * [Trappes](trappes.html) : pièges spéciaux généralement fabriqués par des rôdeurs
 * [Objets alchimiques](objets-alchimiques.html) : substances non magiques avec des effets extraordinaires qui sont généralement créés par des alchimistes

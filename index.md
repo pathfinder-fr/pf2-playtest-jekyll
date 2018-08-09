@@ -107,6 +107,7 @@ layout: default
 * [Comment lire la description d'un objet](comment-lire-la-description-d'un-objet.html)
 * [Distribuer le trésor](/ch11-trésors/distribuer-le-trésor.html)
 * [Tables de trésors](/ch11-trésors/tables-de-trésors.html)
+* [Matériaux](/ch11-trésors/matériaux.html)
 * [Objets spéciaux non magiques](/ch11-trésors/objets-spéciaux-non-magiques.html)
 * [Trappes](/ch11-trésors/trappes.html)
 * [Objets alchimiques](/ch11-trésors/objets-alchimiques.html)

@@ -2,6 +2,31 @@
 title: "Valeurs des caractéristiques"
 source: "Playtest Pathfinder"
 layout: default
+
+index:
+  - key: "valeurs des caractéristiques"
+    anchor: ""
+  - key: "caractéristiques"
+    anchor: ""
+  - key: Force
+    anchor: "la-force"
+  - key: Dextérité
+    anchor: "la-dextérité"
+  - key: Constitution
+    anchor: "la-constitution"
+  - key: Intelligence
+    anchor: "lintelligence"
+  - key: Sagesse
+    anchor: "la-sagesse"
+  - key: Charisme
+    anchor: "le-charisme"
+  - key: "accroissement de caractéristique"
+    anchor: "accroissements-de-caractéristiques"
+  - key: "diminution de caractéristique"
+    anchor: "diminution-de-caractéristique"
+  - key: "valeurs des caractéristiques (les déterminer)"
+    anchor: "instructions-pas-à-pas"
+
 ---
 
 * Liste pour toc

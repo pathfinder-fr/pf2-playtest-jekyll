@@ -56,9 +56,9 @@ En cas de test réussi, la condition ou l'effet prend fin immédiatement.
 
 ## Endurant
 
-Certains sorts et certaines capacités ne peuvent pas affecter une créature plus d'une fois par jour. Si un effet indique qu'une créature devient endurante, de nouvelles applications de cet effet ne fait plus rien à la créature. Par exemple, le sort de *cécité* indique "La cible est endurante à tous les sorts de *cécité*." Lancer *cécité* sur une cible à nouveau n'aurait donc aucun effet.
+Certains sorts et certaines capacités ne peuvent pas affecter une créature plus d'une fois par jour. Si un effet indique que la cible devient endurante, les applications supplémentaires du même effet ne lui causent plus aucun tort. Par exemple, le sort de *cécité* indique "La cible est endurante à tous les sorts de *cécité*." Lancer *cécité* une nouvelle fois sur la même cible n'aurait donc aucun effet.
 
-Sauf mention contraire, une créature reste endurante pendant 24 heures mais seulement à une capacité spécifique utilisée par une créature spécifique. *Cécité* est une exception, car le sort rend la cible endurante au sort, quelle que soit la personne qui le lance. Être endurant n'empêche pas les effets continus de ce qui est à la source de l'endurance. Par exemple, si une capacité vous rend effrayé et vous rend endurant contre elle, vous ne cessez pas d'être effrayé juste parce que vous y êtes endurant ; vous ne devenez tout simplement plus effrayé par la suite si la même créature vous cible à nouveau avec cette même capacité plus tard au cours du même jour.
+Sauf mention contraire, une créature reste endurante pendant 24 heures, mais seulement à une capacité spécifique utilisée par une créature spécifique. *Cécité* est une exception, car le sort rend la cible endurante au sort, quelle que soit la personne qui le lance. Être endurant ne bloque pas les effets continus de la capacité à laquelle la victime devient endurante. Par exemple, si une capacité vous rend effrayé et vous rend endurant contre elle, vous ne cessez pas d'être effrayé juste parce que vous êtes devenu endurant ; cela signifie juste que, si la même créature vous cible à nouveau avec cette même capacité, plus tard au cours du même jour, vous échappez automatiquement à ses effets.
 
 ## Modifier les actions
 
