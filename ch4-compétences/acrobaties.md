@@ -5,14 +5,14 @@ source: "Playtest Pathfinder"
 layout: default
 ---
 
-#Acrobaties (Dextérité)#
+# Acrobaties (Dextérité)
 La compétence Acrobaties mesure votre capacité à accomplir des exploits physiques qui nécessitent de l’équilibre, de la coordination et de la grâce.
 
-##Utilisations de la compétence Acrobaties sans entraînement##
+## Utilisations de la compétence Acrobaties sans entraînement
 
 Les utilisations sans entrainement de la compétence sont les suivants :
 
-###Action1 Avancer sans tomber### 
+### Action1 Avancer sans tomber
 Mouvement
 Vous pouvez vous déplacer sur une surface étroite ou un sol inégal en lançant un test d’Acrobaties contre le DD de la surface étroite ou du sol inégal.
 Vous débutez cette action lorsque vous êtes sur la case qui contient la surface étroite, le sol inégal ou une surface similaire.
@@ -26,7 +26,7 @@ Réussite critique Vous vous déplacez à votre Vitesse sur la surface étroite 
 
 Échec critique Vous tombez et votre tour se termine.
 
-###Action libre Garder son Équilibre###
+### Action libre Garder son Équilibre
 Déclencheur Vous subissez des dégâts alors que vous vous trouvez sur une surface étroite ou un sol inégal ou que vous êtes en équilibre, tel que le MJ l’a déterminé.
 
 Vous essayez de conserver votre équilibre pour éviter la chute.
@@ -34,7 +34,7 @@ Vous essayez de conserver votre équilibre pour éviter la chute.
 Réussite critique Vous parvenez à garder votre équilibre et n’avez plus besoin de faire de tentative pour ce round.
 Échec Vous tombez.
 
-###Activité Se faufiler###
+### Activité Se faufiler
 Mouvement
 Vous essayez de vous faufiler dans un espace étroit en vous contorsionnant pour passer au travers.
 
@@ -44,7 +44,7 @@ Réussite critique Vous vous faufilez de 2 cases au travers de l’espace étroi
 
 Échec critique Vous restez coincé dans cet espace étroit. Tant que vous êtes coincé, vous devez passer une minute avant d’essayer un autre test d’Acrobaties contre le même DD. Tout autre résultat que celui d’un échec critique permet de vous décoincer.
 
-###Réaction Se rattraper au bord###
+### Réaction Se rattraper au bord
 Manipulation
 Déclencheur Vous chutez à partir d’un bord ou lâchez prise.
 Conditions Vos mains ne doivent ni être liées derrière votre dos ni autrement restreintes.
@@ -60,7 +60,7 @@ Réussite critique Vous vous rattrapez au bord ou à la rambarde, que vous dispo
 Vous subissez toujours les dégâts selon la distance de chute jusque lors mais vous considérez que la hauteur de cette chute est de 9 m de moins qu’elle ne l’a été.
 Échec critique Vous poursuivez votre chute et si vous êtes tombé d’une distance supérieure à 6 m avant d’utiliser cette réaction, vous subissez 10 points de dégâts contondants pour chaque tranche de chute de 6 m lors de l’impact.
 
-###Action1 Traverser l'espace d'un ennemi###
+### Action1 Traverser l'espace d'un ennemi
 Mouvement
 Vous vous déplacez à votre Vitesse. Au cours de ce mouvement, vous pouvez passer par l’espace d’un adversaire. 
 Vous devez faire un test d’Acrobaties contre le DD de Réflexes de votre ennemi dès que vous entrez dans son espace.
@@ -71,10 +71,10 @@ Si votre Vitesse ne vous permet pas d’atteindre une case hors de son espace, v
 
 Échec Votre déplacement se termine et vous déclenchez les mêmes réactions (comme Attaque d’opportunité) que si vous vous étiez sorti de la case par laquelle vous avez entamé votre mouvement.
 
-##Utilisations de la compétence Acrobaties avec entraînement##
+## Utilisations de la compétence Acrobaties avec entraînement
 Vous ne pouvez utiliser l’action suivante que si vous êtes entraîné dans cette compétence :
 
-###Action1 Manœuvre en vol###
+### Action1 Manœuvre en vol
 Mouvement
 Si vous disposez d’une Vitesse de vol [voir page 310] et que vous devez accomplir une manœuvre difficile alors que vous volez, tentez un test d’Acrobaties.
 
