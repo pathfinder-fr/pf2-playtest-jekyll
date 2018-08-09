@@ -33,17 +33,17 @@ Une *rune de puissance pour arme* donne deux avantages offensifs. Tout d'abord, 
 
 Ensuite, en cas de jet d'attaque réussi, l'arme inflige un nombre de dés de dégâts supplémentaires égal à la valeur de puissance. Par exemple, un coup de *dague +2* infligerait 3d4 points de dégâts au lieu de 1d4.
 
-* **Type** *rune de puissance d'arme +1* ; **Niveau** 4 ; **Prix** 65 po<br/>
+* **Type** *rune de puissance d'arme +1* ; **Niveau** 4 ; **Prix** 65 po  
 Cette rune ne peut être incrustée que dans une arme de qualité experte ou supérieure.
 
-* **Type** *rune de puissance d'arme +2* ; **Niveau** 8 ; **Prix** 400 po<br/>
+* **Type** *rune de puissance d'arme +2* ; **Niveau** 8 ; **Prix** 400 po  
 Cette rune ne peut être incrustée que dans une arme de qualité experte ou supérieure qui possède déjà une *rune de puissance d'arme +1*. Elle augmente la rune de puissance de l'armure à +2.
 
-* **Type** *rune de puissance d'arme +3* ; **Niveau** 12 ; **Prix** 1 175 po<br/>
+* **Type** *rune de puissance d'arme +3* ; **Niveau** 12 ; **Prix** 1 175 po  
 Cette rune ne peut être incrustée que dans une arme de qualité de maître ou supérieure qui possède déjà une *rune de puissance d'arme +2*. Elle augmente la rune de puissance de l'armure à +3.
 
-* **Type** *rune de puissance d'arme +4* ; **Niveau** 16 ; **Prix** 8 000 po<br/>
+* **Type** *rune de puissance d'arme +4* ; **Niveau** 16 ; **Prix** 8 000 po  
 Cette rune ne peut être incrustée que dans une arme de qualité de maître ou supérieure qui possède déjà une *rune de puissance d'arme +3*. Elle augmente la rune de puissance de l'armure à +4.
 
-* **Type** *rune de puissance d'arme +5* ; **Niveau** 20 ; **Prix** 53 860 po<br/>
+* **Type** *rune de puissance d'arme +5* ; **Niveau** 20 ; **Prix** 53 860 po  
 Cette rune ne peut être incrustée que dans une arme de qualité de maître ou supérieure qui possède déjà une *rune de puissance d'arme +4*. Elle augmente la rune de puissance de l'armure à +5.
