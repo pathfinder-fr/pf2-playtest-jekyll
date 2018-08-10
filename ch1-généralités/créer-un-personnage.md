@@ -12,13 +12,13 @@ index:
 * Liste pour toc
 {:toc .float-right .ml-2}
 
-Quand vous vous apprêtez à faire une partie de Pathfinder en tant que joueur, la première chose que vous avez besoin de faire est de créer un personnage dont les aventures seront détaillées en jeu. C'est à vous d'imaginer le passé de votre personnage, sa personnalité et sa manière de voir le monde car ces décisions formeront la base sur laquelle vous fonderez votre roleplay pendant la partie. Vous utiliserez les règles du jeu pour déterminer les capacités de départ de votre personnage et les talents spéciaux qu'il pourra utiliser en jeu.
+Quand vous vous apprêtez à faire une partie de Pathfinder en tant que joueur, la première chose que vous avez besoin de faire est de créer un personnage dont vous découvrirez les aventures durant le jeu. C'est à vous d'imaginer le passé de votre personnage, sa personnalité et sa manière de voir le monde car ces décisions formeront la base sur laquelle vous fonderez votre roleplay pendant la partie. Vous utiliserez les règles du jeu pour déterminer les capacités de départ de votre personnage et les talents spéciaux qu'il pourra utiliser en jeu.
 
 Cette section vous présente un guide pas à pas pour créer un personnage en utilisant les règles de Pathfinder. L'ordre dans lequel ces étapes sont citées est une suggestion : vous êtes libre de les réaliser dans l'ordre que vous préférez. Dans certains cas, quand les règles relatives à une étape nécessitent des explications plus longues, la description de l'étape vous renvoie vers d'autres parties où ces règles sont détaillées.
 
-Plusieurs des étapes ci-dessous vous demandent de remplir certains champs sur votre feuille de personnage. Notez que la feuille de personnage en question est organisée pour être facile à utiliser pendant les parties plutôt qu'en fonction des étapes de la création d'un personnage. De plus, les champs qui apparaissent sur les feuilles de personnage recouvrent toutes les possibilités : tous ne seront pas forcément utilisés, cela dépend du personnage construit. Par exemple, tous les personnages de niveau 1 n'ont pas forcément accès à une réaction. Si un champ de la feuille de personnage n'est pas pertinent pour votre personnage, laissez-le vierge. Chaque étape de la création de personnage détaillée ci-dessous est annoté d'un numéro qu'on retrouve sur la feuille de personnage, ce qui vous permet de retrouver facilement dans quel champ noter les informations. Les champs qu'il n'est pas nécessaire de remplir sur la deuxième et troisième pages de la feuille de personnage sont cités dans le texte.
+Plusieurs des étapes ci-dessous vous demandent de remplir certains champs sur votre feuille de personnage. Notez que la feuille de personnage en question est organisée pour faciliter son utilisation pendant les parties plutôt que lors de la création d'un personnage. De plus, les champs qui apparaissent sur les feuilles de personnage recouvrent toutes les possibilités : tous ne seront pas forcément utilisés, cela dépend du personnage construit. Par exemple, tous les personnages de niveau 1 n'ont pas forcément accès à une réaction. Si un champ de la feuille de personnage n'est pas pertinent pour votre personnage, laissez-le vierge. Chaque étape de la création de personnage détaillée ci-dessous est annoté d'un numéro qu'on retrouve sur la feuille de personnage, ce qui vous permet de retrouver facilement dans quel champ noter les informations. Les champs qu'il n'est pas nécessaire de remplir sur la deuxième et troisième pages de la feuille de personnage sont cités dans le texte.
 
-Si vous créez un personnage de plus haut niveau, il vaut mieux commencer par les instructions qui se trouvent ici avant de visiter la section [Gagner un niveau](/ch8-progression-et-options/gagner-un-niveau.html) pour lire comment faire évoluer votre personnage.
+Si vous créez un personnage de plus haut niveau, il vaut mieux commencer par les instructions qui se trouvent ici avant de visiter la section [Gagner un niveau](/ch8-progression-et-options/gagner-un-niveau.html) présentant les instructions pour faire évoluer votre personnage.
 
 ### Les dés
 
@@ -28,7 +28,7 @@ Pathfinder nécessite plusieurs dés polyédriques. Quand ces dés sont mentionn
 
 Quel type de héros désirez-vous incarner ? La réponse à cette question pourrait être aussi simple que "un guerrier courageux" ou aussi complexe que "l'enfant d'un voyageur elfe qui a élevé ce personnage dans une ville principalement humaine dédiée à la déesse du Soleil". Pendant cette étape, c'est une bonne idée de décider des grandes lignes de la personnalité de votre personnage, d'imaginer quelques détails à propos de son passé et de réfléchir à la raison pour laquelle il est devenu aventurier et quel type d'aventurier il est. Vous préférerez sans doute jeter un coup d'oeil sur les ascendances, les backgrounds et les classes de Pathfinder. Les tables ci-dessous pourraient vous aider à faire correspondre votre concept à certains des éléments de règles de base.
 
-Ci-dessous sont présentées diverses manières dont vous pourriez approcher la création du concept de votre personnage. Une fois que vous avez une assez bonne du type de personnage que vous avez envie d'incarner, passer à l'étape 2.
+Ci-dessous sont présentées diverses manières dont vous pourriez approcher la création du concept de votre personnage. Une fois que vous avez une assez bonne idée du type de personnage que vous avez envie d'incarner, passer à l'étape 2.
 
 ### Tableau des ascendances et des classes
 
@@ -41,9 +41,9 @@ Les tables qui suivent présentent des résumés rapides pour ceux qui cherchent
 |:-----------|:------------|:-----------------------------------|:----------|
 | Nain | Les nains sont des gens trapus et de petite taille qui sont souvent bornés, acharnés et extrêmement fidèles. | Consitution, Sagesse, Libre | Charisme | 
 | Elfe | Les elfes sont des gens grands et minces dotés d'une longévité extrême et dont la culture a connu ses moments de gloire il y a longtemps. | Dextérité, Intelligence, Libre | Constitution |
-| Gnome | Les gnomes sont des gens petits, frêles et d'humeur changeante qui adorent le changement et l'excitation. | Constitution, Charisme, Libre | Force |
+| Gnome | Les gnomes sont des gens petits, frêles et lunatiques qui adorent le changement et l'excitation. | Constitution, Charisme, Libre | Force |
 | Gobelin | Les gobelins sont des gens petits, énergétiques et bagarreurs qui ont été craints et diabolisés pendant des décennies. | Dextérité, Charisme, Libre | Sagesse | 
-| Halfling | Les halflings sont des gens petits et adaptables qui font preuve d'une grande curiosité et d'un sens de l'humour très développé. | Dextérité, Sagesse, Libre | Force
+| Halfling | Les halflings sont des gens petits et dotés d'une grande adaptabilité, qui font preuve d'une curiosité remarquable et d'un sens de l'humour très développé. | Dextérité, Sagesse, Libre | Force
 | Humain* | Les humains sont incroyablement divers entre autres en terme de taille, de personnalités et d'attitude. | Libre, Libre | — |
 
 {: .small}
@@ -66,7 +66,7 @@ Gardez à l'esprit que le background d'un personnage influence également ses va
 | Paladin | Le paladin est un champion de sa divinité qui utilise ses pouvoirs divins pour se montrer héroïque et protéger ses alliés. | Force | Charisme, Constitution |
 | Prêtre | Le prêtre fait appel aux pouvoirs d'une divinité pour lancer des sorts qui soignent ses alliés et blessent ses ennemis. | Sagesse | Charisme, Constitution |
 | Rôdeur | Le rôdeur est un expert lorsqu'il s'agit d'utiliser son environnement, y compris des pièges et des alliés animaux, pour harasser ses ennemis. | Force | Constitution, Sagesse |
-| Roublard | Le roublard est un maître des magouilles aux talents multiples qui frappent ses ennemis au moment ils s'y attendent le moins. | Dextérité | Charisme, Constitution |
+| Roublard | Le roublard est un maître des magouilles aux talents multiples qui frappent ses ennemis au moment où ils s'y attendent le moins. | Dextérité | Charisme, Constitution |
 | Sorcier | La puissance magique du sorcier coule dans ses veines et se manifeste sous la forme de sorts et de capacités fantastiques. | Charisme | Dextérité, Constitution |
 
 ### Ascendance, background, classe ou détails
@@ -75,23 +75,23 @@ Si l'une des ascendances, des backgrounds ou des classes de Pathfinder vous atti
 
 Il peut être amusant de construire un personnage autour d'une ascendance, d'un background ou d'une classe spécifique tout en jouant avec les particularités du monde de jeu. Vous pourriez vous demander si vous préférez construire un membre typique de votre ascendance ou classe, collant aux descriptions typiques, ou si vous préfèreriez incarner un personnage qui rompt avec les traditions de son peuple. Par exemple, vous pourriez jouer un nain avec un sens de l'émerveillement, une certaine innocence et une envie de changement, ou un roublard doué capable d'impressionnantes acrobaties mais qui n'est guère intéressé par le fait d'être discret.
 
-Bien sûr, vous pouvez toujours construire un concept en vous servant de n'importe quel détail concernant un personnage. Vous pouvez utiliser le roleplay pour vous distinguer non seulement des normes du monde fictionnel de Pathfinder mais aussi des normes de la société de la vie réelle. Votre personnage pourrait s'éloigner de la notion binaire de genre, explorer une identité culturelle, avoir un handicap, n'importe quelle orientation sexuelle ou n'importe quelle combinaison de toutes ces choses. Votre personnage peut vivre la vie que vous choisissez.
+Bien sûr, vous pouvez toujours construire un concept en vous servant de n'importe quel détail concernant un personnage. Vous pouvez utiliser le roleplay pour vous distinguer non seulement des normes du monde fictif de Pathfinder mais aussi des normes du monde réel. Votre personnage pourrait s'éloigner de la notion binaire de genre, explorer une identité culturelle, avoir un handicap, n'importe quelle orientation sexuelle ou n'importe quelle combinaison de toutes ces choses. Votre personnage peut vivre la vie que vous choisissez.
 
 Une fois que vous avez établi le concept de votre personnage et son background, vous pouvez vous amuser à imaginer son nom !
 
 ### Foi
 
-Peut-être avez-vous envie de jouer un personnage qui est animé par une foi profonde envers une divinité spécifique. Pathfinder est un monde riche avec de très nombreuses divinités dont les philosophies et les croyances recouvrent une vaste gamme, du dieu de l'aventure au grand coeur à la déesse des voyages et des rêves en passant par la déesse de la justice et de l'honneur. Votre personnage pourrait être si attiré par une foi que vous décidez qu'il devrait être un prêtre ou un paladin de cette divinité ; ou peut-être est-il simplement le fils de croyants, ou un croyant qui applique les enseignements de sa foi au jour le jour sans faire partie du clergé ?
+Peut-être avez-vous envie de jouer un personnage qui est animé par une foi profonde envers une divinité spécifique. Pathfinder est un monde riche avec de très nombreuses divinités dont les philosophies et les croyances recouvrent une vaste gamme, du dieu de l'aventure au grand coeur à la déesse des voyages et des rêves en passant par la déesse de la justice et de l'honneur. Votre personnage pourrait être à ce point attiré par une foi que vous décidiez d'en faire un prêtre ou un paladin de cette divinité ; ou peut-être est-il simplement le fils de croyants, ou un croyant qui applique les enseignements de sa foi au jour le jour sans faire partie du clergé ?
 
 ### Vos alliés
 
 Avant que la partie ne commence, c'est toujours une bonne idée de discuter entre joueurs pour savoir comment vos personnages auraient pu se rencontrer et pourquoi ils auraient pu décider de travailler ensemble et de partir à l'aventure. Vous pourriez même vouloir vous coordonner avec d'autres joueurs quand vous créez votre concept de personnage, même si vous ne devriez jamais vous sentir obligé de faire et de jouer un personnage qui ne vous intéresse pas.
 
-Les liens qui unissent vos personnages pourraient concerner les histoires de vos personnages : ils pourraient provenir du même village ou être parents. Ces liens pourraient aussi dépendre d'aspects mécaniques, comme le fait de créer des personnages dont les capacités au combat se complètent les unes les autres. Dans ce dernier cas, il peut être utile que le groupe comporte des personnages qui infligent des dégâts, des personnages qui peuvent subir des dégâts et rester debout et des personnages qui peuvent soigner. Les classes de Pathfinder offrent cependant de nombreux choix et il y a beaucoup de manières de construire chacun de ces types de personnages, donc ne laissez pas ces catégories très larges limiter vos décisions !
+Les liens qui unissent vos personnages pourraient concerner les histoires de vos personnages : ils pourraient provenir du même village ou être parents. Ces liens pourraient aussi dépendre d'aspects mécaniques, comme le fait de créer des personnages dont les capacités au combat se complètent les unes les autres. Dans ce dernier cas, il peut être utile que le groupe comporte des personnages qui infligent des dégâts, des personnages qui peuvent subir des dégâts et rester debout, et des personnages qui peuvent soigner. Les classes de Pathfinder offrent cependant de nombreux choix et il y a beaucoup de manières de construire chacun de ces types de personnages, donc ne laissez pas ces catégories très larges limiter vos décisions !
 
 ### Valeurs de caractéristiques
 
-Un des éléments les plus simples pour commencer le concept de votre personnage est de considérer ses caractéristiques. Voulez-vous que votre personnage soit le plus rapide, le plus intelligent ou le plus charmant ? Si c'est le cas, améliorez sa Dextérité, son Intelligence et son Charisme de manière adéquate. Jetez un coup d'oeil à la section sur le [valeurs de caractéristiques](valeurs-des-caractéristiques.html) pour en apprendre plus au sujet des liens entre les caractéristiques et les capacités du personnage. Si vous construisez un personnage à partir d'une ou deux caractéristiques fortes, choisissez une classe qui utilise l'une de ces caractéristiques comme caractéristique principale. Vous pourriez aussi préférer choisir une ascendance et un background qui renforcent ces mêmes caractéristiques, mais vous pouvez toujours utiliser vos accroissements de caractéristiques libres pour ajuster le tir. Et quand vous choisissez les compétences dans lesquelles vous êtes entraîné, prenez des compétences qui sont liées à vos meilleurs caractéristiques.
+Un des éléments les plus simples pour commencer le concept de votre personnage est de considérer ses caractéristiques. Voulez-vous que votre personnage soit le plus rapide, le plus intelligent ou le plus charmant ? Si c'est le cas, améliorez sa Dextérité, son Intelligence et son Charisme de manière adéquate. Jetez un coup d'oeil à la section sur le [valeurs de caractéristiques](valeurs-des-caractéristiques.html) pour en apprendre plus au sujet des liens entre les caractéristiques et les capacités du personnage. Si vous construisez un personnage à partir d'une ou deux caractéristiques fortes, choisissez une classe qui utilise l'une de ces caractéristiques comme caractéristique principale. Vous pourriez aussi préférer choisir une ascendance et un background qui renforcent ces mêmes caractéristiques, mais vous pouvez toujours utiliser vos accroissements de caractéristiques libres pour ajuster le tir. Et quand vous choisissez les compétences dans lesquelles vous êtes entraîné, prenez des compétences qui sont liées à vos meilleures caractéristiques.
 
 ### Sur la feuille de personnage
 
@@ -135,7 +135,7 @@ Maintenant, indiquez tous les avantages et toutes les capacités de classe que v
 
 Pour déterminer le total de Points de vie du nouveau personnage, ajoutez le nombre de Points de vie qu'il gagne grâce à son ascendance et le nombre de Points de vie qu'il gagne grâce à sa Classe. Ajoutez-y également son modificateur de Constitution.
 
-C'est un bon moment pour cocher les cases décrivant les divers degrés de formation (Non entraîné, Entraîné, Expert, Maître et Légendaire) qui apparaissent à plusieurs endroits sur la feuille de personnage. Les degrés de formation déterminent quel modificateur votre personnage applique aux résultats de ses jets de dés et à ses DD quand il utiliser certaines mécaniques de jeu. Par exemple, si votre personnage est entraîné dans une compétence donnée ou une capacité, son modificateur lorsqu'il utilise cette capacité ou compétence est égal à son niveau. Plus d'informations sur les degrés de formation dans la section sur les [Tests](/ch9-jouer-à-pathfinder/tests.html).
+C'est un bon moment pour cocher les cases décrivant les divers degrés de formation (non entraîné, entraîné, expert, maître et légendaire) qui apparaissent à plusieurs endroits sur la feuille de personnage. Les degrés de formation déterminent quel modificateur votre personnage applique aux résultats de ses jets de dés et à ses DD quand il utiliser certaines mécaniques de jeu. Par exemple, si votre personnage est entraîné dans une compétence donnée ou une capacité, son modificateur lorsqu'il utilise cette capacité ou compétence est égal à son niveau. Plus d'informations sur les degrés de formation dans la section sur les [Tests](/ch9-jouer-à-pathfinder/tests.html).
 
 ### Sur la feuille de personnage
 
@@ -143,7 +143,7 @@ Notez la caractéristique principale de votre personnage sur la feuille ainsi qu
 
 ## Étape 7 : déterminez vos modificateurs de compétence
 
-Maintenant que vous avez noté vos compétences de signature et décidé des compétences dans lesquelles vous êtes entraîné, il est temps de calculer les modificateurs de compétence. Chaque compétence est associée à une caractéristique. Quand vous effectuez un test de compétence, ajoutez le modificateur de la caractéristique associée à votre modificateur de formation ainsi que les autres modificateurs applicables (bonus, pénalités...) pour déterminer le modificateur pour votre test. De nombreux usages de compétences ne sont accessibles que si vous êtes au moins entraîné dans la compétence en question.
+Maintenant que vous avez noté vos compétences de signature et décidé des compétences dans lesquelles vous êtes entraîné, il est temps de calculer les modificateurs de compétence. Chaque compétence est associée à une caractéristique. Quand vous effectuez un test de compétence, calculez le modificateur à appliquer au test en additionnant les valeurs suivantes : le modificateur de la caractéristique associée, le modificateur de formation et les autres modificateurs applicables (bonus, pénalités...). Il est fréquent que l'utilisation d'une compétence ne soit accessible que si vous êtes au moins entraîné dans cette compétence.
 
 ### Sur la feuille de personnage
 
@@ -165,7 +165,7 @@ Ajoutez maintenant les détails qui suivent sur votre feuille de personnage aux 
 
 ### Âge
 
-Notez l'âge de votre personnage. La description de votre ascendance vous donne quelques conseils quant aux intervalles d'âge des membres de cette ascendance. À part ces informations, vous pouvez décider de jouer un personnage de l'âge que vous voulez. L'âge du personnage est un facteur important pour déterminer la manière dont il interagit avec le monde. Il n'y a aucun ajustement mécanique suite au fait d'être particulièrement âgé mais vous pourriez avoir envie d'en tenir compte quand vous choisissez vos valeurs de caractéristiques et quand vous les faites progresser plus tard. Par exemple, un personnage âgé et sage pourrait avoir une valeur de Sagesse plus importante, donc vous pourriez décider d'utiliser au moins l'un de vos accroissements de caractéristiques en Sagesse. Des personnages particulièrement jeunes pourraient changer le ton de certaines menaces rencontrées au cours de la partie ; c'est pourquoi il est plutôt recommandé de jouer des personnages qui sont au moins de jeunes adultes. 
+Notez l'âge de votre personnage. La description de votre ascendance vous donne quelques conseils quant aux intervalles d'âge des membres de cette ascendance. À part ces informations, vous pouvez décider de jouer un personnage de l'âge que vous voulez. L'âge du personnage est un facteur important pour déterminer la manière dont il interagit avec le monde. Il n'y a aucun ajustement mécanique suite au fait d'être particulièrement âgé mais vous pourriez avoir envie d'en tenir compte quand vous choisissez vos valeurs de caractéristiques et quand vous les faites progresser plus tard. Par exemple, un personnage âgé et sage pourrait avoir une valeur de Sagesse plus importante, donc vous pourriez décider d'utiliser au moins l'un de vos accroissements de caractéristiques en Sagesse. Des personnages particulièrement jeunes pourraient changer l'impact émotionnel de certains passages de la partie ; c'est pourquoi il est plutôt recommandé de jouer des personnages qui sont au moins de jeunes adultes. 
 
 ### Alignement
 
@@ -173,20 +173,20 @@ L'alignement de votre personnage indique sa philosophie actuelle, son comporteme
 
 Il existe 9 alignements possibles à Pathfinder, comme indiqué dans la table ci-dessous. Si votre alignement a au moins une composante qui n'est pas Neutre, votre personnage gagne des traits dépendant des composantes de son alignement. Cela pourrait modifier la manière dont certains sorts, certains objets et certaines créatures interagissent avec votre personnage.
 
-L'alignement de votre personnage est mesuré par deux groupes de valeurs opposées : l'axe du Bien et du Mal et l'axe de la Loi et du chaos. Un personnage qui ne prend pas vraiment position fortement d'un côté ou de l'autre est Neutre sur l'axe en question. L'alignement est un sujet complexe, et même des actes qui pourraient être considérés comme bons peuvent être utilisés pour des objectifs maléfiques et vice versa. Le MJ est l'arbitre final pour les questions visant à déterminer l'effet d'actions spécifiques sur l'alignement de votre personnage.
+L'alignement de votre personnage est mesuré par deux groupes de valeurs opposées : l'axe du Bien et du Mal et l'axe de la Loi et du Chaos. Un personnage qui ne prend pas vraiment position fortement d'un côté ou de l'autre est Neutre sur l'axe en question. L'alignement est un sujet complexe, et même des actes qui pourraient être considérés comme bons peuvent être utilisés pour des objectifs maléfiques et vice versa. Le MJ est l'arbitre final pour les questions visant à déterminer l'effet d'actions spécifiques sur l'alignement de votre personnage.
 
 {: .table .table-sm }
 |   | Bon | Neutre | Mauvais |
 |:-:|:----:|:------:|:---:|
-| **Loyal** | Loyal Bon (LG) | Loyal Neutre (LN) | Loyal Mauvais (LM) |
-| **Neutre** | Neutre Bon (NB) | Neutre véritable (N) | Neutre Mauvaise NM |
+| **Loyal** | Loyal Bon (LB) | Loyal Neutre (LN) | Loyal Mauvais (LM) |
+| **Neutre** | Neutre Bon (NB) | Neutre véritable (N) | Neutre Mauvaise (NM) |
 | **Chaotique** | Chaotique Bon (CB) | Chaotique Neutre (CN) | Chaotique Mauvais (CM) |
 
 #### Loi et Chaos
 
 Votre personnage a un alignement Loyal s'il accorde de l'importance à la stabilité, à la régularité et à la prédictibilité plutôt qu'à la flexibilité. Les personnages Loyaux ont une vie régie par un système régulier, qu'il s'agisse d'un planning quotidien méticuleux, un groupe de lois officielles ou non qu'ils suivent à la lettre ou une adhérence stricte à un code d'honneur. 
 
-D'un autre côté, si elle accord de l'importance à la flexibilité, la créativité et à la spontanéité plutôt qu'à la régularité, elle a un alignement Chaotique. Cela ne signifie pas qu'elle décide de sa vie en choisissant tout au hasard grâce à des lancers de dés par contre... Les personnages Chaotiques croient que les individus Loyaux sont trop inflexibles pour juger chaque situation selon ses propres mérites ou pour tirer avantage d'opportunités qui se présentent, alors que les personnages Loyaux pensent que les individus Chaotiques sont irresponsables et inconstants.
+D'un autre côté, s'il accorde de l'importance à la flexibilité, la créativité et à la spontanéité plutôt qu'à la régularité, il a un alignement Chaotique. Par contre, cela ne signifie pas qu'il décide de sa vie en choisissant tout au hasard grâce à des lancers de dés... Les personnages Chaotiques croient que les individus Loyaux sont trop inflexibles pour juger chaque situation selon ses propres mérites ou pour tirer avantage d'opportunités qui se présentent, alors que les personnages Loyaux pensent que les individus Chaotiques sont irresponsables et inconstants.
 
 De nombreux personnages se trouvent au milieu, obéissant généralement à la loi ou suivant un code de conduite dans de nombreuses situations mais contournant les règles quand la situation le demande. Si votre personnage est également au milieu, il est Neutre sur cet axe.
 
@@ -194,7 +194,7 @@ De nombreux personnages se trouvent au milieu, obéissant généralement à la l
 
 Votre personnage est d'alignement Bon s'il accorde plus d'importance au bonheur des autres qu'au sein et qu'il s'efforce avec abnégation de venir en aide aux autres, même ceux qui ne sont pas ses amis ni sa famille. Il est également d'alignement Bon s'il considère qu'il est important de protéger les autres même quand cela le met en danger.
 
-Il a un alignement Mauvais s'il est prêt à transformer les autres en victimes quand c'est à son avantage et il est encore plus certainement d'alignement Mauvais s'il prend du plaisir à causer du tort ou s'il cherche activement à causer du tort aux autres.
+Il a un alignement Mauvais s'il est prêt à transformer les autres en victimes quand c'est à son avantage et il est encore plus certainement d'alignement Mauvais s'il prend du plaisir ou s'il cherche activement à causer du tort aux autres.
 
 Si votre personnage tombe quelque part au milieu, il est sans doute Neutre sur cet axe.
 
@@ -202,9 +202,9 @@ Si votre personnage tombe quelque part au milieu, il est sans doute Neutre sur c
 
 Votre personnage possède deux valeurs pour représenter à quel point il est difficile de le frapper en combat. Il s'agit de sa Classe d'armure (CA) et de sa Classe d'armure de contact (CAC). La plupart des attaques ciblent la CA de votre personnage alors que celles qui ne nécessitent que de rentrer en contact avec lui utilisent sa CAC.
 
-Pour calculer sa CA, calculez 10 + son modificateur de Dextérité (sans dépasser le modificateur de Dextérité maximal autorisé par son armure), plus son modificateur de formation pour son armure plus le bonus d'objet à la CA de son armure ainsi que tout autre bonus ou pénalité qui s'appliquent toujours.
+Pour calculer sa CA, calculez 10 + son modificateur de Dextérité (sans dépasser le modificateur de Dextérité maximal autorisé par son armure), plus son modificateur de formation pour son armure, plus le bonus d'objet à la CA de son armure, ainsi que tout autre bonus ou pénalité qui s'appliquent toujours.
 
-Pour calculer sa CAC, calculez 10 + son modificateur de Dextérité (sans dépasser le modificateur de Dextérité maximal autorisé par son armure), plus son modificateur de formation pour son armure plus le bonus d'objet à la CAC de son armure ainsi que tout autre bonus ou pénalité qui s'appliquent toujours.
+Pour calculer sa CAC, calculez 10 + son modificateur de Dextérité (sans dépasser le modificateur de Dextérité maximal autorisé par son armure), plus son modificateur de formation pour son armure, plus le bonus d'objet à la CAC de son armure, ainsi que tout autre bonus ou pénalité qui s'appliquent toujours.
 
 Les sorts ou capacités qui donnent au personnage un bonus ou une pénalité de CA lui donne un bonus ou une pénalité égale à la CAC (sauf mention contraire).
 
@@ -228,13 +228,13 @@ Au début de chaque session de jeu, votre personnage possède généralement 1 P
 
 Ensuite, retournez là où vous avez noté les armes de corps à corps et à distance de votre personnage et calculez ses modificateurs de Frappes avec ces armes ainsi que les dégâts que ses Frappes occasionnent.
 
-Pour les modificateurs des Frappes au corps à corps, additionnez le modificateur de formation de votre personnage pour l'arme en question avec son modificateur de Force (à moins que la description de l'arme n'indique autre chose) plus tout bonus d'objet provenant de l'arme et tout autre bonus ou pénalité qui s'appliquent tout le temps. Notez combien de dégâts ses Frappes au corps à corps infligent. Cette quantité vaut le dé de dégâts de l'arme plus son modificateur de Force.
+Pour les modificateurs des Frappes au corps à corps, additionnez le modificateur de formation de votre personnage pour l'arme en question avec son modificateur de Force (à moins que la description de l'arme n'indique autre chose), plus tout bonus d'objet provenant de l'arme et tout autre bonus ou pénalité qui s'appliquent tout le temps. Notez également combien de dégâts ses Frappes au corps à corps infligent. Cette quantité vaut le dé de dégâts de l'arme plus le modificateur de Force du personnage.
 
-Pour les modificateurs des Frappes à distance, additionnez le modificateur de formation de votre personnage pour l'arme en question avec son modificateur de Dextérité plus tout bonus d'objet provenant de l'arme et tout autre bonus ou pénalité qui s'appliquent tout le temps. Notez combien de dégâts ses Frappes à distance infligent. Pour la plupart des armes à distance, cette quantité vaut le dé de dégâts de l'arme. Si l'arme possède le trait lancé, ajoutez également le modificateur de Force du personnage. Si elle possède le trait propulsé, ajoutez plutôt la moitié de ce modificateur de Force.
+Pour les modificateurs des Frappes à distance, additionnez le modificateur de formation de votre personnage pour l'arme en question avec son modificateur de Dextérité, plus tout bonus d'objet provenant de l'arme et tout autre bonus ou pénalité qui s'appliquent tout le temps. Notez également combien de dégâts ses Frappes à distance infligent. Pour la plupart des armes à distance, cette quantité vaut le dé de dégâts de l'arme. Si l'arme possède le trait lancé, ajoutez aussi le modificateur de Force du personnage. Si elle possède le trait propulsé, ajoutez plutôt la moitié de ce modificateur de Force.
 
 #### Perception
 
-Le modificateur de [Perception](/ch9-jouer-à-pathfinder/perception.html) de votre personnage mesure à quel point il est alerte et attentif. Ce nombre vaut son modificateur de formation en Perception plus son modificateur de Sagesse.
+Le modificateur de [Perception](/ch9-jouer-à-pathfinder/perception.html) de votre personnage permet de savoir à quel point il est alerte et attentif. Ce nombre vaut son modificateur de formation en Perception plus son modificateur de Sagesse.
 
 #### Points de résonance
 
