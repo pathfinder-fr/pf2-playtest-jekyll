@@ -1,62 +1,28 @@
-<nav>
-    <ul class="nav flex-column">
-        <li class="nav-item">
-            <a class="nav-link" href="{{ '/index.html' | relative_url }}"><strong>Menu principal</strong></a>
-        </li>
+<nav id="sidebar-nav">        
+    <ul class="top-level">
+        {%- for item in site.data.toc -%}
         <li>
-            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-                Listes
-            </a>
-            <div class="dropdown-menu">
-                <a class="dropdown-item" href="{{ '/ch2-ascendances-et-backgrounds/liste-des-ascendances.html' | relative_url }}">Liste des ascendances</a>
-                <a class="dropdown-item" href="{{ '/ch2-ascendances-et-backgrounds/liste-des-dons-ascendance.html' | relative_url }}">Liste des dons d'ascendance</a>
-                <a class="dropdown-item" href="{{ '/ch3-classes/liste-des-classes.html' | relative_url }}">Liste des classes</a>
-                <a class="dropdown-item" href="{{ '/ch3-classes/liste-des-dons-classe.html' | relative_url }}">Liste des dons de classe</a>
-                <a class="dropdown-item" href="{{ '/ch9-jouer-à-pathfinder/liste-des-conditions.html' | relative_url }}">Liste des conditions</a>
-                <a class="dropdown-item" href="{{ '/appendices/traits.html' | relative_url }}">Liste des traits</a>
-                <a class="dropdown-item" href="{{ '/ch11-trésors/liste-des-trésors.html' | relative_url }}">Liste des trésors</a>
-                <a class="dropdown-item" href="{{ '/ch11-trésors/liste-des-runes.html' | relative_url }}">Liste des runes</a>
-                <a class="dropdown-item" href="{{ '/listes/prétirés.html' | relative_url }}">Liste des prétirés</a>
-            </div>
-        </li>
-        <li>
-            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
-                Glossaires
-            </a>
-            <div class="dropdown-menu">
-                <a class="dropdown-item" href="{{ '/appendices/glossaire.html' | relative_url }}">Glossaire général</a>
-            </div>
-        </li>
-        <li class="nav-item">
-            <a class="nav-link" href="{{ '/index2.html' | relative_url }}">Index des liens (prototype)</a>
-        </li>
-    </ul>
+            {%- if item.url -%}
+                <a href="{{item.url}}">{{item.title}}</a>
+            {%- else -%}
+                <span>{{item.title}}</span>
+            {%- endif -%}
 
-    <!--
-    <h1>Menu principal</h1>
-    <ul class="section-nav">
-        <li>
-            <span>Personnages Iconiques</span>
-            <ul>
-                <li><a href="{{ '/iconiques/fumbus.html' | relative_url }}">Fumbus l'alchimiste</a></li>
-                <li><a href="{{ '/iconiques/kyra.html' | relative_url }}">Kyra la prêtresse</a></li>
-            </ul>
+            {%- if item.items -%}
+                <ul class="second-level">
+                    {%- for subItem in item.items -%}
+                        {% assign safe_url = subItem.url | uri_escape %}
+                        <li class="{% if page.url == safe_url %}active{% endif %}">
+                            {%- if subItem.url -%}
+                                <a href="{{subItem.url}}">{{subItem.title}}</a>
+                            {%- else -%}
+                                <span>{{subItem.title}}</span>
+                            {%- endif -%}
+                        </li>
+                    {%- endfor -%}
+                </ul>
+            {%- endif -%}
         </li>
+    {%- endfor -%}
     </ul>
-    <h1>Menu secondaire</h1>
-    <ul class="section-nav">
-        <li>
-            <span>Classes</span>
-            <ul>
-                <li><a href="/classes/alchimiste.html">Achimiste</a></li>
-            </ul>
-        </li>
-        <li>
-            <span>Personnages icôniques</span>
-            <ul>
-                <li><a href="/iconiques/fumbus.html">Fumbus</a></li>
-            </ul>
-        </li>
-    </ul>
-    -->
 </nav>
