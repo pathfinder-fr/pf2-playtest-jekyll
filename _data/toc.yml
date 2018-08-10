@@ -1,12 +1,217 @@
 - url: /
   title: Accueil
 
-# Classes
-#
+# Chapitre 1 : généralités
+
+- title: Généralités
+  items:
+    - url: /ch1-généralités/qu-est-ce-qu-un-jdr.html
+      title: Qu'est-ce qu'un jeu de rôle
+    - url: /ch1-généralités/concepts-de-base.html
+      title: Concepts de base
+    - url: /ch1-généralités/créer-un-personnage.html
+      title: Créer un personnage
+    - url: /ch1-généralités/valeurs-des-caractéristiques.html
+      title: Valeurs des caractéristiques
+
+# Chapitre 2 : Ascendances et backgrounds
+
+- title: Ascendances et backgrounds
+  items:
+    - url: /ch2-ascendances-et-backgrounds/ascendances.html
+      title: Ascendances
+    - url: /ch2-ascendances-et-backgrounds/liste-des-ascendances.html
+      title: Liste des ascendances
+    - url: /ch2-ascendances-et-backgrounds/liste-des-dons-ascendance.html
+      title: Liste des dons d'ascendance
+    - url: /ch2-ascendances-et-backgrounds/backgrounds.html
+      title: Backgrounds
+    - url: /ch2-ascendances-et-backgrounds/langages.html
+      title: Langages
+
+# Chapitre 3 : Classes
 
 - title: Classes
   items:
-  - url: /classes/guerrier.html
-    title: Guerrier
-  - url: /classes/druide.html
-    title: Druide
+    - url: /ch3-classes/classes.html
+      title: Règles générales
+    - url: /ch3-classes/liste-des-classes.html
+      title: Liste des classes
+    - url: /ch3-classes/liste-des-dons-classe.html
+      title: Liste des dons de classe
+
+# Chapitre 4 : Compétences
+
+- title: Compétences
+  items:
+    - url: /ch4-compétences/compétences.html
+      title: Règles générales
+    - url: /ch4-compétences/acrobaties.html
+      title: Acrobaties
+    - url: /ch4-compétences/arcanes.html
+      title: Arcanes
+    - url: /ch4-compétences/artisanat.html
+      title: Artisanat
+    - url: /ch4-compétences/athlétisme.html
+      title: Athlétisme
+    - url: /ch4-compétences/diplomatie.html
+      title: Diplomatie
+    - url: /ch4-compétences/discrétion.html
+      title: Discrétion
+    - url: /ch4-compétences/filouterie.html
+      title: Filouterie
+    - url: /ch4-compétences/intimidation.html
+      title: Intimidation
+    - url: /ch4-compétences/médecine.html
+      title: Médecine
+    - url: /ch4-compétences/nature.html
+      title: Nature
+    - url: /ch4-compétences/occultisme.html
+      title: Occultisme
+    - url: /ch4-compétences/religion.html
+      title: Religion
+    - url: /ch4-compétences/représentation.html
+      title: Représentation
+    - url: /ch4-compétences/savoir.html
+      title: Savoir
+    - url: /ch4-compétences/société.html
+      title: Société
+    - url: /ch4-compétences/survie.html
+      title: Survie
+    - url: /ch4-compétences/tromperie.html
+      title: Tromperie
+
+# Chapitre 6 : Équipement
+
+- title: Équipement
+  items:
+    - url: /ch6-équipement/règles-générales.html
+      title: Règles générales
+    - url: /ch6-équipement/armures-et-boucliers.html
+      title: Armures et boucliers
+    - url: /ch6-équipement/armes.html
+      title: Armes
+    - url: /ch6-équipement/équipement.html
+      title: Équipement
+    - url: /ch6-équipement/qualité-des-objets.html
+      title: Qualité des objets
+    - url: /ch6-équipement/objets-et-tailles.html
+      title: Objets et tailles
+
+# Chapitre 7 : Sorts
+
+- title: Sorts
+  items:
+    - url: /ch7-sorts/sorts.html
+      title: Sorts
+    - url: /ch7-sorts/types-de-sorts.html
+      title: Types de sorts
+    - url: /ch7-sorts/traditions-écoles-traits.html
+      title: Traditions, écoles et traits magiques
+    - url: /ch7-sorts/lancer un sort.html
+      title: Lancer un sort
+    - url: /ch7-sorts/description-des-sorts.html
+      title: Format de description des sorts
+    - url: /ch7-sorts/liste-des-sorts.html
+      title: Liste des sorts
+
+# Chapitre 8 : Progression et options
+
+- title: Progression et options
+  items:
+    - url: /ch8-progression-et-options/progression-et-options.html
+      title: Progression et options
+    - url: /ch8-progression-et-options/gagner-un-niveau.html
+      title: Gagner un niveau
+    - url: /ch8-progression-et-options/archétypes.html
+      title: Archétypes
+    - url: /ch8-progression-et-options/compagnons-animaux.html
+      title: Compagnons animaux et familiers
+    - url: /ch8-progression-et-options/divinités.html
+      title: Divinités
+
+# Chapitre 9 : Jouer à Pathfinder
+
+- title: Jouer à Pathfinder
+  items:
+    - url: /ch9-jouer-à-pathfinder/jouer-à-pathfinder.html
+      title: Jouer à Pathfinder
+    - url: /ch9-jouer-à-pathfinder/tests.html
+      title: Les tests
+    - url: /ch9-jouer-à-pathfinder/dégâts.html
+      title: Les dégâts
+    - url: /ch9-jouer-à-pathfinder/points-de-vie-et-guérison.html
+      title: Points de vie et guérison
+    - url: /ch9-jouer-à-pathfinder/actions-et-activités.html
+      title: Actions et activités
+    - url: /ch9-jouer-à-pathfinder/réactions-et-actions-libres.html
+      title: Réactions et actions libres
+    - url: /ch9-jouer-à-pathfinder/effets.html
+      title: Les effets
+    - url: /ch9-jouer-à-pathfinder/mode-rencontres.html
+      title: Mode "rencontres"
+    - url: /ch9-jouer-à-pathfinder/actions-de-base.html
+      title: Actions de base
+    - url: /ch9-jouer-à-pathfinder/mouvement-et-positionnement.html
+      title: Mouvement et positionnement
+    - url: /ch9-jouer-à-pathfinder/combats-spéciaux.html
+      title: Combats spéciaux
+    - url: /ch9-jouer-à-pathfinder/mode-exploration.html
+      title: Mode "exploration"
+    - url: /ch9-jouer-à-pathfinder/mode-temps-libre.html
+      title: Mode "temps libre"
+    - url: /ch9-jouer-à-pathfinder/conditions.html
+      title: Les conditions
+    - url: /ch9-jouer-à-pathfinder/liste-des-conditions.html
+      title: Liste des conditions
+    - url: /ch9-jouer-à-pathfinder/afflictions.html
+      title: Les afflictions
+
+# Chapitre 10 : Maîtriser à Pathfinder
+
+- title: Maîtriser à Pathfinder
+  items:
+    - url: /ch10-maîtriser-à-pathfinder/préparer-une-session-de-jeu.html
+      title: Préparer une session de jeu
+    - url: /ch10-maîtriser-à-pathfinder/gérer-les-modes-de-jeu.html
+      title: Gérer les modes de jeu
+    - url: /ch10-maîtriser-à-pathfinder/degrés-de-difficulté.html
+      title: Degés de difficulté
+    - url: /ch10-maîtriser-à-pathfinder/récompenses.html
+      title: Récompenses
+    - url: /ch10-maîtriser-à-pathfinder/environnement.html
+      title: Environnement
+
+# Chapitre 11 : Trésors
+
+- title: Trésors
+  items:
+    - url: /ch11-trésors/trésors.html
+      title: Les trésors
+    - url: /ch11-trésors/comment-lire-la-description-d'un-objet.html
+      title: Comment lire la description d'un objet
+    - url: /ch11-trésors/distribuer-le-trésor.html
+      title: Distribuer le trésor
+    - url: /ch11-trésors/tables-de-trésors.html
+      title: Tables de trésors
+    - url: /ch11-trésors/matériaux.html
+      title: Matériaux
+    - url: /ch11-trésors/objets-spéciaux-non-magiques.html
+      title: Objets spéciaux non magiques
+    - url: /ch11-trésors/trappes.html
+      title: Trappes
+    - url: /ch11-trésors/objets-alchimiques.html
+      title: Objets alchimiques
+    - url: /ch11-trésors/runes.html
+      title: Runes
+    - url: /ch11-trésors/objets-magiques.html
+      title: Objets magiques
+
+# Appendices
+
+- title: Appendices
+  items:
+    - url: /appendices/traits.html
+      title: Traits
+    - url: /appendices/glossaire.html
+      title: Glossaire

@@ -1,26 +1,6 @@
-#sidebar-nav {
-    /*
-    position: sticky;
-    top: 4rem;
-    */
-    margin-top: 1em;
-    height: calc(100vh - 4rem);
-    overflow-y: auto;
-    font-size: .75rem;
-}
-
-#sidebar-nav h1 { font-size: 1em; }
-
-.section-nav {
-    padding-left: 0;
-    padding-right: 0;
-    border-right: 1px solid #eee;
-}
-
-.section-nav ul { padding-left: 1rem; }
-.section-nav li { display: block; }
-.section-nav a { display: block; padding: .125rem .5rem; color: #99979c; }
-.section-nav span { display: block; padding: .125rem .5rem; color: #99979c; }
+/***********************************/
+/* Entête de page                  */
+/***********************************/
 
 #header {
     background-image: url("../images/banner.jpg");
@@ -30,7 +10,45 @@
     background-color: #6cc6e0;
 }
 
-mark {
+/***********************************/
+/* Menu latéral                    */
+/***********************************/
+
+#sidebar-nav {
+    padding-top: 1em;
+    height: calc(100vh - 4rem);
+    overflow-y: auto;
+    font-size: .8rem;
+    border-right: 1px solid #eee;
+}
+
+#sidebar-nav ul {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#sidebar-nav a { color: #212529;}
+
+#sidebar-nav ul.second-level {
+    font-size: .75rem;
+}
+
+#sidebar-nav li { display: block; }
+#sidebar-nav li.active { font-weight: bold; }
+#sidebar-nav ul.second-level a,
+#sidebar-nav ul.second-level span { display: block; padding: .125rem .5rem; color: #99979c; }
+
+/***********************************/
+/* Contenu <main>                  */
+/***********************************/
+
+
+main h1.page-title {
+    margin-top: 1rem;
+    border-bottom: 1px solid #ccc;
+}
+
+main mark {
     color: #C00;
     text-decoration: underline;
 
@@ -42,14 +60,14 @@ mark {
     padding-bottom: 4px;
 }
 
-dd {
+main dd {
     margin-left: .6rem;
     padding-left: .6rem;
     border-left: 1px solid #999;
     border-bottom: 1px solid #999;
 }
 
-blockquote.inset {
+main blockquote.inset {
     margin: 0 3rem;
 
 }
@@ -140,23 +158,15 @@ blockquote.block .traits {
 /* EN BREF */
 
 .summary {
-    border: solid 1px #BBB;
     padding: 0.5rem;
     margin: 1rem 0;
-    box-shadow: 0.2rem 0.2rem 0.2rem 0.1rem #666;
-}
-
-.summary h3 {
-    font-size: 1.4rem;
-    margin: -.5rem;
-    margin-bottom: 0;
-    padding: .3rem;
-    background-color: #666;
-    color: #fff;
+    background-color: #eee;
 }
 
 .summary ul {
-    padding-left: 1rem;
+    padding-left: 0;
+    list-style: none;
+    list-style-position: outside;
 }
 
 .summary :last-child {
