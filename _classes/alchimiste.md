@@ -204,14 +204,6 @@ Ces objets ne doivent pas être nécessairement les mêmes.
 Lorsque vous utilisez Alchimie rapide, vous pouvez dépenser jusqu'à 3 Points de résonance pour créer 3 objects alchimiques (1 par Point) comme décrit dans Alchimie rapide.
 Ces objets ne doivent pas être nécessairement les mêmes.
 
-<<<<<<< HEAD
-## Termes techniques
-Voici quelques termes spécifiques utilisés dans les descriptions des capacités et des dons de l'alchimiste.
-
-**Additif :** des dons vous permettent de dépenser des actions pour ajouter des substances spéciales dans des bombes ou des élixirs possèdant le trait additif. Vous ne pouvez ajouter qu'un seul additif dans un objet alchimique, et essayer d'ajouter un deuxième additif gâche l'objet. Certains ne peuvent être utilisés qu'avec Alchimie rapide.
-
-**Infusion :** un objet alchimique avec le trait infusion ne vous coûte pas de Point de résonnance pour l'utilisé (en Déclenchant l'activation, ou avec toute autre action appropriée), mais une autre personne doit toujours dépenser des Points de résonance pour l'activer normalment. Un objet infusé est actif pendant 24 heures, après quoi il devient inactif.
-=======
 >## Termes techniques
 >Voici quelques termes spécifiques utilisés dans les descriptions des capacités et des dons de l'alchimiste.
 >
@@ -221,4 +213,3 @@ Voici quelques termes spécifiques utilisés dans les descriptions des capacité
 >
 >**Infusion :** un objet alchimique avec le trait infusion ne vous coûte pas de Point de résonnance pour l'utilisé (en Déclenchant l'activation, ou avec toute autre action appropriée), mais une autre personne doit toujours dépenser des Points de résonance pour l'activer normalment.
 > Un objet infusé est actif pendant 24 heures, après quoi il devient inactif.
->>>>>>> c79054d35b2e3975ab3c83103d4a202ee7d48a83
