@@ -17,8 +17,8 @@ index:
     anchor: "se-rattraper-au-bord"
   - key: "traverser l'espace d'un ennemi"
     anchor: "traverser-l'espace-d'un-ennemi"
-  - key: "manoeuvre en vol"
-    anchor: "manoeuvre-en-vol"
+  - key: "manœuvre en vol"
+    anchor: "manœuvre-en-vol"
 ---
 
 La compétence Acrobaties mesure votre capacité à accomplir des exploits physiques qui nécessitent de l’équilibre, de la coordination et de la grâce.
@@ -118,7 +118,7 @@ Les utilisations sans entrainement de la compétence sont les suivants :
 > Si votre Vitesse ne vous permet pas d’atteindre une case hors de son espace, vous obtenez le même résultat qu’en cas d’échec.
 >
 > **Échec** Votre déplacement se termine et vous déclenchez les mêmes réactions (comme Attaque d’opportunité) que si vous vous étiez sorti de la case par laquelle vous avez entamé votre mouvement.
->
+
 ## Utilisations de la compétence Acrobaties avec entraînement
 Vous ne pouvez utiliser l’action suivante que si vous êtes entraîné dans cette compétence :
 
