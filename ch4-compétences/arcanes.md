@@ -65,6 +65,20 @@ Vous pouvez utiliser la compétence Arcanes selon les manières suivantes seulem
 >
 > **Échec critique** Vous dépensez la moitié du coût des matériaux.
 
+### Emprunter un sort arcanique
+> 
+> {: .traits}
+>
+> Concentration
+> 
+> ---
+>
+> Si vous êtes un jeteur de sort qui prépare ses sorts, durant vos préparatifs quotidiens, vous pouvez essayer de préparer un sort à partir du livre de sort de quelqu’un d’autre. Le MJ fixe le DD du test (voir le tableau suivant).
+>
+> **Réussite** Vous préparez le sort emprunté durant vos préparatifs quotidiens.
+>
+> **Échec** Vous échouez à préparer le sort mais l’emplacement du sort reste utilisable pour vous permettre de préparer un sort différent. Vous ne pouvez pas essayer de préparer ce sort avant la prochaine fois où vous effectuerez vos préparatifs.
+
 ### Identifier la magie
 > 
 > {: .traits}
@@ -86,20 +100,6 @@ Vous pouvez utiliser la compétence Arcanes selon les manières suivantes seulem
 >
 > **Échec critique** Vous confondez la magie avec autre chose au choix du MJ
 
-### Emprunter un sort arcanique
-> 
-> {: .traits}
->
-> Concentration
-> 
-> ---
->
-> Si vous êtes un jeteur de sort qui prépare ses sorts, durant vos préparatifs quotidiens, vous pouvez essayer de préparer un sort à partir du livre de sort de quelqu’un d’autre. Le MJ fixe le DD du test (voir le tableau suivant).
->
-> **Réussite** Vous préparez le sort emprunté durant vos préparatifs quotidiens.
->
-> **Échec** Vous échouez à préparer le sort mais l’emplacement du sort reste utilisable pour vous permettre de préparer un sort différent. Vous ne pouvez pas essayer de préparer ce sort avant la prochaine fois où vous effectuerez vos préparatifs.
-
 {: .table .table-striped .table-sm .table-hover}
 ##### IDENTIFIER OU APPRENDRE UN SORT
 | Niveau du sort | Prix* | DD Typique*|
@@ -117,4 +117,22 @@ Vous pouvez utiliser la compétence Arcanes selon les manières suivantes seulem
 {: .tablenotes}
 (*) Les sorts rares du niveau 9 ou de niveau inférieur ont typiquement un prix et un DD correspondant à un sort d’un niveau de plus.
 
+### Lecture de la magie
+> 
+> {: .traits}
+>
+> Concentration
+> Secret
+>
+> ---
+> 
+> Vous pouvez lire et apprendre un écrit magique aussi longtemps qu’il est écrit dans une langue que vous pouvez normalement lire.
+> 
+> Cela prend habituellement environ une minute par page de texte mais cela pourrait prendre plus longtemps dans le cas d’écrits anciens obscurs ou dans d’autres situations à la discrétion du MJ.
+> Pour lire et comprendre les nuances de textes particulièrement archaïques, ésotériques ou obscurs, le MJ peut vous demander d’effectuer un test d’Arcanes pour voir si vous parvenez à comprendre la véritable signification de l’écrit magique.
+> Le MJ pourrait vouloir que vous tentiez un test par écrit ou que vous effectuiez plusieurs tests pour chaque partie d’un plus grand texte.
+>
+> **Réussite** Vous comprenez la véritable signification du texte
+>
+> **Échec critique** Vous vous trompez dans la lecture
 
