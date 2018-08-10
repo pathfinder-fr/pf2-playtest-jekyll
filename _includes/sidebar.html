@@ -1,5 +1,5 @@
-<nav id="sidebar-nav">        
-    <ul class="top-level">
+<nav class="site-nav">        
+    <ul>
         {%- for item in site.data.toc -%}
         <li>
             {%- if item.url -%}
@@ -9,7 +9,7 @@
             {%- endif -%}
 
             {%- if item.items -%}
-                <ul class="second-level">
+                <ul class="level-2">
                     {%- for subItem in item.items -%}
                         {% assign safe_url = subItem.url | uri_escape %}
                         <li class="{% if page.url == safe_url %}active{% endif %}">

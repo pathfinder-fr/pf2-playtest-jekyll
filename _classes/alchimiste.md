@@ -2,7 +2,8 @@
 title: Alchimiste
 titleEN: Alchemist
 source: "Playtest Pathfinder"
-layout: classe
+layout: default
+toc: true
 
 # PARTIE PROPRE AUX CLASSES
 keyAbility: Int
@@ -24,8 +25,7 @@ signatureSkills:
   - Médecine
 ---
 
-* Liste pour toc
-{:toc .float-right .ml-2}
+{% include class-summary.html %}
 
 *Il n'y a pas de plus beau spectacle qu'un étrange brassage bouillonnant dans les fioles de votre laboratoire, et vous consommez vos diverses créations avec abandon.*
 *Vous êtes peut-être fasciné par la découverte des secrets de la magie et de la science, ou vous aimez peut-être simplement regarder des réactions chimiques volatiles.*

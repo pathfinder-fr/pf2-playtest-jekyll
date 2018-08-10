@@ -6,9 +6,6 @@ layout: default
 
 Sauf mention contraire, les armures, les armes et l'équipement sont considérés comme étant de qualité standard par défaut, des objets créés par un artisan qui est entraîné dans la compétence appropriée. Les objets standard ne donnent ni bonus ni pénalité aux attaques ou aux tests correspondants. Vous pourriez rencontrer des objets de piètre qualité de temps en temps et, au fil de vos aventures, vous pourriez trouver, fabriquer ou acheter des objets de bien meilleure qualité.
 
-* Liste pour toc
-{:toc}
-
 ## Objets de piètre qualité
 
 Les objets de piètre qualité sont des objets improvisés ou de fabrication douteuse qui ne sont généralement pas disponibles à la vente, à part dans les communautés les plus désespérées, et généralement à la moitié du Prix d'un objet standard. Il est impossible de revendre des objets de piètre qualité. Les attaques et les tests relatifs à un objet de piètre qualité subissent une pénalité d'objet de -2. Cette pénalité s'applique également aux DD de tous les tests qu'un objet de piètre qualité influence (comme la CA pour des armures de piètre qualité). Une armure de piètre qualité empire également la pénalité de test de l'armure de 2. Si un objet de piètre qualité subit suffisamment de dégâts pour gagner un Coup, il est automatiquement brisé.

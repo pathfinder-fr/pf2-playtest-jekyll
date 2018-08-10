@@ -29,9 +29,6 @@ index:
 
 ---
 
-* Liste pour toc
-{:toc .float-right .ml-2}
-
 Votre personnage possède 6 valeurs de caractéristiques qui représentent ses attributs de base et son potentiel brut : la Force, la Dextérité, la Constitution, l'Intelligence, la Sagesse et le Charisme. Ces valeurs influencent chacune différents aspects des capacités de votre personnage. En progressant dans l'histoire et en gagnant des niveaux, votre personnage gagne des accroissements de caractéristiques qui améliorent ses valeurs de caractéristiques et vous permettent de décider comment les expériences qu'il a vécues ont développé ses talents de base.
 
 ## Les six caractéristiques
