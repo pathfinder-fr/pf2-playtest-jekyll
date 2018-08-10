@@ -11,8 +11,10 @@ index:
     anchor: "avancer-sans-tomber"
   - key: "Garder son équilibre"
     anchor: "garder-son-équilibre"
-  - key: "se Faufiler"
+  - key: "se faufiler"
     anchor: "se-faufiler"
+  - key: "se rattraper au bord"
+    anchor: "se-rattraper-au-bord"
 ---
 
 La compétence Acrobaties mesure votre capacité à accomplir des exploits physiques qui nécessitent de l’équilibre, de la coordination et de la grâce.
@@ -44,7 +46,7 @@ Les utilisations sans entrainement de la compétence sont les suivants :
 > **Échec critique** Vous tombez et votre tour se termine.
 
 {: .block .actionlibre}
-> ### Garder son Équilibre
+> ### Garder son équilibre
 > 
 > **Déclencheur** Vous subissez des dégâts alors que vous vous trouvez sur une surface étroite ou un sol inégal ou que vous êtes en équilibre, tel que le MJ l’a déterminé.
 > 
@@ -72,21 +74,29 @@ Les utilisations sans entrainement de la compétence sont les suivants :
 > 
 > **Échec critique** Vous restez coincé dans cet espace étroit. Tant que vous êtes coincé, vous devez passer une minute avant d’essayer un autre test d’Acrobaties contre le même DD. Tout autre résultat que celui d’un échec critique permet de vous décoincer.
 
-### Réaction Se rattraper au bord
-Manipulation
-Déclencheur Vous chutez à partir d’un bord ou lâchez prise.
-Conditions Vos mains ne doivent ni être liées derrière votre dos ni autrement restreintes.
-
-Lorsque vous chutez du bord ou basculez du bord ou par-dessus une rambarde, vous pouvez utiliser cette réaction pour tenter de vous rattraper et d’interrompre ainsi votre chute.
-Si vous vous rattrapez, vous pouvez essayer de vous rétablir en utilisant Escalade avec la compétence Athlétisme.
-
-Réussite Si vous disposez d’au moins une main libre, vous vous rattrapez au bord où à la rambarde, stoppant votre chute. 
-Vous subissez toujours les dégâts selon la distance de chute jusque lors mais vous considérez que la hauteur de cette chute est de 6 m de moins qu’elle ne l’a été.
-Si vous ne disposez pas d’une main libre, vous poursuivez votre chute comme si vous ne vous étiez pas rattrapé.
-
-Réussite critique Vous vous rattrapez au bord ou à la rambarde, que vous disposiez ou non d’une main libre, en utilisant typiquement un objet approprié tenu  pour vous rattraper (coinçant par exemple votre hache sur le rebord). 
-Vous subissez toujours les dégâts selon la distance de chute jusque lors mais vous considérez que la hauteur de cette chute est de 9 m de moins qu’elle ne l’a été.
-Échec critique Vous poursuivez votre chute et si vous êtes tombé d’une distance supérieure à 6 m avant d’utiliser cette réaction, vous subissez 10 points de dégâts contondants pour chaque tranche de chute de 6 m lors de l’impact.
+{: .block .réaction}
+> ### Se rattraper au bord
+> 
+> {: .traits}
+> Manipulation
+> 
+> ---
+> 
+> **Déclencheur** Vous chutez à partir d’un bord ou lâchez prise.
+> 
+> **Conditions** Vos mains ne doivent ni être liées derrière votre dos ni autrement restreintes.
+> 
+> Lorsque vous chutez du bord ou basculez du bord ou par-dessus une rambarde, vous pouvez utiliser cette réaction pour tenter de vous rattraper et d’interrompre ainsi votre chute.
+> Si vous vous rattrapez, vous pouvez essayer de vous rétablir en utilisant Escalade avec la compétence Athlétisme.
+> 
+> **Réussite** Si vous disposez d’au moins une main libre, vous vous rattrapez au bord où à la rambarde, stoppant votre chute. 
+> Vous subissez toujours les dégâts selon la distance de chute jusque lors mais vous considérez que la hauteur de cette chute est de 6 m de moins qu’elle ne l’a été.
+> Si vous ne disposez pas d’une main libre, vous poursuivez votre chute comme si vous ne vous étiez pas rattrapé.
+> 
+> **Réussite critique** Vous vous rattrapez au bord ou à la rambarde, que vous disposiez ou non d’une main libre, en utilisant typiquement un objet approprié tenu  pour vous rattraper (coinçant par exemple votre hache sur le rebord). 
+> Vous subissez toujours les dégâts selon la distance de chute jusque lors mais vous considérez que la hauteur de cette chute est de 9 m de moins qu’elle ne l’a été.
+> 
+> **Échec critique** Vous poursuivez votre chute et si vous êtes tombé d’une distance supérieure à 6 m avant d’utiliser cette réaction, vous subissez 10 points de dégâts contondants pour chaque tranche de chute de 6 m lors de l’impact.
 
 ### Action1 Traverser l'espace d'un ennemi
 Mouvement
