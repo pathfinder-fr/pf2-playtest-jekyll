@@ -198,14 +198,24 @@
       title: Matériaux
     - url: /ch11-trésors/objets-spéciaux-non-magiques.html
       title: Objets spéciaux non magiques
+    - url: /ch11-trésors/liste-des-objets-spéciaux.html
+      title: Liste des objets spéciaux non magiques
     - url: /ch11-trésors/trappes.html
       title: Trappes
+    - url: /ch11-trésors/liste-des-trappes.html
+      title: Liste des trappes
     - url: /ch11-trésors/objets-alchimiques.html
       title: Objets alchimiques
+    - url: /ch11-trésors/liste-des-objets-alchimiques.html
+      title: Liste des objets alchimiques
     - url: /ch11-trésors/runes.html
       title: Runes
+    - url: /ch11-trésors/liste-des-runes.html
+      title: Liste des runes
     - url: /ch11-trésors/objets-magiques.html
       title: Objets magiques
+    - url: /ch11-trésors/liste-des-objets-magiques.html
+      title: Liste des objets magiques
 
 # Appendices
 

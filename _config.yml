@@ -60,9 +60,22 @@ collections:
   traits:
     output: true
     category: ['trait']
-  tresors:
+  objetsalchimiques:
     output: true
-    category: ['trésor']
+    category: ['objet alchimique']
+  objetsmagiques:
+    output: true
+    category: ['objet magique']
+  objetsspeciaux:
+    output: true
+    category: ['objet spécial']
+  runes:
+    output: true
+    category: ['rune']
+  trappes:
+    output: true
+    category: ['trappe']
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

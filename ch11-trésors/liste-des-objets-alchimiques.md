@@ -1,7 +1,7 @@
 ---
-title: "Liste des runes"
+title: "Liste des objets alchimiques"
 layout: liste
-collection: runes
+collection: objetsalchimiques
 includeSource: false
 cols:
   - title: "VO"
