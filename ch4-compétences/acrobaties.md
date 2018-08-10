@@ -15,6 +15,10 @@ index:
     anchor: "se-faufiler"
   - key: "se rattraper au bord"
     anchor: "se-rattraper-au-bord"
+  - key: "traverser l'espace d'un ennemi"
+    anchor: "traverser-l'espace-d'un-ennemi"
+  - key: "manoeuvre en vol"
+    anchor: "manoeuvre-en-vol"
 ---
 
 La compétence Acrobaties mesure votre capacité à accomplir des exploits physiques qui nécessitent de l’équilibre, de la coordination et de la grâce.
@@ -98,27 +102,37 @@ Les utilisations sans entrainement de la compétence sont les suivants :
 > 
 > **Échec critique** Vous poursuivez votre chute et si vous êtes tombé d’une distance supérieure à 6 m avant d’utiliser cette réaction, vous subissez 10 points de dégâts contondants pour chaque tranche de chute de 6 m lors de l’impact.
 
-### Action1 Traverser l'espace d'un ennemi
-Mouvement
-Vous vous déplacez à votre Vitesse. Au cours de ce mouvement, vous pouvez passer par l’espace d’un adversaire. 
-Vous devez faire un test d’Acrobaties contre le DD de Réflexes de votre ennemi dès que vous entrez dans son espace.
-ous pouvez passer à travers l’espace de votre ennemi, en utilisant Escalade, Vol, Nager ou tout autre type de déplacement approprié à l’environnement.
-
-Réussite Vous traversez l’espace de votre ennemi, en considérant les cases dans son espace comme un terrain difficile.
-Si votre Vitesse ne vous permet pas d’atteindre une case hors de son espace, vous obtenez le même résultat qu’en cas d’échec.
-
-Échec Votre déplacement se termine et vous déclenchez les mêmes réactions (comme Attaque d’opportunité) que si vous vous étiez sorti de la case par laquelle vous avez entamé votre mouvement.
-
+{: .block .action1}
+> ### Traverser l'espace d'un ennemi
+>
+> {: .traits}
+> Mouvement
+>
+>---
+>
+>Vous vous déplacez à votre Vitesse. Au cours de ce mouvement, vous pouvez passer par l’espace d’un adversaire. 
+> Vous devez faire un test d’Acrobaties contre le DD de Réflexes de votre ennemi dès que vous entrez dans son espace.
+>Vous pouvez passer à travers l’espace de votre ennemi, en utilisant Escalade, Vol, Nager ou tout autre type de déplacement approprié à l’environnement.
+>
+> **Réussite** Vous traversez l’espace de votre ennemi, en considérant les cases dans son espace comme un terrain difficile.
+> Si votre Vitesse ne vous permet pas d’atteindre une case hors de son espace, vous obtenez le même résultat qu’en cas d’échec.
+>
+> **Échec** Votre déplacement se termine et vous déclenchez les mêmes réactions (comme Attaque d’opportunité) que si vous vous étiez sorti de la case par laquelle vous avez entamé votre mouvement.
+>
 ## Utilisations de la compétence Acrobaties avec entraînement
 Vous ne pouvez utiliser l’action suivante que si vous êtes entraîné dans cette compétence :
 
-### Action1 Manœuvre en vol
-Mouvement
-Si vous disposez d’une Vitesse de vol [voir page 310] et que vous devez accomplir une manœuvre difficile alors que vous volez, tentez un test d’Acrobaties.
-
-Réussite Vous réussissez la manœuvre
-
-Réussite critique Vous parvenez à accomplir la manœuvre et obtenez un bonus de circonstances à vos tests de Manœuvre en Vol jusqu’à la fin de votre prochain tour.
-
-Échec Votre manœuvre échoue et le MJ choisit si vous ne pouvez pas vous déplacer ou si un autre effet déterminé survient. 
-Cette conséquence doit être aussi appropriée à la manœuvre que vous venez de tenter (par exemple, être dévié de votre route si vous luttiez contre un vent fort)
+{: .block .action1}
+> ### Manœuvre en vol
+> {: .traits}
+> Mouvement
+>
+> ---
+> Si vous disposez d’une Vitesse de vol [voir page 310] et que vous devez accomplir une manœuvre difficile alors que vous volez, tentez un test d’Acrobaties.
+>
+> **Réussite** Vous réussissez la manœuvre
+>
+> **Réussite critique** Vous parvenez à accomplir la manœuvre et obtenez un bonus de circonstances à vos tests de Manœuvre en Vol jusqu’à la fin de votre prochain tour.
+>
+> **Échec** Votre manœuvre échoue et le MJ choisit si vous ne pouvez pas vous déplacer ou si un autre effet déterminé survient. 
+> Cette conséquence doit être aussi appropriée à la manœuvre que vous venez de tenter (par exemple, être dévié de votre route si vous luttiez contre un vent fort).

@@ -16,7 +16,7 @@
 
 #sidebar-nav {
     padding-top: 1em;
-    height: calc(100vh - 4rem);
+    height: calc(100vh - 8rem);
     overflow-y: auto;
     font-size: .8rem;
     border-right: 1px solid #eee;
