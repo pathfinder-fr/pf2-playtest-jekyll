@@ -66,23 +66,23 @@ Progression de l'alchimiste
 |:-------|:--------------------|
 | 1 | Background, [alchimie avancée](#alchimie-avancée), [don d'alchimiste](#dons-dalchimiste), [don d'ascendance](#dons-dascendance), formations initiales, [livre de formules](#livre-de-formules), [résonance étudiée](#résonance-étudiée) |
 | 2 | [Don d'alchimiste](#dons-dalchimiste), [don de compétence](#dons-de-compétence) |
-| 3 | [Bombes amplifiées (x2)](#bombes-amplifiées), [don général](#dons-généraux), [augmentation de compétence](#augmentation-de-compétence) |
+| 3 | [Augmentation de compétence](#augmentation-de-compétence), [bombes amplifiées (x2)](#bombes-amplifiées), [don général](#dons-généraux) |
 | 4 | [Don d'alchimiste](#dons-dalchimiste), [don de compétence](#dons-de-compétence) |
-| 5 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [don d'ascendance](#dons-dascendance), [préparation de mutagènes](#préparation-de-mutagènes), [augmentation de compétence](#augmentation-de-compétence) |
+| 5 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [augmentation de compétence](#augmentation-de-compétence), [don d'ascendance](#dons-dascendance), [préparation de mutagènes](#préparation-de-mutagènes) |
 | 6 | [Don d'alchimiste](#dons-dalchimiste), [don de compétence](#dons-de-compétence) |
-| 7 | [Bombes amplifiées (x3)](#bombes-amplifiées), [don général](#dons-généraux), [augmentation de compétence](#augmentation-de-compétence) |
+| 7 | [Augmentation de compétence](#augmentation-de-compétence), [bombes amplifiées (x3)](#bombes-amplifiées), [don général](#dons-généraux),  |
 | 8 | [Don d'alchimiste](#dons-dalchimiste), [don de compétence](#dons-de-compétence) |
-| 9 | [Don d'ascendance](#dons-dascendance), [Résonance étendue](#résonance-étendue), [augmentation de compétence](#augmentation-de-compétence) |
+| 9 | [Augmentation de compétence](#augmentation-de-compétence), [don d'ascendance](#dons-dascendance), [Résonance étendue](#résonance-étendue) |
 | 10 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [don d'alchimiste](#dons-dalchimiste), [don de compétence](#dons-de-compétence) |
-| 11 | [Bombes amplifiées (x4)](#bombes-amplifiées), [don général](#dons-généraux), [augmentation de compétence](#augmentation-de-compétence) |
+| 11 | [Augmentation de compétence](#augmentation-de-compétence), [bombes amplifiées (x4)](#bombes-amplifiées), [don général](#dons-généraux) |
 | 12 | [Don d'alchimiste](#dons-dalchimiste), [don de compétence](#dons-de-compétence) |
-| 13 | [Don d'ascendance](#dons-dascendance), [double élixir](#double-élixir), [augmentation de compétence](#augmentation-de-compétence) |
+| 13 | [Augmentation de compétence](#augmentation-de-compétence), [don d'ascendance](#dons-dascendance), [double élixir](#double-élixir) |
 | 14 | [Don d'alchimiste](#dons-dalchimiste), [don de compétence](#dons-de-compétence) |
-| 15 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [bombes amplifiées (x5)](#bombes-amplifiées), [don général](#dons-généraux), [augmentation de compétence](#augmentation-de-compétence) |
+| 15 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [augmentation de compétence](#augmentation-de-compétence), [bombes amplifiées (x5)](#bombes-amplifiées), [don général](#dons-généraux) |
 | 16 | [Don d'alchimiste](#dons-dalchimiste), [don de compétence](#dons-de-compétence) |
-| 17 | [Empressement alchimique](#empressement-alchimique), [don d'ascendance](#dons-dascendance), [augmentation de compétence](#augmentation-de-compétence) |
+| 17 | [Augmentation de compétence](#augmentation-de-compétence), [empressement alchimique](#empressement-alchimique), [don d'ascendance](#dons-dascendance) |
 | 18 | [Don d'alchimiste](#dons-dalchimiste), [don de compétence](#dons-de-compétence) |
-| 19 | [Bombes amplifiées (x6)](#bombes-amplifiées), [don général](#dons-généraux), [augmentation de compétence](#augmentation-de-compétence) |
+| 19 | [Augmentation de compétence](#augmentation-de-compétence), [bombes amplifiées (x6)](#bombes-amplifiées), [don général](#dons-généraux) |
 | 20 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [don d'alchimiste](#dons-dalchimiste), [don de compétence](#dons-de-compétence) |
 
 ### Alchimie avancée
@@ -115,8 +115,6 @@ Vos connaissances, plus que votre personnalité, alimente la façon dont vous in
 
 ### Dons d'alchimiste
 Au niveau 1 et à chaque niveau pair ensuite, vous obtenez un don de classe alchimiste. Les dons de classe alchimiste sont décrits à partir de la page <mark>48</mark>.
-
-??? Tableau généré automatiquement ???
 
 ### Dons de compétence
 Aux niveaux pairs, vous gagnez un don de compétence. Les dons de compétence se trouvent dans le Chapitre <mark>5</mark> et possèdent le trait compétence. Vous devez être au minimum entrainé dans la compétence correspondante pour pouvoir sélectionner un don de compétence.
@@ -157,9 +155,9 @@ Lorsque vous utilisez Alchimie rapide, au lieu de dépenser 1 Point de résonanc
 ### Empressement alchimique
 Lorsque vous utilisez Alchimie rapide, vous pouvez dépenser jusqu'à 3 Points de résonance pour créer 3 objects alchimiques (1 par Point) comme décrit dans Alchimie rapide. Ces objets ne doivent pas être nécessairement les mêmes.
 
->## Termes techniques
->Voici quelques termes spécifiques utilisés dans les descriptions des capacités et des dons de l'alchimiste.
->
->**Additif :** des dons vous permettent de dépenser des actions pour ajouter des substances spéciales dans des bombes ou des élixirs possèdant le trait additif. Vous ne pouvez ajouter qu'un seul additif dans un objet alchimique, et essayer d'ajouter un deuxième additif gâche l'objet. Certains ne peuvent être utilisés qu'avec Alchimie rapide.
->
->**Infusion :** un objet alchimique avec le trait infusion ne vous coûte pas de Point de résonnance pour l'utilisé (en Déclenchant l'activation, ou avec toute autre action appropriée), mais une autre personne doit toujours dépenser des Points de résonance pour l'activer normalment. Un objet infusé est actif pendant 24 heures, après quoi il devient inactif.
+## Termes techniques
+Voici quelques termes spécifiques utilisés dans les descriptions des capacités et des dons de l'alchimiste.
+
+**Additif :** des dons vous permettent de dépenser des actions pour ajouter des substances spéciales dans des bombes ou des élixirs possèdant le trait additif. Vous ne pouvez ajouter qu'un seul additif dans un objet alchimique, et essayer d'ajouter un deuxième additif gâche l'objet. Certains ne peuvent être utilisés qu'avec Alchimie rapide.
+
+**Infusion :** un objet alchimique avec le trait infusion ne vous coûte pas de Point de résonnance pour l'utilisé (en Déclenchant l'activation, ou avec toute autre action appropriée), mais une autre personne doit toujours dépenser des Points de résonance pour l'activer normalment. Un objet infusé est actif pendant 24 heures, après quoi il devient inactif.

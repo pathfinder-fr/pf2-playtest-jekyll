@@ -138,11 +138,11 @@ Les actions, réactions et actions libres portent l'icone correspondante à côt
 activité qui peut être effectuée en un tour possède une icone marquant le nombre d'actions nécessaires à son
 accomplissement ; les activités qui prennent plus d'un tour ne possèdent pas d'icones. Quand un certain niveau est
 requis pour avoir accès à un élément de règle, ce niveau est indiqué à droite du nom. Les règles possèdent souvent
-un ou plusieurs traits ; pour en savoir plus sur les traits, référez-vous à [cette section](#Traits).
+un ou plusieurs traits dont la liste est en début de description ; pour en savoir plus sur les traits, référez-vous à [cette section](#Traits).
 
 {: .block .action1 }
 > {: .no_toc}
-> ### Nom du don ou de l'action **Niveau**
+> ### Nom de l'élément (don ou action) **Niveau**
 > 
 > {: .traits}
 > Traits
@@ -150,16 +150,16 @@ un ou plusieurs traits ; pour en savoir plus sur les traits, référez-vous à [
 > **Prérequis** Les caractéristiques minimales, dons, degrés de formation et autres conditions que vous devez posséder
 > avant de pouvoir accéder à cet élément sont cités ici. Le niveau de l'élément est également un prérequis.
 > 
-> **Fréquence** Elle indique la limite en terme de nombre d'utilisations de la capacité durant une période donnée.
+> **Fréquence** Elle indique la limite en terme de nombre d'utilisations de cet élément durant une période donnée.
 > 
-> **Coût** Les coûts matériels supplémentaires nécessaires à l'utilisation de la capacité (par exemple, dans le cas
+> **Coût** Les coûts matériels supplémentaires nécessaires à l'utilisation de cet élément (par exemple, dans le cas
 > des sorts nécessitant certains réactifs) sont cités ici.
 > 
 > **Déclencheur** Les réactions et les actions libres possèdent des déclencheurs qui doivent se produire avant qu'elles
 > ne puissent être utilisées. Le déclencheur est indiqué ici.
 > 
 > **Condition** Parfois, vous devez posséder un objet spécifique ou être dans des circonstances spécifiques pour pouvoir
-> utiliser une capacité. Si c'est le cas, ces conditions sont citées dans cette section.
+> utiliser un élément. Si c'est le cas, ces conditions sont citées dans cette section.
 > 
 > ---
 > 
@@ -212,20 +212,20 @@ compétences et dans l'utilisation d'armes ou d'armures. Quand vous effectuez un
 formation qui dépend de votre niveau et de votre degré de formation pour la compétence ou l'objet utilisé. Vous n'ajoutez 
 qu'un seul modificateur de formation à un lancer.
 
-Vous êtes non entraîné si vous ne connaissez rien ou quasiment rien à une compétence ou à l'utilisation d'un objet. Votre
+Vous êtes "non entraîné" si vous ne connaissez rien ou quasiment rien à une compétence ou à l'utilisation d'un objet. Votre
 modificateur de formation est égal à votre niveau moins 2. Sauf si votre classe ou un autre choix de personnage
 vous donne un meilleur degré de formation, vous êtes non entraîné.
 
-Si vous avez été entraîné dans une compétence ou à l'utilisation d'un objet, votre modificateur de formation est égal à
+Si vous avez été "entraîné" dans une compétence ou à l'utilisation d'un objet, votre modificateur de formation est égal à
 votre niveau.
 
-En tant qu'expert, vous êtes hautement entraîné dans une compétence ou à l'utilisation d'un objet. Votre modificateur de
+En tant qu'"expert", vous êtes hautement entraîné dans une compétence ou à l'utilisation d'un objet. Votre modificateur de
 formation est égal à votre niveau plus 1.
 
-Au degré de formation maître, vous avez atteint un niveau de classe mondiale dans une compétence ou à l'utilisation d'un
+Au degré de formation "maître", vous avez atteint un niveau de classe mondiale dans une compétence ou à l'utilisation d'un
 objet. Votre modificateur de formation est égal à votre niveau de personnage plus 2.
 
-Si vous êtes légendaire, votre compétence ou votre familiarité avec un objet est si haute que vous laisserez une trace
+Si vous êtes "légendaire", votre compétence ou votre familiarité avec un objet est si haute que vous laisserez une trace
 dans l'histoire. Votre modificateur de formation vaut votre niveau plus 3.
 
 Quand vous avez un degré de formation, vous possédez également tous les degrés de formation inférieurs à part non
