@@ -3,7 +3,6 @@ title: Étudiant du cannon
 titleEN: Student of the canon
 source: "Playtest Pathfinder"
 layout: block
----
 
 #PARTIE PROPRE AUX BLOCS TECHNIQUES
 
