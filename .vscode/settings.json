@@ -1,4 +1,7 @@
 {
     // par défaut on démarre directement le terminal Bash
-    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\bash.exe"
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\bash.exe",
+
+    // par convention, on utilise deux espaces comme indentation
+    "editor.tabSize": 2
 }
