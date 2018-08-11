@@ -1,5 +1,5 @@
 ---
-title: Résistance de la lignée
+title: Résistance du lignage
 titleEN: Bloodline Resistance
 source: "Playtest Pathfinder"
 layout: block

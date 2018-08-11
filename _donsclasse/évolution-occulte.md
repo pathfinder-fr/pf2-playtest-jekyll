@@ -16,7 +16,7 @@ rarity: C
 traits:
   - occulte
   - sorcier
-prerequisites: Lignée qui octroie des sorts occultes
+prerequisites: Lignage qui octroie des sorts occultes
 frequency: 
 cost:
 trigger: 
