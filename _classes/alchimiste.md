@@ -2,7 +2,6 @@
 title: Alchimiste
 titleEN: Alchemist
 source: "Playtest Pathfinder"
-layout: default
 toc: true
 
 # PARTIE PROPRE AUX CLASSES
