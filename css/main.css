@@ -30,7 +30,7 @@
 .site-nav li { display: block; }
 .site-nav li.active { font-weight: bold; }
 
-.site-nav ul.level-2 { font-size: .75rem; }
+.site-nav ul.level-2 { font-size: .75rem; line-height: .8rem; }
 .site-nav ul.level-2 a, .site-nav ul.level-2 span { display: block; padding: .125rem .5rem; color: #99979c; }
 .site-nav ul.level-2 a:hover { color: #007bff; text-decoration: none; }
 
