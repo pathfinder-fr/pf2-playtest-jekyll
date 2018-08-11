@@ -147,6 +147,9 @@ blockquote.block h3 {
 
 blockquote.block .action-icon {
     vertical-align: baseline;
+    width: 1rem;
+    height: 1rem;
+    margin-right: .3rem;
 }
 
 blockquote.block .sm-action-icon {
@@ -154,9 +157,8 @@ blockquote.block .sm-action-icon {
     height: 1rem;
 }
 
-blockquote.block h3 strong {
+blockquote.block h3 span {
     float: right;
-    font-weight: normal;
 }
 
 blockquote.block p,

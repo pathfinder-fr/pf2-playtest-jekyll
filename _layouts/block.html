@@ -6,23 +6,18 @@ layout: default
         {% assign action = page.action | append: "" %}
         {% case action %}
         {% when '1' %}
-            <img class="action-icon" src="../images/1action.png"
-            title="1 action" />
+            <img class="action-icon" src="../images/1action.png" title="1 action" />
         {% when '2' %}
-            <img class="action-icon" src="../images/2actions.png"
-            title="2 actions" />
+            <img class="action-icon" src="../images/2actions.png" title="2 actions" />
         {% when '3' %}
-            <img class="action-icon" src="../images/3actions.png"
-            title="3 actions" />
+            <img class="action-icon" src="../images/3actions.png" title="3 actions" />
         {% when 'R' %}
-            <img class="action-icon" src="../images/réaction.png"
-            title="réaction" />
+            <img class="action-icon" src="../images/réaction.png" title="réaction" />
         {% when 'L' %}
-            <img class="action-icon" src="../images/actionlibre.png"
-            title="action libre" />
+            <img class="action-icon" src="../images/actionlibre.png" title="action libre" />
         {%- endcase -%}
         {{ page.title }}
-        <strong>
+        <span>
             {{ page.type }} {{ page.level }}
             {% case page.rarity %}
             {% when 'PC' %}
@@ -32,54 +27,33 @@ layout: default
             {% when 'U' %}
               (Unique)
             {%- endcase -%}
-        </strong>
+        </span>
     </h3>
     {% if page.traits %}
         <p class="traits">{{ page.traits | sort | join: ", " }}</p>
     {%- endif -%}
 <!-- Dons -->
     {% if page.prerequisites %}
-        <p>
-            <strong>Prérequis</strong>
-            {{ page.prerequisites }}<br/>
-        </p>
+        <p><strong>Prérequis</strong> {{ page.prerequisites }}</p>
     {%- endif -%}
     {% if page.frequency %}
-        <p>
-            <strong>Fréquence</strong>
-            {{ page.frequency }}<br/>
-        </p>
+        <p><strong>Fréquence</strong> {{ page.frequency }}</p>
     {%- endif -%}
     {% if page.cost %}
-        <p>
-            <strong>Coût</strong>
-            {{ page.cost }}<br/>
-        </p>
+        <p><strong>Coût</strong> {{ page.cost }}</p>
     {%- endif -%}
 <!-- Trésors -->
     {% if page.price %}
-        <p>
-            <strong>Prix</strong>
-            {{ page.price }}<br/>
-        </p>
+        <p><strong>Prix</strong> {{ page.price }}</p>
     {%- endif -%}
     {% if page.ammunition %}
-        <p>
-            <strong>Munition</strong>
-            {{ page.ammunition }}<br/>
-        </p>
+        <p><strong>Munition</strong> {{ page.ammunition }}</p>
     {%- endif -%}
     {% if page.methodOfUse %}
-        <p>
-            <strong>Méthode d'utilisation</strong>
-            {{ page.methodOfUse }}<br/>
-        </p>
+        <p><strong>Méthode d'utilisation</strong> {{ page.methodOfUse }}</p>
     {%- endif -%}
     {% if page.bulk %}
-        <p>
-            <strong>Encombrement</strong>
-            {{ page.bulk }}<br/>
-        </p>
+        <p><strong>Encombrement</strong> {{ page.bulk }}</p>
     {%- endif -%}
     {% if page.activation %}
         <p>
@@ -93,46 +67,32 @@ layout: default
                     {% assign action = step.action | append: "" %}
                     {% case action %}
                     {% when '1' %}
-                        <img class="sm-action-icon" src="../images/1action.png"
-                        title="1 action" />
+                        <img class="sm-action-icon" src="../images/1action.png" title="1 action" />
                     {% when '2' %}
-                        <img class="sm-action-icon" src="../images/2actions.png"
-                        title="2 actions" />
+                        <img class="sm-action-icon" src="../images/2actions.png" title="2 actions" />
                     {% when '3' %}
-                        <img class="sm-action-icon" src="../images/3actions.png"
-                        title="3 actions" />
+                        <img class="sm-action-icon" src="../images/3actions.png" title="3 actions" />
                     {% when 'R' %}
-                        <img class="sm-action-icon" src="../images/réaction.png"
-                        title="réaction" />
+                        <img class="sm-action-icon" src="../images/réaction.png" title="réaction" />
                     {% when 'L' %}
-                        <img class="sm-action-icon" src="../images/actionlibre.png"
-                        title="action libre" />
+                        <img class="sm-action-icon" src="../images/actionlibre.png" title="action libre" />
                     {%- endcase -%}
                 {% endif %}
                 {{ step.description }}
                 {% assign firststep = false %}
             {% endfor %}
-            <br/>
+            
         </p>
     {%- endif -%}
     {% if page.onset %}
-        <p>
-            <strong>Onset</strong>
-            {{ page.onset }}<br/>
-        </p>
+        <p><strong>Onset</strong> {{ page.onset }}</p>
     {%- endif -%}
 <!-- Partie commune -->
     {% if page.trigger %}
-        <p>
-            <strong>Déclencheur</strong>
-            {{ page.trigger }}<br/>
-        </p>
+        <p><strong>Déclencheur</strong> {{ page.trigger }}</p>
     {%- endif -%}
     {% if page.requirements %}
-        <p>
-            <strong>Condition</strong>
-            {{ page.requirements }}<br/>
-        </p>
+        <p><strong>Condition</strong> {{ page.requirements }}</p>
     {%- endif -%}
 <!-- Description -->
     {% if page.traits or page.prerequisites or page.frequency or page.cost or page.trigger or page.requirements or page.price or page.ammunition or page.methodOfUse or page.bulk or page.activation or page.onset %}
