@@ -1,7 +1,6 @@
 ---
 title: "Concepts de base"
 source: "Playtest Pathfinder"
-layout: default
 index:
   - key: modes de jeu
     anchor: modes-de-jeu
@@ -18,7 +17,7 @@ index:
   - key: modificateur de formation
     anchor: modificateur-de-formation
 
-
+toc: true
 ---
 
 * Liste pour toc

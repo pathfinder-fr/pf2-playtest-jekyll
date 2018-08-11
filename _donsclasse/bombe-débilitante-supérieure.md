@@ -26,6 +26,6 @@ summary: "Choix de conditions étendu"
 
 Lorsque vous utilisez une Bombe débilitante, vous pouvez également choisir la condition appliquée dans la liste suivante :
 * affaibli 1
-* vitesse réduite 10
+* vitesse réduite 2
 * apathique 1
 * stupéfié 1

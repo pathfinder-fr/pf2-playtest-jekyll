@@ -29,5 +29,5 @@ Vous ajoutez dans la bombe une substance qui peut provoquer l'une des conditions
 * ébloui
 * assourdi
 * pris au dépourvu 
-* vitesse réduite 5
+* vitesse réduite 1
 Si l'attaque avec la bombe touche, la cible doit réussir un jet de sauvegarde de Vigueur ou être affecté par la condition jusqu'au début de votre prochain tour. Utilisez votre DD de classe pour ce jet de sauvegarde (même si quelqu'un d'autre lance la bombe).

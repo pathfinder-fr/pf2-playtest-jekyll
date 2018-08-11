@@ -2,6 +2,7 @@
 title: "Qu'est-ce qu'un jeu de rôle ?"
 source: "Playtest Pathfinder"
 layout: default
+toc: true
 ---
 
 * Liste pour toc

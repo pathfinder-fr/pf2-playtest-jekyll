@@ -1,7 +1,7 @@
 ---
-title: "Liste des trésors"
+title: "Liste des trappes"
 layout: liste
-collection: tresors
+collection: trappes
 includeSource: false
 cols:
   - title: "VO"
@@ -17,5 +17,3 @@ cols:
   - title: "Prix"
     attribute: price
 ---
-
-La liste qui suit reprend tous les trésors encodés toutes catégories confondues.
