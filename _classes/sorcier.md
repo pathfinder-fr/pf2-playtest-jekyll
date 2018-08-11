@@ -2,6 +2,7 @@
 title: Sorcier
 titleEN: Sorcerer
 source: "Playtest Pathfinder"
+toc: true
 layout: classe
 
 #PARTIE PROPRE AUX CLASSES
@@ -22,6 +23,37 @@ spells: "Ent aux jets de sorts et DD des sorts arcaniques, divins, occultes ou p
 signatureSkills:
   - Artisanat
   - d'autres selon votre lignage
+
+index:
+  - key: Lignage (capacité du sorcier)
+    anchor: "lignage"
+  - key : Répertoire de sorts (capacité du sorcier)
+    anchor: "répertoire-de-sorts"
+  - key : Élévation spontanée (capacité du sorcier)
+    anchor: "élévation-spontanée"
+  - key : Lanceur de sorts expert (capacité du sorcier)
+    anchor: "lanceur-de-sorts-expert"
+  - key : Maître lanceur de sorts (capacité du sorcier)
+    anchor: "maître-lanceur-de-sorts"
+  - key : Lanceur de sorts légendaire (capacité du sorcier)
+    anchor: "lanceur-de-sorts-légendaire"
+  - key : Les lignages (capacité du sorcier)
+    anchor: "les-lignages"
+  - key : Le lignage aberrant (capacité du sorcier)
+    anchor: "le-lignage-aberrant"
+  - key : Le lignage angélique (capacité du sorcier)
+    anchor: "le-lignage-angélique"
+  - key : Le lignage démonique (capacité du sorcier)
+    anchor: "le-lignage-démonique"
+  - key : Le lignage draconique (capacité du sorcier)
+    anchor: "le-lignage-draconique"
+  - key : Le lignage féérique (capacité du sorcier)
+    anchor: "le-lignage-féérique"
+  - key : Le lignage impérial (capacité du sorcier)
+    anchor: "le-lignage-impérial"
+  
+    
+
 ---
 
 * Liste pour toc
@@ -53,6 +85,9 @@ Les joueurs pourraient considérer les suggestions qui suivent pour leur personn
 * ils supposent que vous êtes aussi chaotique et imprévisible que la magie que vous utilisez, même si votre personnalité prouve le contraire.
 
 ## Capacités de classe
+Voici un terme spécifique utilisé dans les descriptions des capacités et des dons du paladin.
+
+**Métamagie** Les dons avec le trait métamagie vous permettent de modifier les propriétés de vos sorts. Ces dons sont déclenchés quand vous lancez un sort, et vous demande généralement de dépenser une action de jet de sort supplémentaire pour altérer les effets du sort. Vous ne pouvez pas utiliser les dons de métamagie si ajouter une action au sort vous demande plus d’actions qu’il ne vous en reste pour ce tour. Parce que les dons de métamagie ont généralement le même déclencheur, vous ne pouvez habituellement n’en utiliser qu’un seul par sort.
 
 Vous gagnez les capacités suivantes en tant que sorcier. 
 

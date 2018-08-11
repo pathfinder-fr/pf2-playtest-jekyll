@@ -16,7 +16,7 @@ rarity: C
 traits:
   - arcanique
   - sorcier
-prerequisites: Lignée qui octroie des sorts arcaniques
+prerequisites: Lignage qui octroie des sorts arcaniques
 frequency: 
 cost:
 trigger: 

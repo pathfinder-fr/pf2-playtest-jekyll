@@ -16,7 +16,7 @@ rarity: C
 traits:
   - divine
   - sorcier
-prerequisites: Lignée qui octroie des sorts divins
+prerequisites: Lignage qui octroie des sorts divins
 frequency: 
 cost:
 trigger: 

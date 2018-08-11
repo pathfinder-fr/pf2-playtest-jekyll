@@ -16,7 +16,7 @@ rarity: C
 traits:
   - primaire
   - sorcier
-prerequisites: Lignée qui octroie des sorts primaires
+prerequisites: Lignage qui octroie des sorts primaires
 frequency: 
 cost:
 trigger: 

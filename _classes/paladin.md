@@ -2,6 +2,7 @@
 title: Paladin
 titleEN: Paladin
 source: "Playtest Pathfinder"
+toc: true
 layout: classe
 
 #PARTIE PROPRE AUX CLASSES
@@ -24,10 +25,43 @@ signatureSkills:
   - Artisanat
   - Diplomacie
   - Religion
----
 
-* Liste pour toc
-{:toc .float-right .ml-2}
+index:
+- key: Codes de conduite (capacité de paladin)
+  anchor: "codes-de-conduite"
+- key: Arme de la divinité (capacité de paladin)
+  anchor: "arme-de-la-divinité"
+- key : Frappe vengeresse (capacité de paladin)
+  anchor: "frappe-vengeresse"
+- key : Pouvoirs de champion (capacité de paladin)
+  anchor: "pouvoirs-de-champion"
+- key : Allié vertueux (capacité de paladin)
+  anchor: "allié-vertueux"
+- key : Lame alliée (capacité de paladin)
+  anchor: "allié-vertueux"
+- key : Bouclier allié (capacité de paladin)
+  anchor: "allié-vertueux"
+- key : Coursier allié (capacité de paladin)
+  anchor: "allié-vertueux"
+- key : Expertise d'arme (capacité de paladin)
+  anchor: "expertise-darme"
+- key : Armure de vigueur (capacité de paladin)
+  anchor: "armure-de-vigueur"
+- key : Châtiment sacré (capacité de paladin)
+  anchor: "châtiment-sacré"
+- key : Aura de justice (capacité de paladin)
+  anchor: "aura-de-justice"
+- key : Maîtrise d'armure (capacité de paladin)
+  anchor: "maîtrise-darmure"
+- key : Maîtrise d'arme (capacité de paladin)
+  anchor: "maîtrise-darme"
+- key : Armure légendaire (capacité de paladin)
+  anchor: "armure-légendaire"
+- key : Défi du héros (capacité de paladin)
+  anchor: "défi-du-héros"
+
+
+---
 
 *Vous êtes un champion de la justice, un serviteur sacré d’une divinité bonne et loyale qui se réfère à un code strict pour prodiguer certitudes et espoir aux innocents. Vous avez de puissantes défenses que vous partagez librement avec vos alliés et les passants innocents, mais quand vient le moment de punir le félon, vous utilisez votre puissance sacrée pour mettre un terme à la menace maléfique.*
 *Votre dévotion attire aussi l’attention des esprits sacrés qui vous aident lors de votre périple. Les autres comptent sur vous pour adhérer à votre code de conduite, et vous croient sur parole.*
@@ -58,6 +92,13 @@ Les paladins sont des champions de la justice, agissant comme agents contre les 
 
 
 ## Capacités de classe
+Voici quelques termes spécifiques utilisés dans les descriptions des capacités et des dons du paladin.
+
+**Litanie** Certains dons de paladins vous donnent accès à des pouvoirs de champions spéciaux appelés litanies, qui possèdent le trait litanie. Ces pouvoirs nécessitent habituellement une seule action pour être lancés, mais la plupart rendent leur cible endurante contre tous vos pouvoirs avec le trait litanie.
+
+**Métamagie** Les dons avec le trait métamagie vous permettent de modifier les propriétés de vos sorts. Ces dons sont déclenchés quand vous lancez un sort, et vous demande généralement de dépenser une action de jet de sort supplémentaire pour altérer les effets du sort. Vous ne pouvez pas utiliser les dons de métamagie si ajouter une action au sort vous demande plus d’actions qu’il ne vous en reste pour ce tour. Parce que les dons de métamagie ont généralement le même déclencheur, vous ne pouvez habituellement n’en utiliser qu’un seul par sort.
+
+**Serments** Les dons avec le trait serment ajoutent toujours un principe au code du paladin, et un paladin ne peut habituellement n’avoir qu’un seul de ces dons.
 
 Vous gagnez les capacités suivantes en tant que paladin. 
 
@@ -94,7 +135,7 @@ Les paladins sont les champions divins d’une divinité. Vous devez être loyal
 
 De plus, les paladins doivent suivre le code de conduite décrit ci dessous. Les divinités ajoutent souvent certaines obligations pour leurs propres paladins (par exemple les paladins de la déesse de la beauté ne peuvent attaquer en premier sauf pour protéger un innocent, et ils doivent choisir et se perfectionner dans une forme d’art).
 
-Si vous vous écartez de l’alignement loyal bon, que vous faites une action anathème pour votre divinité ou que vous enfreignez votre code de conduite, vous perdez votre réserve de points de sorts et votre allié vertueux jusqu’à ce que vous démontriez votre repentance par un rituel de pénitence.
+Si vous vous écartez de l’alignement loyal bon, que vous faites une action anathème pour votre divinité ou que vous enfreignez votre code de conduite, vous perdez votre réserve de points de magie et votre allié vertueux jusqu’à ce que vous démontriez votre repentance par un rituel de pénitence.
 
 **Le code du paladin**
 Ce qui suit est le code fondamental que tous les paladins suivent. Les principes sont listés dans l’ordre d’importance, en commençant par le plus important.  Si une situation place deux principes en conflit, vous n'êtes pas dans une situation perdante, suivez le principe le plus important. Par exemple, si un roi maléfique vous demande si des hors-la-loi innocents sont cachés dans votre église afin de les exécuter, vous pouvez lui mentir car le principe vous interdisant de mentir est moins important que celui vous empêchant de blesser un innocent. Une tentative d’abuser du code du paladin en créant une situation vous permettant d'ignorer un principe en utilisant un plus important (dire à quelqu'un que vous ne respecterez pas les autorités légales pour que le principe de ne pas mentir surpasse le principe du respect des autorités légales par exemple) est une violation du code du paladin.
@@ -122,11 +163,11 @@ En temps que paladin, vous êtes un vaillant protecteur pour ceux qui sont à vo
 > Faites une attaque de mêlée contre la créature déclencheuse avec une pénalité de -2 avant que l’opposant ne lance les dégâts du coup déclencheur.  Si votre attaque touche, la cible est affaiblie 1 pour le reste de son tour, ou affaiblie 2 pour le reste de son tour si votre Frappe était un coup critique. La condition affaiblie se termine immédiatement si la créature vous porte une Frappe. Si la Frappe vengeresse mets hors de combat ou tue la créature déclencheuse, le coup déclencheur ne fait pas de dégâts. 
 
 ### Pouvoirs de champion
-La puissance divine coule à travers vous et vous avez appris comment la canaliser pour soigner les autres. Ca vous donne accès à des sorts spéciaux nommés pouvoirs de champions. Vous gagnez une réserver de Points de sort que vous pouvez dépenser pour lancer les pouvoirs de champion. Votre nombre maximum de Points de sort est égal à votre modificateur de Charisme (minimum 0). Vous regagnez tous vos Points de sort quand vous vous préparez chaque jour. Votre caractéristique clé pour lancer des sorts est le Charisme, et vous êtes entraîné dans les jet sde sort et les DDs de sorts pour vos pouvoirs de champion. Vos pouvoirs de champion sont des sorts divins.
+La puissance divine coule à travers vous et vous avez appris comment la canaliser pour soigner les autres. Ca vous donne accès à des sorts spéciaux nommés pouvoirs de champions. Vous gagnez une réserver de Points de magie que vous pouvez dépenser pour lancer les pouvoirs de champion. Votre nombre maximum de Points de magie est égal à votre modificateur de Charisme (minimum 0). Vous regagnez tous vos Points de magie quand vous vous préparez chaque jour. Votre caractéristique clé pour lancer des sorts est le Charisme, et vous êtes entraîné dans les jet sde sort et les DDs de sorts pour vos pouvoirs de champion. Vos pouvoirs de champion sont des sorts divins.
 
-Les pouvoirs de champions sont seulement disponibles pour les paladins, et ne peuvent être appris par d’autres personnages. Ils apparaissent dans le chapitre des Sorts. Certains dons de paladin vous accordent des pouvoirs de champions additionnels et ces dons augmentent généralement vos réserve de Points de sort. Le niveau de sort de chacun de vos pouvoirs de champions est égal à la moitié de votre niveau, arrondi à l’inférieur. Ce niveau élève les effets des pouvoirs de champions qui le mentionnent dans leur description.
+Les pouvoirs de champions sont seulement disponibles pour les paladins, et ne peuvent être appris par d’autres personnages. Ils apparaissent dans le chapitre des Sorts. Certains dons de paladin vous accordent des pouvoirs de champions additionnels et ces dons augmentent généralement vos réserve de Points de magie. Le niveau de sort de chacun de vos pouvoirs de champions est égal à la moitié de votre niveau, arrondi à l’inférieur. Ce niveau élève les effets des pouvoirs de champions qui le mentionnent dans leur description.
 
-Vous gagnez la capacité de lancer le pouvoir de champion *imposition des mains* en dépensant 1 Point de sort.
+Vous gagnez la capacité de lancer le pouvoir de champion *imposition des mains* en dépensant 1 Point de magie.
 
 ### Dons de paladin
 Au niveau 1 et à chaque niveau pair ensuite, vous obtenez un don de classe paladin. Les dons de classe paladin sont décrits à partir de la page <mark>48</mark>.
@@ -181,13 +222,4 @@ Votre formation pour les armes simples et de guerre du groupe d’armes que vous
 Votre formation en armures lourdes et boucliers augmente jusqu’à légendaire, et celle pour les armures légères ou moyennes augmente jusqu'à maître. Réduisez la pénalité d’armure de 1 pour les armures et boucliers.
 
 ### Défi du héros
-Vous gagnez le pouvoir de défier la mort et de continuer le combat tant que vous possédez de l'énergie divine. Vous gagnez le pouvoir de champion *défi du héros*, que vous pouvez lancer en dépensant 2 Point de sorts. Augmentez votre réserve de Point de sort de 2.
-
-## Termes techniques
-Voici quelques termes spécifiques utilisés dans les descriptions des capacités et des dons du paladin.
-
-**Litanie :** Certains dons de paladins vous donnent accès à des pouvoirs de champions spéciaux appelés litanies, qui possèdent le trait litanie. Ces pouvoirs nécessitent habituellement une seule action pour être lancés, mais la plupart rendent leur cible endurante contre tous vos pouvoirs avec le trait litanie.
-
-**Métamagie :** Les dons avec le trait métamagie vous permettent de modifier les propriétés de vos sorts. Ces dons sont déclenchés quand vous lancez un sort, et vous demande généralement de dépenser une action de jet de sort supplémentaire pour altérer les effets du sort. Vous ne pouvez pas utiliser les dons de métamagie si ajouter une action au sort vous demande plus d’actions qu’il ne vous en reste pour ce tour. Parce que les dons de métamagie ont généralement le même déclencheur, vous ne pouvez habituellement n’en utiliser qu’un seul par sort.
-
-**Serments :** Les dons avec le trait serment ajoutent toujours un principe au code du paladin, et un paladin ne peut habituellement n’avoir qu’un seul de ces dons.
+Vous gagnez le pouvoir de défier la mort et de continuer le combat tant que vous possédez de l'énergie divine. Vous gagnez le pouvoir de champion *défi du héros*, que vous pouvez lancer en dépensant 2 Points de magie. Augmentez votre réserve de Points de magie de 2.

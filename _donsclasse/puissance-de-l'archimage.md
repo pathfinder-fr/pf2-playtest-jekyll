@@ -24,4 +24,4 @@ requirements:
 summary: "+1 emplacement et +2 sorts niveau 10"
 ---
 
-Vous gagnez un emplacement de sort de niveau 10, que vous pouvez utiliser pour lancer des sorts de sorcier de niveau 10. Lorsque vous sélectionnez ce don, ajoutez à votre répertoire deux sorts de niveau 10 communs ou peu communs. Ces sorts doivent provenir de la liste de sorts déterminée par votre lignée.
+Vous gagnez un emplacement de sort de niveau 10, que vous pouvez utiliser pour lancer des sorts de sorcier de niveau 10. Lorsque vous sélectionnez ce don, ajoutez à votre répertoire deux sorts de niveau 10 communs ou peu communs. Ces sorts doivent provenir de la liste de sorts déterminée par votre Lignage.
