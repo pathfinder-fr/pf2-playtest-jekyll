@@ -1,7 +1,6 @@
 ---
 title: "Règles générales"
 source: "Playtest Pathfinder"
-layout: default
 toc: true
 ---
 
