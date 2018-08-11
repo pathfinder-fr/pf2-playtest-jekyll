@@ -1,7 +1,6 @@
 ---
 title: "Les ascendances"
 source: "Playtest Pathfinder"
-layout: default
 toc: true
 index:
   - key: "ascendance"

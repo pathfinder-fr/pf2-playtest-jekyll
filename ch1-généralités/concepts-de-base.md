@@ -1,7 +1,6 @@
 ---
 title: "Concepts de base"
 source: "Playtest Pathfinder"
-layout: default
 toc: true
 
 index:

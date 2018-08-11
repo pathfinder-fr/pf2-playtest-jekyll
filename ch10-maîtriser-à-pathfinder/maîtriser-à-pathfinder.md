@@ -1,7 +1,6 @@
 ---
 title: "Maîtriser à Pathfinder"
 source: "Playtest Pathfinder"
-layout: default
 ---
 
 * [Préparer une session de jeu](préparer-une-session-de-jeu.html)

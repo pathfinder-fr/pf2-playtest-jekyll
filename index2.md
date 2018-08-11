@@ -1,6 +1,5 @@
 ---
 title: Menu principal
-layout: default
 ---
 
 {% assign index = site | index_entries | sort_ignore_accent_marks: "key" %}

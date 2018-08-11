@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
-    {%- include head.html -%}
+    {%- include layout-head.html -%}
     <body>
-        {%- include header.html -%}
+        {%- include layout-header.html -%}
         <main class="container-fluid">
             <div class="row">
             <div class="col-12 col-md-3 col-lg-2 d-none d-md-block col-sidebar">
-                {%- include sidebar.html -%}
+                {%- include layout-sidebar.html -%}
             </div>
             {% if page.toc %}
                 <div class="d-none d-xl-block col-xl-2 col-toc">
@@ -29,7 +29,7 @@
             </div>
             </div>
         </main>
-        {%- include footer.html -%}    
+        {%- include layout-footer.html -%}    
         <script src="/js/jquery/jquery-3.3.1.slim.min.js"></script>
         <script src="/js/popperjs/popper.min.js"></script>
         <script src="/js/bootstrap/bootstrap.min.js"></script>
