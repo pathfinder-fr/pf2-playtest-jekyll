@@ -43,7 +43,7 @@
     order: 2;
     position: sticky;
     top: 0;
-    height: calc(100vh - 8rem);
+    height: calc(100vh);
     overflow-y: auto;
     
     font-size: .875rem;
