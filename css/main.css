@@ -15,11 +15,9 @@
 /***********************************/
 
 .site-nav {
-    padding-top: 1em;
-    height: calc(100vh - 8rem);
-    overflow-y: auto;
+    margin-top: 1em;
     font-size: .8rem;
-    border-right: 1px solid #eee;
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 .site-nav ul {
@@ -27,12 +25,14 @@
     padding-right: 0;
 }
 
-.site-nav a { color: #212529;}
+.site-nav a { color: #212529; }
+.site-nav a:hover { color: #007bff; text-decoration: none; }
 .site-nav li { display: block; }
 .site-nav li.active { font-weight: bold; }
 
 .site-nav ul.level-2 { font-size: .75rem; }
 .site-nav ul.level-2 a, .site-nav ul.level-2 span { display: block; padding: .125rem .5rem; color: #99979c; }
+.site-nav ul.level-2 a:hover { color: #007bff; text-decoration: none; }
 
 
 /***********************************/
@@ -56,7 +56,7 @@
 
 .page-nav .section-nav {
     padding-left: 0;
-    border-left: 1px solid #eee;
+    border-left: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 .page-nav .section-nav ul {
@@ -89,7 +89,7 @@
 
 main h1.page-title {
     margin-top: 1rem;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 main mark {
@@ -133,39 +133,13 @@ main blockquote.inset {
 
 /* BLOCS POURS DONS, SORTS, ... */
 
-blockquote.block.action1 h3::before {
-    content: url("../images/1action.png");
-    padding-right: .2rem;
-}
-
-blockquote.block.action2 h3::before {
-    content: url("../images/2actions.png");
-    padding-right: .2rem;
-}
-
-blockquote.block.action3 h3::before {
-    content: url("../images/3actions.png");
-    padding-right: .2rem;
-}
-
-blockquote.block.reaction h3::before {
-    content: url("../images/réaction.png");
-    padding-right: .2rem;
-}
-
-blockquote.block.actionlibre h3::before {
-    content: url("../images/actionlibre.png");
-    padding-right: .2rem;
-}
-
 blockquote.block {
-    border: 1px solid #BBB;
+    border: 1px solid #ddd;
     padding: 0.5rem;
 }
 
 blockquote.block h3 {
-    background-color: #666;
-    color: #fff;
+    background-color: #ddd;
     font-size: 1.3rem;
     margin: -.5rem -.5rem 0 -.5rem;
     padding: .3rem;
@@ -190,14 +164,13 @@ blockquote.block hr {
     margin: 4px 0;
 }
 
-blockquote.block ul {
-    padding-left: 1rem;
-    margin: 0;
-}
-
-blockquote.block .traits {
-    font-variant: small-caps;
-}
+blockquote.block ul { padding-left: 1rem; margin: 0; }
+blockquote.block .traits { font-variant: small-caps; }
+blockquote.block.action1 h3::before { content: ""; display: inline-block; width: 1rem; height: 1rem; background-image: url("../images/1action.png"); background-size: 1rem 1rem; margin-right: .3rem; }
+blockquote.block.action2 h3::before { content: ""; display: inline-block; width: 1rem; height: 1rem; background-image: url("../images/2actions.png"); background-size: 1rem 1rem; margin-right: .3rem; }
+blockquote.block.action3 h3::before { content: ""; display: inline-block; width: 1rem; height: 1rem; background-image: url("../images/3actions.png"); background-size: 1rem 1rem; margin-right: .3rem; }
+blockquote.block.reaction h3::before { content: ""; display: inline-block; width: 1rem; height: 1rem; background-image: url("../images/réaction.png"); background-size: 1rem 1rem; margin-right: .3rem; }
+blockquote.block.actionlibre h3::before { content: ""; display: inline-block; width: 1rem; height: 1rem; background-image: url("../images/actionlibre.png"); background-size: 1rem 1rem; margin-right: .3rem; }
 
 /************************/
 /* Bloc "En Bref..."    */
@@ -206,11 +179,12 @@ blockquote.block .traits {
 .summary {
     border-left: solid 2px #666;
     background-color: #eee;
-    padding: 0 .5rem;
+    padding: .5rem;
+    margin-bottom: 1rem;
 }
 
 .summary h3 {
-    margin: 0;
+    margin: 0 0 .5rem 0;
     font-size: 1.3rem;
     font-style: italic;
 }
