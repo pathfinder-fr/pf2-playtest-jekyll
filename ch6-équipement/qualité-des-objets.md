@@ -1,7 +1,7 @@
 ---
 title: "Qualité des objets"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 Sauf mention contraire, les armures, les armes et l'équipement sont considérés comme étant de qualité standard par défaut, des objets créés par un artisan qui est entraîné dans la compétence appropriée. Les objets standard ne donnent ni bonus ni pénalité aux attaques ou aux tests correspondants. Vous pourriez rencontrer des objets de piètre qualité de temps en temps et, au fil de vos aventures, vous pourriez trouver, fabriquer ou acheter des objets de bien meilleure qualité.

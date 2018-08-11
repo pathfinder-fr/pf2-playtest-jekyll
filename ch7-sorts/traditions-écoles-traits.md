@@ -1,7 +1,7 @@
 ---
 title: "Traditions, écoles et traits magiques"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 * Liste pour toc

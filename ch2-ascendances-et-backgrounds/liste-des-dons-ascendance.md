@@ -16,5 +16,4 @@ cols:
     attribute: prerequisites
   - title: "Résumé"
     attribute: summary
-toc: false
 ---

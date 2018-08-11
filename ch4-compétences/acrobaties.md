@@ -1,5 +1,7 @@
 ---
 title: "Acrobaties (Dextérité)"
+toc: true
+
 titleEN: "Acrobatics"
 source: "Playtest Pathfinder"
 

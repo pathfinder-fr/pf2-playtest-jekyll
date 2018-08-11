@@ -97,37 +97,3 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
-  
-  # par défaut on active la table des matières de la page pour toutes les pages situées
-  # dans un dossier commencant par "ch"
-  # il ne faut pas utiliser de "*" car cela impacte énormément le temps de génération...
-  -
-    scope:
-      path: "ch1-généralités"
-    values:
-      toc: true
-  -
-    scope:
-      path: "ch2-ascendances-et-backgrounds"
-    values:
-      toc: true
-  -
-    scope:
-      path: "ch3-classes"
-    values:
-      toc: true
-  -
-    scope:
-      path: "ch4-compétences"
-    values:
-      toc: true
-  -
-    scope:
-      path: "ch5-dons-généraux"
-    values:
-      toc: true
-  -
-    scope:
-      path: "ch6-équipement"
-    values:
-      toc: true

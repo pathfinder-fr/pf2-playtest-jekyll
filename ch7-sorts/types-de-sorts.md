@@ -1,7 +1,7 @@
 ---
 title: "Sorts préparés, spontanés, innés, pouvoirs et sortilèges"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 * Liste pour toc

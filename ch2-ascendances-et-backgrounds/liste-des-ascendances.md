@@ -28,5 +28,4 @@ cols:
     separator: ", "
   - title: "VO"
     attribute: titleEN
-toc: false
 ---

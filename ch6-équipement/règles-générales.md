@@ -1,6 +1,7 @@
 ---
 title: "Règles générales sur l'équipement"
 source: "Playtest Pathfinder"
+toc: true
 ---
 
 Pour laisser une trace de votre passage dans le monde, vous devrez tout d'abord bien vous équiper, avec par exemple une armure, des armes et de l'équipement divers. Ce chapitre présente les divers objets que vous pouvez acheter pendant la création de votre personnage ou, de manière plus générale, en visitant la plupart des villes et des communautés civilisées.

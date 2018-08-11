@@ -1,11 +1,8 @@
 ---
 title: "Lancer un sort"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
-
-* Liste pour toc
-{:toc}
 
 ## Lancer un sort
 
