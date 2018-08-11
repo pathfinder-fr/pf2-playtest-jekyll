@@ -62,3 +62,20 @@ Votre historique, votre classe et certaines capacités listent plusieurs compét
 Chacune des rubriques suivantes décrit une des compétences du jeu. Le titre de chaque rubrique donne le nom de la compétence, suivi par la Caractéristique liée à cette compétence entre parenthèses. Une brève description de la compétence est suivie par une liste des actions, des activités, des actions libres et des réactions que vous pouvez tenter si vous n’êtes pas formé dans cette compétence. Elles sont suivies des actions que vous ne pouvez accomplir que si vous êtes au moins entraîné dans cette compétence.
 
 Comme les utilisations de ces compétences ne sont pas exhaustives, il y aura des cas où votre MJ vous demandera d’effectuer un test de compétence sans utiliser aucune des actions, des activités, des actions libres ou des réactions listées et des cas où il vous demandera de faire un jet en utilisant un autre modificateur de Caractéristique que celui indiqué.
+
+{: .tabletitle}
+Tableau des compétences, de leurs caractéristiques liées et leurs utilisations
+
+{: .table .table-striped .table-sm .table-hover}
+| Compétence | Caractéristique liée	| Utilisations sans entraînement | utilisation entrainées
+| :--- | --- | --- | ----: 
+| **Acrobaties** | **Dextérité** | Avancer sans tomber (action) | manoeuvre en vol (action)
+|   |   | Garder son équilibre (action libre) |   
+|   |   | Se faufiler (activité) |  	
+|   |   | Se libérer (action) |   
+|   |   | Se rattraper au bord (réaction) |  
+|   |   | Traverser l'espace d'un ennemi (action) | 
+| **Arcanes** | **Intelligence** | Se souvenir de connaissances (action) | Apprendre un sort arcanique (activité)
+|   |   |   | Emprunter un sort arcanique (activité)
+|   |   |   | Identifier un objet/lieu/effet magique (activité)
+|   |   |   | Lire un écrit magique (activité)

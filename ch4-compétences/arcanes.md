@@ -100,8 +100,10 @@ Vous pouvez utiliser la compétence Arcanes selon les manières suivantes seulem
 >
 > **Échec critique** Vous confondez la magie avec autre chose au choix du MJ
 
+{: .tabletitle}
+Identifier ou apprendre un sort
+
 {: .table .table-striped .table-sm .table-hover}
-##### IDENTIFIER OU APPRENDRE UN SORT
 | Niveau du sort | Prix* | DD Typique*|
 | :----- | ------ | ------:
 | 1 ou sortilège | 20 pa | 13 |
