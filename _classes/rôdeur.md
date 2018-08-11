@@ -2,6 +2,7 @@
 title: Rôdeur
 titleEN: Ranger
 source: "Playtest Pathfinder"
+toc: true
 layout: classe
 
 #PARTIE PROPRE AUX CLASSES

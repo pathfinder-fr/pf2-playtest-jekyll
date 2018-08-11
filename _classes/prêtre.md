@@ -2,6 +2,7 @@
 title: Prêtre
 titleEN: Cleric
 source: "Playtest Pathfinder"
+toc: true
 layout: classe
 
 #PARTIE PROPRE AUX CLASSES
