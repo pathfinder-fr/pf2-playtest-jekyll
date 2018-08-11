@@ -12,8 +12,11 @@ cols:
     attribute: traits
     isAList: true
     separator: ", "
+    colsize: "10%"
   - title: "Prérequis"
     attribute: prerequisites
+    colsize: "20%"
   - title: "Résumé"
     attribute: summary
+    colsize: "30%"
 ---

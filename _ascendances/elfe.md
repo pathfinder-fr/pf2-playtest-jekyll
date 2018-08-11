@@ -2,7 +2,6 @@
 title: Elfe
 titleEN: Elf
 source: "Playtest Pathfinder"
-layout: ascendance
 
 #PARTIE PROPRE AUX ASCENDANCES
 
@@ -28,6 +27,8 @@ qualities:
   - "Vision nocturne : vous pouvez voir dans les zones faiblement illuminées aussi bien qu'en plein jour."
 ---
 
+{% include ancestry-summary.html %}
+
 *La culture elfique est complexe, riche, et sur le déclin. Leur société avait atteint son apogée il y a des millénaires, bien avant qu'ils ne fuient le Monde de jeu pour échapper au Grand Cataclysme. À leur retour sur une terre transformée, les elfes se sont battus pour récupérer leurs foyers ancestraux, majoritairement des griffes des démons qui avaient envahi des portions de leur pays natal. Les vestiges de grandes colonies elfiques sont dispersés dans la région de la mer Intérieure, et même dans leurs terres ancestrales,  des vestiges et des artefacts oubliés depuis longtemps cottoyent de nouvelles constructions.*
 
 ## Aperçu
@@ -45,3 +46,4 @@ Certaines options de background conviennent particulièrement aux elfes. Par exe
 
 Lorsque vous sélectionnez une classe, envisagez le rôdeur ou le roublard, qui profitent tous deux de la dextérité elfique. Vous pourriez également envisager d'être un alchimiste ou un sorcier, répondant tous deux à la curiosité intellectuelle naturelle des elfes.
 
+{% include ancestry-feat-table.html %}

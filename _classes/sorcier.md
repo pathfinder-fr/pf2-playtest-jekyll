@@ -56,9 +56,6 @@ index:
 
 ---
 
-* Liste pour toc
-{:toc .float-right .ml-2}
-
 *Vous n'avez pas choisi de devenir un lanceur de sorts... vous êtes né lanceur dans sorts. La magie coule dans vos veines, peut-être parce que le divin a touché un de vos ancêtres, parce qu'un aïeul a communié avec une créature sauvage, or parce qu'un puissant rituel occulte a modifié votre lignage. Dans tous les cas, l'introspection et l'étude vous permettent de raffiner vos talents magiques innés et de développer constamment de nouveaux pouvoirs de plus en plus puissants. Mais les forces qui coulent dans vos veines font également planer un danger au-dessus de votre tête : à chaque instant, vous devez choisir entre vous élever et devenir maître de vos sorts ou vous laisser détruire par votre magie.*
 
 ## Jouer un sorcier

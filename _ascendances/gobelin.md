@@ -2,7 +2,6 @@
 title: Gobelin
 titleEN: Goblin
 source: "Playtest Pathfinder"
-layout: ascendance
 
 #PARTIE PROPRE AUX ASCENDANCES
 
@@ -29,6 +28,9 @@ qualities:
  
 ---
 
+{% include ancestry-summary.html %}
+
+
 *Cela fait presque 20 ans depuis la fin des guerres gobelines qui ont ravagé la Grande foret, forcant des dizaines de tribus à se cacher. Maintenant que de nouvelles menaces apparaissent, les anciens de nombreuses tribus ont mis de coté leur mode de vie irresponsable dans l'espoir de forger des alliances qui leur donneraient une chance de survivre. Alors que beaucoup ont choisi de rester proteger leur terre natale, certains sont partis en quête d'un foyer qui pourrait leur offrir asile dans un monde qui ne leur fait pas confiance.*
 
 ## Aperçu
@@ -45,3 +47,5 @@ Les aventuriers gobelins vénèrent généralement le dieu de l'aventure.
 Certains backgrounds sont des choix particulièrement judicieux pour les gobelins. Considérez le background de criminel si vous venez d'une tribu sans loi, le background artiste si vous avez vécu en faisant des spectacles pour le public ou le background de gamin des rues si vous avez été élevé dans la pauvreté. En outre, les background d'acrobate, de gladiateur et de chasseur ont aussi du sens pour un gobelin.
 
 Au moment de choisir une classe, envisagez de jouer un alchimiste, puisque de nombreux gobelins aiment le feu, ou un barde, comme de nombreux gobelins aiment les chansons. En tant que survivants, les gobelins sont souvent des roublards vivant dans l'ombre, bien que leur nature charismatique les incite également à suivre une classe magique telle que le sorcier.
+
+{% include ancestry-feat-table.html %}

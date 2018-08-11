@@ -2,7 +2,6 @@
 title: Gnome
 titleEN: Gnome
 source: "Playtest Pathfinder"
-layout: ascendance
 
 #PARTIE PROPRE AUX ASCENDANCES
 
@@ -29,6 +28,8 @@ qualities:
   - "Vision nocturne : vous pouvez voir dans les zones faiblement illuminées aussi bien qu'en plein jour."
 ---
 
+{% include ancestry-summary.html %}
+
 *Il y a longtemps, les premiers ancêtres des gnomes ont migré du Royaume des fées. Alors que la raison de la présence des gnomes dans le Monde de jeu ne soit pas claire, leur origine se manifeste dans leurs raisonnements bizarres, leur excentricité, leurs tendances obsessionnelles et ce que certains considèrent comme de la naïveté. Leurs caractéristiques physiques, telles que des membres chétifs, des cheveux aux couleurs vives et un visage enfantin et extrêmement expressif, reflètent encore davantage leurs origines surnaturelles.*
 
 ## Aperçu
@@ -44,3 +45,5 @@ Les gnomes évitent l'ordre, et par conséquent la plupart adorent les divinité
 Certains choix de background sont particulièrement judicieux pour les gnomes. Vous pouvez ainsi choisir background de l'artiste si vous avec grandi devant une foule, le marchand si vous avez été élevé dans une entreprise familiale ou le nomade si vous avez voyagé d'un endroit à l'autre avec vos proches. En outre, les backgrounds d'ami des animaux, de tavernier et de paysan sont tous adaptés au mode de vie des gnomes.
 
 Lorsque vous décidez d'une classe, notez que la connexion des gnomes avec le monde naturel fait d'eux des rôdeurs ou des druides pertinents. Alors que les gnomes ne sont pas souvent forts physiquement, ils sont souvent doués avec la magie, en particulier la magie qui provient du Royaume des fées, ce qui en fait d'eux d’excellents bardes et sorciers.
+
+{% include ancestry-feat-table.html %}

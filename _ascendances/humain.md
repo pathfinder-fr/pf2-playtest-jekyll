@@ -2,7 +2,6 @@
 title: Humain
 titleEN: Human
 source: "Playtest Pathfinder"
-layout: ascendance
 
 #PARTIE PROPRE AUX ASCENDANCES
 
@@ -25,6 +24,9 @@ traits:
   - humanoïde
 qualities:
 ---
+
+{% include ancestry-summary.html %}
+
 
 *Aussi imprévisibles et variés que les autres peuples du Monde de jeu, les humains ont un dynamisme exceptionnel et la capacité d'endurer et de se développer. Bien que beaucoup de civilisations aient prospéré avant que l'humanité n'ait pris de l'importance, les humains ont construit certaines des plus grandes et des plus terribles sociétés à travers l'histoire, et aujourd'hui ils représentent la majorité de la population dans les différents royaumes autour de la mer Intérieure.*
 
@@ -66,3 +68,91 @@ Vous pouvez créer un personnage demi-orque en sélectionnant le don d'ascendanc
 Certains background font des choix particulièrement judicieux pour des humains. Vous pouvez choisir le background de paysan si vous venez de quitter la maison, le gladiateur si vous venez de gagner votre liberté, ou le marin si vous êtes récemment rentré de la haute mer. Vous devriez chercher un background qui complète votre classe, vous accordant bonus à une caractéristique pertinente pour la classe.
 
 Lorsque vous recherchez une classe, vous avez de nombreux choix. Votre personnage pourrait être un jeune et brillant paladin prêt à affronter le monde ou un sorcier las qui cherche à tout laisser derrière lui pour une plus grande destinée dans les plans de l'Au-delà - ou quelque chose entre les deux.
+
+{% include ancestry-feat-table.html %}
+
+{% assign dons = site["donsascendance"] | sort_ignore_accent_marks: "title" | sort: "level" %}
+
+<p class="tabletitle">Dons d'ascendance (demi-elfe})</p>
+
+<table class="table table-sm table-striped table-hover">
+    <thead class="thead-light">
+        <tr>
+            <th style="width: 20%">Nom</th>
+            <th>Niveau</th>
+            <th>Traits</th>
+            <th style="width: 60%">Résumé</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% assign oldLevel = "1" %}
+        {% for don in dons %}
+        {% if don.traits contains 'elfe' or don.traits contains 'demi-elfe' %}
+          {% assign level = don.level | append: "" %}
+          <tr
+              {% unless level == oldLevel %}
+              {% assign oldLevel = level %}
+              class="firstlineofsection"
+              {% endunless %}
+          >
+              <td><a href="{{don.url}}">{{don.title}}</a></td>
+              <td>
+                  {{don.level}}
+                  {% unless don.rarity == "C" %}
+                      ({{don.rarity}})
+                  {% endunless %}
+              </td>
+              <td>{{don.traits | sort_ignore_accent_marks | join: ", "}}</td>
+              <td>
+                  {{don.summary | markdownify | remove: '<p>' | remove: '</p>'}}
+                  {% if don.prerequisites %}
+                  {{don.prerequisites | prepend: "<br/>**Prérequis** " | markdownify | remove: '<p>' | remove: '</p>'}}
+                  {% endif %}
+              </td>
+          </tr>
+        {% endif %}
+        {% endfor %}
+    </tbody>
+</table>
+
+<p class="tabletitle">Dons d'ascendance (demi-orque})</p>
+
+<table class="table table-sm table-striped table-hover">
+    <thead class="thead-light">
+        <tr>
+            <th style="width: 20%">Nom</th>
+            <th>Niveau</th>
+            <th>Traits</th>
+            <th style="width: 60%">Résumé</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% assign oldLevel = "1" %}
+        {% for don in dons %}
+        {% if don.traits contains 'orque' or don.traits contains 'demi-orque' %}
+          {% assign level = don.level | append: "" %}
+          <tr
+              {% unless level == oldLevel %}
+              {% assign oldLevel = level %}
+              class="firstlineofsection"
+              {% endunless %}
+          >
+              <td><a href="{{don.url}}">{{don.title}}</a></td>
+              <td>
+                  {{don.level}}
+                  {% unless don.rarity == "C" %}
+                      ({{don.rarity}})
+                  {% endunless %}
+              </td>
+              <td>{{don.traits | sort_ignore_accent_marks | join: ", "}}</td>
+              <td>
+                  {{don.summary | markdownify | remove: '<p>' | remove: '</p>'}}
+                  {% if don.prerequisites %}
+                  {{don.prerequisites | prepend: "<br/>**Prérequis** " | markdownify | remove: '<p>' | remove: '</p>'}}
+                  {% endif %}
+              </td>
+          </tr>
+        {% endif %}
+        {% endfor %}
+    </tbody>
+</table>

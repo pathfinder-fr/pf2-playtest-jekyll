@@ -48,7 +48,7 @@ layout: default
 <table class="table table-sm table-striped table-hover">
     <thead class="thead-light">
         <tr>
-            <th>Nom</th>
+            <th style="width: 20%">Nom</th>
             <th>Niveau</th>
             <th>Traits</th>
             <th style="width: 60%">Résumé</th>
@@ -73,9 +73,9 @@ layout: default
             </td>
             <td>{{don.traits | sort_ignore_accent_marks | join: ", "}}</td>
             <td>
-                {{don.summary}}
+                {{don.summary | markdownify | remove: '<p>' | remove: '</p>'}}
                 {% if don.prerequisites %}
-                {{don.prerequisites | prepend: "**Prérequis** " | markdownify}}
+                {{don.prerequisites | prepend: "<br/>**Prérequis** " | markdownify | remove: '<p>' | remove: '</p>'}}
                 {% endif %}
             </td>
         </tr>
