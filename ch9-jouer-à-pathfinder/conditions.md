@@ -10,9 +10,6 @@ Les conditions sont persistantes : quand vous êtes affecté par une condition, 
 
 Voir la [liste des conditions](liste-des-conditions.html).
 
-* Liste pour toc
-{:toc}
-
 ## Valeurs de condition
 
 Certaines conditions possèdent une valeur numérique appelée valeur de condition et représentée par un nombre qui suit le nom de la condition. Cette valeur peut indiquer un bonus ou une pénalité que la condition vous donne. Il est généralement possible de réduire cette valeur grâce à des sorts, des compétences ou tout simplement avec le temps. Si la valeur est réduite à 0, la condition prend fin.

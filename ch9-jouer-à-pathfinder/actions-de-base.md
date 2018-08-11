@@ -10,9 +10,6 @@ Les actions qui sont utilisées moins fréquemment mais qui sont tout de même a
 
 Si vous pouvez lancer des sorts, les activités et actions pour le lancement de sort se trouvent aux pages <mark>195-196</mark> et, si vous possédez des objets magiques, les activités et actions pour les utiliser se trouvent à la page <mark>376</mark>.
 
-* Liste pour toc
-{:toc}
-
 ## Actions de base
 
 {: .block .reaction #aide }

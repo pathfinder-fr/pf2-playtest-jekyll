@@ -1,7 +1,6 @@
 ---
 title: "Règles sur la magie"
 source: "Playtest Pathfinder"
-toc: true
 ---
 
 Qu'elle provienne d'artefacts mystiques, de créatures mystérieuses ou de magiciens capables de façonner d'étranges sorts, la magie rend le monde de Pathfinder plus fantastique et merveilleux. Cette section décrit comment les lanceurs de sorts préparent et lancent leurs sorts.

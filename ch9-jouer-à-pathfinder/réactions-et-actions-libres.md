@@ -10,9 +10,6 @@ Les réactions sont généralement déclenchées par d'autres créatures ou par 
 
 Les actions libres sont généralement déclenchées par des actions que vous utilisez mais plusieurs d'entre elles se déclenchent au début ou à la fin d'un tour. Contrairement aux réactions, il n'y a pas de limite au nombre d'actions libres que vous pouvez utiliser. Toutefois, vous ne pouvez utiliser qu'une seule action libre pour un déclencheur donné.
 
-* Liste pour toc
-{:toc}
-
 ### Déclencheurs
 
 Les déclencheurs indiqués dans les blocs descriptifs des réactions et des actions libres restreignent les moments où vous pouvez les utiliser. Vous ne pouvez utiliser qu'une seule action libre pour un déclencheur donné mais vous pouvez entreprendre à la fois une action libre et une réaction pour le même déclencheur. Si, d'une manière ou d'une autre, vous obtenez la capacité d'effectuer plus d'une réaction par round, vous seriez tout de même limité à 1 réaction par déclencheur. Si deux déclencheurs sont similaires mais pas identiques, le MJ détermine si vous pouvez utiliser plusieurs actions libres et réactions. Cette limite se calcule par créature : plusieurs créatures pourraient utiliser chacune une réaction ou action libre sur base d'un déclencheur donné.

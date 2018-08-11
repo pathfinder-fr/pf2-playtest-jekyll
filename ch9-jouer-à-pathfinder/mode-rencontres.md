@@ -6,9 +6,6 @@ toc: true
 
 Quand chaque action compte, vous entrez dans le mode de jeu "rencontres". Dans ce mode, vous avez des tours au cours desquels vous pouvez utiliser des actions. Votre tour avec le tour de tous les autres intervenants, forme un round. Un round représente 6 secondes dans le monde de jeu. Selon les détails de la rencontre, vous pourriez avoir l'occasion d'utiliser des réactions et des actions libres, tant pendant votre tour que pendant celui des autres.
 
-* Liste pour toc
-{:toc}
-
 ## Structure
 
 Une rencontre se joue sous la forme d'une séquence de rounds de rencontre au cours desquels les personnages agissent les uns à la suite des autres. Vous lancez un type de jet spécial pour déterminer l'ordre au début de la rencontre puis vous jouez une série de rounds jusqu'à atteindre la conclusion et la fin de la rencontre. Une rencontre se structure de la manière suivante.

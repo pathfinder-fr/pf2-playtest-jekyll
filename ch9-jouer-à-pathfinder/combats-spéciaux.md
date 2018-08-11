@@ -6,9 +6,6 @@ toc: true
 
 Tous les combats ne se déroulent pas uniquement avec des intervenants situés sur le sol ferme. Certains se déroulent lorsque lors les participants chevauchent des montures ou quand les PJ volent ou sillonnent les mers.
 
-* Liste pour toc
-{:toc}
-
 ## Combat sur monture
 
 Quand vous chevauchez une monture au cours d'un combat, la monture que vous contrôlez agit lors de votre initiative. Vous devez utiliser les actions Amadouer un animal et Diriger un animal (voir <mark>page 153</mark>) pour faire en sorte que votre monture utilise ses actions. Si vous ne le faites pas, ses actions sont perdues. Si vous avez le don général [Équitation](/dons/équitation.html) <mark>p170</mark>, vous pouvez utiliser l'action Diriger un animal sans l'avoir Amadoué précédemment (ou Diriger un sbire si la monture est un sbire).

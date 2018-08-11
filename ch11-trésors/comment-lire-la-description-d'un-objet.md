@@ -6,9 +6,6 @@ toc: true
 
 Qu'il s'agisse d'un objet alchimique, magique ou autre, il est présenté dans le format décrit ci-dessous. Si un objet n'a pas besoin d'une des indications citées, celle-ci est omise.
 
-* Liste pour toc
-{:toc}
-
 ## Nom et niveau
 
 La ligne du dessus indique le nom de l'objet et un nombre indiquant le niveau de l'objet. Ce dernier indique pour quel niveau d'aventuriers l'objet est le plus approprié. Pour les personnages qui peuvent Fabriquer des objets magiques (c'est-à-dire qui possèdent les degrés de formation de compétences nécessaires, les dons requis et la formule de l'objet), il s'agit du niveau minimal pour pouvoir Fabriquer cet objet.

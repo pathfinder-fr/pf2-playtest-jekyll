@@ -6,9 +6,6 @@ toc: true
 
 Quand vous interprétez les règles, utilisez les lignes directrices suivantes. Les exceptions à ces principes généraux apparaissent dans les règles quand c'est nécessaire. Si vous hésitez quant à la manière d'appliquer une règle, la décision revient au MJ.
 
-* Liste pour toc
-{:toc}
-
 ### Le spécifique l'emporte sur le général
 
 Un des principes de base de Pathfinder est que les règles spécifiques l'emportent sur les règles générales. Si deux règles entrent en conflit, celle qui est la plus spécifique l'emporte. Si cela reste ambigu, le MJ détermine quelle règle utiliser. Par exemple, quand vous attaquez une créature camouflée, vous devez effectuer un test pur de DD 5 et les tests purs n'ont jamais de modificateurs, bonus ou pénalités, mais une capacité spécialement conçue pour ignorer le camouflage pourrait tout de même modifier votre jet.

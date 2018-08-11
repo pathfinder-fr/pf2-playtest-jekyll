@@ -22,9 +22,6 @@ Les maladies, les gaz, les poisons et les venins sont divers types d'afflictions
 
 Une affliction est décrite par les éléments suivants.
 
-* Liste pour toc
-{:toc}
-
 ## Nom et type
 
 Le nom de l'affliction est donné au début, suivi des traits de l'affliction entre parenthèses et des précisions inhabituelles.

@@ -8,9 +8,6 @@ C'est principalement via vos actions et vos activités que vous pouvez exercer v
 
 Les activités prennent généralement plus longtemps et nécessitent plusieurs actions qui doivent être utilisées les unes à la suite des autres. Se Déplacer est une action, mais lancer *boule de feu* est une activité parce qu'on y cite les actions spécifiques qui doivent être utilisées pour engendrer son effet.
 
-* Liste pour toc
-{:toc}
-
 ## Activités
 
 Une activité consiste généralement à dépenser plusieurs actions pour créer un effet qui est plus que juste la somme de ces actions. Dans certains cas, souvent pour le lancement de sorts, une activité peut prendre seulement 1 action, 1 réaction ou 1 action libre.

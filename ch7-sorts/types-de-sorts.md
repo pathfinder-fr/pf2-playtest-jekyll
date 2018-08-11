@@ -4,9 +4,6 @@ source: "Playtest Pathfinder"
 toc: true
 ---
 
-* Liste pour toc
-{:toc}
-
 ## Préparer des sorts
 
 Si vous êtes un lanceur de sorts préparés, vous devez passer du temps à un moment donné chaque jour pour préparer vos sorts pour cette journée. Au début de vos préparations quotidiennes, vous choisissez un certain nombre de sorts de différents niveaux, ce nombre étant déterminé par votre niveau dans une classe de lanceur de sorts. Vous pouvez utiliser ces sorts à tout moment jusqu'à ce qu'ils aient été lancés ou que vous prépariez des sorts à nouveau. Chaque sort préparé est dépensé après avoir été lancé, de sorte que, si vous désirez pouvoir lancer un sort spécifique plus d'une fois dans la journée, vous devez préparer ce sort plusieurs fois. Les sorts possédant le trait sortilège font exception à cette règle : une fois que vous avez préparé un tel sort, vous pouvez le lancer autant de fois que vous le désirez jusqu'au moment où vous préparez à nouveau vos sorts. Voir [Sortilèges](#sortilèges).

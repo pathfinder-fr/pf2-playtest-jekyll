@@ -8,11 +8,6 @@ Le mode "temps libre" se joue jour par jour plutôt que minute par minute. Gén�
 
 Vous pouvez prendre un jour entier de repos pendant votre temps libre et récupérer le double des Points de vie que vous récupéreriez normalement en vous reposant pendant une nuit. Si vous ne voulez pas payer pour la nourriture et le logement, vous pourriez profiter de votre temps libre pour subsister en rassemblant vous-mêmes les ressources nécessaires grâce à Survie (si vous êtes dans la nature) ou Société (si vous êtes en ville). Vous pouvez également vendre les objets récupérés au cours de vos aventures, acheter de nouvelles choses et réaliser d'autres activités correspondant à vos dons, vos compétences et à l'endroit où vous passez votre temps libre.
 
-
-* Liste pour toc
-{:toc}
-
-
 ## Réentraînement
 
 Le réentraînement vous permet de modifier certaines des options de votre personnage, ce qui peut être utile quand vous voulez développer votre personnage dans une nouvelle direction ou si vous désirez tout simplement modifier des choix qui n'étaient pas aussi intéressants ou efficaces que vous le pensiez. Les trois choses que vous pouvez réentraîner sont les dons (sauf les dons d'héritage), les formations et les accroissements de compétences et les capacités de classe choisies (comme les écoles de magicien ou les sorts connus de sorcier). Vous ne pouvez pas réentraîner votre ascendance, votre background ou votre classe. Généralement, vous devez trouver un instructeur qui vous enseignera vos nouvelles capacités.

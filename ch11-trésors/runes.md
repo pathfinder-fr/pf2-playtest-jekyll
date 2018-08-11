@@ -28,9 +28,6 @@ Les armes et amures magiques possèdent le même Encombrement et les mêmes cara
 
 Le niveau d'un objet incrusté de runes est égal au niveau le plus élevé entre celui de l'objet de base et celui des runes qu'il porte. Ainsi, une *masse +1* (niveau 4) avec une *rune de destruction des morts-vivants* (niveau 5) serait un objet de niveau 5
 
-* Liste pour toc
-{:toc}
-
 ## Le processus d'incrustation
 
 Incruster une rune dans un objet est un processus qui fonctionne comme l'activité Fabriquer un objet. Vous devez posséder la formule de la rune et l'objet dans lequel vous incrustez la rune doit rester en votre possession pendant tout le processus. La rune ne fait effet qu'une fois l'activité de Fabrication terminée. Vous incrustez une rune à la fois, et il est toujours possible d'ajouter de nouvelles runes ou remplacer des runes existantes plus tard.

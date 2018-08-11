@@ -6,9 +6,6 @@ toc: true
 
 Que ce soit pour progresser sur le champ de bataille, pour traverser les rues bondées d'une ville ou sillonner les corridors d'un donjon dangereux, votre mouvement et votre position déterminent comment vous pouvez interagir avec le monde. Les déplacements en mode "exploration" ou "temps libre" sont relativement libres et régis par peu de règles. Par contre, les [mouvements en mode "rencontres"](mouvement-et-positionnement.html#mouvement-en-mode-rencontres) sont déterminés par un certain nombre de règles précises.
 
-* Liste pour toc
-{:toc}
-
 ## Types de mouvements
 
 Les créatures de Pathfinder peuvent se déplacer de diverses manières, qu'il s'agisse de foncer à toute allure sur le sol, de filer à travers les nuages, de se frayer un passage dans les courants rapides de l'océan, d'escalader des falaises abruptes ou encore d'avancer par fouissement dans le sol.

@@ -4,9 +4,6 @@ source: "Playtest Pathfinder"
 toc: true
 ---
 
-* Liste pour toc
-{:toc}
-
 ## Traditions magiques
 
 Chaque lanceur de sorts tire ses sorts de l'une des quatre listes de sorts qui représentent les quatre traditions magiques : arcanique, divin, occulte et primaire. Le lanceur de sorts ajoute le trait de sa tradition au sort lorsqu'il le lance.

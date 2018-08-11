@@ -13,9 +13,6 @@ Votre modificateur de Perception dépend de votre Sagesse et de votre degré de 
 
 Dans certaines circonstances, comme par exemple quand un individu tente de se faufiler sans que vous le remarquiez, le MJ pourrait effectuer un jet contre votre DD de Perception. Tout comme les DD de compétences, votre DD de Perception vaut 10 plus votre modificateur de Perception.
 
-* Liste pour toc
-{:toc}
-
 ## Lumière
 
 La quantité de lumière présente peut modifier votre capacité à voir les choses. Il y a trois niveaux de luminosité : lumière vive, pénombre et ténèbres. Les règles sont généralement présentées en supposant que toutes les créatures se trouvent dans une lumière vive.

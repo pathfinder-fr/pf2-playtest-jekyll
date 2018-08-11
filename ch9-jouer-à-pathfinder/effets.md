@@ -10,9 +10,6 @@ Quand vous utilisez une action, réaction ou action libre ou que vous vous lance
 
 Les effets utilisent souvent les règles qui suivent.
 
-* Liste pour toc
-{:toc}
-
 ### Durée
 
 Certains effets persistent pendant un moment plutôt que d'être instantanés. Une fois la durée terminée, l'effet prend fin. Les règles utilisent généralement les formulations suivantes pour préciser les durées, même si les sorts font appel à des éléments plus particuliers décrits à la page <mark>196</mark>.

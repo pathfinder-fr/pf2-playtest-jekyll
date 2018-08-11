@@ -10,9 +10,6 @@ Au cours de chaque session de jeu, le MJ ne devrait pas attribuer plus de 1 Poin
 
 À tout moment, votre personnage peut avoir au plus 3 Points héroïques. Ces points ne peuvent pas être épargnés d'une session à l'autre ; à la fin de chaque session, votre personnage perd tous ses Points héroïques.
 
-* Liste pour toc
-{:toc}
-
 ### Dépenser des Points héroïques
 
 Dépenser des Points héroïques ne nécessite pas de dépenser des actions, réactions ou actions libres.

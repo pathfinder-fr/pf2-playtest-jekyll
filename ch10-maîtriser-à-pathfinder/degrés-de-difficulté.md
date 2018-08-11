@@ -6,9 +6,6 @@ layout: default
 
 En tant que MJ, c'est à vous de déterminer les degrés de difficulté (DD) des tests qui n'utilisent pas une valeur de DD prédéfinie. Cette section présente des conseils sur la manière de choisir des DD appropriés et de les modifier si nécessaire pour qu'ils s'intègrent naturellement dans vos histoires.
 
-* Liste pour toc
-{:toc}
-
 ## Créer des défis appropriés
 
 Quand les personnages progressent en niveau, ils devraient affronter des adversaires de plus en plus dangereux et des pièges de plus en plus complexes, rechercher des informations de plus en plus obscures et faire preuve de talents de plus en plus développés dans de nombreux autres domaines. Tous ces défis augmentent en difficulté.

@@ -8,9 +8,6 @@ Alors que les rencontres utilisent les rounds pour les combats et quelque chose 
 
 L'exploration consiste principalement en des mouvements et du roleplay. Vous pourriez voyager d'une section de la ville à une autre, discuter avec quelques sages et experts dans un commerce ou dans une maison qui se trouve sur votre chemin, ou peut-être échanger quelques mots tendus avec des gardes oisifs quand vous traversez les portes de la ville. Au lieu de mesurer vos déplacements en cases de 1,50 mètre toutes les 6 secondes, vous les mesurez en mètres ou en kilomètres par minute, heure ou jour en utilisant votre Vitesse de voyage.
 
-* Liste pour toc
-{:toc}
-
 ## Vitesse de voyage
 
 En fonction de la manière dont le MJ vent gérer vos déplacements, vous pourriez utiliser des mètres ou des kilomètres en fonction de la Vitesse de votre personnage pour le type de mouvement pertinent. Les conversions sont reprises dans le tableau ci-dessous.
@@ -88,9 +85,6 @@ Vous faites juste assez d'efforts pour être poli et pour participer aux événe
 
 ### Voler (fatigant)
 On pourrait penser que vous êtes simplement en train de vous promener mais, en fait, vous êtes occupés à repérer des proies faciles pour Voler un objet.
-
-
-
 
 ## Repos et préparations quotidiennes
 Pour fournir le meilleur de vous-même, vous devez passer suffisamment de temps à vous reposer et à vous préparer. Une fois toutes les périodes de 24 heures, vous pouvez prendre une période de repos (généralement 8 heures) puis ensuite vous préparer, ce qui prend généralement 1 heure. Après votre repos, vous regagnez un certain nombre de Points de vie égal à votre modificateur de Constitution (au moins 1) fois votre niveau. Quand vous vous préparez, vous regagnez les ressources que vous ne pouvez utiliser qu'un nombre limité de fois par jour. Par exemple, si vous êtes un lanceur de sorts, vous regagnez des emplacements de sorts et vous pouvez préparer de nouveaux sorts. Si vous avez des Points de magie, vous les récupérez. Les utilisations d'objets magiques reviennent également.

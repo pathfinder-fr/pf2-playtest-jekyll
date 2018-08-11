@@ -6,9 +6,6 @@ toc: true
 
 Les objets merveilleux de nature magique peuvent donner un avantage net aux PJ lorsqu'ils affrontent des monstres esclavagistes, des nobles rusés ou n'importe quel autre défi à leur courage. La section qui suit présentent les objets magiques disponibles pour les personnages de Pathfinder. Elle commence par présenter les règles indiquant comment utiliser les objets magiques pendant le jeu puis passe en revue les différents types d'objets magiques qu'on trouve dans Pathfinder : les armes et armures, les baguettes, les bâtons, les boucliers, les colifichets, les huiles et potions, les objets de puissance, les parchemins et les munitions.
 
-* Liste pour toc
-{:toc}
-
 ## Utiliser des objets magiques
 
 Pour profiter de la magie d'une *ceinture de régénération* afin de soigner vos blessures ou déclencher votre *armure céleste* afin de déployer ses ailes nécessite plus qu'un simple mot de commande. C'est votre propre volonté qui vous permet d'accéder à la magie qui se trouve dans vos objets. Si vous épuisez vos réserves internes, vous pouvez tenter de vous dépasser mais, au bout d'un moment, vous ne serez plus capable d'utiliser d'autres objets magiques.

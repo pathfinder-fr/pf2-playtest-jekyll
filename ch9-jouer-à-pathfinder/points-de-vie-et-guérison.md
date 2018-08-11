@@ -10,9 +10,6 @@ Certains sorts et d'autres effets peuvent guérir les créatures vivantes ou les
 
 La plupart des créatures, quand elles atteignent 0 Point de vie, meurent, à moins que l'attaque ne soit non létale, auquel cas elles sont mises KO pendant un bon moment (généralement 1 minute ou plus). Quand des créatures mortes-vivantes ou construites atteignent 0 Point de vie, elles sont détruites. Les personnages joueurs ne meurent pas automatiquement quand ils arrivent à 0 Points de vie. Au lieu de cela, ils sont mis KO. Les ennemis importants, les monstres puissants, les adversaires disposant de soigneurs ou de régénération et n'importe quel autre PNJ choisi par le MJ peuvent également suivre la même règle que les PJ.
 
-* Liste pour toc
-{:toc}
-
 ### Être mis KO
 
 Quand vous êtes réduit à 0 Point de vie, vous êtes mis KO. Lorsque cela se produit, les effets suivants s'appliquent à vous.
