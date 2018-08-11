@@ -28,6 +28,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-relative-links
+  - jekyll-toc
 
 collections:
   dons:
