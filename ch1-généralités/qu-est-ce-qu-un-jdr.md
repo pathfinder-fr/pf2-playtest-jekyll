@@ -5,9 +5,6 @@ layout: default
 toc: true
 ---
 
-* Liste pour toc
-{:toc .float-right .ml-2}
-
 Pathfinder est un jeu de rôle, une histoire interactive au cours de laquelle un des joueurs, le Maître du jeu (MJ), plante le décor et présente les défis alors que chacun des autres joueurs, appelés personnage joueur (PJ), incarnent un aventurier maniant épée et magie qui tente de vaincre ces défis. Bon nombre de ces défis prennent la forme de monstres, de pièges sournois et de complots ourdis par des adversaires, mais Pathfinder offre suffisamment de profondeur de jeu pour permettre d'autres formes de défis tels que des ruses politiques, des énigmes, des drames interpersonnels etc.
 
 Le jeu se pratique généralement avec un groupe de 4 à 7 joueurs, dont l'un d'eux sert de Maître du jeu. Le MJ prépare, présente et anime le monde de jeu et son histoire, place les défis et joue les adversaires, les alliés et les observateurs neutres. En répondant aux situations en fonction des personnalités et capacités de leurs personnages, les joueurs contribuent à créer une histoire au fil des scènes qui s'enchaînent. Des lancers de dés, combinés avec des caractéristiques numériques associées à chaque intervenant, ajoutent un élément de hasard et permettent de déterminer si les personnages réussissent les actions qu'ils tentent ou s'ils échouent.

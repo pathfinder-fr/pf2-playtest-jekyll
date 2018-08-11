@@ -1,7 +1,6 @@
 ---
 title: "Progression et options"
 source: "Playtest Pathfinder"
-layout: default
 ---
 
 Après avoir créé votre personnage mais avant de commencer à jouer, vous pourriez avoir besoin de quelques détails supplémentaires pour avoir une idée globale de la manière dont votre personnage fonctionne. Peut-être voulez-vous en savoir plus à propos de la divinité qu'il vénère, ou des règles pour votre compagnon animal ou familier. Puis, en gagnant des niveaux, vous aurez besoin de savoir comment faire progresser votre personnage et si vous aimeriez personnaliser sa manière de fonctionner en utilisant des options comme les archétypes.

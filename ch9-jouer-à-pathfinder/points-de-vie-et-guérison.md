@@ -1,7 +1,7 @@
 ---
 title: "Points de vie et guérison"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 Toutes les créatures possèdent des Points de vie (pv ou PV). Votre valeur maximale de pv représente votre santé, votre motivation à accomplir des choses et votre élan héroïque lorsque vous êtes en pleine santé et bien reposé. Vos pv maximaux incluent les Points de vie gagnés au niveau 1 grâce à votre race et à votre classe, ceux que vous gagnez aux niveaux après le premier grâce à votre classe ainsi que ceux que vous obtenez grâce à d'autres sources (comme le don général [Robustesse](../donsgeneraux/robustesse.html)). Quand vous recevez des dégâts, vous réduisez vos Points de vie actuels d'un nombre égal au nombre de dégâts reçus.
@@ -9,9 +9,6 @@ Toutes les créatures possèdent des Points de vie (pv ou PV). Votre valeur maxi
 Certains sorts et d'autres effets peuvent guérir les créatures vivantes ou les créatures mortes-vivantes. Quand vous êtes guéri, vous regagnez un nombre de Points de vie égal à la quantité de points de guérison obtenus, sans toutefois dépasser votre maximum de Points de vie.
 
 La plupart des créatures, quand elles atteignent 0 Point de vie, meurent, à moins que l'attaque ne soit non létale, auquel cas elles sont mises KO pendant un bon moment (généralement 1 minute ou plus). Quand des créatures mortes-vivantes ou construites atteignent 0 Point de vie, elles sont détruites. Les personnages joueurs ne meurent pas automatiquement quand ils arrivent à 0 Points de vie. Au lieu de cela, ils sont mis KO. Les ennemis importants, les monstres puissants, les adversaires disposant de soigneurs ou de régénération et n'importe quel autre PNJ choisi par le MJ peuvent également suivre la même règle que les PJ.
-
-* Liste pour toc
-{:toc}
 
 ### Être mis KO
 

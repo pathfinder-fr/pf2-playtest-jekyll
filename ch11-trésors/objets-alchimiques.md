@@ -1,7 +1,7 @@
 ---
 title: "Les objets alchimiques"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 Les objets alchimiques ne sont pas vraiment magiques ; ils utilisent plutôt les propriétés de substances chimiques volatiles, de minerais exotiques, de plantes dotées de vertus particulières et d'autres produits collectivement connus sous le nom de réactifs alchimiques. Les objets alchimiques ne possèdent donc pas d'auras magiques et ils ne peuvent pas être dissipés ni annulés. Leurs effets persistent pendant une durée précise ou jusqu'à ce qu'ils soient contrés d'une manière ou d'une autre (la plupart du temps, via un acte physique).
@@ -13,9 +13,6 @@ Les objets alchimiques sont activés de manières diverses. La plupart d'entre e
 Les règles pour la création d'objets alchimiques se trouvent dans la description de l'activité Fabriquer un objet. Vous devez avoir le don Artisanat alchimique pour pouvoir Fabriquer un objet alchimique. Un échec critique lors d'une tentative de Fabrication d'un objet alchimique cause souvent un effet dangereux en plus de la parte des matériaux, comme une explosion pour une bombe ou une exposition accidentelle dans le cas d'un poison. Certains objets alchimiques possèdent des conditions de fabrication additionnelles qui viennent s'ajouter à celles de l'activité Fabriquer un objet ; ces conditions supplémentaires sont citées dans la section Conditions de fabrication de leur description.
 
 Tous les objets alchimiques possèdent le trait alchimique. La plupart d'entre eux possèdent aussi le trait utilisation unique qui signifie qu'activer l'objet le consomme. Les traits [bombe](#les-bombes-alchimiques), [élixir](#les-élixirs-alchimiques) et [poison](#les-poisons-alchimiques) indiquent des catégories spéciales d'objets alchimiques, chacun étant décrit en détails ci-dessous. Un objet alchimique sans les traits bombe, élixir et poison est un [outil alchimique](#les-outils-alchimiques).
-
-* Liste pour toc
-{:toc}
 
 ## Les bombes alchimiques
 

@@ -1,13 +1,10 @@
 ---
 title: "Combats spéciaux"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 Tous les combats ne se déroulent pas uniquement avec des intervenants situés sur le sol ferme. Certains se déroulent lorsque lors les participants chevauchent des montures ou quand les PJ volent ou sillonnent les mers.
-
-* Liste pour toc
-{:toc}
 
 ## Combat sur monture
 

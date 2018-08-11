@@ -1,7 +1,7 @@
 ---
 title: "Les matériaux"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 index:
   - key: "matériaux spéciaux"
     anchor: ""
@@ -20,9 +20,6 @@ index:
   - key: "sombrebois"
     anchor: "sombrebois"
 ---
-
-* Liste pour toc
-{:toc .float-right :ml-2}
 
 L'équipement est généralement fabriqué à partir de matières facilement disponibles telles que le cuir, le bois et l'acier, mais on peut aussi créer des armes et armures en utilisant des matières plus exotiques, qui leur donnent des propriétés uniques ainsi que d'autres avantages. Les armes en matériaux spéciaux sont également capables de blesser certaines créatures magiques munies de puissantes défenses, et les armures façonnées dans ces matières peuvent offrir des protections accrues contre ces ennemis.
 

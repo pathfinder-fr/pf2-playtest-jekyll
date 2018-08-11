@@ -1,7 +1,7 @@
 ---
 title: "Les effets"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 Quand vous utilisez une action, réaction ou action libre ou que vous vous lancez dans une activité, vous le faites dans le but de causer un effet. Les effets indiquent comment vous interagissez avec le monde de jeu et le modifiez. Souvent, il suffit de réaliser une action ou de terminer une activité pour engendrer un effet. Par exemple, si vous utilisez l'action de Déplacement, l'effet est que vous vous déplacez de votre Vitesse. Dans d'autres cas, vous devez lancer des dés pour déterminer l'effet que vous causez.
@@ -9,9 +9,6 @@ Quand vous utilisez une action, réaction ou action libre ou que vous vous lance
 À moins qu'une action, réaction, action libre ou activité n'indique le contraire, elle ne touche qu'une seule créature ou qu'un seul objet (souvent, il s'agit de vous). Certaines, plus particulièrement les sorts, possèdent plutôt des effets de zone, ce qui signifie qu'elles peuvent toucher toutes les créatures et tous les objets situés dans la zone en question (voir [Zones](#zones)).
 
 Les effets utilisent souvent les règles qui suivent.
-
-* Liste pour toc
-{:toc}
 
 ### Durée
 

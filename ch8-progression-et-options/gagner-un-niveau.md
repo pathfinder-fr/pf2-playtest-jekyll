@@ -1,7 +1,6 @@
 ---
 title: "Gagner un niveau"
 source: "Playtest Pathfinder"
-layout: default
 ---
 
 Le monde de Pathfinder est un endroit dangereux et votre personnage devra face à des créatures terrifiantes et à des pièges mortels au cours de sa quête pour devenir légendaire. Chaque défi résolu lui rapportera des Points d'expérience (XP) qui lui permettront de monter de niveau. Chaque niveau gagné lui donne des compétences plus poussées, une durabilité accrue et de nouvelles capacités, ce qui lui permet d'affronter des obstacles encore toujours plus grands et ainsi mettre la main sur des récompenses de plus en plus importantes.

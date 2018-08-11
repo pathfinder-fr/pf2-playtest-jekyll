@@ -1,7 +1,7 @@
 ---
 title: "Les afflictions"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 
 index:
   - key: afflictions
@@ -21,9 +21,6 @@ index:
 Les maladies, les gaz, les poisons et les venins sont divers types d'afflictions, tout comme certains objets alchimiques, certaines malédictions et d'autres effets encore. Une affliction peut infecter une créature pendant une longue période et passer par différents stades souvent de plus en plus handicapants. Le niveau d'une affliction est le niveau du monstre ou de l'objet qui cause l'affliction ou, dans le cas d'un sort, la valeur citée dans la description de l'affliction inclue dans celle du sort.
 
 Une affliction est décrite par les éléments suivants.
-
-* Liste pour toc
-{:toc}
 
 ## Nom et type
 

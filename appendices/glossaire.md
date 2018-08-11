@@ -1,14 +1,10 @@
 ---
 title: "Glossaire"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 Voici une liste reprenant certain des termes les plus courants du jeu, leurs abréviations ou synonymes et de brèves explications de leur signification.
-
-* Liste pour toc
-{:toc}
-
 
 #### Accroissement de caractéristique
 Un accroissement de caractéristique vous permet d'augmenter l'une de vos valeurs de caractéristiques. Quand vous gagnez un accroissement de caractéristique, vous augmentez l'une de vos valeurs de caractéristiques de 2, ou de 1 si la valeur était supérieure ou égale à 18. Vous gagnez plusieurs accroissements de caractéristiques lors de la création de personnage ainsi qu'aux niveaux 5, 10, 15 et 20. Certains accroissements de caractéristiques doivent être cibler une caractéristique spécifique alors que d'autres peuvent être utilisés là où vous voulez. Voir [Valeurs des caractéristiques](/ch1-généralités/valeurs-des-caractéristiques.html).

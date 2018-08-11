@@ -1,13 +1,10 @@
 ---
 title: "Mouvement et positionnement"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 Que ce soit pour progresser sur le champ de bataille, pour traverser les rues bondées d'une ville ou sillonner les corridors d'un donjon dangereux, votre mouvement et votre position déterminent comment vous pouvez interagir avec le monde. Les déplacements en mode "exploration" ou "temps libre" sont relativement libres et régis par peu de règles. Par contre, les [mouvements en mode "rencontres"](mouvement-et-positionnement.html#mouvement-en-mode-rencontres) sont déterminés par un certain nombre de règles précises.
-
-* Liste pour toc
-{:toc}
 
 ## Types de mouvements
 

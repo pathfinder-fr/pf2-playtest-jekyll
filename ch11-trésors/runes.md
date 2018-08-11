@@ -1,7 +1,7 @@
 ---
 title: "Les runes"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 Voir également la [liste des runes](liste-des-runes.html)
@@ -27,9 +27,6 @@ Un objet incrusté de runes est généralement nommé en fonction de son type, p
 Les armes et amures magiques possèdent le même Encombrement et les mêmes caractéristiques générales que la version non magique de même qualité, sauf mention contraire.
 
 Le niveau d'un objet incrusté de runes est égal au niveau le plus élevé entre celui de l'objet de base et celui des runes qu'il porte. Ainsi, une *masse +1* (niveau 4) avec une *rune de destruction des morts-vivants* (niveau 5) serait un objet de niveau 5
-
-* Liste pour toc
-{:toc}
 
 ## Le processus d'incrustation
 

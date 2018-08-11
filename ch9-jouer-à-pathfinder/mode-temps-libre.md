@@ -1,17 +1,12 @@
 ---
 title: "Mode \"temps libre\""
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 Le mode "temps libre" se joue jour par jour plutôt que minute par minute. Généralement, ce mode de jeu est utilisé quand vous êtes à l'abri dans une ville, que vous récupérez sans doute de vos dernières aventures ou que vous étudiez un artefact que vous avez trouvé. Le temps libre vous donne l'occasion de vous reposer complètement, ce qui donne des avantages plus importants que la guérison dont vous pourriez profiter sur la route, ou de vous lancer dans l'artisanat ou une autre profession, d'apprendre de nouveaux sorts, de réentraîner des dons, d'obtenir des informations ou tout simplement de prendre du bon temps le coeur léger voire même d'exerces des activités illégales.
 
 Vous pouvez prendre un jour entier de repos pendant votre temps libre et récupérer le double des Points de vie que vous récupéreriez normalement en vous reposant pendant une nuit. Si vous ne voulez pas payer pour la nourriture et le logement, vous pourriez profiter de votre temps libre pour subsister en rassemblant vous-mêmes les ressources nécessaires grâce à Survie (si vous êtes dans la nature) ou Société (si vous êtes en ville). Vous pouvez également vendre les objets récupérés au cours de vos aventures, acheter de nouvelles choses et réaliser d'autres activités correspondant à vos dons, vos compétences et à l'endroit où vous passez votre temps libre.
-
-
-* Liste pour toc
-{:toc}
-
 
 ## Réentraînement
 

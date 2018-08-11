@@ -2,15 +2,13 @@
 title: "Créer un personnage"
 source: "Playtest Pathfinder"
 layout: default
+toc: true
 index:
   - key: "personnage (création)"
     anchor: ""
   - key: "création de personnage"
     anchor: ""
 ---
-
-* Liste pour toc
-{:toc .float-right .ml-2}
 
 Quand vous vous apprêtez à faire une partie de Pathfinder en tant que joueur, la première chose que vous avez besoin de faire est de créer un personnage dont vous découvrirez les aventures durant le jeu. C'est à vous d'imaginer le passé de votre personnage, sa personnalité et sa manière de voir le monde car ces décisions formeront la base sur laquelle vous fonderez votre roleplay pendant la partie. Vous utiliserez les règles du jeu pour déterminer les capacités de départ de votre personnage et les talents spéciaux qu'il pourra utiliser en jeu.
 

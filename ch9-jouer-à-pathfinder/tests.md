@@ -1,13 +1,10 @@
 ---
 title: "Les tests"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 Le MJ vous demandera d'effectuer un test chaque fois que vous devez résoudre un conflit ou mettre à l'épreuve votre capacité à accomplir une tâche ou un défi spécifique. C'est par exemple le cas quand vous tentez d'attaquer une autre créature en combat, quand vous utilisez des compétences et quand vous résistez aux effets d'un sort dangereux qu'on a lancé sur vous. Les tests sont comparés au Degré de difficulté (DD) de la tâche ou du défi pour déterminer s'il s'agit d'une réussite ou d'un échec. Quand vous effectuez un test, vous suivez les étapes suivantes : lancer un d20 et identifier les modificateurs, bonus et pénalités qui s'appliquent au résultat du lancer ; puis comparer le résultat au DD ; et déterminer les effets.
-
-* Liste pour toc
-{:toc}
 
 ### 1) Identifier les modificateurs, bonus et pénalités
 

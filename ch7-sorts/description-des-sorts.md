@@ -1,7 +1,6 @@
 ---
 title: "Format de description des sorts"
 source: "Playtest Pathfinder"
-layout: default
 ---
 
 Les sorts utilisent le format suivant. Les indications n'apparaissent que si elles sont pertinentes, ainsi tous les sorts n'ont pas forcément chacune des indications présentées ci-dessous. Dans l'en-tête, les sortilèges portent l'indication "sortilège" au lieu de "sort" suivi d'un niveau, et les pouvoirs sont étiquetés en tant que "pouvoir" suivi de leur niveau minimum.

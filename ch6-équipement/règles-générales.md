@@ -1,7 +1,7 @@
 ---
 title: "Règles générales sur l'équipement"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 Pour laisser une trace de votre passage dans le monde, vous devrez tout d'abord bien vous équiper, avec par exemple une armure, des armes et de l'équipement divers. Ce chapitre présente les divers objets que vous pouvez acheter pendant la création de votre personnage ou, de manière plus générale, en visitant la plupart des villes et des communautés civilisées.
@@ -9,9 +9,6 @@ Pour laisser une trace de votre passage dans le monde, vous devrez tout d'abord 
 Votre personnage commence sa carrière avec 150 pièces d'argent (pa) qu'il peut dépenser pour se procurer les objets communs de ce chapitre. Les objets de rareté peu commune ne peuvent être achetés que si vous disposez d'un accès spécial ou que le MJ l'autorise. Si vous jouez un lanceur de sorts et que vous désirez acheter des objets magiques (comme des potions, des parchemins ou de l'eau bénite) ou un alchimiste et désirez acheter des objets alchimiques, votre MJ peut vous permettre de vous en procurer ; il vous dira quels objets vous pouvez choisir et combien ils coûtent.
 
 Après vos achats initiaux, il y a trois manières principales d'acquérir de nouveaux objets : vous pouvez les trouver au cours de vos aventures, les fabriquer avec la compétence d'Artisanat ou les acheter à un marchand.
-
-* Liste pour toc
-{:toc}
 
 ## Monnaie
 
