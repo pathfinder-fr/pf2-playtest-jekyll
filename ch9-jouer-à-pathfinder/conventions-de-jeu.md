@@ -1,7 +1,7 @@
 ---
 title: "Conventions de jeu"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 Quand vous interprétez les règles, utilisez les lignes directrices suivantes. Les exceptions à ces principes généraux apparaissent dans les règles quand c'est nécessaire. Si vous hésitez quant à la manière d'appliquer une règle, la décision revient au MJ.

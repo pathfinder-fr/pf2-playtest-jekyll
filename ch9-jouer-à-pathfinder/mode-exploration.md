@@ -1,7 +1,7 @@
 ---
 title: "Mode \"exploration\""
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 Alors que les rencontres utilisent les rounds pour les combats et quelque chose de similaire au temps réel pour les rencontres sociales, l'exploration est plus libre. Le MJ détermine la vitesse à laquelle le temps passe pendant que vous pourriez chevaucher à travers des steppes désertes, voyager à bord d'un navire ou plonger dans les entrailles d'un donjon à la recherche de danger et de trésors. Pendant l'exploration, le danger n'est pas aussi clairement présent qu'en mode rencontre mais ce n'est pas pour autant qu'il n'y a aucun obstacle à surmonter.

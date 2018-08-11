@@ -1,7 +1,7 @@
 ---
 title: "Points héroïques"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 Votre personnage gagne des Points héroïques pour accomplir de hauts-faits héroïques et peut les dépenser pour gagner d'autres avantages. Votre personnage commence chaque session de jeu avec 1 Point héroïque. Le MJ peut attribuer des Points héroïques quand un PJ accomplit d'autres actes héroïques ou quand un joueur fait quelque chose de spécial pour le groupe. Dans le cas des actions des actions des personnages, tout dépend de l'histoire. Le personnage doit accomplir un acte plus désintéressé ou plus risqué que la normale. Les joueurs gagnent des Points héroïques en prenant en charge une responsabilité supplémentaire, comme amener de la nourriture pour le groupe, prendre des notes ou maintenir à jour la carte d'un donjon.

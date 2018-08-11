@@ -1,7 +1,7 @@
 ---
 title: "Les dégâts"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 Les attaques, les pièges et les dangers de l'environnement peuvent tous infliger des dégâts à un personnage. Les dégâts diminuent les Points de vie au taux de 1 Point de vie par point de dégât (ainsi, une créature qui subit 6 points de dégâts perd 6 Points de vie). Les dégâts peuvent être en quantité fixe ou en quantité déterminée par un lancer de dé. Un jet de dégâts s'exprime généralement à l'aide d'un nombre de dés et d'un type de dé déterminé par l'arme ou l'attaque sans arme utilisée ou encore le sort lancé. Les dégâts peuvent être modifiés par les immunités, les résistances et les faiblesses (voir [Immunités, faiblesses et résistances](#immunités-faiblesses-et-résistances) plus bas).

@@ -1,8 +1,5 @@
 ---
 title: "Gérer les modes de jeu"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
-
-* Liste pour toc
-{:toc}

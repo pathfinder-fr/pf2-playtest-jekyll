@@ -1,7 +1,7 @@
 ---
 title: "Les objets magiques"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 Les objets merveilleux de nature magique peuvent donner un avantage net aux PJ lorsqu'ils affrontent des monstres esclavagistes, des nobles rusés ou n'importe quel autre défi à leur courage. La section qui suit présentent les objets magiques disponibles pour les personnages de Pathfinder. Elle commence par présenter les règles indiquant comment utiliser les objets magiques pendant le jeu puis passe en revue les différents types d'objets magiques qu'on trouve dans Pathfinder : les armes et armures, les baguettes, les bâtons, les boucliers, les colifichets, les huiles et potions, les objets de puissance, les parchemins et les munitions.

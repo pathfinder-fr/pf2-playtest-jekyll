@@ -1,7 +1,7 @@
 ---
 title: "Points de vie et guérison"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 Toutes les créatures possèdent des Points de vie (pv ou PV). Votre valeur maximale de pv représente votre santé, votre motivation à accomplir des choses et votre élan héroïque lorsque vous êtes en pleine santé et bien reposé. Vos pv maximaux incluent les Points de vie gagnés au niveau 1 grâce à votre race et à votre classe, ceux que vous gagnez aux niveaux après le premier grâce à votre classe ainsi que ceux que vous obtenez grâce à d'autres sources (comme le don général [Robustesse](../donsgeneraux/robustesse.html)). Quand vous recevez des dégâts, vous réduisez vos Points de vie actuels d'un nombre égal au nombre de dégâts reçus.

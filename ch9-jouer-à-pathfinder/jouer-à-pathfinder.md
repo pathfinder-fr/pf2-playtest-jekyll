@@ -1,7 +1,7 @@
 ---
 title: "Jouer à Pathfinder"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 

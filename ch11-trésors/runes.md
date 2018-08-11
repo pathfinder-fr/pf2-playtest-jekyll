@@ -1,7 +1,7 @@
 ---
 title: "Les runes"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 Voir également la [liste des runes](liste-des-runes.html)

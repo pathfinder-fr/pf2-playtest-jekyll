@@ -1,9 +1,5 @@
 ---
 title: "Les objets magiques"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
-
-
-* Liste pour toc
-{:toc}

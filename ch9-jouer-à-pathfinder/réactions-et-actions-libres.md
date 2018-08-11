@@ -1,7 +1,7 @@
 ---
 title: "Réactions et actions libres"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 En réponse à certains événements, vous pouvez utiliser des réactions et des actions libres. Chaque réaction ou action libre cite un déclencheur qui doit se produire pour que vous puissiez réaliser l'action libre ou la réaction. Quand le déclencheur se produit, vous pouvez utiliser l'action libre ou la réaction pour autant que rien ne vous en empêche. Vous n'êtes pas obligé d'utiliser l'action libre ou la réaction si vous ne le désirez pas. Les actions libres et réactions que tout le monde peut utiliser sont bien moins nombreuses que les actions de base. Votre classe, vos dons et vos objets magiques peuvent vous permettre d'utiliser des réactions et actions libres spécifiques.

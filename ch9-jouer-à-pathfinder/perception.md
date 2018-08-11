@@ -1,7 +1,7 @@
 ---
 title: "Perception"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 La Perception mesure votre capacité à remarquer des choses, à déceler ce qui est caché et à déterminer si quelque chose "cloche" dans une situation donnée. Cette valeur numérique est fréquemment utilisée pour obtenir l'initiative et ainsi déterminer qui agit en premier dans une rencontre, ainsi que pour l'action Recherche.

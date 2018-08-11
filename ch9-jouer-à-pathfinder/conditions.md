@@ -1,7 +1,7 @@
 ---
 title: "Les conditions"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 Au cours des aventures, les personnages (et parfois leurs possessions) sont affectés par des capacités et des effets qui changent la condition dans laquelle ils se trouvent d'une manière ou d'une autre. Vous pourriez par exemple être tenaillé par la peur, ou accéléré par un sort ou un objet magique. Une condition représente ce qui se produit quand une créature parvient à drainer votre sang ou votre énergie vitale, alors que d'autres représentent les attitudes des créatures envers vous et comment elles interagissent avec vous.

@@ -1,7 +1,7 @@
 ---
 title: "Mode \"rencontres\""
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 Quand chaque action compte, vous entrez dans le mode de jeu "rencontres". Dans ce mode, vous avez des tours au cours desquels vous pouvez utiliser des actions. Votre tour avec le tour de tous les autres intervenants, forme un round. Un round représente 6 secondes dans le monde de jeu. Selon les détails de la rencontre, vous pourriez avoir l'occasion d'utiliser des réactions et des actions libres, tant pendant votre tour que pendant celui des autres.

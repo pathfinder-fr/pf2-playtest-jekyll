@@ -1,7 +1,7 @@
 ---
 title: "Les effets"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 Quand vous utilisez une action, réaction ou action libre ou que vous vous lancez dans une activité, vous le faites dans le but de causer un effet. Les effets indiquent comment vous interagissez avec le monde de jeu et le modifiez. Souvent, il suffit de réaliser une action ou de terminer une activité pour engendrer un effet. Par exemple, si vous utilisez l'action de Déplacement, l'effet est que vous vous déplacez de votre Vitesse. Dans d'autres cas, vous devez lancer des dés pour déterminer l'effet que vous causez.

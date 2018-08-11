@@ -1,7 +1,7 @@
 ---
 title: "Les afflictions"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 
 index:
   - key: afflictions
