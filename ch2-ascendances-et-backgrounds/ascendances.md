@@ -1,5 +1,5 @@
 ---
-title: "Ascendances"
+title: "Les ascendances"
 source: "Playtest Pathfinder"
 layout: default
 toc: true
@@ -8,7 +8,7 @@ index:
     anchor: ""
 ---
 
-L'héritage reçu par votre personnage détermine à quel peuple il appartient, parmi tous ceux qui habitent le monde de jeu, qu'il s'agisse des humains caractérisés par leur diversité, des elfes insulaires mais dynamiques, des nains traditionnalistes pour qui la famille a une énorme importance ou d'un des nombreux autres groupes qui y vivent. Cet héritage, ainsi que ses expériences de jeunesse, peuvent être des éléments clefs de son identité, et ils ont très probablement influncé la manière dont il considère le monde et y trouve sa place.
+L'héritage reçu par votre personnage détermine à quel peuple il appartient, parmi tous ceux qui habitent le monde de jeu, qu'il s'agisse des humains caractérisés par leur diversité, des elfes aux idées bien arrêtées mais dynamiques, des nains traditionnalistes pour qui la famille a une énorme importance ou d'un des nombreux autres groupes qui y vivent. Cet héritage, ainsi que ses expériences de jeunesse, peuvent être des éléments clefs de son identité qui ont très probablement influencé la manière dont il considère le monde et dont il y trouve sa place.
 
 Les ascendances de personnage joueur présentées ici sont les nains, les elfes, les gnomes, le gobelins, les halflings et les humains (y compris les groupes de demi-humains que sont les demi-elfes et les demi-orques).
 
@@ -56,11 +56,11 @@ Il s'agit des langages que les membres de l'ascendance de votre personnage parle
 
 #### Traits
 
-Il s'agit des indicateurs mécaniques, appelés traits, qui s'appliquent à tous les membres de votre ascendance. Les traits que votre personnage gagne grâce à son ascendance ne lui confèrent généralement aucun avantage tachnique mais ils sont important pour pouvoir déterminer comment certains sorts, effets et autres éléments du jeu interagissent avec votre personnage. Voir [la liste des traits](/appendices/traits.html).
+Il s'agit des indicateurs mécaniques, appelés traits, qui s'appliquent à tous les membres de votre ascendance. Les traits que votre personnage gagne grâce à son ascendance ne lui confèrent généralement aucun avantage technique mais ils sont importants pour pouvoir déterminer comment certains sorts, effets et autres éléments du jeu interagissent avec votre personnage. Voir [la liste des traits](/appendices/traits.html).
 
 #### Qualités spéciales
 
-Cette section présente les capacités, spécificités, sens et autres qualités spéciales que les membres de votre ascendance possèdent. Certaines ascendance n'ont aucune qualité spéciale ; dans ce cas-là, cette section est omise.
+Cette section présente les capacités, spécificités, sens et autres qualités spéciales que les membres de votre ascendance possèdent. Certaines ascendances n'ont aucune qualité spéciale ; dans ce cas-là, cette section est omise.
 
 #### Note sur les demi-elfes et demi-orques
 
@@ -68,17 +68,17 @@ Pour jouer un demi-elfe ou un demi-orque, vous devez construire votre personnage
 
 ### Dons d'ascendance
 
-Cette section présente les dons d'ascendance, qui vous permettent de personnaliser votre personnage. Vous gagnez le premier don d'ascendance qu niveau 1, puis d'autres aux niveaux 5, 19, 13 et 17, comme indiqué sur les tables de progression dans chacune des descriptions des classes.
+Cette section présente les dons d'ascendance, qui vous permettent de personnaliser votre personnage. Vous gagnez le premier don d'ascendance au niveau 1, puis d'autres aux niveaux 5, 9, 13 et 17, comme indiqué sur les tables de progression dans chacune des descriptions des classes.
 
-Certains dons sont marqués de symboles qui indiquent comment vous pouvez les utiliser pendant le jeu. Les règles concernant les actions, activités, actions libres et réactions peuvent être trouvées sur les pages [Actions et activités](/ch9-jouer-à-pathfinder/actions-et-activités.html) et [Réactions et actions libres](/ch9-réactions-et-actions-libres.html).
+Certains dons sont marqués de symboles indiquant comment vous pouvez les utiliser pendant le jeu. Les règles concernant les actions, activités, actions libres et réactions peuvent être trouvées sur les pages [Actions et activités](/ch9-jouer-à-pathfinder/actions-et-activités.html) et [Réactions et actions libres](/ch9-réactions-et-actions-libres.html).
 
-Les dons d'ascendance portent un nombre sur la même ligne que leur nom. Ce nombre indique le niveau minimal que votre personnage doit avoir atteint pour pouvoir choisir le don en question. Dans la plupart des cas, les dons d'ascendance portent la mention "Don 1", ce qui signifie que votre personnage peut les choisir au niveau 1 ou à n'importe quel autre niveau où vous gagnez un don d'ascendance. Certains dons d'ascendance précisent également des prérequis ; il s'agit de conditions supplémentaires que votre personnage doit remplir pour pouvoir choisir le don en question.
+Les dons d'ascendance portent un nombre sur la même ligne que leur nom. Ce nombre indique le niveau minimal que votre personnage doit avoir atteint pour pouvoir choisir le don en question. Dans la plupart des cas, les dons d'ascendance portent la mention "Don 1", ce qui signifie que votre personnage peut les choisir au niveau 1 ou à n'importe quel autre niveau vous donnant accès à un don d'ascendance. Certains dons d'ascendance précisent également des prérequis ; il s'agit de conditions supplémentaires que votre personnage doit remplir pour pouvoir choisir le don en question.
 
 Tous les dons d'ascendance possèdent un trait qui indique à quelle ascendance ils se rapportent.
 
 #### Dons d'héritage
 
-Les dons d'ascendance qui portent le trait "héritage" sont des dons que votre personnage ne peut choisir qu'auç niveau 1. Contrairement aux autres dons, il ne peut pas se réentraîner pour remplacer un don d'héritage choisi au niveau 1 ni en apprendre un nouveau plus tard. Votre personnage ne peut jamais avoir plus d'un seul don d'héritage.
+Les dons d'ascendance qui portent le trait "héritage" sont des dons que votre personnage ne peut choisir qu'au niveau 1. Contrairement aux autres dons, il ne peut pas se réentraîner pour remplacer un don d'héritage choisi au niveau 1 ni en apprendre un nouveau plus tard. Votre personnage ne peut jamais avoir plus d'un seul don d'héritage.
 
 ### Aventuriers
 

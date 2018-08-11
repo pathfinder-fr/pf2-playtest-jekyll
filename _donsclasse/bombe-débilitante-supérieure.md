@@ -15,7 +15,7 @@ rarity: C
 
 traits:
   - alchimiste
-prerequisites: Bombe débilitante
+prerequisites: "[Bombe débilitante](/donsclasse/bombe-débilitante.html)"
 frequency: 
 cost:
 trigger: 

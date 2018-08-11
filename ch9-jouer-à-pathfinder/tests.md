@@ -1,5 +1,5 @@
 ---
-title: "Les tests"
+title: "Tests"
 source: "Playtest Pathfinder"
 toc: true
 ---

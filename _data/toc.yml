@@ -19,15 +19,15 @@
 - title: Ascendances et backgrounds
   items:
     - url: /ch2-ascendances-et-backgrounds/ascendances.html
-      title: Ascendances
+      title: Les ascendances
     - url: /ch2-ascendances-et-backgrounds/liste-des-ascendances.html
       title: Liste des ascendances
     - url: /ch2-ascendances-et-backgrounds/liste-des-dons-ascendance.html
       title: Liste des dons d'ascendance
     - url: /ch2-ascendances-et-backgrounds/backgrounds.html
-      title: Backgrounds
+      title: Les backgrounds
     - url: /ch2-ascendances-et-backgrounds/langages.html
-      title: Langages
+      title: Les langages
 
 # Chapitre 3 : Classes
 
@@ -103,7 +103,7 @@
 - title: Sorts
   items:
     - url: /ch7-sorts/sorts.html
-      title: Sorts
+      title: Règles sur la magie
     - url: /ch7-sorts/types-de-sorts.html
       title: Types de sorts
     - url: /ch7-sorts/traditions-écoles-traits.html
@@ -124,7 +124,7 @@
     - url: /ch8-progression-et-options/gagner-un-niveau.html
       title: Gagner un niveau
     - url: /ch8-progression-et-options/archétypes.html
-      title: Archétypes
+      title: Les archétypes
     - url: /ch8-progression-et-options/compagnons-animaux.html
       title: Compagnons animaux et familiers
     - url: /ch8-progression-et-options/divinités.html
@@ -137,9 +137,9 @@
     - url: /ch9-jouer-à-pathfinder/jouer-à-pathfinder.html
       title: Jouer à Pathfinder
     - url: /ch9-jouer-à-pathfinder/tests.html
-      title: Les tests
+      title: Tests
     - url: /ch9-jouer-à-pathfinder/dégâts.html
-      title: Les dégâts
+      title: Dégâts
     - url: /ch9-jouer-à-pathfinder/points-de-vie-et-guérison.html
       title: Points de vie et guérison
     - url: /ch9-jouer-à-pathfinder/actions-et-activités.html
@@ -147,7 +147,13 @@
     - url: /ch9-jouer-à-pathfinder/réactions-et-actions-libres.html
       title: Réactions et actions libres
     - url: /ch9-jouer-à-pathfinder/effets.html
-      title: Les effets
+      title: Effets
+    - url: /ch9-jouer-à-pathfinder/conventions-de-jeu.md
+      title: Conventions de jeu
+    - url: /ch9-jouer-à-pathfinder/points-héroïques.md
+      title: Points héroïques
+    - url: /ch9-jouer-à-pathfinder/perception.md
+      title: Perception
     - url: /ch9-jouer-à-pathfinder/mode-rencontres.html
       title: Mode "rencontres"
     - url: /ch9-jouer-à-pathfinder/actions-de-base.html
@@ -161,11 +167,11 @@
     - url: /ch9-jouer-à-pathfinder/mode-temps-libre.html
       title: Mode "temps libre"
     - url: /ch9-jouer-à-pathfinder/conditions.html
-      title: Les conditions
+      title: Conditions
     - url: /ch9-jouer-à-pathfinder/liste-des-conditions.html
       title: Liste des conditions
     - url: /ch9-jouer-à-pathfinder/afflictions.html
-      title: Les afflictions
+      title: Afflictions
 
 # Chapitre 10 : Maîtriser à Pathfinder
 

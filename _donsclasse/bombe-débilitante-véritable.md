@@ -15,7 +15,7 @@ rarity: C
 
 traits:
   - alchimiste
-prerequisites: Bombe débilitante supérieure
+prerequisites: "[Bombe débilitante supérieure](/donsclasse/bombe-débilitante-supérieure.html)"
 frequency: 
 cost:
 trigger: 
