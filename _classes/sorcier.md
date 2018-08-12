@@ -192,10 +192,6 @@ Quand vous gagnez de nouveaux sorts dans votre répertoire, vous pourriez avoir 
 
 Au niveau 2 et tous les 2 niveaux par la suite, vous gagnez un nouveau don de compétence, c'est-à-dire un don qui porte le trait compétence. Vous devez être entraîné (au moins) dans la compétence correspondante au don de compétence que vous choisissez.
 
-### Dons de sorcier
-
-Au niveau 2, vous gagnez un don de classe de sorcier. Vous en gagnez un autre aux niveaux 4, 8, 14, 18 et 20.
-
 ### Dons généraux
 
 Au niveau 3 et toutes les 4 niveaux par la suite, vous gagnez un don général.
@@ -328,3 +324,7 @@ Les anciens mortels maîtrisaient les traditions magiques et l'un de vos distant
 **Sorts octroyés** Sortilège : *détection de la magie*, 1 : *peur*, 2 : *invisibilité*, 3 : *dissipation de la magie*, 4 : *porte dimensionnelle*, 5 : *oeil magique*, 6 : *téléportation*, 7 : *rayons prismatiques*, 8 : *mot de pouvoir étourdissant*, 9 : *sphère prismatique*
 
 **Pouvoirs de lignage** Pouvoir initial : *pouvoir des anciens*; Pouvoir avancé : *raccourci du métamagicien* (2) ; Pouvoir supérieur : *contre-mesures arcaniques* (2)
+
+### Dons de sorcier
+
+Au niveau 2, vous gagnez un don de classe de sorcier. Vous en gagnez un autre aux niveaux 4, 8, 14, 18 et 20.

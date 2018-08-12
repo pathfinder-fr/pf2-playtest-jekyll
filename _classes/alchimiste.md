@@ -159,11 +159,6 @@ Vous apprenez ces formules automatiquement, mais il est également possible de t
 Vos connaissances, plus que votre personnalité, alimente la façon dont vous interagissez avec les substances et les dispositifs alchimiques et magiques.
 Le nombre maximal de vos Points de résonance est égal à votre niveau plus votre modificateur d'Intelligence (au lieu de votre modificateur de Charisme).
 
-### Dons d'alchimiste
-
-Au niveau 1 et à chaque niveau pair ensuite, vous obtenez un don de classe alchimiste.
-Les dons de classe alchimiste sont décrits à partir de la page <mark>48</mark>.
-
 ### Dons de compétence
 
 Aux niveaux pairs, vous gagnez un don de compétence.
@@ -226,3 +221,7 @@ Ces objets ne doivent pas être nécessairement les mêmes.
 
 Lorsque vous utilisez Alchimie rapide, vous pouvez dépenser jusqu'à 3 Points de résonance pour créer 3 objects alchimiques (1 par Point) comme décrit dans Alchimie rapide.
 Ces objets ne doivent pas être nécessairement les mêmes.
+
+### Dons d'alchimiste
+
+Au niveau 1 et à chaque niveau pair ensuite, vous obtenez un don de classe alchimiste.

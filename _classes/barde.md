@@ -174,12 +174,12 @@ Certains dons de barde vous permettent d’apprendre plus de pouvoirs de composi
 
 ### Muses
 En tant que barde, vous avez une muse qui vous guide pour accomplir de grandes choses. Elle peut être une créature physique, une divinité, une philosophie ou quelque chose de plus nébuleux. Bien qu'il y ait presque autant de muses différentes que de bardes, les muses accordent un nombre limité de capacités différentes aux bardes en fonction de leur thème.
-**Savoir** Votre muse vous pousse à découvrir les secrets cachés du multivers. Vous gagnez le don Savoir bardique et ajoutez *True strike* à votre répertoire de sorts.
-**Maestro** Votre muse vous inspire vers des performances toujours plus élevées. Vous gagnez le don de Composition persistante et ajouter "Soothe" votre répertoire de sorts.
-**Esprit universel** Votre muse papillone entre toutes les compétences. Vous obtenez le don Représentation polyvalente et ajoutez *convocation de monstre* à votre répertoire de sorts.
 
-### Dons de barde
-Au niveau 2, vous gagnez un don de classe de barde. Vous en gagnez un autre aux niveaux 4, 6, 8, 10, 14, 18 et 20.
+**Savoir** Votre muse vous pousse à découvrir les secrets cachés du multivers. Vous gagnez le don Savoir bardique et ajoutez *True strike* à votre répertoire de sorts.
+
+**Maestro** Votre muse vous inspire vers des performances toujours plus élevées. Vous gagnez le don de Composition persistante et ajouter "Soothe" votre répertoire de sorts.
+
+**Esprit universel** Votre muse papillone entre toutes les compétences. Vous obtenez le don Représentation polyvalente et ajoutez *convocation de monstre* à votre répertoire de sorts.
 
 ### Dons de compétence
 Aux niveaux pairs, vous gagnez un don de compétence. Les dons de compétence se trouvent dans le Chapitre <mark>5</mark> et possèdent le trait compétence. Vous devez être au minimum entrainé dans la compétence correspondante pour pouvoir sélectionner un don de compétence.
@@ -211,3 +211,6 @@ Votre degré de formation pour les jets de sorts, DD de sorts et jets d'attaque 
 
 ### Lanceur de sorts légendaire
 Votre degré de formation pour les jets de sorts, DD de sorts et jets d'attaque pour les sorts occultes devient Légendaire.
+
+### Dons de barde
+Au niveau 2, vous gagnez un don de classe de barde. Vous en gagnez un autre aux niveaux 4, 6, 8, 10, 14, 18 et 20.

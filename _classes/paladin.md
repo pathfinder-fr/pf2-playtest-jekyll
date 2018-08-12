@@ -169,9 +169,6 @@ Les pouvoirs de champions sont seulement disponibles pour les paladins, et ne pe
 
 Vous gagnez la capacité de lancer le pouvoir de champion *imposition des mains* en dépensant 1 Point de magie.
 
-### Dons de paladin
-Au niveau 1 et à chaque niveau pair ensuite, vous obtenez un don de classe paladin. Les dons de classe paladin sont décrits à partir de la page <mark>48</mark>.
-
 ### Dons de compétence
 Aux niveaux pairs, vous gagnez un don de compétence. Les dons de compétence se trouvent dans le Chapitre <mark>5</mark> et possèdent le trait compétence. Vous devez être au minimum entrainé dans la compétence correspondante pour pouvoir sélectionner un don de compétence.
 
@@ -223,3 +220,6 @@ Votre formation en armures lourdes et boucliers augmente jusqu’à légendaire,
 
 ### Défi du héros
 Vous gagnez le pouvoir de défier la mort et de continuer le combat tant que vous possédez de l'énergie divine. Vous gagnez le pouvoir de champion *défi du héros*, que vous pouvez lancer en dépensant 2 Points de magie. Augmentez votre réserve de Points de magie de 2.
+
+### Dons de paladin
+Au niveau 1 et à chaque niveau pair ensuite, vous obtenez un don de classe paladin. Les dons de classe paladin sont décrits à partir de la page <mark>48</mark>.
