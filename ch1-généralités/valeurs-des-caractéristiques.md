@@ -1,7 +1,7 @@
 ---
 title: "Valeurs des caractéristiques"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 
 index:
   - key: "valeurs des caractéristiques"
@@ -26,11 +26,7 @@ index:
     anchor: "diminution-de-caractéristique"
   - key: "valeurs des caractéristiques (les déterminer)"
     anchor: "instructions-pas-à-pas"
-
 ---
-
-* Liste pour toc
-{:toc .float-right .ml-2}
 
 Votre personnage possède 6 valeurs de caractéristiques qui représentent ses attributs de base et son potentiel brut : la Force, la Dextérité, la Constitution, l'Intelligence, la Sagesse et le Charisme. Ces valeurs influencent chacune différents aspects des capacités de votre personnage. En progressant dans l'histoire et en gagnant des niveaux, votre personnage gagne des accroissements de caractéristiques qui améliorent ses valeurs de caractéristiques et vous permettent de décider comment les expériences qu'il a vécues ont développé ses talents de base.
 
@@ -40,7 +36,7 @@ Vos six valeurs de caractéristiques forment deux grands groupes : les caractér
 
 ### La Force
 
-La Force mesure la puissance physique de votre personnage. Elle est importante si votre personnage compte s'engager au combat rapproché appelé corps à corps. Les guerriers, les moines, les paladins et les rôdeurs ont besoin d'une valeur de Force élevée. La Force détermine également l'Encombrement que votre personnage peut transporter.
+La Force mesure la puissance physique de votre personnage. Elle est importante si votre personnage compte s'engager au combat rapproché, appelé corps à corps. Les guerriers, les moines, les paladins et les rôdeurs ont besoin d'une valeur de Force élevée. La Force détermine également l'Encombrement que votre personnage peut transporter.
 
 ### La Dextérité
 
@@ -56,35 +52,35 @@ L'Intelligence mesure la facilité avec laquelle votre personnage apprend et rai
 
 ### La Sagesse
 
-La Sagesse mesure le bon sens, l'éveil et l'intuition de votre personnage. Elle vous aide à comprendre la religion et la nature et est cruciale pour les prêtres et les druides. Une valeur de Sagesse élevée peut aider votre personnage à se libérer de sorts et effets mentaux. De plus, la Sagesse influence le modificateur de Perception de votre personnage, qui mesure à quel point il observe et identifie les menaces et les étrangetés dans son environnement.
+La Sagesse mesure le bon sens, l'éveil et l'intuition de votre personnage. Elle vous aide à comprendre la religion et la nature et est cruciale pour les prêtres et les druides. Une valeur de Sagesse élevée peut aider votre personnage à se libérer de sorts et effets mentaux. De plus, la Sagesse influence le modificateur de Perception de votre personnage, qui mesure à quel point il observe et identifie les menaces et les éléments étranges dans son environnement.
 
 ### Le Charisme
 
-Cette valeur mesure la force de personnalité et le magnétisme de votre personnage ainsi que sa capacité à influencer les pensées et les humeurs des autres. Le Charisme est une caractéristique importante pour les bardes et les sorciers, qui est également utile aux prêtres et aux paladins. Le Charisme détermine également le nombre de Points de résonance que votre personnage possède.
+Cette valeur mesure la force de personnalité et le magnétisme de votre personnage ainsi que sa capacité à influencer les pensées et les humeurs des autres. Le Charisme est une caractéristique importante pour les bardes et les sorciers, et est également utile aux prêtres et aux paladins. Le Charisme détermine également le nombre de Points de résonance que votre personnage possède.
 
 ## Déterminer les valeurs des caractéristiques
 
-Quand vous êtes prêt à calculer les valeurs de caractéristiques de votre personnage, suivez les étapes ci-dessous. Les valeurs de caractéristiques de votre personnage commencent toutes à 10. Appliquez ensuite les accroissements et diminution de caractéristiques qu'il reçoit de son ascendance, de son background et de sa classe, ainsi que quatre accroissements de caractéristiques libres qu'il reçoit au niveau 1. Ce processus vous permet de particulariser votre personnage selon vos préférences.
+Quand vous êtes prêt à calculer les valeurs des caractéristiques de votre personnage, suivez les étapes ci-dessous. Les valeurs des caractéristiques de votre personnage commencent toutes à 10. Appliquez ensuite les accroissements et diminution de caractéristiques qu'il reçoit de son ascendance, de son background et de sa classe, ainsi que quatre accroissements de caractéristiques libres qu'il reçoit au niveau 1. Ce processus vous permet de particulariser votre personnage selon vos préférences.
 
 ### Accroissements de caractéristiques
 
-Un accroissement de caractéristique est une augmentation à appliquer à une valeur de caractéristique. Généralement, une augmentation de caractéristique augmente une valeur de caractéristique de 2. Cependant, si la valeur de caractéristique à laquelle il s'applique est de 18 ou plus, sa valeur n'augmente que de 1. Au niveau 1, un personnage ne peut jamais avoir de valeur de caractéristique supérieure à 18.
+Un accroissement de caractéristique est une augmentation à appliquer à la valeur d'une caractéristique. Généralement, un accroissement de caractéristique permet d'augmenter sa valeur de 2. Cependant, si la valeur de cette caractéristique est de 18 ou plus, sa valeur n'augmente que de 1. Au niveau 1, un personnage ne peut jamais avoir de valeur de caractéristique supérieure à 18.
 
 Quand votre personnage reçoit un accroissement de caractéristique, les règles précisent s'il doit être appliqué à une caractéristique particulière ou à une caractéristique choisie entre deux options données ou s'il s'agit d'un accroissement "libre" qui peut être appliqué à n'importe quelle caractéristique. Quand vous gagnez plusieurs accroissements de caractéristiques en une seule fois, vous devez appliquer chacun d'entre eux à une caractéristique différente. Ainsi, par exemple, si votre personnage est un nain, il reçoit un accroissement de caractéristique en Constitution, un accroissement de caractéristique en Sagesse et un autre accroissement de caractéristique libre qui peut être appliqué à n'importe quelle caractéristique autre que Constitution et Sagesse.
 
-Quand votre personnage atteint les niveaux 5, 10, 15 et 20, il reçoit des accroissements de caractéristiques dans quatre caractéristiques différentes. Ceux-ci fonctionnent de la même manière que les accroissements reçus au niveau 1 mais il peut les utiliser pour faire monter ses valeurs de caractéristiques au-delà de 18. Rappelez-vous qu'une fois qu'une valeur de caractéristique vaut 18 ou plus, un accroissement de caractéristique n'augmente plus sa valeur que de 1.
+Quand votre personnage atteint les niveaux 5, 10, 15 et 20, il reçoit des accroissements de caractéristiques dans quatre caractéristiques différentes. Ceux-ci fonctionnent de la même manière que les accroissements reçus au niveau 1 mais il peut les utiliser pour faire monter ses valeurs de caractéristiques au-delà de 18. Rappelez-vous que, dès qu'une valeur de caractéristique vaut 18 ou plus, un accroissement de caractéristique n'augmente plus sa valeur que de 1.
 
-### Diminution de caractéristique
+### Diminutions de caractéristiques
 
-Les diminutions de caractéristiques ne sont pas aussi courantes à Pathfinder que les accroissements de caractéristiques. Si votre personnage a une diminution de caractéristique (sans doute pour son ascendance), cela signifie qu'il diminue une valeur de caractéristique de 2 points.
+Les diminutions de caractéristiques ne sont pas aussi courantes à Pathfinder que les accroissements de caractéristiques. Si votre personnage a une diminution de caractéristique (sans doute dûe à son ascendance), cela signifie qu'il diminue une valeur de caractéristique de 2 points.
 
 ### Option : défauts volontaires
 
-De temps en temps, c'est amusant de jouer un personnage avec un défaut important même si vous ne choisissez pas une ascendance qui vous en donne automatiquement un. Si vous voulez réduire une des valeurs de caractéristiques de votre personnage jusqu'à un seuil inférieur à la valeur où elle commencerait normalement, c'est possible. Jouer un barbare brutal avec une valeur d'Intelligence de 6 ou un magicien chétif avec une valeur de Constitution de 4 pourrait engendrer d'amusants moments de roleplay. Cependant, vous ne gagneriez aucun avantage en contrepartie de ces défauts. Faites attention à ne pas rendre vos valeurs de caractéristiques si basses que votre personnage ne peut plus suivre le groupe cependant !
+De temps en temps, c'est amusant de jouer un personnage avec un défaut important même si vous ne choisissez pas une ascendance qui vous en donne automatiquement un. Si vous voulez réduire une caractéristique à une valeur inférieure à sa valeur minimale d'après ces règles, c'est possible. Jouer un barbare brutal avec une valeur d'Intelligence de 6 ou un magicien chétif avec une valeur de Constitution de 4 pourrait engendrer d'amusants moments de roleplay. Cependant, vous ne gagneriez aucun avantage en contrepartie de ces défauts. Enfin, faites attention à ne pas diminuer les valeurs de vos caractéristiques à un point tel que votre personnage ne puisse plus suivre le groupe !
 
 ## Instructions pas à pas
 
-Les instructions qui suivent vous aideront à calculer vos valeurs de caractéristiques au niveau 1. Vous commencerez avec une valeur de 10 dans chaque caractéristique puis ajusterez ces nombres en fonction des accroissements et de la diminution de caractéristiques de l'ascendance de votre personnage. Viennent ensuite deux accroissements de caractéristiques pour son background et quatre accroissements de caractéristiques libres donnés au niveau 1. Finalement, il recevra un dernier accroissement de caractéristique à sa caractéristique principale grâce à sa classe. Après avoir déterminé tous ses accroissements de caractéristiques, notez les valeurs de caractéristiques obtenues sur votre feuille de personnage. Ces valeurs évolueront ensuite au fil des niveaux comme indiqué [précédemment](#accroissements-de-caractéristiques).
+Les instructions qui suivent vous aideront à calculer vos valeurs de caractéristiques au niveau 1. Vous commencerez avec une valeur de 10 dans chaque caractéristique puis ajusterez ces nombres en fonction des accroissements et de la diminution de caractéristiques de l'ascendance de votre personnage. Viennent ensuite deux accroissements de caractéristiques pour son background et quatre accroissements de caractéristiques libres donnés au niveau 1. Finalement, il recevra un dernier accroissement de caractéristique pour sa caractéristique principale grâce à sa classe. Après avoir déterminé tous ses accroissements de caractéristiques, notez les valeurs des caractéristiques obtenues sur votre feuille de personnage. Ces valeurs évolueront ensuite au fil des niveaux comme indiqué [précédemment](#accroissements-de-caractéristiques).
 
 ### Étape 1 : commencez avec 10
 
@@ -96,11 +92,11 @@ For 10, Dex 10, Con 10, Int 10, Sag 10, Cha 10
 
 Appliquez maintenant les accroissements de caractéristiques que l'ascendance de votre personnage lui donne. La plupart des ascendances donne deux accroissements de caractéristiques pour des caractéristiques imposées et un accroissement de caractéristique libre. Les humains constituent une exception : ils reçoivent uniquement deux accroissements de caractéristiques. Quand vous appliquez ces accroissements, gardez en tête qu'ils doivent cibler des caractéristiques différentes.
 
-Appliquez ensuite la diminution de caractéristique imposée par l'ascendance de votre personnage s'il y en a une. Une diminution de caractéristique diminue cette valeur de 2. Vous pouvez appliquer votre accroissement de caractéristique libre à la même caractéristique pour que sa valeur reste à 10.
+Appliquez ensuite la diminution de caractéristique imposée par l'ascendance de votre personnage s'il y en a une. Une diminution de caractéristique réduit cette valeur de 2. Vous pouvez appliquer votre accroissement de caractéristique libre à la même caractéristique pour que sa valeur reste à 10.
 
 Par exemple, disons que vous faites un personnage humain et que vous le destinez à la carrière de guerrier. Les humains reçoivent deux accroissements de caractéristiques libres. Comme vous voulez un guerrier capable de fracasser les crânes et d'accuser les coups, vous aurez besoin d'une bonne Force et d'une bonne Constitution. Souvenez-vous que vous ne pouvez pas appliquer plusieurs accroissements de caractéristiques à la même valeur de caractéristique : vous ne pourriez pas avoir une Force de 14 à ce moment-ci par exemple.
 
-Après l'étape de s'ascendance, vos valeurs de caractéristiques pourraient être les suivantes.
+Après l'étape de l'ascendance, vos valeurs de caractéristiques pourraient être les suivantes.
 
 For **12**, Dex 10, Con **12**, Int 10, Sag 10, Cha 10
 
@@ -126,11 +122,11 @@ Après avoir choisi l'ascendance et le background de votre personnage, vous disp
 
 Revenons au guerrier humain. Nous savons que vous voulez que votre guerrier soit fort ; vous décidez donc de dépenser l'un de ces accroissements de caractéristiques en Force. La Dextérité est également importante pour les défenses, donc vous en consacrez un à la Dextérité.  Vous voulez continuer à rendre votre guerrier robuste, donc un accroissement de caractéristique ira en Constitution. La Sagesse influence vos défenses contre la majorité des effets magiques mentaux et, comme un fort et robuste guerrier est la dernière personne que vous avez envie de voire contrôlée par un magicien maléfique, vous décidez d'utiliser votre dernier accroissement de caractéristique en Sagesse. Une fois les quatre accroissements de caractéristiques effectués, vos valeurs de caractéristiques pourraient ressembler à :
 
-For **16**, Dex **12**, Con **16**, Int 10, Sag 12, Cha 10
+For **16**, Dex **12**, Con **16**, Int 10, Sag **12**, Cha 10
 
 Examinons comment cette étape pourrait se dérouler pour le guerrier nain. Vous décidez que vous avez envie de jouer un personnage très peu charismatique, donc vous conservez le 8 en Charisme. Vous appliquez les accroissements de caractéristiques en Force, Dextérité, Constitution et Sagesse, tout comme pour le guerrier humain. Vos valeurs de caractéristiques deviendraient alors :
 
-For **16**, Dex **12**, Con **16**, Int 10, Sag **14**, Cha **8**
+For **16**, Dex **12**, Con **16**, Int 10, Sag **14**, Cha 8
 
 ### Étape 5 : un accroissement de caractéristique de la classe
 
@@ -174,11 +170,11 @@ La méthode standard pour déterminer les valeurs de caractéristiques décrite 
 
 ### Étape 1 : déterminez les valeurs de caractéristiques de base
 
-Lancez quatre dés à 6 faces (4d6) et éliminez le dé avec le plus petit résultat. Calculez la somme des trois résultats restants et notez-la sur un bout de papier. Répétez l'opération jusqu'à ce que vous ayez dix valeurs.
+Lancez quatre dés à 6 faces (4d6) et éliminez le dé avec le plus petit résultat. Calculez la somme des trois résultats restants et notez-la sur un bout de papier. Répétez l'opération jusqu'à ce que vous ayez six valeurs.
 
 ### Étape 2 : distribuez les valeurs entre les caractéristiques
 
-Choisissez les valeurs qui vont devenir chacune de vos valeurs de caractéristiques. Par exemple, supposons une fois encore que vous voulez créer un guerrier à la fois robuste et fort et que les dés aient donné les valeurs suivantes :
+Assignez chacune de ces valeurs à une de vos caractéristiques. Par exemple, supposons une fois encore que vous voulez créer un guerrier à la fois robuste et fort et que les dés aient donné les valeurs suivantes :
 
 17, 14, 13, 11, 9, 9
 
@@ -194,7 +190,7 @@ For 17, Dex **15**, Con 14, Int 9, Sag 11, Cha 9
 
 Le nain, quant à lui, obtiendrait deux accroissements de caractéristiques (au lieu de trois), qui doivent aller en Constitution et en Sagesse. Il ne reçoit pas d'accroissement de caractéristique libre mais doit tout de même réduire son Charisme de 2 points à cause de la diminution de caractéristique. Une fois ajustés, ses valeurs deviendraient :
 
-For 17, Dex 13, Con *16*, Int 9, Sag *13*, Cha *7*
+For 17, Dex 13, Con **16**, Int 9, Sag **13**, Cha **7**
 
 ### Étape 4 : Appliquez l'accroissement de caractéristique de votre background
 
@@ -204,11 +200,11 @@ For 17, Dex 15, Con **16**, Int 9, Sag 11, Cha 9
 
 Le paysan nain, quant à lui, aurait les scores suivants :
 
-For 17, Dex 13, Con *18*, Int 9, Sag 13, Cha 7
+For 17, Dex 13, Con **18**, Int 9, Sag 13, Cha 7
 
 ### Étape 5 : Notez vos valeurs de caractéristiques
 
-Avec la méthode aléatoire, vous ne recevez pas d'accroissements de caractéristiques libres ni d'accroissement de caractéristique provenant de la classe. Notez vos valeurs de caractéristiques ainsi que vos modificateurs, tout comme vous le feriez avec la méthode standard décrite ci-dessus.
+Avec la méthode aléatoire, vous ne recevez pas les accroissements de caractéristiques libres ni l'accroissement de caractéristique provenant de la classe. Notez vos valeurs de caractéristiques ainsi que vos modificateurs, tout comme vous le feriez avec la méthode standard décrite ci-dessus.
 
 ### Note : les 17 et les 18
 

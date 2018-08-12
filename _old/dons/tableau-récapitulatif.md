@@ -1,7 +1,6 @@
 ---
 title: Tableau récapitulatif des dons
 kind: table
-layout: default
 ---
 
 <table class="table">

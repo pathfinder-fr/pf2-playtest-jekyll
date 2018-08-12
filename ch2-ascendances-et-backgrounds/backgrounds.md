@@ -21,6 +21,9 @@ cols:
     attribute: trainedSkill
   - title: "Résumé"
     attribute: summary
+index:
+  - key: "backgrounds"
+    anchor: "backgrounds"
 ---
 
-XXX ajouter ici règles sur backgrounds XXX
+Les backgrounds vous permettent de personnaliser votre personnage en fonction de sa vie avant de devenir un aventurier. Le background de votre presonnage peut vous aider à en apprendre plus au sujet de sa personnalité (ou à la détailler) tout en suggérant le type de connaissances qui l'intéresse. Chaque background donne deux accroissements de caractéristiques, un don de compétence en bonus, et une formation dans une compétence de Savoir. Un personnage ne peut avoir qu'un seul background, qui est choisi au niveau 1 et ne peut plus être changé par la suite.

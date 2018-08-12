@@ -2,6 +2,7 @@
 title: Moine
 titleVO: Monk
 source: "Playtest Pathfinder"
+toc: true
 layout: classe
 
 #Partie propre aux classes

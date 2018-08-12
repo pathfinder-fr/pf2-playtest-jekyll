@@ -2,7 +2,6 @@
 title: Halfling
 titleEN: Halfling
 source: "Playtest Pathfinder"
-layout: ascendance
 
 #PARTIE PROPRE AUX ASCENDANCES
 
@@ -26,6 +25,10 @@ traits:
   - humanoïde
 qualities:
 ---
+
+{% include ancestry-summary.html %}
+
+
 *Ne revendiquant aucun endroit comme le leur, les halflings contrôlent peu de colonies plus grandes que des villages. Au lieu de cela, ils vivent souvent parmi les humains au sein des grandes villes, se divisant en petites communautés aux côtés d'autres grandes personnes. De nombreux halflings mènent une vie parfaitement satisfaisante dans l'ombre de leurs grands voisins, tandis que d'autres préfèrent une existence nomade, parcourant le monde et profitant des opportunités et des aventures à mesure qu'elles arrivent.*
 
 ## Aperçu
@@ -41,3 +44,5 @@ L'esprit d'aventure et l'opportunisme des halflings en font des aventuriers idé
 Certains backgrounds sont des choix particulièrement judicieux pour les halflings. Vous pourriez envisager le background d'acrobate si vous avez été élevé dans une troupe, l'artiste si vous deviez jouer pour payer un repas, ou le gamin des rues si vous avez grandi dans la pauvreté. En outre, les backgrounds de tavernier, de criminel et d'ouvrier conviennent bien pour les halflings.
 
 Lorsque vous choisissez une classe, notez que les halflings font de bons prêtres et de bons roublards en raison de leurs propensions naturelles, mais beaucoup deviennent également d'habiles moines ou rôdeurs.
+
+{% include ancestry-feat-table.html %}

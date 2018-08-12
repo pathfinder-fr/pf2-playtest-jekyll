@@ -1,0 +1,38 @@
+<div class="summary">
+    <h3>En bref...</h3>
+    <ul>
+        <li>
+            <strong>Points de vie</strong> {{page.bonusHP}}
+        </li>
+        <li>
+            <strong>Taille</strong> {{page.size}}
+        </li>
+        <li>
+            <strong>Vitesse</strong> {{page.speed}} cases
+        </li>
+        <li>
+            <strong>Accroissements de caractéristiques</strong> {{page.abilityBoosts | join: ", "}}
+        </li>
+        <li>
+            <strong>Réduction de caractéristique</strong> {{page.abilityFlaw}}
+        </li>
+        <li>
+            <strong>Langues</strong> {{page.languages | join: ", "}}
+        </li>
+        <li>
+            <strong>Langues supplémentaires</strong> Au niveau 1, si votre
+              Intelligence est de 14 ou plus, vous pouvez également
+              choisir un langage parmi les suivants :
+              {{page.bonusLanguages}} 
+        </li>
+        <li>
+            <strong>Traits</strong> {{page.traits | join: ", "}}
+        </li>
+        {% if page.qualities %}
+            <li>
+                <strong>Particularités</strong><br/>
+                {{ page.qualities | join: "<br/>" }}
+            </li>
+        {%- endif -%}
+    </ul>
+</div>

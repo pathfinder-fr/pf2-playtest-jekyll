@@ -1,13 +1,10 @@
 ---
 title: "Comment lire la description d'un objet"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 Qu'il s'agisse d'un objet alchimique, magique ou autre, il est présenté dans le format décrit ci-dessous. Si un objet n'a pas besoin d'une des indications citées, celle-ci est omise.
-
-* Liste pour toc
-{:toc}
 
 ## Nom et niveau
 

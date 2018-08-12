@@ -2,6 +2,7 @@
 title: Barbare
 titleEN: Barbarian
 source: "Playtest Pathfinder"
+toc: true
 layout: classe
 
 #PARTIE PROPRE AUX CLASSES

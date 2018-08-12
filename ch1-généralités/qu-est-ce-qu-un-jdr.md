@@ -1,11 +1,8 @@
 ---
 title: "Qu'est-ce qu'un jeu de rôle ?"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
-
-* Liste pour toc
-{:toc .float-right .ml-2}
 
 Pathfinder est un jeu de rôle, une histoire interactive au cours de laquelle un des joueurs, le Maître du jeu (MJ), plante le décor et présente les défis alors que chacun des autres joueurs, appelés personnage joueur (PJ), incarnent un aventurier maniant épée et magie qui tente de vaincre ces défis. Bon nombre de ces défis prennent la forme de monstres, de pièges sournois et de complots ourdis par des adversaires, mais Pathfinder offre suffisamment de profondeur de jeu pour permettre d'autres formes de défis tels que des ruses politiques, des énigmes, des drames interpersonnels etc.
 

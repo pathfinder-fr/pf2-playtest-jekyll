@@ -19,15 +19,15 @@
 - title: Ascendances et backgrounds
   items:
     - url: /ch2-ascendances-et-backgrounds/ascendances.html
-      title: Ascendances
+      title: Les ascendances
     - url: /ch2-ascendances-et-backgrounds/liste-des-ascendances.html
       title: Liste des ascendances
     - url: /ch2-ascendances-et-backgrounds/liste-des-dons-ascendance.html
       title: Liste des dons d'ascendance
     - url: /ch2-ascendances-et-backgrounds/backgrounds.html
-      title: Backgrounds
+      title: Les backgrounds
     - url: /ch2-ascendances-et-backgrounds/langages.html
-      title: Langages
+      title: Les langages
 
 # Chapitre 3 : Classes
 
@@ -103,12 +103,12 @@
 - title: Sorts
   items:
     - url: /ch7-sorts/sorts.html
-      title: Sorts
+      title: Règles sur la magie
     - url: /ch7-sorts/types-de-sorts.html
       title: Types de sorts
     - url: /ch7-sorts/traditions-écoles-traits.html
       title: Traditions, écoles et traits magiques
-    - url: /ch7-sorts/lancer un sort.html
+    - url: /ch7-sorts/lancer-un-sort.html
       title: Lancer un sort
     - url: /ch7-sorts/description-des-sorts.html
       title: Format de description des sorts
@@ -124,7 +124,7 @@
     - url: /ch8-progression-et-options/gagner-un-niveau.html
       title: Gagner un niveau
     - url: /ch8-progression-et-options/archétypes.html
-      title: Archétypes
+      title: Les archétypes
     - url: /ch8-progression-et-options/compagnons-animaux.html
       title: Compagnons animaux et familiers
     - url: /ch8-progression-et-options/divinités.html
@@ -137,9 +137,9 @@
     - url: /ch9-jouer-à-pathfinder/jouer-à-pathfinder.html
       title: Jouer à Pathfinder
     - url: /ch9-jouer-à-pathfinder/tests.html
-      title: Les tests
+      title: Tests
     - url: /ch9-jouer-à-pathfinder/dégâts.html
-      title: Les dégâts
+      title: Dégâts
     - url: /ch9-jouer-à-pathfinder/points-de-vie-et-guérison.html
       title: Points de vie et guérison
     - url: /ch9-jouer-à-pathfinder/actions-et-activités.html
@@ -147,7 +147,13 @@
     - url: /ch9-jouer-à-pathfinder/réactions-et-actions-libres.html
       title: Réactions et actions libres
     - url: /ch9-jouer-à-pathfinder/effets.html
-      title: Les effets
+      title: Effets
+    - url: /ch9-jouer-à-pathfinder/conventions-de-jeu.html
+      title: Conventions de jeu
+    - url: /ch9-jouer-à-pathfinder/points-héroïques.html
+      title: Points héroïques
+    - url: /ch9-jouer-à-pathfinder/perception.html
+      title: Perception
     - url: /ch9-jouer-à-pathfinder/mode-rencontres.html
       title: Mode "rencontres"
     - url: /ch9-jouer-à-pathfinder/actions-de-base.html
@@ -161,11 +167,11 @@
     - url: /ch9-jouer-à-pathfinder/mode-temps-libre.html
       title: Mode "temps libre"
     - url: /ch9-jouer-à-pathfinder/conditions.html
-      title: Les conditions
+      title: Conditions
     - url: /ch9-jouer-à-pathfinder/liste-des-conditions.html
       title: Liste des conditions
     - url: /ch9-jouer-à-pathfinder/afflictions.html
-      title: Les afflictions
+      title: Afflictions
 
 # Chapitre 10 : Maîtriser à Pathfinder
 
@@ -198,14 +204,24 @@
       title: Matériaux
     - url: /ch11-trésors/objets-spéciaux-non-magiques.html
       title: Objets spéciaux non magiques
+    - url: /ch11-trésors/liste-des-objets-spéciaux.html
+      title: Liste des objets spéciaux non magiques
     - url: /ch11-trésors/trappes.html
       title: Trappes
+    - url: /ch11-trésors/liste-des-trappes.html
+      title: Liste des trappes
     - url: /ch11-trésors/objets-alchimiques.html
       title: Objets alchimiques
+    - url: /ch11-trésors/liste-des-objets-alchimiques.html
+      title: Liste des objets alchimiques
     - url: /ch11-trésors/runes.html
       title: Runes
+    - url: /ch11-trésors/liste-des-runes.html
+      title: Liste des runes
     - url: /ch11-trésors/objets-magiques.html
       title: Objets magiques
+    - url: /ch11-trésors/liste-des-objets-magiques.html
+      title: Liste des objets magiques
 
 # Appendices
 

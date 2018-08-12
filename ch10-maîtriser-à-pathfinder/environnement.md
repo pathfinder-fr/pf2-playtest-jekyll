@@ -1,8 +1,5 @@
 ---
 title: "L'environnement"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
-
-* Liste pour toc
-{:toc}

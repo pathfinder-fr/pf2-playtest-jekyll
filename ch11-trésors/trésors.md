@@ -1,7 +1,6 @@
 ---
 title: "Les trésors"
 source: "Playtest Pathfinder"
-layout: default
 ---
 
 En vivant des aventures, en vainquant leurs ennemis, en défendant les innocents et en rendant des services aux personnalités importantes des royaumes, temples et guildes, les personnages vont acquérir des trésors qu'ils trouveront ou recevront en récompense.

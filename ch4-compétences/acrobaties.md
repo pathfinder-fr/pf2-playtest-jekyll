@@ -2,7 +2,7 @@
 title: "Acrobaties (Dextérité)"
 titleEN: "Acrobatics"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 
 index:
   - key: "Acrobaties (compétence)"

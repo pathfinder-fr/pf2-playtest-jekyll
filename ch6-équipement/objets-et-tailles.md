@@ -1,7 +1,7 @@
 ---
 title: "Objets et tailles"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 Les règles d'Encombrement présentées ici sont prévues pour des créatures de taille Moyenne ou Petite. Il en va de même pour l'équipement, prévu pour des créatures de ces tailles-là. Les créatures Très Grandes ou plus grandes encore peuvent porter plus, et les créatures Très Petites, moins. Leurs limites d'Encombrement sont multipliées, comme indiqué dans la table ci-dessous.

@@ -1,0 +1,34 @@
+<div class="summary">
+    <h3>En bref...</h3>
+    <ul>
+        <li><strong>Caractéristique principale</strong> {{page.keyAbility}}</li>
+        <li><strong>Points de vie</strong> {{page.hp}} plus votre modificateur de Constitution</li>
+        <li><strong>Perception</strong> {{page.profPerception}}</li>
+        <li>
+            <strong>Jets de sauvegarde</strong>
+            <ul>
+                <li><strong>Réflexes</strong> {{page.profReflex}}</li>
+                <li><strong>Vigueur</strong> {{page.profFortitude}}</li>
+                <li><strong>Volonté</strong> {{page.profWill}}</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Compétences</strong>
+            <ul>
+                <li>Entraîné dans ({{page.skills}} + modificateur d'Intelligence) compétences</li>
+                <li>Compétences de signature : {{page.signatureSkills | join: ", "}}</li>
+            </ul>
+        </li>
+        <li>
+            <strong>Armes</strong> {{page.weapons}}
+        </li>
+        <li>
+            <strong>Armures</strong> {{page.armor}}
+        </li>
+        {% if page.spells %}
+        <li>
+            <strong>Sorts</strong> {{page.spells}}
+        </li>
+        {%- endif -%}
+    </ul>
+</div>

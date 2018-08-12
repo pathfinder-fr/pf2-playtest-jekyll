@@ -1,20 +1,26 @@
 ---
 title: "Perception"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 La Perception mesure votre capacité à remarquer des choses, à déceler ce qui est caché et à déterminer si quelque chose "cloche" dans une situation donnée. Cette valeur numérique est fréquemment utilisée pour obtenir l'initiative et ainsi déterminer qui agit en premier dans une rencontre, ainsi que pour l'action Recherche.
 
 Votre modificateur de Perception dépend de votre Sagesse et de votre degré de formation en Perception, qui est déterminé par votre classe.
 
-{: .table-sm .small}
-| **Modificateur de Perception** = | + modificateur de Sagesse<br/>| + modificateur de formation en Perception | + bonus de circonstances<br/>+ bonus de condition<br/>+ bonus d'objet | + pénalité de circonstances<br/>+ pénalité de condition<br/>+ pénalité d'objet<br/>+ pénalités non typées |
+<table class="table-sm small">
+<tbody>
+    <tr>
+        <td><strong>Modificateur de Perception</strong> =</td>
+        <td>+ modificateur de Sagesse</td>
+        <td>+ modificateur de formation en Perception</td>
+        <td>+ bonus de circonstances<br/>+ bonus de condition<br/>+ bonus d'objet</td>
+        <td>+ pénalité de circonstances<br/>+ pénalité de condition<br/>+ pénalité d'objet<br/>+ pénalités non typées</td>
+    </tr>
+</tbody>
+</table>
 
 Dans certaines circonstances, comme par exemple quand un individu tente de se faufiler sans que vous le remarquiez, le MJ pourrait effectuer un jet contre votre DD de Perception. Tout comme les DD de compétences, votre DD de Perception vaut 10 plus votre modificateur de Perception.
-
-* Liste pour toc
-{:toc}
 
 ## Lumière
 

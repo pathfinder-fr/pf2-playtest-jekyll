@@ -4,31 +4,24 @@ layout: default
 <div class="summary">
     <h3>En bref...</h3>
     <ul>
-        <li>
-            <strong>Caractéristique principale</strong> : {{page.keyAbility}}
-        </li>
-        <li>
-            <strong>Points de vie</strong> : {{page.hp}} plus votre modificateur de Constitution
-        </li>
-        <li>
-            <strong>Perception</strong> : {{page.profPerception}}
-        </li>
-
+        <li><strong>Caractéristique principale</strong> : {{page.keyAbility}}</li>
+        <li><strong>Points de vie</strong> : {{page.hp}} plus votre modificateur de Constitution</li>
+        <li><strong>Perception</strong> : {{page.profPerception}}</li>
         <li>
             <strong>Jets de sauvegarde</strong>
+            <ul>
+                <li><strong>Réflexes</strong> : {{page.profReflex}}</li>
+                <li><strong>Vigueur</strong> : {{page.profFortitude}}</li>
+                <li><strong>Volonté</strong> : {{page.profWill}}</li>
+            </ul>
         </li>
-        <ul>
-            <li><strong>Réflexes</strong> : {{page.profReflex}}</li>
-            <li><strong>Vigueur</strong> : {{page.profFortitude}}</li>
-            <li><strong>Volonté</strong> : {{page.profWill}}</li>
-        </ul>
         <li>
             <strong>Compétences</strong>
+            <ul>
+                <li>Entraîné dans ({{page.skills}} + modificateur d'Intelligence) compétences</li>
+                <li>Compétences de signature : {{page.signatureSkills | join: ", "}}</li>
+            </ul>
         </li>
-        <ul>
-            <li>Entraîné dans ({{page.skills}} + modificateur d'Intelligence) compétences</li>
-            <li>Compétences de signature : {{page.signatureSkills | join: ", "}}</li>
-        </ul>
         <li>
             <strong>Armes</strong> : {{page.weapons}}
         </li>
@@ -36,10 +29,56 @@ layout: default
             <strong>Armures</strong> : {{page.armor}}
         </li>
         {% if page.spells %}
-            <li>
-                <strong>Sorts</strong> : {{page.spells}}
-            </li>
+        <li>
+            <strong>Sorts</strong> : {{page.spells}}
+        </li>
         {%- endif -%}
     </ul>
 </div>
 {{ content }}
+
+<h2 id="dons-de-classe">Dons de classe</h2>
+
+{% assign nomclasse = page.title | downcase %}
+
+<p class="tabletitle">Dons de classe ({{nomclasse}})</p>
+
+{% assign dons = site["donsclasse"] | where_exp: "don", "don.traits contains nomclasse" | sort_ignore_accent_marks: "title" | sort: "level" %}
+
+<table class="table table-sm table-striped table-hover">
+    <thead class="thead-light">
+        <tr>
+            <th style="width: 20%">Nom</th>
+            <th>Niveau</th>
+            <th>Traits</th>
+            <th style="width: 60%">Résumé</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% assign oldLevel = "1" %}
+        {% for don in dons %}
+        {% assign level = don.level | append: "" %}
+        <tr
+            {% unless level == oldLevel %}
+            {% assign oldLevel = level %}
+            class="firstlineofsection"
+            {% endunless %}
+        >
+            <td><a href="{{don.url}}">{{don.title}}</a></td>
+            <td>
+                {{don.level}}
+                {% unless don.rarity == "C" %}
+                    ({{don.rarity}})
+                {% endunless %}
+            </td>
+            <td>{{don.traits | sort_ignore_accent_marks | join: ", "}}</td>
+            <td>
+                {{don.summary | markdownify | remove: '<p>' | remove: '</p>'}}
+                {% if don.prerequisites %}
+                {{don.prerequisites | prepend: "<br/>**Prérequis** " | markdownify | remove: '<p>' | remove: '</p>'}}
+                {% endif %}
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>

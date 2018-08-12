@@ -1,15 +1,13 @@
 ---
 title: "Règles générales"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 Alors que vos valeurs de caractéristiques représentent votre talent brut et votre potentiel, les compétences démontrent votre entrainement et votre expérience. Chaque compétence recouvre plusieurs utilisations possibles et chacune des compétences est liée à une de vos caractéristiques.
 
 Dans ce chapitre, vous allez en apprendre davantage sur les compétences, leur périmètre et les actions, les activités, les actions libres et les réactions qu’elles permettent.
 
-* Liste pour toc
-{:toc}
 
 ## Les utilisations des compétences
 

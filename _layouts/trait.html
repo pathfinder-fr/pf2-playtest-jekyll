@@ -1,28 +1,7 @@
-<!DOCTYPE html>
-<html>
-  {%- include head.html -%}
-  <body>
-    {%- include header.html -%}
-    <main class="container-fluid">
-      <div class="row">
-        <div class="col-sm-3">
-          {%- include sidebar.html -%}
-        </div>
-        <div class="col-sm-9">
-          {% unless page.hidetitle %}{% if page.title %}
-          <h1 class="page-title">{{ page.title }}
-            (<a href="/glossaire/traits.html">trait</a>)
-          </h1>
-          {% endif %}{% endunless %}
-          {{ content }}
-          <hr />
-          <a href="https://gitlab.com/pathfinder-fr/pf2-jekyll/blob/master/{{ page.path }}">Modifier</a>
-        </div>
-      </div>
-    </main>
-    {%- include footer.html -%}    
-    <script src="/js/jquery/jquery-3.3.1.slim.min.js"></script>
-    <script src="/js/popperjs/popper.min.js"></script>
-    <script src="/js/bootstrap/bootstrap.min.js"></script>
-  </body>
-</html>
+---
+layout: default
+hidetitle: true
+---
+<h1 class="page-title">{{ page.title }} <span class="small">(<a href="/glossaire/traits.html">trait</a>)</span></h1>
+
+{{content}}

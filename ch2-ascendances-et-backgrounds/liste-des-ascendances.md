@@ -12,7 +12,7 @@ cols:
   - title: "Vit"
     info: "Vitesse en cases"
     attribute: speed
-  - title: "Accroissement"
+  - title: "Accroissements"
     attribute: abilityBoosts
     isAList: true
     separator: ", "

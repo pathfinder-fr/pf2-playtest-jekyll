@@ -14,38 +14,82 @@
 /* Menu latéral                    */
 /***********************************/
 
-#sidebar-nav {
-    padding-top: 1em;
-    height: calc(100vh - 8rem);
-    overflow-y: auto;
+.site-nav {
+    margin-top: 1em;
     font-size: .8rem;
-    border-right: 1px solid #eee;
+    border-right: 1px solid rgba(0, 0, 0, 0.1);
 }
 
-#sidebar-nav ul {
+.site-nav ul {
     padding-left: 0;
     padding-right: 0;
 }
 
-#sidebar-nav a { color: #212529;}
+.site-nav a { color: #212529; }
+.site-nav a:hover { color: #007bff; text-decoration: none; }
+.site-nav li { display: block; }
+.site-nav li.active { font-weight: bold; }
 
-#sidebar-nav ul.second-level {
-    font-size: .75rem;
+.site-nav ul.level-2 { font-size: .75rem; line-height: .8rem; }
+.site-nav ul.level-2 a, .site-nav ul.level-2 span { display: block; padding: .125rem .5rem; color: #99979c; }
+.site-nav ul.level-2 a:hover { color: #007bff; text-decoration: none; }
+
+
+/***********************************/
+/* Table des matières page         */
+/***********************************/
+
+.col-toc {
+    order: 2;
+    position: sticky;
+    top: 0;
+    height: calc(100vh);
+    overflow-y: auto;
+    
+    font-size: .875rem;
 }
 
-#sidebar-nav li { display: block; }
-#sidebar-nav li.active { font-weight: bold; }
-#sidebar-nav ul.second-level a,
-#sidebar-nav ul.second-level span { display: block; padding: .125rem .5rem; color: #99979c; }
+.page-nav {
+    padding-top: 1em;
+    font-size: .8rem;
+}
+
+.page-nav .section-nav {
+    padding-left: 0;
+    border-left: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.page-nav .section-nav ul {
+    padding-left: 1rem;
+}
+
+.page-nav .toc-entry {
+    display: block;
+}
+
+.page-nav .toc-entry a {
+    display: block;
+    padding: .125rem 1.5rem;
+    color: #99979c;
+}
+
+.page-nav .toc-entry a:hover {
+    color: #007bff;
+    text-decoration: none;
+}
 
 /***********************************/
 /* Contenu <main>                  */
 /***********************************/
 
+.col-main {
+    order: 1;
+}
+
 
 main h1.page-title {
     margin-top: 1rem;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 main mark {
@@ -81,6 +125,10 @@ main blockquote.inset {
     font-weight: bold;
 }
 
+tr.firstlineofsection td {
+    border-top-color: #666;
+}
+
 .tablenotes {
     font-size: small;
     margin-top: -1rem;
@@ -89,39 +137,13 @@ main blockquote.inset {
 
 /* BLOCS POURS DONS, SORTS, ... */
 
-blockquote.block.action1 h3::before {
-    content: url("../images/1action.png");
-    padding-right: .2rem;
-}
-
-blockquote.block.action2 h3::before {
-    content: url("../images/2actions.png");
-    padding-right: .2rem;
-}
-
-blockquote.block.action3 h3::before {
-    content: url("../images/3actions.png");
-    padding-right: .2rem;
-}
-
-blockquote.block.reaction h3::before {
-    content: url("../images/réaction.png");
-    padding-right: .2rem;
-}
-
-blockquote.block.actionlibre h3::before {
-    content: url("../images/actionlibre.png");
-    padding-right: .2rem;
-}
-
 blockquote.block {
-    border: 1px solid #BBB;
+    border: 1px solid #ddd;
     padding: 0.5rem;
 }
 
 blockquote.block h3 {
-    background-color: #666;
-    color: #fff;
+    background-color: #ddd;
     font-size: 1.3rem;
     margin: -.5rem -.5rem 0 -.5rem;
     padding: .3rem;
@@ -129,6 +151,9 @@ blockquote.block h3 {
 
 blockquote.block .action-icon {
     vertical-align: baseline;
+    width: 1rem;
+    height: 1rem;
+    margin-right: .3rem;
 }
 
 blockquote.block .sm-action-icon {
@@ -136,9 +161,8 @@ blockquote.block .sm-action-icon {
     height: 1rem;
 }
 
-blockquote.block h3 strong {
+blockquote.block h3 span {
     float: right;
-    font-weight: normal;
 }
 
 blockquote.block p,
@@ -146,25 +170,35 @@ blockquote.block hr {
     margin: 4px 0;
 }
 
-blockquote.block ul {
-    padding-left: 1rem;
-    margin: 0;
-}
+blockquote.block ul { padding-left: 1rem; margin: 0; }
+blockquote.block .traits { font-variant: small-caps; }
+blockquote.block.action1 h3::before { content: ""; display: inline-block; width: 1rem; height: 1rem; background-image: url("../images/1action.png"); background-size: 1rem 1rem; margin-right: .3rem; }
+blockquote.block.action2 h3::before { content: ""; display: inline-block; width: 1rem; height: 1rem; background-image: url("../images/2actions.png"); background-size: 1rem 1rem; margin-right: .3rem; }
+blockquote.block.action3 h3::before { content: ""; display: inline-block; width: 1rem; height: 1rem; background-image: url("../images/3actions.png"); background-size: 1rem 1rem; margin-right: .3rem; }
+blockquote.block.reaction h3::before { content: ""; display: inline-block; width: 1rem; height: 1rem; background-image: url("../images/réaction.png"); background-size: 1rem 1rem; margin-right: .3rem; }
+blockquote.block.actionlibre h3::before { content: ""; display: inline-block; width: 1rem; height: 1rem; background-image: url("../images/actionlibre.png"); background-size: 1rem 1rem; margin-right: .3rem; }
 
-blockquote.block .traits {
-    font-variant: small-caps;
-}
-
-/* EN BREF */
+/************************/
+/* Bloc "En Bref..."    */
+/************************/
 
 .summary {
-    padding: 0.5rem;
-    margin: 1rem 0;
+    border-left: solid 2px #666;
     background-color: #eee;
+    padding: .5rem;
+    margin-bottom: 1rem;
 }
 
-.summary ul {
-    padding-left: 0;
+.summary h3 {
+    margin: 0 0 .5rem 0;
+    font-size: 1.3rem;
+    font-style: italic;
+}
+
+.summary > ul {
+    margin: 0;
+    padding: 0 0 0 .3rem;
+    
     list-style: none;
     list-style-position: outside;
 }

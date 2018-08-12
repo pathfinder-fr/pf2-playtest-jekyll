@@ -1,15 +1,12 @@
 ---
 title: "Actions et activités"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 C'est principalement via vos actions et vos activités que vous pouvez exercer votre influence sur le monde qui vous entoure. Les actions peuvent être accomplies en une période de temps très court. Une action a un objectif bien délimité et un effet qui est produit pendant le temps d'exécution de l'action. Au cours d'une rencontre, vous pouvez utiliser 3 actions lors de votre tour et vous pouvez les utiliser comme indiqué dans la section sur [Mode "rencontres"](/ch9-jouer-à-pathfinder/mode-rencontres.html).
 
 Les activités prennent généralement plus longtemps et nécessitent plusieurs actions qui doivent être utilisées les unes à la suite des autres. Se Déplacer est une action, mais lancer *boule de feu* est une activité parce qu'on y cite les actions spécifiques qui doivent être utilisées pour engendrer son effet.
-
-* Liste pour toc
-{:toc}
 
 ## Activités
 

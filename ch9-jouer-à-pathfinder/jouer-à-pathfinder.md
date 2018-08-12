@@ -1,9 +1,7 @@
 ---
 title: "Jouer à Pathfinder"
 source: "Playtest Pathfinder"
-layout: default
 ---
-
 
 Les aventures Pathfinder vous emmèneront vers de nouvelles contrées, vous plongeront dans des conflits avec des monstres et des rivaux maléfiques et vous permettront de rencontrer de nouveaux amis et alliés. Les règles principales qui indiquent comment vos décisions et actions modifieront le monde qui vous entoure sont décrites dans ce chapitre.
 

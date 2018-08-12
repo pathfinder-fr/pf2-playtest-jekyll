@@ -1,0 +1,28 @@
+<nav class="site-nav">        
+	<ul>
+		{%- for item in site.data.toc -%}
+		<li>
+			{%- if item.url -%}
+				<a href="{{item.url}}">{{item.title}}</a>
+			{%- else -%}
+				<span>{{item.title}}</span>
+			{%- endif -%}
+
+			{%- if item.items -%}
+				<ul class="level-2">
+				{%- for subItem in item.items -%}
+					{% assign safe_url = subItem.url | uri_escape %}
+					<li class="{% if page.url == safe_url %}active{% endif %}">
+						{%- if subItem.url -%}
+						<a href="{{subItem.url}}">{{subItem.title}}</a>
+						{%- else -%}
+						<span>{{subItem.title}}</span>
+						{%- endif -%}
+					</li>
+				{%- endfor -%}
+				</ul>
+			{%- endif -%}
+		</li>
+		{%- endfor -%}
+	</ul>
+</nav>

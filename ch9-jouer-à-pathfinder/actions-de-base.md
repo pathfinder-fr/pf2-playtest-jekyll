@@ -1,7 +1,7 @@
 ---
 title: "Actions de base"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
 ---
 
 Les actions de base du jeu sont utilisables par toutes les créatures. Elles représentent les tâches courantes telles que se déplacer, attaquer et aider un allié. Toutes les créatures peuvent utiliser des actions, activités, actions libres et réactions de base sauf dans certaines circonstances extrêmes, et ces éléments de jeu sont d'ailleurs utilisés très fréquemment. Celles que vous utiliserez sans doute le plus souvent sont Interagir, Faire un pas, Se déplacer et Frapper. De nombreux dons et d'autres actions vous demandent d'utiliser l'une de ces actions de base ou de les modifier pour produire divers effets. Par exemple, une action plus complexe pourrait vous permettre de vous Déplacer du double de votre Vitesse en cases (au lieu de simplement votre Vitesse), et un grand nombre d'activités incluent une Frappe.
@@ -9,9 +9,6 @@ Les actions de base du jeu sont utilisables par toutes les créatures. Elles rep
 Les actions qui sont utilisées moins fréquemment mais qui sont tout de même accessibles à toutes les créatures sont présentées dans la section [Actions et réactions de base spécialisées](actions-et-réactions-de-base-spécialisées.html). Ces actions possèdent généralement des conditions que les personnages sont moins susceptibles de remplir, comme tenir un bouclier ou avoir une Vitesse de fouissement.
 
 Si vous pouvez lancer des sorts, les activités et actions pour le lancement de sort se trouvent aux pages <mark>195-196</mark> et, si vous possédez des objets magiques, les activités et actions pour les utiliser se trouvent à la page <mark>376</mark>.
-
-* Liste pour toc
-{:toc}
 
 ## Actions de base
 

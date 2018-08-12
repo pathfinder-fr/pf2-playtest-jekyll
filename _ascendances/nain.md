@@ -2,7 +2,6 @@
 title: Nain
 titleEN: Dwarf
 source: "Playtest Pathfinder"
-layout: ascendance
 
 #PARTIE PROPRE AUX ASCENDANCES
 
@@ -29,6 +28,9 @@ qualities:
   - "Jamais surchargé : quand l'armure que vous portez ou votre état encombré devrait réduire votre Vitesse, cette réduction est diminuée de 1 case."
 ---
 
+{% include ancestry-summary.html %}
+
+
 *Les légendes naines sont remplies de récits épiques de la migration ancestrale de ce peuple petit et bourru, de leur habitat dans les profondeurs jusqu'à la surface. Un périple entrepris à l'initiative d'un prophète du dieu des nains. Ce peuple a atteint sa destination et construit de majestueuses citadelles, et de nombreux nains restent à ce jour cloitrés dans celles-ci et dans d'autres habitats ancestraux. Compte tenu de l'histoire déchirante des nains, leur réputation d'être un peuple stoïque et fier est bien méritée.*
 
 ## Aperçu
@@ -48,3 +50,4 @@ Certains backgrounds sont particulièrement adaptés aux nains. Vous pourriez co
 
 Les nains excellent dans beaucoup de classes martiales, comme le barbare, le guerrier, le moine, le rôdeur, mais ils font également d'excellents prêtres ou druides.
 
+{% include ancestry-feat-table.html %}

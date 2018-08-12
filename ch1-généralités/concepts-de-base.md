@@ -1,7 +1,8 @@
 ---
 title: "Concepts de base"
 source: "Playtest Pathfinder"
-layout: default
+toc: true
+
 index:
   - key: modes de jeu
     anchor: modes-de-jeu
@@ -17,12 +18,7 @@ index:
     anchor: votre-degré-de-difficulté
   - key: modificateur de formation
     anchor: modificateur-de-formation
-
-
 ---
-
-* Liste pour toc
-{:toc .float-right .ml-2}
 
 Pathfinder est un jeu riche rempli de nuances tant dans les règles que dans les histoires qu'il permet de
 raconter. Voici quelques concepts de base avec lesquels il peut être utile de vous familiariser avant de jouer

@@ -2,6 +2,7 @@
 title: Alchimiste
 titleEN: Alchemist
 source: "Playtest Pathfinder"
+toc: true
 layout: classe
 
 # PARTIE PROPRE AUX CLASSES
@@ -14,7 +15,7 @@ profFortitude: Exp
 profReflex: Exp
 profWill: Ent
 
-skills: 4
+skills: 3
 weapons: "Ent pour toutes les armes simples, Ent pour les bombes alchimiques"
 armor: "Ent pour les armures légères"
 spells:
@@ -22,10 +23,28 @@ signatureSkills:
   - Arcanes
   - Artisanat
   - Médecine
----
 
-* Liste pour toc
-{:toc .float-right .ml-2}
+index:
+  - key: Alchimie avancée (capacité de l'alchimiste)
+    anchor: "alchimie-avancée"
+  - key: Alchimie rapide (capacité de l'alchimiste)
+    anchor: "alchimie-rapide"
+  - key : Livre de formules (capacité de l'alchimiste)
+    anchor: "livre-de-formules"
+  - key : Résonance étudiée (capacité de l'alchimiste)
+    anchor: "résonance-étudiée"
+  - key : Bombes amplifiées (capacité de l'alchimiste)
+    anchor: "bombes-amplifiées"
+  - key : Préparation de mutagènes (capacité de l'alchimiste)
+    anchor: "préparation-de-mutagènes"
+  - key : Résonance étendue (capacité de l'alchimiste)
+    anchor: "résonance-étendue"
+  - key : Double élixir (capacité de l'alchimiste)
+    anchor: "double-élixir"
+  - key: Empressement alchimique (capacité de l'alchimiste)
+    anchor: "empressement-alchimique"
+
+---
 
 *Il n'y a pas de plus beau spectacle qu'un étrange brassage bouillonnant dans les fioles de votre laboratoire, et vous consommez vos diverses créations avec abandon.*
 *Vous êtes peut-être fasciné par la découverte des secrets de la magie et de la science, ou vous aimez peut-être simplement regarder des réactions chimiques volatiles.*
@@ -59,6 +78,11 @@ Les alchimistes recherchent avant tout l'innovation scientifique, combinant des 
   Ils ne comprennent pas que vous n'êtes pas un lanceur de sorts; Les vrais lanceurs de sorts qui s'essaient maladroitement à l'alchimie ne font que renforcer ce préjugé.
 
 ## Capacités de classe
+Voici quelques termes spécifiques utilisés dans les descriptions des capacités et des dons de l'alchimiste.
+
+**Additif** des dons vous permettent de dépenser des actions pour ajouter des substances spéciales dans des bombes ou des élixirs possèdant le trait additif. Vous ne pouvez ajouter qu'un seul additif dans un objet alchimique, et essayer d'ajouter un deuxième additif gâche l'objet. Certains ne peuvent être utilisés qu'avec Alchimie rapide.
+
+**Infusion** un objet alchimique avec le trait infusion ne vous coûte pas de Point de résonnance pour l'utilisé (en Déclenchant l'activation, ou avec toute autre action appropriée), mais une autre personne doit toujours dépenser des Points de résonance pour l'activer normalment. Un objet infusé est actif pendant 24 heures, après quoi il devient inactif.
 
 Vous gagnez les capacités suivantes en tant qu'alchimiste. 
 
@@ -117,7 +141,7 @@ Deuxièmement, vous pouvez créer des objets alchimiques avec l'action Alchimie 
 > 
 > ---
 >
-> Vous créez un objet alchimique commun qui est de votre niveau ou d'un niveau inférieur sans devoir dépenser le coût monétaire habituel pour des réactifs alchimiques et sans avoir à effectuer un test d'Artisanat.
+> Vous créez un objet alchimique qui est de votre niveau ou d'un niveau inférieur sans devoir dépenser le coût monétaire habituel pour des réactifs alchimiques et sans avoir à effectuer un test d'Artisanat.
 > Cet objet possède le trait infusion mais il ne reste efficace que jusqu'au début de votre prochain tour.
 > Passé ce délai, l'objet devient interte et n'a plus d'effet.
 > Si vous dépensez de la résonance pour cette capacité alors que votre réserve est vide et ratez le test (voir page <mark>  292</mark>), vous ne pouvez pas plus utiliser l'action Alchimie rapide à nouveau avant vos prochaines préparations quotidiennes.
@@ -203,10 +227,3 @@ Ces objets ne doivent pas être nécessairement les mêmes.
 
 Lorsque vous utilisez Alchimie rapide, vous pouvez dépenser jusqu'à 3 Points de résonance pour créer 3 objects alchimiques (1 par Point) comme décrit dans Alchimie rapide.
 Ces objets ne doivent pas être nécessairement les mêmes.
-
-## Termes techniques
-Voici quelques termes spécifiques utilisés dans les descriptions des capacités et des dons de l'alchimiste.
-
-**Additif :** des dons vous permettent de dépenser des actions pour ajouter des substances spéciales dans des bombes ou des élixirs possèdant le trait additif. Vous ne pouvez ajouter qu'un seul additif dans un objet alchimique, et essayer d'ajouter un deuxième additif gâche l'objet. Certains ne peuvent être utilisés qu'avec Alchimie rapide.
-
-**Infusion :** un objet alchimique avec le trait infusion ne vous coûte pas de Point de résonnance pour l'utilisé (en Déclenchant l'activation, ou avec toute autre action appropriée), mais une autre personne doit toujours dépenser des Points de résonance pour l'activer normalment. Un objet infusé est actif pendant 24 heures, après quoi il devient inactif.

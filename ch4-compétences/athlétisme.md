@@ -2,12 +2,6 @@
 title: "Athlétisme"
 titleEN: "Athletics"
 source: "Playtest Pathfinder"
-layout: default
-
-
-index:
-  - key: "Athlétisme (compétence)"
-    anchor: ""
 ---
 
 Athlétisme (Force)
@@ -53,13 +47,13 @@ Les utilisations de la compétence sans entraînement sont les suivants :
 > **Échec critique** Votre tentative fausse la porte, la fenêtre ou le récipient, imposant une pénalité de circonstance de -2 à toutes les futures tentatives de l’ouvrir.
 
 {: .block .action1}
-### Se libérer d'une étreinte (action)
+### Se libérer d'une prise (action)
 >
-> Vous tentez de vous libérer de l’étreinte d’un adversaire avec un test d’Athlétisme contre le DD de cette créature.
+> Vous tentez de vous libérer de la prise d’un adversaire avec un test d’Athlétisme contre le DD de cette créature.
 >
-> **Réussite** Vous vous libérez de l’étreinte de votre ennemi et retirer les conditions agrippé ou entravé infligées par ce dernier.
+> **Réussite** Vous vous libérez de la prise de votre ennemi et retirer les conditions agrippé ou entravé infligées par ce dernier.
 >
 > **Réussite critique** Vous retirez les conditions agrippé ou entravé infligées par votre ennemi et vous pouvez soit mettre à terre votre adversaire ou l’agripper comme si vous aviez réussi à l’agripper. Si vous agrippez l’adversaire, cette action obtient le trait attaque.
 >
-> **Échec critique** Si vous étiez agrippé, vous devenez entravé. Si vous étiez déjà entravé, vous ne pouvez pas essayer de vous libérer d’une étreinte jusqu’au début de votre prochain tour.
+> **Échec critique** Si vous étiez agrippé, vous devenez entravé. Si vous étiez déjà entravé, vous ne pouvez pas essayer de vous libérer de la prise jusqu’au début de votre prochain tour.
 

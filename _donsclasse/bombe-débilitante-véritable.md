@@ -15,7 +15,7 @@ rarity: C
 
 traits:
   - alchimiste
-prerequisites: Bombe débilitante supérieure
+prerequisites: "[Bombe débilitante supérieure](/donsclasse/bombe-débilitante-supérieure.html)"
 frequency: 
 cost:
 trigger: 
@@ -26,6 +26,6 @@ summary: "Choix de conditions étendu ; conditions de base difficilement évitab
 
 Lorsque vous utilisez une Bombe débilitante, vous pouvez également choisir la condition appliquée dans la liste suivante :
 * affaibli 2
-* vitesse réduite 15
+* vitesse réduite 3
 * stupéfié 2
 Si vous choisissez d'appliquer néanmoins une condition de la liste de base de Bombe débilitante, la cible n'évite la condition qu'en cas de réussite critique du jet de sauvegarde.
