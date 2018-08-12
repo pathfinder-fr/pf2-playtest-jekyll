@@ -22,7 +22,7 @@ rarity: C
 traits:
   - général
   - compétence
-prerequisites: Ent en Société
+prerequisites: Entraîné en Société
 frequency:
 cost:
 trigger:

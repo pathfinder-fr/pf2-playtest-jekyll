@@ -22,13 +22,13 @@ rarity: C
 traits:
   - général
   - compétence
-prerequisites: Ent dans au moins une compétence
+prerequisites: Entraîné dans au moins une compétence
 frequency:
 cost:
 trigger:
 requirements:
 
-summary: "Votre Vitesse augmente de 1 case."
+summary: "Vous pouvez utiliser une valeur par défaut plutôt que de lancer vos tests."
 ---
 
 Même dans les pires des circonstances, vous pouvez accomplir des tâches basiques dans le domaine de la compétence choisie. Choisissez une compétence où vous êtes entraîné. Vous pouvez décider de ne pas lancer de dé lors d'un test pour cette compétence et considérer que le résultat de ce test est de 10 (n'appliquez ni bonus, ni pénalité, ni modificateur).

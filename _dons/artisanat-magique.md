@@ -22,7 +22,7 @@ rarity: C
 traits:
   - général
   - compétence
-prerequisites: Exp en Artisanat
+prerequisites: Expert en Artisanat
 frequency:
 cost:
 trigger:

@@ -1,29 +1,34 @@
 ---
-title: Classes
+title: Liste des classes
 layout: liste
 collection: classes
 inclureSource: true
+smalltable: false
 cols:
   - title: "Carac"
     info: "Caractéristique principale"
     attribute: keyAbility
   - title: "pv"
     attribute: hp
-  - title: "Formation"
+  - title: "JdS"
     isMultiline: true
     rows:
-      - title: Perc
-        attribute: profPerception
       - title: Réf
         attribute: profReflex
       - title: Vig
         attribute: profFortitude
       - title: Vol
         attribute: profWill
+  - title: "Formation"
+    isMultiline: true
+    rows:
+      - title: Perc
+        attribute: profPerception
       - title: Nb cpt
         attribute: skills
   - title: 
     isMultiline: true
+    colsize: 60%
     rows:
       - title: Signature
         attribute: signatureSkills
@@ -35,21 +40,4 @@ cols:
         attribute: armor
       - title: Sorts
         attribute: spells
-old:
-  - title: "Perception"
-    attribute: profPerception
-  - title: "Réf"
-    attribute: profReflex
-  - title: "Vig"
-    attribute: profFortitude
-  - title: "Vol"
-    attribute: profWill
-  - title: "Nb cpt"
-    info: "nombre de compétences initialement entraînées (ajouter le modificateur d'Intelligence)"
-    attribute: skills
-  - title: "VO"
-    attribute: "titleEN"
 ---
-
-
-Liste des classes.

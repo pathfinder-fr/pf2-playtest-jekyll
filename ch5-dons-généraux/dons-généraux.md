@@ -14,8 +14,8 @@ Certains talents nécessitent un peu d'entraînement mais sont à la portée de 
 <table class="table table-sm table-striped table-hover">
     <thead class="thead-light">
         <th style="width: 20%">Nom</th>
-        <th>Niveau</th>
-        <th>Traits</th>
+        <th style="width:  5%">Niv</th>
+        <th style="width: 15%">Traits</th>
         <th style="width: 60%">Résumé</th>
     </thead>
     <tbody>
@@ -52,8 +52,8 @@ Certains talents nécessitent un peu d'entraînement mais sont à la portée de 
 <table class="table table-sm table-striped table-hover">
     <thead class="thead-light">
         <th style="width: 20%">Nom</th>
-        <th>Niveau</th>
-        <th>Traits</th>
+        <th style="width:  5%">Niv</th>
+        <th style="width: 15%">Traits</th>
         <th style="width: 60%">Résumé</th>
     </thead>
     <tbody>
@@ -101,8 +101,8 @@ Certains talents nécessitent un peu d'entraînement mais sont à la portée de 
 <table class="table table-sm table-striped table-hover">
     <thead class="thead-light">
         <th style="width: 20%">Nom</th>
-        <th>Niveau</th>
-        <th>Traits</th>
+        <th style="width:  5%">Niv</th>
+        <th style="width: 15%">Traits</th>
         <th style="width: 60%">Résumé</th>
     </thead>
     <tbody>

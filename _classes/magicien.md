@@ -24,6 +24,11 @@ signatureSkills:
   - Arcanes
   - Artisanat
   - Médecine
+
+index:
+  - key: NOM_CAPACITE (capacité du XX_CLASSE)
+    anchor: "LIEN_CAPACITE"
+
 ---
 
 * Liste pour toc
@@ -35,7 +40,10 @@ signatureSkills:
 
 Les joueurs qui incarnent un personnage XX_CLASSE pourraient adopter les approches suivantes :
 
-* Blabla au présent
+* Au combat, Blabla au présent
+* Pendant les rencontres sociales,
+* Dans les phases d’explorations,
+* Pendant votre temps libre,
 
 ## Le rôle du XX_CLASSE
 Blablabla
@@ -43,13 +51,15 @@ Blablabla
 **Si vous êtes un XX_CLASSE, alors, très probablement...**
 * Blabla au présent
 
-**Quant aux autres…**
+**Quant aux autres...**
 * Blabla au présent
 
 ## Capacités de classe
+Voici quelques termes spécifiques utilisés dans les descriptions des capacités et des dons du XX_CLASSE.
+
+**MOT_CLEF** BLABLA
 
 Vous gagnez les capacités suivantes en tant que XX_CLASSE. 
-
 
 {: .tabletitle}
 Progression du XX_CLASSE
@@ -95,9 +105,6 @@ Blablabla
 >
 > Vous créez un objet alchimique commun qui est de votre niveau ou d'un niveau inférieur sans devoir dépenser le coût monétaire habituel pour des réactifs alchimiques et sans avoir à effectuer un test d'Artisanat. Cet objet possède le trait infusion mais il ne reste efficace que jusqu'au début de votre prochain tour. Passé ce délai, l'objet devient interte et n'a plus d'effet. Si vous dépensez de la résonance pour cette capacité alors que votre réserve est vide et ratez le test (voir page <mark>  292</mark>), vous ne pouvez pas plus utiliser l'action Alchimie rapide à nouveau avant vos prochaines préparations quotidiennes.
 
-### Dons de XX_CLASSE
-Au niveau 1 et à chaque niveau pair ensuite, vous obtenez un don de classe XX_CLASSE. Les dons de classe XX_CLASSE sont décrits à partir de la page <mark>48</mark>.
-
 ### Dons de compétence
 Aux niveaux pairs, vous gagnez un don de compétence. Les dons de compétence se trouvent dans le Chapitre <mark>5</mark> et possèdent le trait compétence. Vous devez être au minimum entrainé dans la compétence correspondante pour pouvoir sélectionner un don de compétence.
 
@@ -117,7 +124,5 @@ Au niveau 5 et tous les 5 niveaux ensuite, vous pouvez accroitre 4 caractéristi
 ### Dons d'ascendance
 En plus du don d'ascendance avec lequel vous commencez, vous gagnez un don d'ascendance au niveau 5 puis tous les 4 niveaux ensuite. La liste des dons d'ascendance disponibles pour vous se trouve au niveau de votre ascendance, dans le Chapitre <mark>2</mark>.
 
-## Termes techniques
-Voici quelques termes spécifiques utilisés dans les descriptions des capacités et des dons du XX_CLASSE.
-
-**MOT_CLEF :** BLABLA
+### Dons de XX_CLASSE
+Au niveau 1 et à chaque niveau pair ensuite, vous obtenez un don de classe XX_CLASSE. Les dons de classe XX_CLASSE sont décrits à partir de la page <mark>48</mark>.

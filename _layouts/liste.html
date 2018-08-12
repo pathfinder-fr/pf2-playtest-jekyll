@@ -5,7 +5,8 @@ layout: default
 
 {% assign my_collection = site[page[collection]] | sort_ignore_accent_marks: "title" %}
 
-<table class="table table-sm table-striped table-hover">
+<table class="table table-sm table-striped table-hover
+    {% if page.smalltable %}small{% endif %}">
     <thead class="thead-light">
     <tr>
         <th>Nom</th>

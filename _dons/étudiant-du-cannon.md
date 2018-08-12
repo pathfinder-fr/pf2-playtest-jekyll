@@ -22,7 +22,7 @@ rarity: C
 traits:
   - général
   - compétence
-prerequisites: Ent en Religion
+prerequisites: Entraîné en Religion
 frequency:
 cost:
 trigger:

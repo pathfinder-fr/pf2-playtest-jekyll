@@ -70,10 +70,10 @@ index:
 
 Les joueurs qui incarnent un personnage paladin pourraient adopter les approches suivantes :
 
-* Pendant les combats, vous êtes face à l’ennemi en vous positionnant prudemment afin de protéger vos alliés.
-* Pendant les interactions sociales, vous êtes la voix de l’espoir, essayant de renforcer les liens et d’obtenir le meilleur résultat pour toutes les parties.
+* Au combat, vous êtes face à l’ennemi en vous positionnant prudemment afin de protéger vos alliés.
+* Pendant les rencontres sociales, vous êtes la voix de l’espoir, essayant de renforcer les liens et d’obtenir le meilleur résultat pour toutes les parties.
 * Dans les phases d’explorations, vous surpassez les obstacles aussi bien physiques que spirituels, prodiguant inspiration à vos alliés grâce à vos actions et conseils sur demande, plutôt que les sermonner sur leurs défauts.
-* Durant votre temps libre, vous passez la plupart de votre temps à faire la charité et respecter les principes de votre code, mais ça ne signifie pas que vous n’avez plus de temps à consacrer à l’artisanat ou à un hobby.
+* Pendant votre temps libre, vous passez la plupart de votre temps à faire la charité et respecter les principes de votre code, mais ça ne signifie pas que vous n’avez plus de temps à consacrer à l’artisanat ou à un hobby.
 
 ## Le rôle du paladin
 Les paladins sont des champions de la justice, agissant comme agents contre les forces du mal.
@@ -83,7 +83,7 @@ Les paladins sont des champions de la justice, agissant comme agents contre les 
 * Vous savez que la fin ne justifie pas les moyens, car les actes maléfiques renforce la puissance du mal.
 * Vous avez un fort sens de la justice et êtes incroyablement frustré quand la corruption politique entraîne l’échec de la justice.
 
-**Quant aux autres…**
+**Quant aux autres...**
 * Ils croient que vous êtes un être inflexible, respectant chaque règle et ne voulant pas faire de compromis.
 * Ils s'inquiètent secrètement que vous les méprisiez de ne pas vivre selon vos impossibles règles de conduites. 
 * Ils supposent que vous êtes forcé de réaliser gratuitement n’importe quelle faveur au nom de la charité.
@@ -169,9 +169,6 @@ Les pouvoirs de champions sont seulement disponibles pour les paladins, et ne pe
 
 Vous gagnez la capacité de lancer le pouvoir de champion *imposition des mains* en dépensant 1 Point de magie.
 
-### Dons de paladin
-Au niveau 1 et à chaque niveau pair ensuite, vous obtenez un don de classe paladin. Les dons de classe paladin sont décrits à partir de la page <mark>48</mark>.
-
 ### Dons de compétence
 Aux niveaux pairs, vous gagnez un don de compétence. Les dons de compétence se trouvent dans le Chapitre <mark>5</mark> et possèdent le trait compétence. Vous devez être au minimum entrainé dans la compétence correspondante pour pouvoir sélectionner un don de compétence.
 
@@ -223,3 +220,6 @@ Votre formation en armures lourdes et boucliers augmente jusqu’à légendaire,
 
 ### Défi du héros
 Vous gagnez le pouvoir de défier la mort et de continuer le combat tant que vous possédez de l'énergie divine. Vous gagnez le pouvoir de champion *défi du héros*, que vous pouvez lancer en dépensant 2 Points de magie. Augmentez votre réserve de Points de magie de 2.
+
+### Dons de paladin
+Au niveau 1 et à chaque niveau pair ensuite, vous obtenez un don de classe paladin. Les dons de classe paladin sont décrits à partir de la page <mark>48</mark>.
