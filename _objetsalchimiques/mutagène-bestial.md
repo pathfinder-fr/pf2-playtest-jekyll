@@ -36,4 +36,4 @@ Pendant 10 minutes après le délai de ce mutagène, vos traits se transforment 
 
 **Avantage** Vous obtenez un bonus d'objet de +3 aux tests d'Athlétisme et aux jets d'attaque sans arme. Vos dégâts infligés par des attaques sans arme passent à quatre dés de dégâts, sauf si celà réduirait le nombre de dés de dégâts.
 
-**Inconvénient** Vous subissez une pénalité de -1 aux tests d'Acrobaties, de Discrétion, de Filouterie, aux jets de Réflexes et à la CA.
+**Inconvénient** Vous subissez une pénalité de -1 aux tests d'Acrobaties, de Discrétion, de Pratique du voleur, aux jets de Réflexes et à la CA.

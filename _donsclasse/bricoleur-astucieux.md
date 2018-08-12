@@ -21,7 +21,7 @@ cost:
 trigger: 
 requirements:
 
-summary: "Tromperie, Filouterie > signature ; gamme étendue d'outils"
+summary: "Tromperie, Pratique du voleur > signature ; gamme étendue d'outils"
 ---
 
-Tromperie et Filouterie deviennent des compétences de signature pour vous. Lorsque vous Désactivez un piège, vous pouvez utiliser des outils d'alchimiste ou une trousse de premiers secours au lieu des outils de cambrioleur.
+Tromperie et Pratique du voleur deviennent des compétences de signature pour vous. Lorsque vous Désactivez un piège, vous pouvez utiliser des outils d'alchimiste ou une trousse de premiers secours au lieu des outils de cambrioleur.

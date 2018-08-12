@@ -34,7 +34,7 @@ layout: default
     {%- endif -%}
 <!-- Dons -->
     {% if page.prerequisites %}
-        <p><strong>Prérequis</strong> {{ page.prerequisites }}</p>
+        <p><strong>Prérequis</strong> {{ page.prerequisites | markdownify}}</p>
     {%- endif -%}
     {% if page.frequency %}
         <p><strong>Fréquence</strong> {{ page.frequency }}</p>
@@ -89,10 +89,10 @@ layout: default
     {%- endif -%}
 <!-- Partie commune -->
     {% if page.trigger %}
-        <p><strong>Déclencheur</strong> {{ page.trigger }}</p>
+        <p><strong>Déclencheur</strong> {{ page.trigger | markdownify}}</p>
     {%- endif -%}
     {% if page.requirements %}
-        <p><strong>Condition</strong> {{ page.requirements }}</p>
+        <p><strong>Condition</strong> {{ page.requirements | markdownify}}</p>
     {%- endif -%}
 <!-- Description -->
     {% if page.traits or page.prerequisites or page.frequency or page.cost or page.trigger or page.requirements or page.price or page.ammunition or page.methodOfUse or page.bulk or page.activation or page.onset %}
