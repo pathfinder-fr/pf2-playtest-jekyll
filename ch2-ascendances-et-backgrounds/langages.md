@@ -1,6 +1,61 @@
 ---
-title: "Langages"
+title: "Les langages"
 source: "Playtest Pathfinder"
+toc: true
+index:
+  - key: "langages"
+    anchor: ""
+  - key: "langue"
+    anchor: ""
+  - key: "langue des signes"
+    anchor: "la-langue-des-signes"
+  - key: "commun (langage)"
+    anchor: "langagescourants"
+  - key: "commun des profondeurs (langage)"
+    anchor: "langagescourants"
+  - key: "draconique (langage)"
+    anchor: "langagescourants"
+  - key: "nain (langage)"
+    anchor: "langagescourants"
+  - key: "elfe (langage)"
+    anchor: "langagescourants"
+  - key: "gnome (langage)"
+    anchor: "langagescourants"
+  - key: "gobelin (langage)"
+    anchor: "langagescourants"
+  - key: "halfling (langage)"
+    anchor: "langagescourants"
+  - key: "jotun (langage)"
+    anchor: "langagescourants"
+  - key: "orque (langage)"
+    anchor: "langagescourants"
+  - key: "sylvestre (langage)"
+    anchor: "langagescourants"
+  - key: "abyssal (langage)"
+    anchor: "langagespeucourants"
+  - key: "aklo (langage)"
+    anchor: "langlangagespeucourantsage"
+  - key: "aquatique (langage)"
+    anchor: "langagespeucourants"
+  - key: "aérien (langage)"
+    anchor: "langagespeucourants"
+  - key: "céleste (langage)"
+    anchor: "langagespeucourants"
+  - key: "gnoll (langage)"
+    anchor: "lanlangagespeucourantsgage"
+  - key: "igné (langage)"
+    anchor: "langagespeucourants"
+  - key: "infernal (langage)"
+    anchor: "langagespeucourants"
+  - key: "langue des ombres (langage)"
+    anchor: "langagespeucourants"
+  - key: "nécril (langage)"
+    anchor: "langagespeucourants"
+  - key: "terreux (langage)"
+    anchor: "langagespeucourants"
+  - key: "druidique (langage)"
+    anchor: "langagesecret"
+
 ---
 
 Les peuples du Monde de jeu parlent des dizaines de langues différentes, voire des centaines si on compte les dialectes et les patois locaux. Un personnage peut généralement s'en tirer en parlant le commun mais connaître d'autres langages est vital dans certaines région. Être capable de parler d'autres langues peut vous aider à dialoguer plus efficacement, à espionner des ennemis ou tout simplement à réaliser de meilleures transactions commerciales. Les langues vous donnent également l'occasion de plonger votre personnage dans le contexte du monde de jeu et d'expliquer certains autres choix de personnage.
@@ -13,7 +68,7 @@ Pathfinder inclut également le language druidique, un langage secret qui n'est 
 
 Votre personnage peut bien sûr apprendre d'autres langages au cours de sa carrière d'aventurier. Par exemple, le don [/dons/multilingue.html] donne deux nouveaux langages qui peuvent être choisis parmi ceux qui sont repris dans les langages courants ou peu courant ci-dessous. D'autres capacités et effets pourraient donner accès à des langages courants ou peu courants si leur description le précise.
 
-{: .tabletitle}
+{: .tabletitle #langagescourants}
 Langages courants
 
 {: .table .table-sm}
@@ -31,7 +86,7 @@ Langages courants
 | orque | orques, demi-orques
 | sylvestre | fées, centaures, créatures végétales
 
-{: .tabletitle}
+{: .tabletitle #langagespeucourants}
 Langages peu courants
 
 {: .table .table-sm}
@@ -49,7 +104,7 @@ Langages peu courants
 | nécril | goules, morts-vivants intelligents
 | terreux | créatures élémentaires de la Terre
 
-{: .tabletitle}
+{: .tabletitle #langagesecret}
 Langage secret
 
 {: .table .table-sm}
@@ -66,6 +121,6 @@ Votre personnage pourrait utiliser la langue des signes au lieu d'un langage par
 
  Les langues des signes nécessitent généralement deux mains libres pour signifier des choses plus complexes que des concepts de base, ainsi que de l'attention et un contact visual direct de la part des personnes qui voudraient comprendre le message. Comme signer ne produit pas de bruit, ce sont des langages idéaux pour les infiltrations en mode "exploration", mais l'attention requise les rend difficiles à comprendre en combat. Tout comme un personnage ne peut pas engager une conversation complexe tout en maniant l'épée, il ne peut pas non plus communiquer des informations nombreuses en utilisant la langue des signes en combat. Par contre, des concepts simples tels que désigner une cible, se moquer d'un ennemi ou demander à un allié de faire le guêt peuvent être transmis à l'aide de signes aussi facilement qu'ils pourraient l'être en parlant. L'utilisation de la langue des signes peut être difficile dans certaines situations, comme dans les zones à visibilité faible, tout comme il peut être difficile de communiquer verbalement dans les environnements bruyants.
 
- ## Les langages dans le jeu
+## Les langages dans le jeu
 
 Apprendre un nouveau langage ouvre de nouvelles possibilités pour votre personnage, tout particulièrement si vous avez choisi un langage qui correspond à l'aventure (comme le commun des profondeurs avant de s'aventurer sous terre). Même si, dans la plupart des cas, il est relativement aisé de trouver un PNJ qui parle commun, le fait de connaître vous-même le langage local vous permet de comprendre ce que les PNJ se disent entre eux et de communiquer directement avec des PNJ autres que le traducteur. Votre groupe entier pourrait même apprendre un langage très peu connu juste pour pouvoir communiquer secrètement.

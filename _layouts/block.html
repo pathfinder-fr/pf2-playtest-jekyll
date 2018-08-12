@@ -30,7 +30,7 @@ layout: default
         </span>
     </h3>
     {% if page.traits %}
-        <p class="traits">{{ page.traits | sort | join: ", " }}</p>
+        <p class="traits">{{ page.traits | sort | pfr_linkify_list: "/traits/" | join: ", "}}</p>
     {%- endif -%}
 <!-- Dons -->
     {% if page.prerequisites %}

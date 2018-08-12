@@ -49,9 +49,6 @@ collections:
   donsascendance:
     output: true
     category: ["don d'ascendance"]
-  donscompetence:
-    output: true
-    category: ['don de compétence']
   donsclasse:
     output: true
     category: ['don de classe']

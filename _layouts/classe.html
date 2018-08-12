@@ -71,7 +71,7 @@ layout: default
                     ({{don.rarity}})
                 {% endunless %}
             </td>
-            <td>{{don.traits | sort_ignore_accent_marks | join: ", "}}</td>
+            <td>{{don.traits | sort_ignore_accent_marks | pfr_linkify_list: "/traits/" | join: ", "}}</td>
             <td>
                 {{don.summary | markdownify | remove: '<p>' | remove: '</p>'}}
                 {% if don.prerequisites %}
