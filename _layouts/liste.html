@@ -43,7 +43,11 @@ layout: default
                         {%- endif -%}
                     {%- endfor -%}
                 {% elsif col.isAList and item[col.attribute] %}
-                    {{ item[col.attribute] | sort_ignore_accent_marks | join: col.separator }}
+                    {% if col.linkify %}
+                        {{ item[col.attribute] | sort_ignore_accent_marks | pfr_linkify_list: col.linkify | join: col.separator }}
+                    {% else %}
+                        {{ item[col.attribute] | sort_ignore_accent_marks | join: col.separator }}
+                    {% endif %}
                 {% elsif col.isALink %}
                     <a href="
                         {% if item[col.fileName] %}

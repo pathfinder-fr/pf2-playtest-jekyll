@@ -4,8 +4,6 @@ layout: liste
 collection: objetsalchimiques
 includeSource: false
 cols:
-  - title: "VO"
-    attribute: titleEN
   - title: "Niveau"
     attribute: level
   - title: "Rareté"
@@ -14,6 +12,7 @@ cols:
     attribute: traits
     isAList: true
     separator: ", "
+    linkify: "/traits/"
   - title: "Prix"
     attribute: price
 ---

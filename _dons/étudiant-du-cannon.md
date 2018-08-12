@@ -4,6 +4,12 @@ titleEN: Student of the canon
 source: "Playtest Pathfinder"
 layout: block
 
+#PARTIE PROPRE AUX DONS
+
+#Featskill: compétence à laquelle un don est liée
+#           (rien) si général ou utilisable avec toutes compétences
+featskill: Religion
+
 #PARTIE PROPRE AUX BLOCS TECHNIQUES
 
 #Action: (rien), 1/2/3 (1/2/3 action[s]), R (réaction), L (action libre)
@@ -16,7 +22,7 @@ rarity: C
 traits:
   - général
   - compétence
-prerequisites: entraîné en Religion
+prerequisites: Ent en Religion
 frequency:
 cost:
 trigger:

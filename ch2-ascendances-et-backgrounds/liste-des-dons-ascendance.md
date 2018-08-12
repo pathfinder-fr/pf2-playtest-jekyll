@@ -3,6 +3,7 @@ title: Liste des dons d'ascendance
 layout: liste
 collection: donsascendance
 includeSource: false
+smalltable: true
 cols:
   - title: "Niveau"
     attribute: level

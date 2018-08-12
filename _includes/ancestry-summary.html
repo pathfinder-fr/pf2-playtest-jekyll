@@ -26,12 +26,12 @@
               {{page.bonusLanguages}} 
         </li>
         <li>
-            <strong>Traits</strong> {{page.traits | join: ", "}}
+            <strong>Traits</strong> {{page.traits | join: ", " | markdownify}}
         </li>
         {% if page.qualities %}
             <li>
                 <strong>Particularités</strong><br/>
-                {{ page.qualities | join: "<br/>" }}
+                {{ page.qualities | join: "<br/>" | markdownify}}
             </li>
         {%- endif -%}
     </ul>

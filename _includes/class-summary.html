@@ -16,7 +16,7 @@
             <strong>Compétences</strong>
             <ul>
                 <li>Entraîné dans ({{page.skills}} + modificateur d'Intelligence) compétences</li>
-                <li>Compétences de signature : {{page.signatureSkills | join: ", "}}</li>
+                <li>Compétences de signature : {{page.signatureSkills | join: ", " | markdownify}}</li>
             </ul>
         </li>
         <li>
