@@ -3,6 +3,7 @@ title: Liste des dons de classe
 layout: liste
 collection: donsclasse
 includeSource: true
+smalltable: true
 cols:
   - title: "Niveau"
     attribute: level

@@ -2,9 +2,11 @@
 title: "Athlétisme"
 titleEN: "Athletics"
 source: "Playtest Pathfinder"
+toc: true
 ---
 
 Athlétisme (Force)
+
 L’entraînement en Athlétisme est le résultat du conditionnement qui vous autorise à accomplir des prouesses physiques.
 
 ## Utilisations sans entraînement

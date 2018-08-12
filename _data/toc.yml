@@ -58,8 +58,6 @@
       title: Diplomatie
     - url: /ch4-compétences/discrétion.html
       title: Discrétion
-    - url: /ch4-compétences/pratique-du-voleur.html
-      title: Pratique du voleur
     - url: /ch4-compétences/intimidation.html
       title: Intimidation
     - url: /ch4-compétences/médecine.html
@@ -68,6 +66,8 @@
       title: Nature
     - url: /ch4-compétences/occultisme.html
       title: Occultisme
+    - url: /ch4-compétences/pratique-du-voleur.html
+      title: Pratique du voleur
     - url: /ch4-compétences/religion.html
       title: Religion
     - url: /ch4-compétences/représentation.html
@@ -80,6 +80,15 @@
       title: Survie
     - url: /ch4-compétences/tromperie.html
       title: Tromperie
+
+# Chapitre 5 : Dons
+
+- title: Dons généraux
+  items:
+    - url: /ch5-dons-généraux/dons-généraux.html
+      title: Les dons généraux
+    - url: /ch5-dons-généraux/liste-des-dons-généraux.html
+      title: Liste des dons généraux
 
 # Chapitre 6 : Équipement
 
@@ -225,9 +234,16 @@
 
 # Appendices
 
-- title: Appendices
+- title: Glossaires et index
   items:
     - url: /appendices/traits.html
       title: Traits
     - url: /appendices/glossaire.html
       title: Glossaire
+    - url: /index-site.html
+      title: Index général du site
+    - url: /glossairesFREN/trésors.html
+      title: Glossaire FR/EN des trésors
+    - url: /glossairesFREN/dons.html
+      title: Glossaire FR/EN des dons
+
