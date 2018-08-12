@@ -55,22 +55,21 @@ index:
 
 Les joueurs qui incarnent un personnage alchimiste pourraient adopter les approches suivantes :
 
-* Pendant un combat, vous lancez des bombes sur vos ennemis et les harcelez tout en soutenant vos compagnons avec vos élixirs puissants.
-  Aux niveaux supérieurs, vous durcissez votre corps en utilisant des mutagènes.
-* Lors de rencontres sociales, vous fournissez des connaissances et de l’expérience sur les objets alchimiques et les secrets connexes, tels que les poisons et les maladies.
-* Pendant des phases d'exploration, vous gardez un oeil sur d'éventuels problèmes, bombes prêtes, tout en prodiguant des conseils sur tout ce qui concernent l'alchimique et les choses mystérieuses.
-* Pendant les pauses, vous passez du temps dans un laboratoire alchimique à préparer des élixirs, à fabriquer des bombes et à approfondir vos connaissances alchimiques.
+* Au combat, vous lancez des bombes sur vos ennemis et les harcelez tout en soutenant vos compagnons avec vos élixirs puissants. Aux niveaux supérieurs, vous durcissez votre corps en utilisant des mutagènes.
+* Pendant les rencontres sociales, vous fournissez des connaissances et de l’expérience sur les objets alchimiques et les secrets connexes, tels que les poisons et les maladies.
+* Dans les phases d’explorations, vous gardez un oeil sur d'éventuels problèmes, bombes prêtes, tout en prodiguant des conseils sur tout ce qui concernent l'alchimique et les choses mystérieuses.
+* Pendant votre temps libre, vous passez du temps dans un laboratoire alchimique à préparer des élixirs, à fabriquer des bombes et à approfondir vos connaissances alchimiques.
 
 ## Le rôle d'un alchimiste
 
 Les alchimistes recherchent avant tout l'innovation scientifique, combinant des pouvoirs incroyables issus de la nature grâce à leur intelligence vive et leur insatiable curiosité.
 
-**Si vous êtes un alchimiste, alors, très probablement…**
+**Si vous êtes un alchimiste, alors, très probablement...**
 * vous vous amusez avec des formules étranges et des réactifs alchimiques, souvent avec un dévouement et une insouciance qui offrent aux autres une pause.
 * vous faites des ravages avec les préparations alchimiques que vous avez concoctées, et vous vous amusez à regarder les choses brûler, se dissoudre, geler et vibrer.
 * vous expérimentez sans cesse à la recherche de nouveaux outils alchimiques et magiques plus puissants.
 
-**Quant aux autres…**
+**Quant aux autres...**
 * ils pensent que vous êtes au minimum étrange. Ils ne comprennent pas votre zèle pour l’alchimie, la créativité et l’invention.
 * ils craignent que vos créations ne soient dangereuses, volatiles, ou les deux.
 * ils supposent que si vous n’avez pas encore causé de catastrophe avec vos expérimentations, vous le ferez inévitablement.

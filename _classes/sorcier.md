@@ -64,7 +64,7 @@ Les joueurs qui incarnent un personnage sorcier pourraient adopter les approches
 
 * Au combat, vous utilisez vos sorts pour abattre vos ennemis en les blessant, en influençant leurs pensées ou en handicapant leurs mouvements. Vous êtes sans doute trop fragile pour combattre au corps à corps, mais votre lignage pourrait vous rendre capable de tenir le coup dans une rixe. Même si vous disposez de pouvoirs magiques puissants, vous devrez parfois vous contenter d'utiliser vos sortilèges plus faciles afin d'économiser vos meilleurs sorts, ou parce que vous êtes tombés à court de magie plus puissante.
 * Pendant les rencontres sociales, votre charisme naturel fait qu'il vous est aisé d'interagir avec les gens.
-* En mode "exploration", vous pouvez détecter la magie qui pourrait se trouver autour de vous, trouver des trésors ou mettre en garde votre groupe contre les pièges magiques. Quand vous rencontrez des mystères ou des problèmes relatifs à votre lignage, vous pouvez vous atteler à la tâche de les résoudre.
+* Dans les phases d’explorations, vous pouvez détecter la magie qui pourrait se trouver autour de vous, trouver des trésors ou mettre en garde votre groupe contre les pièges magiques. Quand vous rencontrez des mystères ou des problèmes relatifs à votre lignage, vous pouvez vous atteler à la tâche de les résoudre.
 * Pendant votre temps libre, vous pourriez fabriquer des objets magiques ou écrire des parchemins magiques. Votre lignage pourrait vous pousser à tenter d'en savoir plus sur vos ancêtres ou à vous associer avec des gens et des créatures qui partagent votre particularité.
 
 ## Le rôle d'un sorcier
@@ -76,13 +76,13 @@ Les joueurs pourraient considérer les suggestions qui suivent pour leur personn
 * votre lignage vous inspire un mélange de fascination et de peur, allant de l'acceptation totale au rejet violent ;
 * vous comptiez sur les objets magiques tels que les parchemins et les baguettes pour élargir votre panoplie de sorts relativement limitée.
 
-**Quant aux autres…**
+**Quant aux autres...**
 * ils s'émerveillent devant votre capacité pour créer de la magie à partir de rien et considèrent vos capacités avec un mélange à part égale de méfiance et d'admiration ;
 * ils considèrent que vous êtes moins courageux que les magiciens studieux, les prêtres dévoués et les autres lanceurs de sorts, car la magie vous vient naturellement ;
 * ils supposent que vous êtes aussi chaotique et imprévisible que la magie que vous utilisez, même si votre personnalité prouve le contraire.
 
 ## Capacités de classe
-Voici un terme spécifique utilisé dans les descriptions des capacités et des dons du paladin.
+Voici un terme spécifique utilisé dans les descriptions des capacités et des dons du sorcier.
 
 **Métamagie** Les dons avec le trait métamagie vous permettent de modifier les propriétés de vos sorts. Ces dons sont déclenchés quand vous lancez un sort, et vous demande généralement de dépenser une action de jet de sort supplémentaire pour altérer les effets du sort. Vous ne pouvez pas utiliser les dons de métamagie si ajouter une action au sort vous demande plus d’actions qu’il ne vous en reste pour ce tour. Parce que les dons de métamagie ont généralement le même déclencheur, vous ne pouvez habituellement n’en utiliser qu’un seul par sort.
 
@@ -106,14 +106,14 @@ Progression du sorcier
 | 9 | [Augmentation de compétence](#augmentation-de-compétence), [don d'ascendance](#dons-dascendance), [sorts de niveau 5](#sorts-de-sorcier)
 | 10 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [don de compétence](#dons-de-compétence), [pouvoir de lignage supérieur](#les-lignages)
 | 11 | [Augmentation de compétence](#augmentation-de-compétence), [don général](#dons-généraux), [sorts de niveau 6](#sorts-de-sorcier)
-| 12 | [Don de compétence](#dons-de-compétence), [lanceur de sorts expert](#lanceur-de-sorts-expert-niveau-12)
+| 12 | [Don de compétence](#dons-de-compétence), [lanceur de sorts expert](#lanceur-de-sorts-expert)
 | 13 | [Augmentation de compétence](#augmentation-de-compétence), [don d'ascendance](#dons-dascendance), [sorts de niveau 7](#sorts-de-sorcier)
 | 14 | [Don de compétence](#dons-de-compétence), [don de sorcier](#dons-de-sorcier)
 | 15 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [augmentation de compétence](#augmentation-de-compétence), [don général](#dons-généraux), [sorts de niveau 8](#sorts-de-sorcier)
-| 16 | [Don de compétence](#dons-de-compétence), [maître lanceur de sorts](#maître-lanceur-de-sorts-niveau-16)
+| 16 | [Don de compétence](#dons-de-compétence), [maître lanceur de sorts](#maître-lanceur-de-sorts)
 | 17 | [Augmentation de compétence](#augmentation-de-compétence), [don d'ascendance](#dons-dascendance), [sorts de niveau 9](#sorts-de-sorcier)
 | 18 | [Don de compétence](#dons-de-compétence), [don de sorcier](#dons-de-sorcier)
-| 19 | [Augmentation de compétence](#augmentation-de-compétence), [don général](#dons-généraux), [lanceur de sorts légendaire](#lanceur-de-sorts-légendaire-niveau-19)
+| 19 | [Augmentation de compétence](#augmentation-de-compétence), [don général](#dons-généraux), [lanceur de sorts légendaire](#lanceur-de-sorts-légendaire)
 | 20 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [don de compétence](#dons-de-compétence), [don de sorcier](#dons-de-sorcier)
 
 ### Lignage
@@ -170,11 +170,11 @@ Certains de vos sorts nécessitent d'effectuer un jet de sort pour déterminer l
 
 #### Élever des sorts
 
-Quand vous obtenez des emplacements de sorts de niveau 2 et plus, vous pouvez élever vos sorts de plus bas niveau vers des niveaux supérieurs. Vous devez les apprendre à ce niveau supérieur pour pouvoir le faire. Le capacité de classe d'[élévation spontanée](#élévation-spontanée-niveau-3) vous permet de choisir deux sorts que vous pouvez élever librement.
+Quand vous obtenez des emplacements de sorts de niveau 2 et plus, vous pouvez élever vos sorts de plus bas niveau vers des niveaux supérieurs. Vous devez les apprendre à ce niveau supérieur pour pouvoir le faire. Le capacité de classe d'[élévation spontanée](#élévation-spontanée) vous permet de choisir deux sorts que vous pouvez élever librement.
 
 #### Sortilèges
 
-Certains de vos sorts sont des sortilèges. Un sortilège est un type de sort spécial qui n'utilise pas d'emplacement de sort. Vous pouvez lancer les sortilèges à volonté, autant de fois par jour que vous le voulez. Un sortilège est toujours automatiquement élevé au plus haut niveau de sorts auquel vous avez accès en tant que sorcier. Par exemple, en tant que sorcier de niveau 1, le plus haut niveau de sorts auquel vous avez accès est le 1er ; vos sortilèges sont dont des sorts de niveau 1. En tant que sorcier de niveau 5, le plus haut niveau de sorts auquel vous avez accès est le 3e ; vos sortilèges sont donc alors de niveau 3.
+Certains de vos sorts sont des sortilèges. Un sortilège est un type de sort spécial qui n'utilise pas d'emplacement de sort. Vous pouvez lancer les sortilèges à volonté, autant de fois par jour que vous le voulez. Un sortilège est toujours automatiquement élevé au plus haut niveau de sorts auquel vous avez accès en tant que sorcier. Par exemple, en tant que sorcier de niveau 1, le plus haut niveau de sorts auquel vous avez accès est le 1er ; vos sortilèges sont donc des sorts de niveau 1. En tant que sorcier de niveau 5, le plus haut niveau de sorts auquel vous avez accès est le 3e ; vos sortilèges sont donc alors de niveau 3.
 
 ### Répertoire de sorts
 

@@ -24,6 +24,11 @@ signatureSkills:
   - Arcanes
   - Artisanat
   - Médecine
+
+index:
+  - key: NOM_CAPACITE (capacité du XX_CLASSE)
+    anchor: "LIEN_CAPACITE"
+
 ---
 
 * Liste pour toc
@@ -35,7 +40,10 @@ signatureSkills:
 
 Les joueurs qui incarnent un personnage XX_CLASSE pourraient adopter les approches suivantes :
 
-* Blabla au présent
+* Au combat, Blabla au présent
+* Pendant les rencontres sociales,
+* Dans les phases d’explorations,
+* Pendant votre temps libre,
 
 ## Le rôle du XX_CLASSE
 Blablabla
@@ -43,13 +51,15 @@ Blablabla
 **Si vous êtes un XX_CLASSE, alors, très probablement...**
 * Blabla au présent
 
-**Quant aux autres…**
+**Quant aux autres...**
 * Blabla au présent
 
 ## Capacités de classe
+Voici quelques termes spécifiques utilisés dans les descriptions des capacités et des dons du XX_CLASSE.
+
+**MOT_CLEF** BLABLA
 
 Vous gagnez les capacités suivantes en tant que XX_CLASSE. 
-
 
 {: .tabletitle}
 Progression du XX_CLASSE
@@ -116,8 +126,3 @@ Au niveau 5 et tous les 5 niveaux ensuite, vous pouvez accroitre 4 caractéristi
 
 ### Dons d'ascendance
 En plus du don d'ascendance avec lequel vous commencez, vous gagnez un don d'ascendance au niveau 5 puis tous les 4 niveaux ensuite. La liste des dons d'ascendance disponibles pour vous se trouve au niveau de votre ascendance, dans le Chapitre <mark>2</mark>.
-
-## Termes techniques
-Voici quelques termes spécifiques utilisés dans les descriptions des capacités et des dons du XX_CLASSE.
-
-**MOT_CLEF :** BLABLA
