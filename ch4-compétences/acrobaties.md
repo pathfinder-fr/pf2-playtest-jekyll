@@ -20,6 +20,7 @@ index:
   - key: "manœuvre en vol"
     anchor: "manœuvre-en-vol"
 ---
+# Acrobaties (Dextérité)
 
 La compétence Acrobaties mesure votre capacité à accomplir des exploits physiques qui nécessitent de l’équilibre, de la coordination et de la grâce.
 

@@ -13,20 +13,23 @@ index:
     anchor: "fabriquer"
 ---
 
-#Artisanat (Intelligence)
+# Artisanat (Intelligence)
 
 Vous pouvez utiliser cette compétence pour créer et réparer des objets.
 
-##Utilisation de la compétence Artisanat sans entraînement
+## Utilisation de la compétence Artisanat sans entraînement
 Vous pouvez utiliser la compétence Artisanat sans entraînement de la manière suivante :
 
-###Réparer
+### Réparer
 >
 >> {: .traits}
 > Manipulation
 >
 > ---
-> Conditions Vous devez utiliser un nécessaire de réparation (voir page 187).
+> **Conditions** Vous devez utiliser un nécessaire de réparation (voir page 187).
+>
+> ---
+> 
 > Vous passez une heure à essayer de réparer un objet (abimé) ou (brisé). 
 > Le MJ définit le DD mais il est souvent plus difficile de réparer un objet magique ou de qualité supérieure. 
 > Vous ne pouvez pas réparer un objet détruit.
@@ -37,10 +40,10 @@ Vous pouvez utiliser la compétence Artisanat sans entraînement de la manière 
 >
 > **Échec critique** Vous abimez l’objet. Si l’objet est magique, ce coup ne peut pas le détruire.
 
-##Utilisation de la compétence Artisanat avec entraînement
+## Utilisation de la compétence Artisanat avec entraînement
 Vous pouvez tenter l’utilisation de la compétence Artisanat suivante seulement si vous êtes entraîné dans cette compétence
 
-###Fabriquer
+### Fabriquer
 >
 > {: .traits}
 > Manipulation

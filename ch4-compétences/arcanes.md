@@ -20,6 +20,7 @@ index:
   - key: "manoeuvre en vol"
     anchor: "manoeuvre-en-vol"
 ---
+# Arcanes (Intelligence)
 
 Cette compétence mesure ce que vous connaissez de l’alchimie, des sorts arcaniques et des plus communs des objets magiques. 
 De plus, elle détermine votre niveau d’information sur l’alchimie et les énergies arcaniques ainsi que le savoir sur les créatures qui leurs sont associés.
@@ -33,8 +34,9 @@ Si vous êtes entrainé en Arcanes, peu importe que vous soyez lanceur de sorts 
 > 
 > {: .traits}
 >
-> Concentration
-> Secret
+> concentration
+> secret
+> 
 > ---
 > Vous tentez un test d’Arcanes pour essayer de vous remémorer un bout des connaissances concernant les réactions alchimiques, les théories arcaniques, les traditions magiques ou les créatures ayant une importance alchimique ou magique. Le MJ détermine les DD pour de tels tests.
 >

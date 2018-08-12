@@ -3,9 +3,19 @@ title: "Athlétisme"
 titleEN: "Athletics"
 source: "Playtest Pathfinder"
 toc: true
+
+index:
+  - key: "Athlétisme (compétence)"
+    anchor: ""
+  - key: "Escalader"
+    anchor: "escalader"
+  - key: "Forcer l'ouverture"
+    anchor: "forcer-l'ouverture"
+  - key: "Se libérer d'une prise"
+    anchor: "se-libérer-d'une-prise"
 ---
 
-Athlétisme (Force)
+# Athlétisme (Force)
 
 L’entraînement en Athlétisme est le résultat du conditionnement qui vous autorise à accomplir des prouesses physiques.
 
