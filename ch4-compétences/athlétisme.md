@@ -1,5 +1,5 @@
 ---
-title: "Athlétisme"
+title: "Athlétisme (Force)"
 titleEN: "Athletics"
 source: "Playtest Pathfinder"
 toc: true
@@ -12,7 +12,7 @@ index:
   - key: "Escalader"
     anchor: "escalader"
   - key: "Forcer l'ouverture"
-    anchor: "forcer-l'ouverture"
+    anchor: "forcer-louverture"
   - key: "Mettre à terre"
     anchor: "mettre-à-terre"
   - key: "Nager"
@@ -24,13 +24,11 @@ index:
   - key: "Sauter en longueur"
     anchor: "sauter-en-longueur"
   - key: "Se libérer d'une prise"
-    anchor: "se-libérer-d'une-prise"
+    anchor: "se-libérer-dune-prise"
   - key: "Désarmer"
     anchor: "désarmer"
 
 ---
-
-# Athlétisme (Force)
 
 L’entraînement en Athlétisme est le résultat du conditionnement qui vous autorise à accomplir des prouesses physiques.
 
@@ -38,7 +36,8 @@ L’entraînement en Athlétisme est le résultat du conditionnement qui vous au
 Les utilisations de la compétence sans entraînement sont les suivants :
 
 {: .block .action1}
-### Agripper (action)
+> ### Agripper (action)
+> 
 > {: .traits}
 > Attaque
 >
@@ -59,7 +58,7 @@ Les utilisations de la compétence sans entraînement sont les suivants :
 > **Échec critique** Si vous aviez déjà agrippé ou entravé votre adversaire, celui-ci est libre. Votre cible peut vous agripper comme si elle était parvenue à réaliser l’action agripper contre vous ou vous forcer à tomber et vous mettre à terre.
 
 {: .block .action1}
-### Escalader
+> ### Escalader
 >
 > {: .traits}
 > Mouvement
@@ -82,7 +81,8 @@ Les utilisations de la compétence sans entraînement sont les suivants :
 > **Échec critique** Vous tombez [voir page 310]. Si vous avez commencé l’escalade sur un sol stable, vous tombez et atterrissez à terre.
 
 {: .block .action1}
-### Forcer l'ouverture
+> ### Forcer l'ouverture
+> 
 > {: .traits}
 > attaque
 > 
@@ -98,7 +98,8 @@ Les utilisations de la compétence sans entraînement sont les suivants :
 > **Échec critique** Votre tentative fausse la porte, la fenêtre ou le récipient, imposant une pénalité de circonstance de -2 à toutes les futures tentatives de l’ouvrir.
 
 {: .block .action1}
-### Mettre à terre
+> ### Mettre à terre
+> 
 > {: .traits}
 > Attaque
 >
@@ -119,7 +120,8 @@ Les utilisations de la compétence sans entraînement sont les suivants :
 > **Échec critique** Vous perdez l’équilibre et chutez pour vous retrouver à terre. 
 
 {: .block .action1}
-### Nager
+> ### Nager
+> 
 > {: .traits}
 > Mouvement
 > 
@@ -136,7 +138,8 @@ Les utilisations de la compétence sans entraînement sont les suivants :
 > **Échec critique** Vous ne faites aucun progrès et cette action compte comme deux actions lorsqu’il s’agit de retenir votre souffle.
 
 {: .block .action1}
-### Pousser
+> ### Pousser
+> 
 > {: .traits}
 > Attaque
 >
@@ -156,11 +159,13 @@ Faites un test d’Athlétisme contre le DD de Vigueur de votre adversaire.
 > **Échec critique** Vous perdez l’équilibre et chutez pour vous retrouver à terre. 
 
 {: .block .action1}
-### Sauter en hauteur
+> ### Sauter en hauteur
+> 
 > Vous prenez de l’élan et si vous avez parcouru au moins 2 cases, lancez un test d’Athlétisme contre un DD30 pour tenter un saut vertical. 
 > Ce DD peut être augmenté ou diminué en fonction de la situation, tel que déterminé par le MJ.
 >
 > **Réussite** Vous sautez et augmentez la distance verticale de 1,5 m.
+> 
 > **Réussite critique** Vous sautez et soit vous augmentez la distance verticale à 2,10 m soit vous augmentez la distance verticale de 1,5 m et la distance horizontale de 2 cases.
 >
 > **Échec** Vous sautez de la hauteur maximale permise par l’action Sauter.
@@ -168,8 +173,10 @@ Faites un test d’Athlétisme contre le DD de Vigueur de votre adversaire.
 > **Échec critique** Au lieu de sauter, vous tombez à terre dans votre case.
 
 {: .block .action1}
-### Sauter en longueur
+> ### Sauter en longueur
+> 
 > Vous prenez de l’élan et si vous avez parcouru au moins 2 cases, faites un test d’Athlétisme pour essayer de sauter horizontalement dans la même direction. Le DD du test est égal à 5 plus la distance totale en incrément de 33,33 cm que vous essayez de franchir durant votre saut (ainsi sauter 4 cases nécessitera que vous battiez un DD 25) 
+> 
 > Vous ne pouvez sauter plus que votre Vitesse.
 Ce DD peut être augmenté ou diminué en fonction de la situation, tel que déterminé par le MJ.
 >
@@ -180,7 +187,7 @@ Ce DD peut être augmenté ou diminué en fonction de la situation, tel que dét
 > **Échec critique** Vous sautez de la distance maximale obtenue par l’action de sauter, avant de tomber à terre.
 
 {: .block .action1}
-### Se libérer d'une prise
+> ### Se libérer d'une prise
 >
 > Vous tentez de vous libérer de la prise d’un adversaire avec un test d’Athlétisme contre le DD de cette créature.
 >
@@ -194,7 +201,8 @@ Ce DD peut être augmenté ou diminué en fonction de la situation, tel que dét
 Vous pouvez accomplir l’utilisation suivante d’Athlétisme seulement si vous êtes au moins entraîné dans cette compétence.
 
 {: .block .action1}
-### Désarmer (action)
+> ### Désarmer (action)
+> 
 > {: .traits}
 > Attaque
 >

@@ -42,7 +42,7 @@ En dehors du fait qu'ils sont originaires du Royaume des fées, les gnomes n'ont
 Les gnomes évitent l'ordre, et par conséquent la plupart adorent les divinités qui valorisent l'individualité et la nature, comme le dieu de l'aventure, la déesse du voyage, le dieu de la nature et la déesse de la beauté.
 
 ## Les aventuriers gnomes
-Certains choix de background sont particulièrement judicieux pour les gnomes. Vous pouvez ainsi choisir l'artiste si vous avec grandi devant une foule, le marchand si vous avez été élevé dans une entreprise familiale ou le nomade si vous avez voyagé d'un endroit à l'autre avec vos proches. En outre, les backgrounds d'ami des animaux, de tavernier et de paysan sont tous adaptés au mode de vie des gnomes.
+Certains choix de background sont particulièrement judicieux pour les gnomes. Vous pouvez ainsi choisir l'artiste si vous avec grandi devant une foule, le marchand si vous avez été élevé dans une entreprise familiale ou le nomade si vous avez voyagé d'un endroit à l'autre avec vos proches. En outre, l'ami des animaux, le tavernier et le paysan sont tous adaptés au mode de vie des gnomes.
 
 Lorsque vous décidez d'une classe, notez que la connexion des gnomes avec le monde naturel fait d'eux des rôdeurs ou des druides pertinents. Alors que les gnomes ne sont pas souvent forts physiquement, ils sont souvent doués avec la magie, en particulier la magie qui provient du Royaume des fées, ce qui en fait d’excellents bardes et sorciers.
 
