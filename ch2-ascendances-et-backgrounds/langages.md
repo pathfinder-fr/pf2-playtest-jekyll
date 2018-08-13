@@ -58,7 +58,7 @@ index:
 
 ---
 
-Les peuples du Monde de jeu parlent des dizaines de langues différentes, voire des centaines si on compte les dialectes et les patois locaux. Un personnage peut généralement s'en tirer en parlant le commun mais connaître d'autres langages est vital dans certaines région. Être capable de parler d'autres langues peut vous aider à dialoguer plus efficacement, à espionner des ennemis ou tout simplement à réaliser de meilleures transactions commerciales. Les langues vous donnent également l'occasion de plonger votre personnage dans le contexte du monde de jeu et d'expliquer certains autres choix de personnage.
+Les peuples du Monde de jeu parlent des dizaines de langues différentes, voire des centaines si on compte les dialectes et les patois locaux. Un personnage peut généralement s'en tirer en parlant le commun mais connaître d'autres langages est vital dans certaines régions. Être capable de parler d'autres langues peut vous aider à dialoguer plus efficacement, à espionner des ennemis ou tout simplement à réaliser de meilleures transactions commerciales. Les langues vous donnent également l'occasion de plonger votre personnage dans le contexte du monde de jeu et d’expliquer certains autres choix de personnage.
 
 La description de l'ascendance de votre personnage indique les langages qu'il parle au niveau 1. S'il a une valeur d'Intelligence de 14 ou plus, il reçoit un langage supplémentaire qu'il peut choisir parmi la liste présentée dans la description de son ascendance ou parmi ceux qui sont courants dans la région où il habite ou dans l'ethnie à laquelle il appartient.
 
@@ -66,7 +66,7 @@ Les langages présentés dans cette section sont regroupés en fonction de la fr
 
 Pathfinder inclut également le language druidique, un langage secret qui n'est pas accessible aux personnages à part aux druides, et que les druides ne peuvent pas apprendre à des non druides.
 
-Votre personnage peut bien sûr apprendre d'autres langages au cours de sa carrière d'aventurier. Par exemple, le don [/dons/multilingue.html] donne deux nouveaux langages qui peuvent être choisis parmi ceux qui sont repris dans les langages courants ou peu courant ci-dessous. D'autres capacités et effets pourraient donner accès à des langages courants ou peu courants si leur description le précise.
+Votre personnage peut bien sûr apprendre d'autres langages au cours de sa carrière d'aventurier. Par exemple, le don [multilingue](/dons/multilingue.html) donne deux nouveaux langages qui peuvent être choisis parmi ceux qui sont repris dans les langages courants ou peu courants ci-dessous. D'autres capacités et effets pourraient donner accès à des langages courants ou peu courants si leur description le précise.
 
 {: .tabletitle #langagescourants}
 Langages courants
@@ -77,12 +77,12 @@ Langages courants
 | commun | humains, nains, elfes, halflings et les autres ascendances courantes
 | commun des profondeurs | drows, duergars, morlocks
 | draconique | dragons, humanoïdes reptiliens
-| nain | nains
 | elfe | elfes, demi-elfes
 | gnome | gnomes
 | gobelin | gobelins, gobelours, hobgobelins
 | halfling | hallfings
 | jotun | géants, ogres, trolls, ettins, cyclopes
+| nain | nains
 | orque | orques, demi-orques
 | sylvestre | fées, centaures, créatures végétales
 
