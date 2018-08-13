@@ -1,5 +1,5 @@
 ---
-title: "Arcanes"
+title: "Arcanes (Intelligence)"
 titleEN: "Arcana"
 source: "Playtest Pathfinder"
 toc: true

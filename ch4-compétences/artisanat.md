@@ -1,5 +1,5 @@
 ---
-title: "Artisanat"
+title: "Artisanat (Intelligence)"
 titleEN: "Craft"
 source: "Playtest Pathfinder"
 toc: true
@@ -13,16 +13,14 @@ index:
     anchor: "fabriquer"
 ---
 
-# Artisanat (Intelligence)
-
 Vous pouvez utiliser cette compétence pour créer et réparer des objets.
 
 ## Utilisation de la compétence Artisanat sans entraînement
 Vous pouvez utiliser la compétence Artisanat sans entraînement de la manière suivante :
 
-### Réparer
+> ### Réparer
 >
->> {: .traits}
+> {: .traits}
 > Manipulation
 >
 > ---
@@ -43,7 +41,7 @@ Vous pouvez utiliser la compétence Artisanat sans entraînement de la manière 
 ## Utilisation de la compétence Artisanat avec entraînement
 Vous pouvez tenter l’utilisation de la compétence Artisanat suivante seulement si vous êtes entraîné dans cette compétence
 
-### Fabriquer
+> ### Fabriquer
 >
 > {: .traits}
 > Manipulation
