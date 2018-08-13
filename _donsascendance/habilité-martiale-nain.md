@@ -21,7 +21,7 @@ cost:
 trigger: 
 requirements:
 
-summary: "effets de spécialisation critique avec haches, marteaux et pioches"
+summary: "vous gagnez l'effet de spécialisation critique avec haches, marteaux et pioches"
 ---
 
 Quand vous faites une attaque critique avec une arme des groupes haches, marteaux ou pioches, vous appliquez l'effet de spécialisation critique.

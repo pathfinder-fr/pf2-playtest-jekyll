@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "+1 Diplomacie, Perception, jds contre les créatures féériques"
+summary: "vous gagnez +1 en Diplomacie, Perception et jds contre les créatures féériques"
 ---
 
-Vos origines féériques vous offrent un accueil plus chaleureux de la part des créatures du Royaume des fées, ainsi que des outils pour déjouer leur ruses. Contre les créatures féériques, vous gagnez un bonus de circonstances de +1 aux tests de Diplomatie, de Perception et aux jets de sauvegarde.
+Vos origines féériques vous offrent un accueil plus chaleureux de la part des créatures du Royaume des fées, ainsi que des outils pour déjouer leurs ruses. Contre les créatures féériques, vous gagnez un bonus de circonstances de +1 aux tests de Diplomatie, de Perception et aux jets de sauvegarde.

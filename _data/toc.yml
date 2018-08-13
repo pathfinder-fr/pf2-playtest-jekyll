@@ -188,8 +188,10 @@
 
 - title: Maîtriser à Pathfinder
   items:
-    - url: /ch10-maîtriser-à-pathfinder/préparer-une-session-de-jeu.html
-      title: Préparer une session de jeu
+    - url: /ch10-maîtriser-à-pathfinder/maîtriser-à-pathfinder.html
+      title: Maîtriser à Pathfinder
+    - url: /ch10-maîtriser-à-pathfinder/mener-une-session-de-jeu.html
+      title: Mener une session de jeu
     - url: /ch10-maîtriser-à-pathfinder/gérer-les-modes-de-jeu.html
       title: Gérer les modes de jeu
     - url: /ch10-maîtriser-à-pathfinder/degrés-de-difficulté.html

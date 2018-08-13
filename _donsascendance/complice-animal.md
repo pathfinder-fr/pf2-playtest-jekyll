@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "Gain d'un familier"
+summary: "vous gagnez d'un familier"
 ---
 
-Une relation se développe entre vous et un animal, qui devient magiquement lié à vous. Vous gagnez un familier (voir page <mark>287</mark>). Le type d'animal dépend de vous, mais la plupart des gnomes choisissent des animaux qui possèdent une vitesse de fouissement.
+Une relation se développe entre vous et un animal, qui devient magiquement lié à vous. Vous gagnez un familier (voir page <mark>287</mark>). Le type d'animal dépend de vous, mais la plupart des gnomes choisissent des animaux qui possèdent une Vitesse de fouissement.

@@ -22,7 +22,7 @@ cost:
 trigger: "Vous effectuez un jet de sauvegarde contre un effet magique."
 requirements:
 
-summary: "+2 aux jds mais -2 PR"
+summary: "vous gagnez +2 aux jds mais perdez -2 PR"
 ---
 
 La résistance à la magie qui était innée chez vos ancêtres se manifeste en vous. Vous gagnez un bonus de circonstances de +2 au jet de sauvegarde déclencheur.

@@ -22,7 +22,7 @@ cost:
 trigger:
 requirements:
 
-summary: "résistance au feu"
+summary: "vous êtes plus résistant au feu"
 ---
 
 À la suite d'un accident avec des flammes dans votre enfance ou d'une fascination constante pour le feu, votre peau s'est épaissie et vous protège des brûlures. Vous gagnez une résistance au feu égale à la moitié de votre niveau (minimum 1) et votre test pur pour éliminer les dégâts continus de feu (voir page <mark>323</mark>) est un DD de 15 au lieu de 20, sans nécessiter une action pour réduire le DD.

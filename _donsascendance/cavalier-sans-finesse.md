@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "don Ride et +1 Nature avec un loup / chien de gobelin"
+summary: "vous gagnez le don Équitation et +1 en Nature avec un loup / chien de gobelin"
 ---
 
-Toute créature qui supportera votre poids peut devenir votre fidèle monture, et vous savez comment amadouer et mettre à votre service les bêtes les plus étranges. Vous gagnez le don Equitation, même si vous ne remplissez pas les prérequis. Vous obtenez un bonus de circonstances de +1 aux tests de Nature pour Amadouer une monture loup ou chien de gobelin. Pour plus d'informations sur la compétence Nature, voir page <mark>152</mark>.
+Toute créature qui supportera votre poids peut devenir votre fidèle monture, et vous savez comment amadouer et mettre à votre service les bêtes les plus étranges. Vous gagnez le don Équitation, même si vous ne remplissez pas les prérequis. Vous obtenez un bonus de circonstances de +1 aux tests de Nature pour Amadouer une monture telle qu'un loup ou un chien de gobelin. Pour plus d'informations sur la compétence Nature, voir page <mark>152</mark>.

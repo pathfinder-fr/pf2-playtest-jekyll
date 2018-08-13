@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "effets de spécialisation critique avec glaive, kukri et arme gnome"
+summary: "vous gagnez l'effet de spécialisation critique avec glaive, kukri et arme gnome"
 ---
 
 Vous produisez des résultats exceptionnels en maniant des armes peu communes. Chaque fois que vous faites une attaque critique avec un glaive, un kukri ou une arme gnome, vous appliquez l'effet de spécialisation critique de l'arme.

@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "+1 aux dégâts de feu (directs ou continus)"
+summary: "vous gagnez +1 aux dégâts de feu (directs ou continus)"
 ---
 
 Le feu vous fascine. Vos sorts et objets alchimiques qui infligent des dégâts de feu bénéficient d'un bonus de condition aux dégâts égal à la moitié du niveau du sort ou du niveau de l'objet (minimum 1). Vous bénéficiez également d'un bonus de condition de +1 à tous les dégâts continus de feu que vous infligez, qu'il s'agisse d'un sort ou non.

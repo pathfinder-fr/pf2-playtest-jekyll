@@ -21,9 +21,9 @@ cost:
 trigger:
 requirements:
 
-summary: "-1 round confus/effrayé/stupéfié ; immunisé aux effets de sommeil"
+summary: "vous gagnez -1 round confus/effrayé/stupéfié ; immunisé aux effets de sommeil"
 ---
 
 Votre contrôle mystique et votre méditation vous permettent de résister aux influences extérieures sur votre conscience. Lorsque vous devriez être confus, effrayé ou stupéfié pendant au moins 2 rounds, réduisez la durée d'un round.
 
-Vous avez toujours besoin de dormir normalement, mais vous êtes immunisé contre les effets de sommeil. Cela ne protège que contre le fait d'être endormi, pas contre d'autres formes de perte de conscience.
+Vous avez toujours besoin de dormir normalement, mais vous êtes immunisé contre les effets de sommeil. Cela ne protège que contre le fait d'être endormi,mais bien contre d'autres formes de perte de conscience.

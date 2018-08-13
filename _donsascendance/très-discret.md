@@ -21,9 +21,9 @@ cost:
 trigger:
 requirements:
 
-summary: "Déplacement furtive plus rapide et Discrétion en combat"
+summary: "vous vous Déplacez furtivement plus rapidement et vous gagnez en Discrétion en combat"
 ---
 
-Les plus grands font rarement attention aux ombres à leurs pieds et vous en tirez pleinement parti. Vous pouvez vous déplacer de 1 case de plus lorsque vous Vous déplacez furtivement, au maximum à votre vitesse (voir page <mark>158</mark>).
+Les plus grands font rarement attention aux ombres à leurs pieds et vous en tirez pleinement parti. Vous pouvez vous déplacer de 1 case de plus lorsque vous vous Déplacez furtivement, au maximum à votre Vitesse (voir page <mark>158</mark>).
 
-De plus, si vous obtenez une réussite critique lors d'un test de Discrétion contre une créature et que vous attaquez ensuite cette créature, votre cible est prise au dépourvu pendant votre attaque. Le MJ ne révèle pas que votre tentative de Discrétion est une réussite critique tant que vous n’avez pas annoncé que vous attaquiez.
+De plus, si vous obtenez une réussite critique lors d'un test de Discrétion contre une créature et que vous attaquez ensuite cette créature, votre cible est prise au dépourvu pendant votre attaque. Le MJ ne révèle pas que votre tentative de Discrétion est une réussite critique tant que vous n’avez pas annoncé que vous attaquez.

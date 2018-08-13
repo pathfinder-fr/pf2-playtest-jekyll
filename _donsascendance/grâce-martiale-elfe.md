@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "effets de spécialisation critique avec arcs et épées"
+summary: "vous gagnez l'effet de spécialisation critique avec arcs et épées"
 ---
 
 Vous êtes en harmonie avec les armes de vos ancêtres elfes et les utilisez de manière particulièrement mortelle. Chaque fois que vous faites une attaque critique avec une arme des groupes arcs ou épées, vous appliquez l'effet de spécialisation critique de l'arme.
