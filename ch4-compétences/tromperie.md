@@ -11,6 +11,8 @@ index:
     anchor: "mentir"
   - key: "Créer une diversion"
     anchor: "créer-une-diversion"
+  - key: "Se faire passer pour quelqu'un d'autre"
+    anchor: "Se faire passer pour quelquun d'autre"
   - key: "Feinter"
     anchor: "feinter"
   
@@ -64,7 +66,7 @@ Vous pouvez utiliser la compétence Tromperie sans entraînement des manières s
 >
 > **Échec** La créature peut dire que vous n’êtes pas celui que vous prétendez être.
 
-Utilisations de la compétence Tromperie avec entraînement
+## Utilisations de la compétence Tromperie avec entraînement
 Vous ne pouvez utiliser la compétence Tromperie de la manière suivante que si vous y êtes entrainé :
 
 {: .block .action1}
