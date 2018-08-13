@@ -1,6 +1,6 @@
 ---
-title: Expansion des sortilèges
-titleEN: Cantrip Expansion
+title: Ballade apaisante
+titleEN: Soothing Ballad
 source: "Playtest Pathfinder"
 layout: block
 
@@ -9,20 +9,19 @@ layout: block
 #Action: (rien), 1/2/3 (1/2/3 action[s]), R (réaction), L (action libre)
 action: 
 type: don
-level: 4
+level: 14
 #Rareté : C (commun), PC (peu commun), R (rare), U (unique)
 rarity: C
 
 traits:
   - barde
-  - sorcier
 prerequisites: 
 frequency: 
 cost:
 trigger: 
-requirements: 
+requirements:
 
-summary: "2 nouveaux sortilèges connus"
+summary: "pouvoir de composition : ballade apaisante"
 ---
 
-Vous ajoutez deux nouveaux sortilèges de votre liste de sorts vers votre répertoire.
+Vous apprenez le pouvoir de composition *ballade apaisante* (voir page <mark>257</mark>), que vous pouvez lancer en dépensant 2 Points de magie. Augmentez votre réserve de Points de magie de 2.

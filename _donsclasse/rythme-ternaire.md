@@ -1,6 +1,6 @@
 ---
-title: Expansion des sortilèges
-titleEN: Cantrip Expansion
+title: Rythme ternaire
+titleEN: Triple time
 source: "Playtest Pathfinder"
 layout: block
 
@@ -15,14 +15,13 @@ rarity: C
 
 traits:
   - barde
-  - sorcier
 prerequisites: 
 frequency: 
 cost:
 trigger: 
-requirements: 
+requirements:
 
-summary: "2 nouveaux sortilèges connus"
+summary: "sortilège de composition : rythme ternaire (Vitesse accrue)"
 ---
 
-Vous ajoutez deux nouveaux sortilèges de votre liste de sorts vers votre répertoire.
+Vous apprenez le sortilège de composition *rythme ternaire* (voir page <mark>266</mark>), qui vous permet, vous et vos alliés, d'accroitre votre Vitesse pour un round.

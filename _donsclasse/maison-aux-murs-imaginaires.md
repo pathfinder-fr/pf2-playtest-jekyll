@@ -1,6 +1,6 @@
 ---
-title: Expansion des sortilèges
-titleEN: Cantrip Expansion
+title: Maison aux murs imaginaires
+titleEN: House of imaginary walls
 source: "Playtest Pathfinder"
 layout: block
 
@@ -9,20 +9,19 @@ layout: block
 #Action: (rien), 1/2/3 (1/2/3 action[s]), R (réaction), L (action libre)
 action: 
 type: don
-level: 4
+level: 10
 #Rareté : C (commun), PC (peu commun), R (rare), U (unique)
 rarity: C
 
 traits:
   - barde
-  - sorcier
 prerequisites: 
 frequency: 
 cost:
 trigger: 
-requirements: 
+requirements:
 
-summary: "2 nouveaux sortilèges connus"
+summary: "sortilège de composition : Maison aux murs imaginaires"
 ---
 
-Vous ajoutez deux nouveaux sortilèges de votre liste de sorts vers votre répertoire.
+Vous apprenez le sortilège de composition *Maison aux murs imaginaires* (voir page <mark>230</mark>).
