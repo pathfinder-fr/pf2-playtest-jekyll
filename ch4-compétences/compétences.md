@@ -65,15 +65,29 @@ Comme les utilisations de ces compétences ne sont pas exhaustives, il y aura de
 Tableau des compétences, de leurs caractéristiques liées et leurs utilisations
 
 {: .table .table-striped .table-sm .table-hover}
-| Compétence | Caractéristique liée	| Utilisations sans entraînement | utilisation entrainées
-| :--- | --- | --- | ----: 
-| **Acrobaties** | **Dextérité** | Avancer sans tomber (action) | manoeuvre en vol (action)
-|   |   | Garder son équilibre (action libre) |   
-|   |   | Se faufiler (activité) |  	
-|   |   | Se libérer (action) |   
-|   |   | Se rattraper au bord (réaction) |  
-|   |   | Traverser l'espace d'un ennemi (action) | 
-| **Arcanes** | **Intelligence** | Se souvenir de connaissances (action) | Apprendre un sort arcanique (activité)
-|   |   |   | Emprunter un sort arcanique (activité)
-|   |   |   | Identifier un objet/lieu/effet magique (activité)
-|   |   |   | Lire un écrit magique (activité)
+| Compétence     | Caractéristique liée                      | Utilisations sans entraînement          | utilisation entrainées                            |
+| :------------- | ----------------------------------------- | --------------------------------------- | ------------------------------------------------: |
+| **Acrobaties** | **Dextérité**                             | Avancer sans tomber (action)            | manoeuvre en vol (action)                         |
+|                |                                           | Garder son équilibre (action libre)     |
+|                |                                           | Se faufiler (activité)                  |
+|                |                                           | Se libérer (action)                     |
+|                |                                           | Se rattraper au bord (réaction)         |
+|                |                                           | Traverser l'espace d'un ennemi (action) |
+| **Arcanes**    | **Intelligence**                          | Se souvenir de connaissances (action)   | Apprendre un sort arcanique (activité)            |
+|                |                                           |                                         | Emprunter un sort arcanique (activité)            |
+|                |                                           |                                         | Identifier un objet/lieu/effet magique (activité) |
+|                |                                           |                                         | Lire un écrit magique (activité)                  |
+| **Athlétisme** | **Force**                                 | Agripper (action)                       | Désarmer (action)                                 |
+|                |                                           | Escalader (action)                      |
+|                |                                           | Forcer l'ouverture (action)             |
+|                |                                           | Mettre à terre (action)                 |
+|                |                                           | Nager (action)                          |
+|                |                                           | Pousser (action)                        |
+|                |                                           | Saut en hauteur (action)                |
+|                |                                           | Saut en longueur (action)               |
+|                |                                           | Se libérer d'une prise (action)         |
+| **Artisanat**  | **Intelligence**                          | Réparer (activité)                      | Fabriquer (activité)                              |
+|                |                                           |                                         | Identifier un objet alchimique (activité)         |
+| **Tromperie**  | **Charisme**                              | Créer une diversion (action)            | Feinter (action)                                  |
+|       |         | Mentir (activité)                         |
+|        |        | Se faire passer pour quelqu'un (activité) |
