@@ -32,9 +32,41 @@ layout: default
     {% if page.traits %}
         <p class="traits">{{ page.traits | sort | pfr_linkify_list: "/traits/" | join: ", "}}</p>
     {%- endif -%}
+<!-- Sorts -->
+    {% if page.castingtime %}
+        <p><strong>Incantation</strong> {{ page.castingtime }}</p>
+    {%- endif -%}
+    {% if page.casting %}
+        <p>
+            <strong>Activation</strong>
+            {% assign firststep = true %}
+            {% for step in page.casting %}
+                {% if step.action %}
+                    {% unless first %}
+                        ,
+                    {% endunless %}
+                    {% assign action = step.action | append: "" %}
+                    {% case action %}
+                    {% when '1' %}
+                        <img class="sm-action-icon" src="../images/1action.png" title="1 action" />
+                    {% when '2' %}
+                        <img class="sm-action-icon" src="../images/2actions.png" title="2 actions" />
+                    {% when '3' %}
+                        <img class="sm-action-icon" src="../images/3actions.png" title="3 actions" />
+                    {% when 'R' %}
+                        <img class="sm-action-icon" src="../images/réaction.png" title="réaction" />
+                    {% when 'L' %}
+                        <img class="sm-action-icon" src="../images/actionlibre.png" title="action libre" />
+                    {%- endcase -%}
+                {% endif %}
+                {{ step.description }}
+                {% assign firststep = false %}
+            {% endfor %}
+        </p>
+    {%- endif -%}
 <!-- Dons -->
     {% if page.prerequisites %}
-        <p><strong>Prérequis</strong> {{ page.prerequisites | markdownify}}</p>
+        <p><strong>Prérequis</strong> {{ page.prerequisites | markdownify | remove: '<p>' | remove: '</p>'}}</p>
     {%- endif -%}
     {% if page.frequency %}
         <p><strong>Fréquence</strong> {{ page.frequency }}</p>
@@ -81,7 +113,6 @@ layout: default
                 {{ step.description }}
                 {% assign firststep = false %}
             {% endfor %}
-            
         </p>
     {%- endif -%}
     {% if page.onset %}
@@ -89,13 +120,33 @@ layout: default
     {%- endif -%}
 <!-- Partie commune -->
     {% if page.trigger %}
-        <p><strong>Déclencheur</strong> {{ page.trigger | markdownify}}</p>
+        <p><strong>Déclencheur</strong> {{ page.trigger | markdownify | remove: '<p>' | remove: '</p>'}}</p>
     {%- endif -%}
     {% if page.requirements %}
-        <p><strong>Condition</strong> {{ page.requirements | markdownify}}</p>
+        <p><strong>Condition</strong> {{ page.requirements | markdownify | remove: '<p>' | remove: '</p>'}}</p>
     {%- endif -%}
-<!-- Description -->
-    {% if page.traits or page.prerequisites or page.frequency or page.cost or page.trigger or page.requirements or page.price or page.ammunition or page.methodOfUse or page.bulk or page.activation or page.onset %}
+<!-- Rituels -->
+    {% if page.secondarycasters %}
+        <p><strong>Lanceurs secondaires</strong> {{ page.secondarycasters| markdownify | remove: '<p>' | remove: '</p>'}}</p>
+    {%- endif -%}
+    {% if page.proficiency %}
+        <p><strong>Formation</strong> {{ page.proficiency| markdownify | remove: '<p>' | remove: '</p>'}}</p>
+    {%- endif -%}
+<!-- Sorts -->
+    {% if page.range %}
+        <p><strong>Portée</strong> {{ page.range | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+    {%- endif -%}
+    {% if page.area %}
+        <p><strong>Zone</strong> {{ page.area | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+    {%- endif -%}
+    {% if page.targets %}
+        <p><strong>Cible(s)</strong> {{ page.targets | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+    {%- endif -%}
+    {% if page.duration %}
+        <p><strong>Durée</strong> {{ page.duration | markdownify | remove: '<p>' | remove: '</p>'}}</p>
+    {%- endif -%}
+    <!-- Description -->
+    {% if page.traits or page.prerequisites or page.frequency or page.cost or page.trigger or page.requirements or page.price or page.ammunition or page.methodOfUse or page.bulk or page.activation or page.onset or page.casting or page.secondarycasters or page.proficiency or page.range or page.area or page.targets or page.duration %}
         <hr/>
     {%- endif -%}
     {{content}}
