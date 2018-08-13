@@ -6,7 +6,7 @@ module Jekyll
       end
 
       def all_feats(input)
-        input["dons"] + input["donsascendance"] + input["donsclasse"]
+        input["dons"] + input["donsascendance"] + input["donsclasse"] + input["donsarchetype"]
       end
 
       private

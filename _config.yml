@@ -52,6 +52,9 @@ collections:
   donsclasse:
     output: true
     category: ['don de classe']
+  donsarchetype:
+    output: true
+    category: ["don d'archétype"]
   conditions:
     output: true
     category: ['condition']
@@ -73,6 +76,12 @@ collections:
   trappes:
     output: true
     category: ['trappe']
+  sorts:
+    output: true
+    category: ['sort']
+  rituels:
+    output: true
+    category: ['rituel']
 
 
 # Exclude from processing.

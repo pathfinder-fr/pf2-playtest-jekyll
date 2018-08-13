@@ -123,6 +123,8 @@
       title: Format de description des sorts
     - url: /ch7-sorts/liste-des-sorts.html
       title: Liste des sorts
+    - url: /ch7-sorts/rituels.html
+      title: Les rituels
 
 # Chapitre 8 : Progression et options
 
@@ -146,9 +148,9 @@
     - url: /ch9-jouer-à-pathfinder/jouer-à-pathfinder.html
       title: Jouer à Pathfinder
     - url: /ch9-jouer-à-pathfinder/tests.html
-      title: Tests
+      title: Les tests
     - url: /ch9-jouer-à-pathfinder/dégâts.html
-      title: Dégâts
+      title: Les dégâts
     - url: /ch9-jouer-à-pathfinder/points-de-vie-et-guérison.html
       title: Points de vie et guérison
     - url: /ch9-jouer-à-pathfinder/actions-et-activités.html
@@ -156,7 +158,7 @@
     - url: /ch9-jouer-à-pathfinder/réactions-et-actions-libres.html
       title: Réactions et actions libres
     - url: /ch9-jouer-à-pathfinder/effets.html
-      title: Effets
+      title: Les effets
     - url: /ch9-jouer-à-pathfinder/conventions-de-jeu.html
       title: Conventions de jeu
     - url: /ch9-jouer-à-pathfinder/points-héroïques.html
@@ -195,7 +197,7 @@
     - url: /ch10-maîtriser-à-pathfinder/récompenses.html
       title: Récompenses
     - url: /ch10-maîtriser-à-pathfinder/environnement.html
-      title: Environnement
+      title: L'environnement
 
 # Chapitre 11 : Trésors
 
