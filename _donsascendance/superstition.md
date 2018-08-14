@@ -22,7 +22,7 @@ cost:
 trigger:
 requirements:
 
-summary: "+1 jds contre les sorts et effets magiques pendant 1 tour"
+summary: "vous gagnez +1 jds contre les sorts et effets magiques pendant 1 tour"
 ---
 
 Les orques se méfient de la magie et vous avez assimilé ces craintes. Vous recherchez la force intérieure dans vos superstitions, gagnant un bonus circonstances de +1 à vos jets de sauvegarde contre les sorts et autres effets magiques jusqu'au début de

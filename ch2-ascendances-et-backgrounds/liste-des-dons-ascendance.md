@@ -17,4 +17,5 @@ cols:
     attribute: prerequisites
   - title: "Résumé"
     attribute: summary
+    markdownify: true
 ---

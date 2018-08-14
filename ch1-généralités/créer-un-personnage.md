@@ -132,7 +132,7 @@ Maintenant, indiquez tous les avantages et toutes les capacités de classe que v
 
 Pour déterminer le total de Points de vie du nouveau personnage, ajoutez le nombre de Points de vie qu'il gagne grâce à son ascendance et le nombre de Points de vie qu'il gagne grâce à sa Classe. Ajoutez-y également son modificateur de Constitution.
 
-C'est un bon moment pour cocher les cases décrivant les divers degrés de formation (non entraîné, entraîné, expert, maître et légendaire) qui apparaissent à plusieurs endroits sur la feuille de personnage. Les degrés de formation déterminent quel modificateur votre personnage applique aux résultats de ses jets de dés et à ses DD quand il utiliser certaines mécaniques de jeu. Par exemple, si votre personnage est entraîné dans une compétence donnée ou une capacité, son modificateur lorsqu'il utilise cette capacité ou compétence est égal à son niveau. Plus d'informations sur les degrés de formation dans la section sur les [Tests](/ch9-jouer-à-pathfinder/tests.html).
+C'est un bon moment pour cocher les cases décrivant les divers degrés de formation (non entraîné, entraîné, expert, maître et légendaire) qui apparaissent à plusieurs endroits sur la feuille de personnage. Les degrés de formation déterminent quel modificateur votre personnage applique aux résultats de ses jets de dés et à ses DD quand il utilise certaines mécaniques de jeu. Par exemple, si votre personnage est entraîné dans une compétence donnée ou une capacité, son modificateur lorsqu'il utilise cette capacité ou compétence est égal à son niveau. Plus d'informations sur les degrés de formation dans la section sur les [Tests](/ch9-jouer-à-pathfinder/tests.html).
 
 ### Sur la feuille de personnage
 
@@ -176,7 +176,7 @@ L'alignement de votre personnage est mesuré par deux groupes de valeurs opposé
 |   | Bon | Neutre | Mauvais |
 |:-:|:----:|:------:|:---:|
 | **Loyal** | Loyal Bon (LB) | Loyal Neutre (LN) | Loyal Mauvais (LM) |
-| **Neutre** | Neutre Bon (NB) | Neutre véritable (N) | Neutre Mauvaise (NM) |
+| **Neutre** | Neutre Bon (NB) | Neutre véritable (N) | Neutre Mauvais (NM) |
 | **Chaotique** | Chaotique Bon (CB) | Chaotique Neutre (CN) | Chaotique Mauvais (CM) |
 
 #### Loi et Chaos
@@ -223,7 +223,7 @@ Au début de chaque session de jeu, votre personnage possède généralement 1 P
  
 #### Frappes de corps à corps et frappes à distance
 
-Ensuite, retournez là où vous avez noté les armes de corps à corps et à distance de votre personnage et calculez ses modificateurs de Frappes avec ces armes ainsi que les dégâts que ses Frappes occasionnent.
+Maintenant, retournez là où vous avez noté les armes de corps à corps et les armes à distance de votre personnage et calculez ses modificateurs de Frappes avec ces armes ainsi que les dégâts que ses Frappes occasionnent.
 
 Pour les modificateurs des Frappes au corps à corps, additionnez le modificateur de formation de votre personnage pour l'arme en question avec son modificateur de Force (à moins que la description de l'arme n'indique autre chose), plus tout bonus d'objet provenant de l'arme et tout autre bonus ou pénalité qui s'appliquent tout le temps. Notez également combien de dégâts ses Frappes au corps à corps infligent. Cette quantité vaut le dé de dégâts de l'arme plus le modificateur de Force du personnage.
 

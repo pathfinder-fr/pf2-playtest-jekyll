@@ -19,5 +19,6 @@ cols:
     colsize: "20%"
   - title: "Résumé"
     attribute: summary
+    markdownify: true
     colsize: "30%"
 ---

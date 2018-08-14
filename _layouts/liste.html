@@ -60,6 +60,8 @@ layout: default
                     ">
                         {{ item[col.attribute] }}
                     </a>
+                {% elsif col.markdownify %}
+                    {{ item[col.attribute] | markdownify | remove: "<p>" | remove: "</p>" }}
                 {% else %}
                     {{ item[col.attribute] }}
                 {%- endif -%}
