@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "Ignorer le terrain difficile de pierre ou de terre pour un Pas ou Avancer sans tomber"
+summary: "vous ignorez le terrain difficile (pierre ou terre) si un Pas ou si Avancer sans tomber"
 ---
 
 Votre connexion innée avec la pierre fait de vous un expert lorqu'il s'agit de se déplacer sur des surfaces inégales. Quand vous faites une action de Pas, vous pouvez ignorer le terrain difficile causé par un sol inégal en pierre ou en terre. De plus, quand vous utilisez votre compétence Acrobatie pour Avancer sans tomber (voir page <mark>144</mark>) sur une surface étroite ou un sol inégal fait de pierre ou de terre, vous n'êtes pas pris au dépourvu, et vous traitez un succès comme s'il était un succès critique.

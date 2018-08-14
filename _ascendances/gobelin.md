@@ -47,4 +47,15 @@ Certains backgrounds sont des choix particulièrement judicieux pour les gobelin
 
 Au moment de choisir une classe, envisagez de jouer un alchimiste, puisque de nombreux gobelins aiment le feu, ou un barde, puisque de nombreux gobelins aiment les chansons. En tant que survivants, les gobelins sont souvent des roublards vivant dans l'ombre, bien que leur nature charismatique les incite également à suivre une classe liée à la magie telle que le sorcier.
 
-{% include ancestry-feat-table.html %}
+## Dons d'ascendance
+
+{% assign nomascendance = page.title | downcase %}
+{% assign dons = site["donsascendance"] | where_exp: "don", "don.traits contains nomascendance" %}
+
+<p>Au niveau 1, vous gagnez un don d'ascendance. Vous obtenez un don d'ascendance supplémentaire tous les 4 niveaux par la suite (aux niveaux 5, 9, 13 et 17). </p>
+
+{% capture title %}
+Dons d'ascendance ({{nomascendance}})
+{% endcapture %}
+
+{% include feat-table.html tableTitle=title sortByLevel=true %}

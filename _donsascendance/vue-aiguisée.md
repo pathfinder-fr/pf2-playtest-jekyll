@@ -22,7 +22,7 @@ cost:
 trigger:
 requirements:
 
-summary: "Détection et attaque améliorée contre les créatures camouflées ou détectées."
+summary: "vous gagnez +2 en Recherche et une attaque améliorée contre les créatures camouflées ou détectées"
 ---
 
-Vos yeux sont aiguisés et vos autres sens sont également bien adaptés à votre environnement. Lorsque vous attaquez un adversaire qui est camouflé par rapport à vous ou que vous détectez, réduisez le DD de base pour toucher cette créature à 3 pour la créature camouflée et à 9 pour celle que vous détectez. Vous gagnez un bonus de circonstances de +2 en Recherchant des créatures invisibles dans 6 cases.
+Votre vue est aiguisée et vos autres sens sont également bien adaptés à votre environnement. Lorsque vous attaquez un adversaire qui est camouflé ou que vous détectez, réduisez le DD de base pour toucher cette créature à 3 pour la créature camouflée et à 9 pour celle que vous détectez. Vous gagnez un bonus de circonstances de +2 en Recherche de créatures invisibles à moins de 6 cases.

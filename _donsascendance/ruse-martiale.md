@@ -21,7 +21,7 @@ cost:
 trigger: 
 requirements:
 
-summary: "effets de spécialisation critique avec fronde, épée courte et arme halfling"
+summary: "vous gagnez l'effet de spécialisation critique avec fronde, épée courte et arme halfling"
 ---
 
 Vous êtes particulièrement bon au combat avec les armes privilégiées de votre peuple. Chaque fois que vous faites une attaque critique avec une arme du groupe des frondes, une épée courte ou une arme halfling, vous appliquez l'effet de spécialisation critique de l'arme.

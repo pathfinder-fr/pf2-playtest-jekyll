@@ -46,4 +46,15 @@ Certaines options de background conviennent particulièrement aux elfes. Par exe
 
 Lorsque vous sélectionnez une classe, envisagez le rôdeur ou le roublard, qui profitent tous deux de la dextérité elfique. Vous pourriez également envisager d'être un alchimiste ou un sorcier, répondant tous deux à la curiosité intellectuelle naturelle des elfes.
 
-{% include ancestry-feat-table.html %}
+## Dons d'ascendance
+
+{% assign nomascendance = page.title | downcase %}
+{% assign dons = site["donsascendance"] | where_exp: "don", "don.traits contains nomascendance" %}
+
+<p>Au niveau 1, vous gagnez un don d'ascendance. Vous obtenez un don d'ascendance supplémentaire tous les 4 niveaux par la suite (aux niveaux 5, 9, 13 et 17). </p>
+
+{% capture title %}
+Dons d'ascendance ({{nomascendance}})
+{% endcapture %}
+
+{% include feat-table.html tableTitle=title sortByLevel=true %}
