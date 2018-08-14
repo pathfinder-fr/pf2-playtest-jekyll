@@ -27,3 +27,9 @@ signatureSkills:
 ---
 
 Blah blah blah... description
+µ
+
+!!! ERRATA
+
+Page 113—For the ranger, in the Key Ability section of the
+sidebar, change the text to “Strength or Dexterity”.

@@ -19,7 +19,7 @@ traits:
 prerequisites: 
 frequency: une fois par round
 cost:
-trigger: Vous fabriquez un élixir alchique avec Alchimie rapide
+trigger: Vous fabriquez une bombe alchimique avec l'action Alchimie rapide.
 requirements:
 
 summary: "Dégâts continus identiques à l'aspersion"

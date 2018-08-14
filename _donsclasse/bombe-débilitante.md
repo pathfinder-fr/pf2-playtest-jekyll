@@ -19,7 +19,7 @@ traits:
 prerequisites:
 frequency: une fois par round
 cost:
-trigger: avec Alchimie rapide, vous fabriquez un objet alchimique avec le trait bombe
+trigger: Vous fabriquez une bombe alchimique avec l'action Alchimie rapide.
 requirements:
 
 summary: "effet débilitant au choix sur la bombe"

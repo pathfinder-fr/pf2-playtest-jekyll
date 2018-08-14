@@ -7,7 +7,7 @@ layout: block
 #PARTIE PROPRE AUX SORTS
 
 traditions:
-  - arcane
+  - arcanique
   - occulte
 
 #PARTIE PROPRE AUX BLOCS TECHNIQUES

@@ -27,3 +27,9 @@ signatureSkills:
 ---
 
 Blah blah blah... description
+
+
+!! ERRATA
+
+Page 73—In Table 3–10: Domains, in the Might domain,
+change “Enduring strength” to “Enduring might”.

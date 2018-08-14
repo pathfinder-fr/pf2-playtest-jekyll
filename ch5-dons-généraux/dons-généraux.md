@@ -47,7 +47,7 @@ Certains talents nécessitent un peu d'entraînement mais sont à la portée de 
 </table>
 
 
-<p class="tabletitle">Dons généraux de compétence</p>
+<p class="tabletitle">Dons de compétence</p>
 
 <table class="table table-sm table-striped table-hover">
     <thead class="thead-light">
@@ -94,7 +94,7 @@ Certains talents nécessitent un peu d'entraînement mais sont à la portée de 
 </tbody>
 </table>
 
-<p class="tabletitle">Dons généraux pour
+<p class="tabletitle">Dons de compétence pour
 {{don.featskill | pfr_linkify: '/ch4-compétences/'}}
 </p>
 
