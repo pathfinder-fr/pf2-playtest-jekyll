@@ -12,7 +12,6 @@ gem "jekyll", "~> 3.8"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
   gem 'jekyll-relative-links'
   gem 'jekyll-toc', '~> 0.6.0'
 end
