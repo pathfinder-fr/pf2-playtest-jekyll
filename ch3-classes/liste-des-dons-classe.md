@@ -1,6 +1,5 @@
 ---
 title: Liste des dons de classe
-layout: liste
 collection: donsclasse
 includeSource: true
 smalltable: true
@@ -22,3 +21,7 @@ cols:
     markdownify: true
     colsize: "30%"
 ---
+
+{% assign dons = site["donsclasse"] | sort_ignore_accent_marks: "title" %}
+
+{% include feat-table.html tableTitle="Dons de classe (toutes classes confondues)" sortByLevel=false %}

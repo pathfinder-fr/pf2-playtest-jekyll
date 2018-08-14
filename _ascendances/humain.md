@@ -69,7 +69,20 @@ Certains background font des choix particulièrement judicieux pour des humains.
 
 Lorsque vous recherchez une classe, vous avez de nombreux choix. Votre personnage pourrait être un jeune et brillant paladin prêt à affronter le monde ou un sorcier las qui cherche à tout laisser derrière lui pour une plus grande destinée dans les plans de l'Au-delà - ou quelque chose entre les deux.
 
-{% include ancestry-feat-table.html %}
+## Dons d'ascendance
+
+{% assign nomascendance = page.title | downcase %}
+{% assign dons = site["donsascendance"] | where_exp: "don", "don.traits contains nomascendance" %}
+
+<p>Au niveau 1, vous gagnez un don d'ascendance. Vous obtenez un don d'ascendance supplémentaire tous les 4 niveaux par la suite (aux niveaux 5, 9, 13 et 17). </p>
+
+{% capture title %}
+Dons d'ascendance ({{nomascendance}})
+{% endcapture %}
+
+{% include feat-table.html tableTitle=title sortByLevel=true %}
+
+
 
 {% assign dons = site["donsascendance"] | sort_ignore_accent_marks: "title" | sort: "level" %}
 

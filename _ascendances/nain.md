@@ -50,4 +50,15 @@ Certains backgrounds sont particulièrement adaptés aux nains. Vous pourriez co
 
 Les nains excellent dans beaucoup de classes martiales, comme le barbare, le guerrier, le moine, le rôdeur, mais ils font également d'excellents prêtres ou druides.
 
-{% include ancestry-feat-table.html %}
+## Dons d'ascendance
+
+{% assign nomascendance = page.title | downcase %}
+{% assign dons = site["donsascendance"] | where_exp: "don", "don.traits contains nomascendance" %}
+
+<p>Au niveau 1, vous gagnez un don d'ascendance. Vous obtenez un don d'ascendance supplémentaire tous les 4 niveaux par la suite (aux niveaux 5, 9, 13 et 17). </p>
+
+{% capture title %}
+Dons d'ascendance ({{nomascendance}})
+{% endcapture %}
+
+{% include feat-table.html tableTitle=title sortByLevel=true %}

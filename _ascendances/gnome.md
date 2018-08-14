@@ -46,4 +46,15 @@ Certains choix de background sont particulièrement judicieux pour les gnomes. V
 
 Lorsque vous décidez d'une classe, notez que la connexion des gnomes avec le monde naturel fait d'eux des rôdeurs ou des druides pertinents. Alors que les gnomes ne sont pas souvent forts physiquement, ils sont souvent doués avec la magie, en particulier la magie qui provient du Royaume des fées, ce qui en fait d’excellents bardes et sorciers.
 
-{% include ancestry-feat-table.html %}
+## Dons d'ascendance
+
+{% assign nomascendance = page.title | downcase %}
+{% assign dons = site["donsascendance"] | where_exp: "don", "don.traits contains nomascendance" %}
+
+<p>Au niveau 1, vous gagnez un don d'ascendance. Vous obtenez un don d'ascendance supplémentaire tous les 4 niveaux par la suite (aux niveaux 5, 9, 13 et 17). </p>
+
+{% capture title %}
+Dons d'ascendance ({{nomascendance}})
+{% endcapture %}
+
+{% include feat-table.html tableTitle=title sortByLevel=true %}
