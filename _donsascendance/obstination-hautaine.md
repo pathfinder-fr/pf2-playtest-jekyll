@@ -21,9 +21,9 @@ cost:
 trigger:
 requirements:
 
-summary: "Meilleure résistance au contrôle mental et à la Contrainte"
+summary: "Vous avez une meilleure résistance au contrôle mental et à la Contrainte."
 ---
 
-Votre puissant ego rend plus difficile pour les autres de vous commander. Si vous réussissez un jet de sauvegarde contre un effet mental qui tente de contrôler directement vos actions, votre réussite est considérée comme une réussite critique.
+Votre puissant ego vous rend plus difficile à commander. Si vous réussissez un jet de sauvegarde contre un effet mental qui tente de contrôler directement vos actions, votre réussite est considérée comme une réussite critique.
 
 Si une créature ne reussit pas à vous Contraindre en vous Intimidant (voir page <mark>150</mark>), le résultat est considéré comme un échec critique (il ne peut donc pas essayer de vous Contraindre à nouveau avant 1 semaine).

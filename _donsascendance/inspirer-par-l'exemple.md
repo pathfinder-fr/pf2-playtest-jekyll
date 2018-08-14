@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "Accès à une arme d'une autre ascendance ou culture"
+summary: "Vous gagnez la réaction Aide lors d'une réussite critique à un test de compétence."
 ---
 
 Vous inspirez vos alliés à réaliser de grands exploits au travers de vos propres actions. Chaque fois que vous obtenez une réussite critique à un test de compétence, vous vous qualifiez automatiquement pour la réaction d'Aide pour tenter d'aider un allié pour le même test de compétence, même sans dépenser une action pour s'y préparer.

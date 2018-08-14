@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "vous gagnez +1 à la CA et +1 à différents DD / tests contre les géants"
+summary: "Vous gagnez +1 à la CA et +1 à différents DD / tests contre les géants."
 ---
 
 Votre stature trapue et votre haine pour les géants vous donnent un avantage quand vous les combattez. Vous gagnez un bonus de circonstances de +1

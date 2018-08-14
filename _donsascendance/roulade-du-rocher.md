@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "vous repoussez d'une case une créature d'au maximum votre taille"
+summary: "Vous repoussez d'une case une créature d'au maximum votre taille."
 ---
 
 Votre stature naine vous permet de repousser vos ennemis. Faites un Pas dans la case d'un ennemi de votre taille ou plus petit, et l'ennemi doit se déplacer dans la case vide directement derrière lui. L'ennemi doit bouger même si cela le met en danger. L'ennemi peut tenter de vous empêcher de faire ce Pas en effectuant un jet de Vigueur contre votre DD d'Athletisme. Si l'ennemi tente ce jet de sauvegarde, quel que soit le résultat, il prend des dégâts contondants égaux à votre niveau plus votre modificateur de Force.

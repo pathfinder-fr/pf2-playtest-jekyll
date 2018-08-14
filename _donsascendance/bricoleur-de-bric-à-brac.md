@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "vous fabriquez des objets avec des déchets"
+summary: "Vous fabriquez des objets avec des déchets."
 ---
 
 Vous pouvez faire des outils utiles même avec les déchets les plus tordus ou rouillés. Avec des débris, vous pouvez fabriquer des objets ordinaires, y compris des armes, mais pas d’armure. Ca coûte un quart du montant habituel pour un objet de qualité standard mais l'objet créé est toujours de mauvaise qualité. Vous n'avez une pénalité que de -1 pour utilisez des objets de mauvaise qualité que vous avez fabriqués. Pour plus d'informations sur la création d'objets, voir page <mark>147</mark>.

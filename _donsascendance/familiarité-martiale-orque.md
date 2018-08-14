@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "Ent avec les armes orques, accès facilités aux armes orques"
+summary: "Vous êtes entraîné à certaines armes orques, accès facilité aux autres armes orques."
 ---
 
 Vous privilégiez les armes brutales de vos ancêtres orques. Vous êtes entraîné avec la hache à deux mains et le cimeterre à deux mains. De plus, vous gagnez accès à toutes les armes orques peu communes. 

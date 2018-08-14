@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "Utilisation de créatures plus grandes pour Se cacher et Se déplacer furtivement"
+summary: "Vous utilisez des créatures plus grandes pour vous Cacher et vous Déplacer furtivement."
 ---
 
-Vous avez appris à utiliser les personnes plus grandes pour éviter d'attirer l'attention sur vous. Vous pouvez utiliser des créatures qui sont au moins une taille plus grande que vous (généralement moyenne ou plus grande) comme abri pour Se cacher et Se déplacer furtivement (voir page <mark>158</mark>).
+Vous avez appris à utiliser les personnes plus grandes pour éviter d'attirer l'attention sur vous. Vous pouvez utiliser des créatures qui sont au moins une taille plus grande que vous (généralement moyenne ou plus grande) comme abri pour vous Cacher et vous Déplacer furtivement (voir page <mark>158</mark>).

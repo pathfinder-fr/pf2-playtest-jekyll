@@ -1,5 +1,5 @@
 ---
-title: Inventeur martial (gnome)
+title: Innovateur martial (gnome)
 titleEN: Weapon Innovator (Gnome)
 source: "Playtest Pathfinder"
 layout: block
@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "vous gagnez l'effet de spécialisation critique avec glaive, kukri et arme gnome"
+summary: "Vous gagnez l'effet de spécialisation critique avec les glaives, les kukris et les armes gnomes."
 ---
 
 Vous produisez des résultats exceptionnels en maniant des armes peu communes. Chaque fois que vous faites une attaque critique avec un glaive, un kukri ou une arme gnome, vous appliquez l'effet de spécialisation critique de l'arme.

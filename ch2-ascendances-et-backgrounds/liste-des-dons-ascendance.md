@@ -1,6 +1,5 @@
 ---
 title: Liste des dons d'ascendance
-layout: liste
 collection: donsascendance
 includeSource: false
 smalltable: true
@@ -17,4 +16,9 @@ cols:
     attribute: prerequisites
   - title: "Résumé"
     attribute: summary
+    markdownify: true
 ---
+
+{% assign dons = site["donsascendance"] | sort_ignore_accent_marks: "title" %}
+
+{% include feat-table.html tableTitle="Dons d'ascendance (toutes ascendances confondues)" sortByLevel=false %}

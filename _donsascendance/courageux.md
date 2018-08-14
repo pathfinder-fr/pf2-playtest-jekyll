@@ -21,7 +21,7 @@ cost:
 trigger: 
 requirements:
 
-summary: "amélioration des jds contres les effets de peur ou d'émotion"
+summary: "Vous avez de meilleurs jds contres les effets de peur ou d'émotion."
 ---
 
 Vous pouvez facilement repousser les tentatives de manipuler vos peurs et vos émotions. Si vous réussissez un jet de sauvegarde contre un effet d'émotion ou de peur, traitez votre résultat comme une réussite critique.

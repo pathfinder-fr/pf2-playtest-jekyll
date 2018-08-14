@@ -21,7 +21,7 @@ cost:
 trigger: 
 requirements:
 
-summary: "+1 dégât à la fronde contre une créature large ou plus (+2 sur un critique)"
+summary: "Vous gagnez +1 aux dégâts avec une fronde contre une créature large ou plus (+2 si critique)."
 ---
 
 Vous avez appris comment utiliser votre fronde pour combattre de grandes créatures. Vous gagnez un bonus de circonstances de +1 aux dégâts avec une fronde contre des créatures de taille grande ou plus. Ce bonus passe à +2 sur les attaques critiques (ensuite doublé sur l'attaque critique comme habituellement).

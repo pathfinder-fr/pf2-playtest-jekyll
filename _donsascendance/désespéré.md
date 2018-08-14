@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "vous gagnez +1 jds contre les effets d'émotion"
+summary: "Vous gagnez +1 aux jds contre les effets d'émotion."
 ---
 
 Regarder vos amis vieillir et mourir vous emplit de morosité qui vous protège des émotions négatives. Vous gagnez un bonus de circonstances de +1 aux jets de sauvegarde contre les effets d'émotion. Si vous réussissez un jet de sauvegarde contre un effet d'émotion, vous le traitez comme un succès critique.

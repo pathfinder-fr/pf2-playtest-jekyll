@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "vous gagnez +1 en Perception et jds Volonté contre les illusions ; percer les illusions proches"
+summary: "Vous gagnez +1 en Perception et aux jds en Volonté contre les illusions."
 ---
 
 Vos ancêtres ont passé leurs journées masqués et bercés dans des illusions, et ressentir cette magie est une seconde nature pour vous. Vous gagnez un bonus de circonstances de +1 aux tests de Perception et aux jets de sauvegarde de Volonté contre les illusions. Lorsque vous vous approchez à moins de 2 cases d'une illusion qui peut être percée, vous pouvez essayer un test unique de Perception pour essayer de la percer, même sans dépenser une action pour interagir avec elle. Pour plus d'informations sur percer des illusions, voir page <mark>194</mark>.

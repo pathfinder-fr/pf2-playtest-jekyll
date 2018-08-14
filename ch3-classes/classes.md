@@ -1,7 +1,7 @@
 ---
 title: "Classes"
 source: "Playtest Pathfinder"
-toc: truc
+toc: true
 ---
 
 Tout comme l'ascendance de votre personnage est un élément clef pour exprimer son identité et sa manière de voir le monde, sa classe représente l'entraînement qu'il a suivi et qu'il va poursuivre pendant sa carrière d'aventurier. Les groupes de joueurs préfèrent généralement créer des personnages dont les talents et les capacités se complètent d'un point de vue mécanique des règles. Avec cet objectif en tête, le choix de la classe de votre personnage est peut-être la décision la plus importante du processus de création.

@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "+2 aux tests pour Aider ou Assister"
+summary: "Vous gagnez +2 aux tests pour Aider ou Assister."
 ---
 
 La courte durée de vie humaine offre une certaine perspective et vous a appris dès votre plus jeune âge à mettre de côté les différences et à travailler ensemble pour accomplir de grandes choses. Vous gagnez un bonus de circonstances de +2 aux tests lorsque vous Aidez ou que vous Assistez (voir page <mark>307</mark>).

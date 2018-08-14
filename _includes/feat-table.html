@@ -1,12 +1,25 @@
-<h2 id="dons-dascendance">Dons d'ascendance</h2>
+<!--
+    Crée un tableau de dons avec comme colonnes
+    - non
+    - niveau + rareté
+    - traits (linkified)
+    - résumé + prérequis
 
-<p>Au niveau 1, vous gagnez un don d'ascendance. Vous obtenez un don d'ascendance supplémentaire tous les 4 niveaux par la suite (aux niveaux 5, 9, 13 et 17). </p>
+    - include.tableTitle : titre du tableau (aucun titre si absent)
+    - include.sortByLevel: trie par niveau + ajoute des séparateurs entre les niveaux
+-->
 
-{% assign nomascendance = page.title | downcase %}
+{% assign dons = dons | sort_ignore_accent_marks: "title" %}
 
-<p class="tabletitle">Dons d'ascendance ({{nomascendance}})</p>
+{% if include.sortByLevel %}
+  {% assign dons = dons | sort: "level" %}
+{% endif %}
 
-{% assign dons = site["donsascendance"] | where_exp: "don", "don.traits contains nomascendance" | sort_ignore_accent_marks: "title" | sort: "level" %}
+{% if include.tableTitle %}
+
+<p class="tabletitle">{{include.tableTitle}}</p>
+
+{% endif %}
 
 <table class="table table-sm table-striped table-hover">
     <thead class="thead-light">
@@ -22,10 +35,10 @@
         {% for don in dons %}
         {% assign level = don.level | append: "" %}
         <tr
-            {% unless level == oldLevel %}
+            {% if include.sortByLevel and level != oldLevel %}
             {% assign oldLevel = level %}
             class="firstlineofsection"
-            {% endunless %}
+            {% endif %}
         >
             <td><a href="{{don.url}}">{{don.title}}</a></td>
             <td>

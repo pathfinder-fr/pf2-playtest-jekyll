@@ -21,9 +21,9 @@ cost:
 trigger:
 requirements:
 
-summary: "vous gagnez +2 en Perception sur un travail inhabituel de la pierre (notamment piège)"
+summary: "Vous gagnez +2 en Perception pour repérer un ouvrage de pierre inhabituel/étrange (notamment piège)."
 ---
 
-Vous avez le chic pour remarquer des inconsistances et des techniques d'artisanat sur les pierres taillées autour de vous. Vous gagnez un bonus de circonstances de +2 à vos jets de Perception pour remarquer une taille de pierre inhabituelle. Ce bonus s'applique pour découvrir des pièges mécaniques faits de pierres ou cachés dans la pierre.
+Vous avez le chic pour remarquer des inconsistances et des techniques d'artisanat sur les pierres taillées autour de vous. Vous gagnez un bonus de circonstances de +2 à vos jets de Perception pour remarquer un ouvrage de pierre inhabituelle. Ce bonus s'applique pour découvrir des pièges mécaniques faits de pierres ou cachés dans la pierre.
 
 Si vous n'utilisez pas l'action Rechercher (voir page <mark>308</mark>) ou si vous n'êtes pas en train de fouiller, le MJ fait un jet secret sans ce bonus et avec une pénalité de circonstances de -2, pour vous permettre de remarquer malgré tout un travail inhabituel de la pierre (dans ce cas, le don gagne le trait secret).
