@@ -116,7 +116,7 @@ Progression de l'alchimiste
 
 Vous gagnez le don Artisanat alchimique (voir page <mark>162</mark>), même si vous ne répondez pas aux prérequis, et vous obtenez les quatre formules alchimiques communes supplémentaires de niveau 1 que le don octroie.
 La liste des objets alchimiques commence à la page <mark>360</mark>.
-Vous pouvez utiliser ce don pour créer des objets alchimiques communs pour autant que vous possédiez leurs formules dans votre livre de formules, même si leur puissance est éphémère.
+Vous pouvez utiliser ce don pour créer des objets alchimiques  pour autant que vous possédiez leurs formules dans votre livre de formules, même si leur puissance est éphémère.
 Vous pouvez créer ces objets de deux manières différentes, comme décrit ci-dessous.
 Un objet alchimique que vous créez de cette manière possède le trait infusion.
 
@@ -140,15 +140,15 @@ Deuxièmement, vous pouvez créer des objets alchimiques avec l'action Alchimie 
 > 
 > ---
 >
-> Vous créez un objet alchimique qui est de votre niveau ou d'un niveau inférieur sans devoir dépenser le coût monétaire habituel pour des réactifs alchimiques et sans avoir à effectuer un test d'Artisanat.
+> Vous créez un objet alchimique qui est de votre niveau ou d'un niveau inférieur et dont la formule se trouve dans votre livre de formules sans devoir dépenser le coût monétaire habituel pour des réactifs alchimiques et sans avoir à effectuer un test d'Artisanat.
 > Cet objet possède le trait infusion mais il ne reste efficace que jusqu'au début de votre prochain tour.
 > Passé ce délai, l'objet devient interte et n'a plus d'effet.
 > Si vous dépensez de la résonance pour cette capacité alors que votre réserve est vide et ratez le test (voir page <mark>  292</mark>), vous ne pouvez pas plus utiliser l'action Alchimie rapide à nouveau avant vos prochaines préparations quotidiennes.
 
 ### Livre de formules
 
-Vous commencez avec un livre de formules standard gratuit, d'une valeur de 10 pièces d'argents maximum (détaillé à la page <mark>186</mark>).
-Le livre de formules contient les formules de votre choix de 4 objets alchimiques communs de niveau 1.
+Vous commencez avec un livre de formules standard gratuit, d'une valeur de 10 pa maximum (détaillé à la page <mark>186</mark>).
+Le livre de formules contient les formules que vous gagnez grâce au don [Artisanat alchimique](/dons/artisanat-alchimique.html).
 La liste des objets alchimiques commence à la page <mark>360</mark>.
 Chaque fois que vous gagnez un nouveau niveau, vous pouvez ajouter les formules de deux objets alchimiques à votre livre de formules.
 Ces objets peuvent être de n'importe quel niveau que vous pouvez créer.

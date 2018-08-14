@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "effets de spécialisation critique avec des armes gobelines"
+summary: "vous gagnez l'effet de spécialisation critique avec des armes gobelines"
 ---
 
 Vous pouvez manier les armes de votre peuple aussi bien qu'un elfe ne brandit une épée longue ou qu'un nain ne brandit un marteau de guerre. Chaque fois que vous faites une attaque critique avec une arme gobeline, vous appliquez l'effet de spécialisation critique de l'arme.

@@ -14,6 +14,7 @@ level: 4
 rarity: C
 
 traits:
+  - barde
   - sorcier
 prerequisites: 
 frequency: 

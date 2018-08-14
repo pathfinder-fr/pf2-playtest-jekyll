@@ -21,9 +21,9 @@ cost:
 trigger:
 requirements:
 
-summary: "Déplacement furtive plus rapide et Discrétion en combat"
+summary: "vous vous Déplacez furtivement plus rapidement et vous gagnez en Discrétion en combat"
 ---
 
-Les plus grands font rarement attention aux ombres à leurs pieds et vous en tirez pleinement parti. Vous pouvez vous déplacer de 1 case de plus lorsque vous Vous déplacez furtivement, au maximum à votre vitesse (voir page <mark>158</mark>).
+Les plus grands font rarement attention aux ombres à leurs pieds et vous en tirez pleinement parti. Vous pouvez vous déplacer de 1 case de plus lorsque vous vous Déplacez furtivement, sans toutefois dépasser votre Vitesse (voir page <mark>158</mark>).
 
-De plus, si vous obtenez une réussite critique lors d'un test de Discrétion contre une créature et que vous attaquez ensuite cette créature, votre cible est prise au dépourvu pendant votre attaque. Le MJ ne révèle pas que votre tentative de Discrétion est une réussite critique tant que vous n’avez pas annoncé que vous attaquiez.
+De plus, tant que vous continuez d'utiliser l'action se Déplacer furtivement et que vous réussissez votre test de Discrétion, le fait de ne pas bénéficier d'un camouflage ou d'un abri à la fin de votre action de Déplacement furtif n'implique pas forcément que vous êtes [vu](/ch9-jouer-à-pathfinder/perception.html#vu), pour autant que vous disposiez d'un camouflage ou d'un abri à la fin de votre tour.

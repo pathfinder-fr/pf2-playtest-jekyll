@@ -22,7 +22,7 @@ cost:
 trigger:
 requirements:
 
-summary: "détection des invisibles à 12 cases avec une Recherche ; +2 à 6 cases"
+summary: "vous détectez les invisibles à 12 cases avec une Recherche ; +2 à 6 cases"
 ---
 
 Vos oreilles sont finement accordées au moindre murmure. Aussi longtemps que vous pouvez entendre normalement, vous pouvez tenter une Recherche pour détecter des créatures invisibles dans un cône de 12 cases au lieu d'un cône de 6 cases. Vous gagnez également un bonus de circonstances de +2 pour détecter des créatures invisibles à moins de 6 cases quand vous pouvez les entendre et effectuez une Recherche.

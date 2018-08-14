@@ -32,6 +32,13 @@ NOTE : le skills = 3 vient d'un errata ; il est correct !
 Blah blah blah... description du druide
 
 
+ERRATA !!!
+Page 79—For the druid, in the Proficiencies section of the
+sidebar, under Skills, change “4” to “3”.
+
+
+
+
 
 {:.bloc .action2}
 > ### Forme élémentaire **Don 10**

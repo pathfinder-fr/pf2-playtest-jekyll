@@ -22,7 +22,7 @@ cost:
 trigger:
 requirements:
 
-summary: "Attaque sans arme avec la mâchoire"
+summary: "vous pouvez attaquer sans arme, avec votre mâchoire"
 ---
 
 Vos dents sont des armes redoutables. Vous obtenez une attaque sans arme avec votre mâchoire, qui inflige 1d6 de points de dégâts perçants. Pour plus d'informations sur les attaques sans arme, voir page <mark>178</mark>.

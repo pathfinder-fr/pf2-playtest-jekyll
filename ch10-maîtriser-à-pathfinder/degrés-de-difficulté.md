@@ -31,7 +31,7 @@ Un DD de difficulté très élevée peut mettre à l'épreuve même les personna
 
 Un DD de difficulté extrême mettra en difficulté même les personnages les plus compétents la plupart du temps, tout en leur laissant une maigre chance de réussite. Utilisez ces DD si vous voulez que la réussite soit improbable mais pas impossible. Ces DD sont tout particulièrement utiles quand un PJ peut effectuer un test à plusieurs reprises. Vous devriez éviter de les utiliser si un échec résulte en la mort, des dégâts extrêmes ou d'autres conséquences très sévères.
 
-{: .tabletitle}
+{: .tabletitle #tableauDD}
 DD de compétence par niveau et par difficulté
 
 {: .table .table-sm .table-striped .table-hover}

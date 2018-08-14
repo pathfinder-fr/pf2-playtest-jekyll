@@ -14,6 +14,7 @@ level: 4
 rarity: C
 
 traits:
+  - barde
   - sorcier
 prerequisites: 
 frequency: 
@@ -21,7 +22,7 @@ cost:
 trigger: 
 requirements: 
 
-summary: "Sorts pertubés par des réactions si vous encaissez niv*2 dégâts"
+summary: "sorts pertubés par des réactions si vous encaissez niv*2 dégâts"
 ---
 
 Vos sorts ne sont perturbés par des réactions (voir page <mark>196</mark>) que si vous subissez des dégâts égaux ou supérieurs au double de votre niveau de personnage.

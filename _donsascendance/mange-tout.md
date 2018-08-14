@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "+2 jds contre la nausée (pour quelque chose qui a été mangé)"
+summary: "vous gagnez +2 aux jds contre la nausée (pour quelque chose qui a été mangé)"
 ---
 
 Vous n'avez aucun problème avec la nourriture que la plupart des gens considèrent comme gâtée. Vous gagnez un bonus de circonstances de +2 aux jets de sauvegarde  contre les toxines et contre la nausée, mais uniquement s'il s'agit de l'effet de quelque chose que vous avez mangé. Vous pouvez manger et boire quand vous êtes nauséeux.

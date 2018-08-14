@@ -22,7 +22,7 @@ cost:
 trigger:
 requirements:
 
-summary: "+2 détection d'une créature invisible par l'odorat"
+summary: "vous gagnez +2 en détection d'une créature invisible par l'odorat"
 ---
 
 Vous pouvez sentir et goûter toutes sortes de saveurs exotiques qui sont trop nuancées pour un palais humain. Vous gagnez un bonus de circonstances de +2 pour détecter une créature invisible qui est suffisamment proche pour que vous puissiez la sentir (généralement moins de 6 cases, mais divisez par deux la distance si la créature est contre le vent et doublez la distance si elle est dans la direction du vent). Pour plus d'informations sur les sens, voir page <mark>301</mark>.
