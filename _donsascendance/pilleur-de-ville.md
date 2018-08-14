@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "vous gagnez +1 en Survie pour fouiller des déchets"
+summary: "Vous gagnez +1 en Survie pour fouiller des déchets."
 ---
 
 Vous savez que les plus grands trésors ressemblent souvent à des déchets, et vous vous moquez de ceux qui jettent de très beaux morceaux. Vous pouvez essayer un test de Survie pour rechercher de la nourriture, des fournitures et de quoi subsister dans une ville ou dans la nature. Lorsque vous le faites, vous obtenez un bonus de circonstances de +1 à votre test de Survie.

@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "vous gagnez +1 case de Vitesse ; vous ignorez 1 case de terrain difficile"
+summary: "Vous gagnez +1 case de Vitesse ; vous ignorez 1 case de terrain difficile."
 ---
 
 Vos réflexes et vos muscles souples sont bien rodés. Votre Vitesse augmente de 1 case. De plus, lorsque vous faites un Déplacement, vous pouvez ignorer une case de terrain difficile lors de ce mouvement.

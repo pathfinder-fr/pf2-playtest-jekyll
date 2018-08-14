@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "vous pouvez lancer *charme* 1 fois par jour"
+summary: "Vous pouvez lancer *charme* 1 fois par jour."
 ---
 
 La magie elfique dans votre sang se manifeste comme une magie qui vous rend plus attrayant ou séduisant. Vous pouvez lancer *charme* au niveau 1 une fois par jour comme un sort arcanique inné. Pour en savoir plus sur la magie et les sorts, voir page <mark>192</mark>.

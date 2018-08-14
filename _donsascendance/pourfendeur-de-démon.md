@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "vous avez -1 aux résistances / +1 aux faiblesses des démons (-2/+2 avec un Déplacement)"
+summary: "Vous contrer les points forts des démons et à profiter de leurs faiblesses."
 ---
 
 Vous avez servi dans la guerre visant à récupérer votre patrie tombée entre les mains des démons et vous avez donc appris à contrer les points forts de ces démons et à profiter de leurs faiblesses. Vos attaques traitent les résistances des démons comme si elles étaient réduites de 1 et leurs faiblesses comme si elles étaient augmentées de 1. Si vous utilisez l'action de Déplacement à votre tour, vous traitez les résistances des démons comme étant réduites de 2 et leurs faiblesses comme étant augmentées de 2 jusqu'à la fin de votre tour.

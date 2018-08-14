@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "vous vous Déplacez furtivement plus rapidement et vous gagnez en Discrétion en combat"
+summary: "Vous vous Déplacez furtivement plus rapidement et vous gagnez en Discrétion en combat."
 ---
 
 Les plus grands font rarement attention aux ombres à leurs pieds et vous en tirez pleinement parti. Vous pouvez vous déplacer de 1 case de plus lorsque vous vous Déplacez furtivement, sans toutefois dépasser votre Vitesse (voir page <mark>158</mark>).

@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "vous êtes entraîné à une compétence de Savoir et vous y perfectionnez "
+summary: "Vous êtes entraîné dans une compétence de Savoir."
 ---
 
-Vous pouvez être de nature instable, mais quand un sujet capte votre attention, vous plongez dessus. Choisissez une catégorie de la compétence Savoir. Vous êtes entaîné à cette compétence. Au niveau 2 vous devenez un expert, au niveau 7 vous devenez un maître et au niveau 15 vous devenez légendaire.
+Vous pouvez être de nature instable, mais quand un sujet capte votre attention, vous vous y plongez corp et âme. Choisissez une catégorie de la compétence Savoir. Vous êtes entaîné à cette compétence. Au niveau 2 vous devenez un expert, au niveau 7 vous devenez un maître et au niveau 15 vous devenez légendaire.

@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "vous êtes entraîné à 2 compétences au choix"
+summary: "Vous êtes entraîné dans 2 compétences au choix."
 ---
 
 Votre ingéniosité vous permet de vous entraîner dans une grande variété de compétences. Vous devenez entrainté dans deux compétences de votre choix. Pour en savoir plus sur les compétences, voir page <mark>142</mark>.

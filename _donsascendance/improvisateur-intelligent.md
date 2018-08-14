@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "vous gagnez +1 à des tests de compétences non entraînées"
+summary: "Vous gagnez +1 à des tests de compétences non entraînées."
 ---
 
-Vous avez appris à gérer des situations et à vous débrouiller quand vous étiez à cours de ressources. Vous gagnez un bonus de circonstances de +1 sur des tests de compétences pour lesquelles vous n'êtes pas entraîné.
+Vous avez appris à gérer des situations et à vous débrouiller quand vous étiez à cours de ressources. Vous gagnez un bonus de circonstances de +1 sur des tests de compétence pour lesquelles vous n'êtes pas entraîné.

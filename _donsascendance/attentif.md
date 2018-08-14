@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "vous gagnez +2 en Perception lors d'une Recherche d'enchantement ou de possession"
+summary: "Vous gagnez +2 en Perception lors d'une Recherche d'enchantement ou de possession."
 ---
 
 Votre mode de vie communautaire vous permet de remarquer quand ceux qui vous entourent agissent d'une façon qui n'est pas naturelle pour eux. Vous gagnez un bonus de circonstances de +2 aux tests de Perception lors d'une Recherche pour détecter si une personne est enchantée ou possédée.

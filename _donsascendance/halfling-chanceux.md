@@ -22,7 +22,7 @@ cost:
 trigger: Vous ratez un test de compétence ou de jet de sauvegarde
 requirements:
 
-summary: "vous relancez un test de compétence ou un jds 1 fois par jour et prenez le meilleur"
+summary: "Vous relancez un test de compétence ou un jds 1 fois par jour et prenez le meilleur."
 ---
 
 Votre nature insouciante semble faire penser que la malchance vous évite et dans une certaine mesure, c'est vrai. Vous pouvez relancer le test de compétence ou le jet de sauvegarde déclencheur et prendre le meilleur des deux résultats.

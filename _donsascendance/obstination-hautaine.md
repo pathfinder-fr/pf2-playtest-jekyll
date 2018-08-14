@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "vous avez une meilleure résistance au contrôle mental et à la Contrainte"
+summary: "Vous avez une meilleure résistance au contrôle mental et à la Contrainte."
 ---
 
 Votre puissant ego vous rend plus difficile à commander. Si vous réussissez un jet de sauvegarde contre un effet mental qui tente de contrôler directement vos actions, votre réussite est considérée comme une réussite critique.

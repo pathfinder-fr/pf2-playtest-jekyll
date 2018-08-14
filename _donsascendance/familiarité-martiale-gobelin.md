@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "vous êtes entraîné avec certaines armes goblines, accès facilités aux autres armes goblines"
+summary: "Vous êtes entraîné à certaines armes goblines, accès facilité aux autres armes goblines."
 ---
 
 Alors que certains peuvent les regarder avec dédain, vous savez que les armes de votre peuple sont aussi efficaces qu'elles ne sont tranchantes. Vous êtes entraîné avec le tranche-chien et le coupe-cheval. De plus, vous gagnez accès à toutes les armes goblines peu communes. 

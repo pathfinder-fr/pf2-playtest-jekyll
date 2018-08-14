@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "vous êtes entraîné à certaines armes naines, accès facilité aux autres armes naines"
+summary: "Vous êtes entraîné à certaines armes naines, accès facilité aux autres armes naines."
 ---
 
 Les vôtres ont insufflé en vous un attrait pour les armes qui tapent fort, et vous les préférez à des armes plus élégantes. Vous êtes entrainé avec les haches de guerre, pioches et marteaux de guerre. De plus, vous gagnez l'accès à toutes les armes naines peu communes.

@@ -21,7 +21,7 @@ cost:
 trigger: Vous faites un test d'Acrobatie pour vous Libérer, un test d'Athlétisme pour vous Libérer d'une prise, ou un jet de sauvegarde contre un effet d'Enchevêtrement ou d'Agrippement, ou vous utilisez votre DD de Vigueur pour résister à une Étreinte.
 requirements:
 
-summary: "vous gagnez +2 aux tests ou DD de Vigueur pour vous Libérer"
+summary: "Vous gagnez +2 aux tests ou DD de Vigueur pour vous Libérer."
 ---
 
 Vous avez travaillé de force, soit avec un contrat forcé, soit enchaîné par le joug de l'esclavage, mais vous vous êtes depuis échappé et vous vous êtes entraîné pour vous assurer que vous ne travaillerez plus jamais contre votre volonté. Vous gagnez un bonus de circonstances de +2 au test ou au DD de Vigueur déclencheur.

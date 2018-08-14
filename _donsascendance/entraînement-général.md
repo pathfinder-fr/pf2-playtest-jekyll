@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "vous gagnez +1 don général du niveau 1"
+summary: "Vous gagnez +1 don général du niveau 1."
 ---
 
 Votre adaptabilité se manifeste dans votre maîtrise d'une large variété de capacités utiles. Vous obtenez un don général du niveau 1.

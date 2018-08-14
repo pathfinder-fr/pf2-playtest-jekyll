@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "vous gagnez l'effet de spécialisation critique avec haches, épées à deux mains et armes orques"
+summary: "Vous gagnez l'effet de spécialisation critique avec les haches, les épées à deux mains et les armes orques."
 ---
 
 Vous êtes brutalement efficace avec les armes de vos ancêtres orques. Chaque fois que vous faites une attaque critique avec une arme à deux mains des groupes haches ou épées ou avec une arme orque, vous appliquez l'effet de spécialisation critique de l'arme.

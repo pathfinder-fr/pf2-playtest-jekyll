@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "vous gagnez +1 don de classe du niveau 1"
+summary: "Vous gagnez +1 don de classe du niveau 1."
 ---
 
 Vous avez été élevé pour être ambitieux et toujours décrocher la lune, ce qui fait que vous progressez rapidement dans vos domaines de prédilection. Vous gagnez un don de classe du niveau 1 pour votre classe.

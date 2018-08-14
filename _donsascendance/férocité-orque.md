@@ -21,7 +21,7 @@ cost:
 trigger: Vous êtes tombé à 0 Points de vie
 requirements:
 
-summary: "vous restez conscient à 1 Point de vie"
+summary: "Vous restez conscient à 1 Point de vie."
 ---
 
 La férocité du combat coule dans votre sang et vous refusez de succomber à vos blessures. Lorsque ce don est déclenché, vous ne tombez pas inconscient et vous  restez à 1 Point de vie.

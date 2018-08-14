@@ -21,7 +21,7 @@ cost:
 trigger: 
 requirements:
 
-summary: "vous gagnez Vision nocturne (ou Vision dans le noir)"
+summary: "Vous gagnez Vision nocturne (ou Vision dans le noir si vous l'avez déjà)."
 ---
 
 Votre sang orque est suffisamment fort pour vous accorder la vue aiguisée de vos ancêtres orques. Vous gagnez Vision nocturne, vous permettant de voir dans les zones faiblement illuminées aussi bien qu'en plein jour. Si vous avez déjà la Vision nocturne (du don Demi-orque), vous gagnez à la place Vision dans le noir, vous permettant de voir dans les ténèbres et dans les zones faiblement illuminées aussi bien qu'en plein jour, mais votre vision dans le noir est en noir et blanc.

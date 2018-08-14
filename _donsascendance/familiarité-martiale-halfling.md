@@ -21,7 +21,7 @@ cost:
 trigger:
 requirements:
 
-summary: "vous êtes entraîné avec certaines armes halflings, accès facilités aux autres armes halflings"
+summary: "Vous êtes entraîné à certaines armes halflings, accès facilité aux autres armes halflings."
 ---
 
 Vous privilégiez les armes traditionelles halflings. Vous êtes entraîné avec les frondes, les fustibales et les épées courtes. De plus, vous gagnez accès à toutes les armes halflings peu communes. 
