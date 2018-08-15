@@ -12,18 +12,20 @@ L'exploration consiste principalement en des mouvements et du roleplay. Vous pou
 
 En fonction de la manière dont le MJ vent gérer vos déplacements, vous pourriez utiliser des mètres ou des kilomètres en fonction de la Vitesse de votre personnage pour le type de mouvement pertinent. Les conversions sont reprises dans le tableau ci-dessous.
 
-{: .table }
-| Vitesse | m/min | km/h | km/jour |
-|:--------|:-----:|:----:|:-------:|
-| 2 | 30 | 2 | 16 |
-| 3 | 45 | 3 | 24 |
-| 4 | 60 | 4 | 32 |
-| 5 | 75 | 5 | 40 |
-| 6 | 90 | 6 | 48 |
-| 7 | 105 | 7 | 56 |
-| 8 | 120 | 8 | 64 |
-| 10 | 150 | 10 | 80 |
-| 12 | 180 | 12 | 96 |
+{: .table table.sm #vitessevoyage}
+| Vitesse | cases/min | m/min | km/h  | km/jour |
+| :------ | :-------: | :---: | :---: | :-----: |
+| 2       | 20        | 30    | 2     | 16      |
+| 3       | 30        | 45    | 3     | 24      |
+| 4       | 40        | 60    | 4     | 32      |
+| 5       | 50        | 75    | 5     | 40      |
+| 6       | 60        | 90    | 6     | 48      |
+| 7       | 70        | 105   | 7     | 56      |
+| 8       | 80        | 120   | 8     | 64      |
+| 10      | 100       | 150   | 10    | 80      |
+| 12      | 120       | 180   | 12    | 96      |
+
+
 
 Les distances de la table supposent que vous voyagez à bonne allure sans toutefois que ce soit trop fatigant ni dangereux et que le terrain traversé est relativement plat et dégagé. En cas de terrain difficile, les vitesses sont divisées par deux. En cas de terrain très difficile, les distances sont divisées par trois par rapport à la normale.
 
