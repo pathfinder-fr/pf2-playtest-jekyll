@@ -7,23 +7,23 @@ layout: classe
 
 #PARTIE PROPRE AUX CLASSES
 
-keyAbility: Int
-hp: 8
+keyAbility: For
+hp: 12
 
 #Degrés: NE Ent Exp Maî Lég
-profPerception: Ent
+profPerception: Exp
 profFortitude: Exp
-profReflex: Exp
-profWill: Ent
+profReflex: Ent
+profWill: Exp
 
-skills: 2
-weapons: "Ent pour toutes les armes simples, Ent pour les bombes alchimiques"
-armor: "Ent pour les armures légères"
+skills: 3
+weapons: "Ent pour toutes les armes simples et de guerre"
+armor: "Ent pour les armures légères et les armure intermédiaires"
 spells:
 signatureSkills:
-  - Arcanes
-  - Artisanat
-  - Médecine
+  - Acrobatie
+  - Athlétisme
+  - Intimidation
 ---
 
 Blah blah blah... description
