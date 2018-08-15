@@ -8,7 +8,7 @@ Le MJ vous demandera d'effectuer un test chaque fois que vous devez résoudre un
 
 ### 1) Identifier les modificateurs, bonus et pénalités
 
-Après avoir lancé votre d20, vous identifierez tous les modificateurs, bonus et pénalités qui doivent être appliquées au résultat. Un modificateur peut être positif ou négatif mais un bonus est toujours positif et une pénalité, toujours négative. La plupart des lancers incluent au moins un modificateur de caractéristique, qui dépend de l'une de vos valeurs de caractéristique, et un modificateur de formation, qui dépend de votre degré de formation. Les autres bonus et pénalités peuvent provenir d'effets magiques, de la situation ou d'autres sources.
+Après avoir lancé votre d20, vous identifierez tous les modificateurs, tous les bonus et toutes les pénalités qui doivent être appliqués au résultat. Un modificateur peut être positif ou négatif mais un bonus est toujours positif et une pénalité, toujours négative. La plupart des lancers incluent au moins un modificateur de caractéristique, qui dépend de l'une de vos valeurs de caractéristique, et un modificateur de formation, qui dépend de votre degré de formation. Les autres bonus et pénalités peuvent provenir d'effets magiques, de la situation ou d'autres sources.
 
 #### Modificateur de caractéristique
 
@@ -18,9 +18,9 @@ Par exemple, Discrétion est une compétence basée sur la Dextérité car elle 
 
 #### Modificateur de formation
 
-Votre degré de formation représente votre niveau d'entraînement pour une arme, une compétence ou bien d'autres choses. Votre classe et vos choix de dons déterminent votre degré de formation. Par exemple, un guerrier possède un haut degré de formation pour de nombreux types d'armes et d'armure alors qu'un magicien ne reçoit guère dans ces catégories, sacrifiant ses capacités martiales pour celles qui sont reliées à la magie.
+Votre degré de formation représente votre niveau d'entraînement pour une arme, une compétence ou bien d'autres choses. Votre classe et vos choix de dons déterminent votre degré de formation. Par exemple, un guerrier possède un haut degré de formation pour de nombreux types d'armes et d'armures alors qu'un magicien n'en a guère dans ces catégories, sacrifiant ses capacités martiales pour celles qui sont reliées à la magie.
 
-À moins que votre classe, un don ou une autre capacité vous donne le rang de formation entraîné ou mieux, on considère que vous êtes non entraîné. Lorsque votre personnage gagne des niveaux, vos degrés de formation peuvent s'améliorer. Si vous vous trouvez dans une situation où plus d'une formation pourrait s'appliquer, utilisez votre degré de formation le plus élevé. Par exemple, si vous êtes entraîné pour les armes simples mais que vous êtes un expert au maniement des dagues plus particulièrement, vous utiliseriez votre degré de formation d'expert lorsque vous attaquez avec une dague. La seule exception à cette règle est lorsque vous calculez votre Classe d'armure alors que vous portez un bouclier : votre degré de formation est le plus faible de vos degrés de formation pour l'armure que vous portez et pour le bouclier que vous tenez en main.
+À moins que votre classe, un don ou une autre capacité vous donne le rang de formation entraîné ou mieux, on considère que vous êtes non entraîné. Lorsque votre personnage gagne des niveaux, vos degrés de formation peuvent s'améliorer. Si vous vous trouvez dans une situation où plus d'une formation pourrait s'appliquer, utilisez votre degré de formation le plus élevé. Par exemple, si vous êtes entraîné pour les armes simples mais que vous êtes un expert au maniement des dagues plus particulièrement, vous utiliseriez votre degré de formation d'expert lorsque vous attaquez avec une dague. La seule exception à cette règle est lorsque vous calculez votre Classe d'armure alors que vous portez un bouclier : le degré de formation à prendre en compte est celui qui est le plus faible entre celui de l'armure que vous portez et du bouclier que vous tenez en main.
 
 {: .table .table-sm .table-striped}
 | Degré de formation | Modificateur |
@@ -45,7 +45,7 @@ Vous possédez un degré de formation pour tous les types de lancers et DD suiva
 | Jets de sorts | Jets de sorts et DD |
 
 {: .small}
-(*) Quand vous calculez la CA alors que vous tenez un bouclier, appliquez le plus faible entre votre degré de formation pour votre armure et votre degré de formation pour votre bouclier.
+(*) Quand vous calculez la CA alors que vous tenez un bouclier, appliquez le degré de formation le plus faible entre celui de votre armure et celui de votre bouclier.
 
 Vous possédez tous les degrés de formation inférieurs (à part non entraîné) en plus de votre degré de formation actuel. Par exemple, si vous avez atteint le degré de maître, vous pouvez encore choisir des dons qui nécessitent un rang expert ou entraîné.
 
@@ -53,11 +53,11 @@ Vous possédez tous les degrés de formation inférieurs (à part non entraîné
 
 Des circonstances avantageuses, des conditions positives, des objets ou des sorts peuvent vous donner des bonus pour un test ; il existe 3 types de tels bonus.
 
-Un bonus de circonstances correspond à une situation avantageuse, à la réussite d'une tactique ou à d'autres circonstances favorables. Les bonus de circonstances peuvent aller de +1 à +4.
+Un **bonus de circonstances** correspond à une situation avantageuse, à la réussite d'une tactique ou à d'autres circonstances favorables. Les bonus de circonstances peuvent aller de +1 à +4.
 
-Les bonus de condition proviennent généralement de sorts ou de capacités vous offrant des conditions avantageuses, le plus souvent de manière temporaire. Les bonus de condition varient entre +1 et +4. Certaines conditions plus courantes sont citées dans la section [Conditions](conditions.html). Certains objets magiques donnent également des bonus de condition, en fonction de leurs effets. Par exemple, si un objet vous octroyait les avantages du sort *héroïsme*, vous bénéficieriez de bonus de condition plutôt que de bonus d'objet.
+Les **bonus de condition** proviennent généralement de sorts ou de capacités vous offrant des conditions avantageuses, le plus souvent de manière temporaire. Les bonus de condition varient entre +1 et +4. Certaines conditions plus courantes sont citées dans la section [Conditions](conditions.html). Certains objets magiques donnent également des bonus de condition, en fonction de leurs effets. Par exemple, si un objet vous octroyait les avantages du sort *héroïsme*, vous bénéficieriez de bonus de condition plutôt que de bonus d'objet.
 
-Un bonus d'objet s'applique quand une pièce d'équipement vous donne un avantage. Les objets de grande qualité ou magiques octroient souvent un bonus d'objet quand ils sont utilisés ou portés, celui-ci allant de +1 à +5.
+Un **bonus d'objet** s'applique quand une pièce d'équipement vous donne un avantage. Les objets de grande qualité ou magiques octroient souvent un bonus d'objet quand ils sont utilisés ou portés, celui-ci allant de +1 à +5.
 
 Si vous bénéficiez de plusieurs bonus d'un même type, seul le bonus le plus élevé s'applique : vous ne les additionnez pas. Par exemple, bénéficier d'un abri offre un bonus de circonstances de +2 à la CA. Utiliser une action pour Lever un bouclier léger vous donne un bonus de circonstances de +1 à la CA. Si vous bénéficiez à la fois d'un abri et que vous levez votre bouclier, vous ne gagnez qu'un bonus de circonstances de +2 (celui de l'abri) vu qu'il s'agit du plus élevé.
 
@@ -65,13 +65,13 @@ Si vous bénéficiez de plusieurs bonus d'un même type, seul le bonus le plus �
 
 Des circonstances négatives, des conditions handicapantes, des sorts et des objets inférieurs peuvent rendre vos lancers plus difficiles. Il existe quatre types de pénalités différents.
 
-Les pénalités de circonstances sont causées par l'environnement, les tactiques des ennemis et d'autres raisons situationnelles. Par exemple, être pris en tenaille par deux ennemis peut vous rendre pris au dépourvu, ce qui impose une pénalité de circonstances de -2 à votre Classe d'armure et votre Classe d'armure de contact. Les pénalités de circonstances varient entre -1 et -4.
+Les **pénalités de circonstances** sont causées par l'environnement, les tactiques des ennemis et d'autres raisons situationnelles. Par exemple, être pris en tenaille par deux ennemis peut vous rendre pris au dépourvu, ce qui impose une pénalité de circonstances de -2 à votre Classe d'armure et votre Classe d'armure de contact. Les pénalités de circonstances varient entre -1 et -4.
 
-Les pénalités de condition sont causées par des conditions négatives. Par exemple, être nauséeux 2 impose une pénalité de condition de -2 à tous vos tests et DD. Les pénalités de condition varient entre -1 et -4. Certaines conditions standardisées sont citées dans la section [Conditions](conditions.html).
+Les **pénalités de condition** sont causées par des conditions négatives. Par exemple, être nauséeux 2 impose une pénalité de condition de -2 à tous vos tests et DD. Les pénalités de condition varient entre -1 et -4. Certaines conditions standardisées sont citées dans la section [Conditions](conditions.html).
 
-Les pénalités d'objet apparaissent quand vous utilisez des objets de piètre qualité ou maudits, un peu comme des objets de meilleure facture procurent des bonus d'objets. Les pénalités d'objet varient entre -1 et -4.
+Les **pénalités d'objet** apparaissent quand vous utilisez des objets de piètre qualité ou maudits, un peu comme des objets de meilleure facture procurent des bonus d'objets. Les pénalités d'objet varient entre -1 et -4.
 
-Comme pour les bonus, si vous subissez plusieurs pénalités de circonstances, de condition ou d'objets, seule la pire de chaque type s'applique. Cependant, il y a également une quatrième sorte de pénalité un peu spéciale qui ne possède pas de type, parfois appelée pénalité non typée. Cette catégorie inclut la pénalité d'attaques multiples (voir page <mark>305</mark>) et la pénalité de test imposée par votre armure (voir page <mark>176</mark>). Toutes les pénalités non typées pertinentes se combinent et s'appliquent à votre lancer, quel que soit leur nombre. Les pénalités non types sont toujours le résultat de choix que vous avez effectués et ne sont jamais imposées à votre personnage par un adversaire ou une situation.
+Comme pour les bonus, si vous subissez plusieurs pénalités de circonstances, de condition ou d'objets, seule la pire de chaque type s'applique. Cependant, il y a également une quatrième sorte de pénalité un peu spéciale qui ne possède pas de type, parfois appelée **pénalité non typée**. Cette catégorie inclut la pénalité d'attaques multiples (voir page <mark>305</mark>) et la pénalité de test imposée par votre armure (voir page <mark>176</mark>). Toutes les pénalités non typées pertinentes se combinent et s'appliquent à votre lancer, quel que soit leur nombre. Les pénalités non types sont toujours le résultat de choix que vous avez effectués et ne sont jamais imposées à votre personnage par un adversaire ou une situation.
 
 ### 2) Calculer le résultat
 
@@ -84,9 +84,9 @@ Une fois que vous avez identifié les modificateurs, bonus et pénalités qui s'
 
 ### 3) Déterminer le Degré de difficulté (DD)
 
-Le résultat de votre test est comparé au Degré de difficulté (abrégé en DD) pour déterminer votre degré de réussite. Pour les tâches auxquelles un autre personnage ne s'oppose pas directement, le MJ fixera le DD en fonction de la difficulté de ce que vous tentez de faire.
+Le résultat de votre test est comparé au Degré de difficulté (abrégé en DD) pour déterminer votre degré de réussite. Pour les tâches auxquelles une autre créature ne s'oppose pas directement, le MJ fixera le DD en fonction de la difficulté de ce que vous tentez de faire.
 
-Pour les taches qui s'opposent à un autre personnage, le DD dépend de l'un des modificateurs de la cible, choisi en fonction la tâche. Un DD calculé de cette manière vaut 10 plus le modificateur de la créature pour ce type de lancer. Tous les modificateurs, bonus et pénalités qui s'appliquerait aux jets du personnage pour une tâche s'appliquent également au DD sauf mention contraire. Par exemple, si vous tentez de vous faufiler à côté d'un garde, vous effectuez un test de Discrétion opposé par le DD de Perception du garde. Si vous possédez un +5 en Discrétion et que le garde a un +3 en Perception, vous lancez 1d20+5 contre leur DD de Perception qui est de 13.
+Pour les tâches auxquelles une autre créature s’oppose, le DD dépend de l'un des modificateurs de la créature, choisi en fonction de la tâche. Un DD calculé de cette manière vaut 10 plus le modificateur de cette créature pour ce type de lancer. Tous les modificateurs, bonus et pénalités qui s'appliquent aux jets de la créature pour une tâche s'appliquent également au DD sauf mention contraire. Par exemple, si vous tentez de vous faufiler à côté d'un garde, vous effectuez un test de Discrétion auquel le garde oppose son DD de Perception. Si vous possédez un +5 en Discrétion et que le garde a un +3 en Perception, vous lancez 1d20+5 contre son DD de Perception qui est de 13.
 
 #### Classe d'armure
 
@@ -130,9 +130,9 @@ Si plus d'un test pur concerne la présence ou l'absence d'une même chose, vous
 
 ### Tests secrets
 
-Quand un joueur ne devrait pas connaître le résultat exact d'un test concernant leur personnage, les règles demandent un test secret. Le trait secret apparaît sur tout ce qui utilise des tests secrets. Ce type de test utilise le modificateur normal du personnage mais est lancé par le MJ, qui ne révèle pas le résultat. Au lieu de cela, il décrit simplement les informations ou les effets qui résultent du test. Si le joueur ne sait pas qu'un test secret se déroule (par exemple, si le MJ lance un jet de Vigueur secret pour un joueur contre un poison qu'il n'a pas remarqué), il ne peut pas activer une capacité de chance ou de malchance (voir [Effectuer deux lancers ou relancer](#effectuer-deux-lancers-ou-relancer) plus bas) mais tous les effets de ce type qui s'appliquent automatiquement au lancer continuent de s'appliquer. Si le joueur sait que le MJ tente un test secret, comme c'est souvent le cas pour Se rappeler de quelque chose ou Rechercher, il peut activer des capacités de chance ou de malchance.
+Quand un joueur ne devrait pas connaître le résultat exact d'un test concernant son personnage, les règles demandent un test secret. Le trait secret apparaît sur tout ce qui utilise des tests secrets. Ce type de test utilise le modificateur normal du personnage mais est lancé par le MJ, qui ne révèle pas le résultat. Au lieu de cela, il décrit simplement les informations ou les effets qui résultent du test. Si le joueur ne sait pas qu'un test secret se déroule (par exemple, si le MJ lance un jet de Vigueur secret pour un joueur contre un poison qu'il n'a pas remarqué), il ne peut pas activer une capacité de chance ou de malchance (voir [Effectuer deux lancers ou relancer](#effectuer-deux-lancers-ou-relancer) plus bas) mais tous les effets de ce type qui s'appliquent automatiquement au lancer continuent de s'appliquer. Si le joueur sait que le MJ tente un test secret, comme c'est souvent le cas pour se Rappeler de quelque chose ou Rechercher, il peut activer des capacités de chance ou de malchance.
 
-Le MJ peut faire des tests secrets même si les règles ne l'imposent pas. À l'inverse, le MJ peut permettre aux joueurs de lancer eux-mêmes certains ou tous leurs jets même s'il s'agit normalement de tests secrets et faire confiance aux joueurs pour ne réaliser des choix basés sur des informations que leurs personnages ne connaissent pas.
+Le MJ peut faire des tests secrets même si les règles ne l'imposent pas. À l'inverse, le MJ peut permettre aux joueurs de lancer eux-mêmes certains ou tous leurs jets même s'il s'agit normalement de tests secrets et faire confiance aux joueurs pour qu'ils ne  réalisent pas des choix basés sur des informations que leurs personnages ne connaissent pas.
 
 ### Autres lancers
 
@@ -142,7 +142,7 @@ Quand vous savez que votre action ou capacité résulte en une réussite, vous p
 
 Les effets de chance et de malchance peuvent modifier la manière dont vous lancer des dés. Ces capacités vous permettent de relancer un jet raté, vous contraignent à relancer les dés en cas de test réussi, vous permettent de lancer deux fois les dés et de prendre le meilleur résultat ou encore vous contraignent à lancer les dés deux fois et à prendre le moins bon résultat.
 
-Vous ne pouvez jamais appliquer plus d'un effet de chance ou de malchance sur un jet donné. Par exemple, si vous lancez les dés deux fois et prenez le meilleur résultat, vous ne pouvez pas utiliser [Halfling chanceux](../donsascendance/halfling-chanceux.md) pour relancer si vous échez. Dans les cas où plusieurs effets de chance devraient normalement s'appliquer, vous devez choisir celui que vous voulez utiliser. Quand deux effets de malchance devraient normalement s'appliquer, le MJ décide lequel des deux est le pire et sera d'application.
+Vous ne pouvez jamais appliquer plus d'un effet de chance ou de malchance sur un jet donné. Par exemple, si vous lancez les dés deux fois et prenez le meilleur résultat, vous ne pouvez pas utiliser [Halfling chanceux](../donsascendance/halfling-chanceux.md) pour relancer si vous échouez. Dans les cas où plusieurs effets de chance devraient normalement s'appliquer, vous devez choisir celui que vous voulez utiliser. Quand deux effets de malchance devraient normalement s'appliquer, le MJ décide lequel des deux est le pire et sera d'application.
 
 Si vous êtes le sujet à la fois d'un effet de chance et d'un effet de malchance pour le même lancer, les deux effets s'annulent mutuellement et vous effectuez le lancer normalement.
 
