@@ -34,7 +34,7 @@ Voici les utilisations de la compétence Diplomatie que vous pouvez accomplir sa
 > 
 >---
 >
-> Après au moins une minute de conversation consistant en des ouvertures charismatiques, des flatteries et d'autres manifestations de bonne volonté, vou cherchez à faire bonne impression sur quelqu'un pour le rendre temporairement agréable.
+> Après au moins une minute de conversation consistant en des ouvertures charismatiques, des flatteries et d'autres manifestations de bonne volonté, vous cherchez à faire bonne impression sur quelqu'un pour le rendre temporairement agréable.
 > Vous cherchez à faire une bonne impression sur quelqu’un pour le rendre temporairement agréable. Au terme de la conversation, faites un test de Diplomatie contre le DD de Volonté de la cible modifié par les circonstances que le MJ pense adaptées.
 > Les bonnes impressions (ou les mauvaises, sur une réussite critique) durent pendant la rencontre actuelle seulement à moins que le MJ en décide autrement.
 > Les attitudes sont listées dans la partie Conditions (voir page 319). La tentative échoue si la cible ne peut pas vous comprendre.
