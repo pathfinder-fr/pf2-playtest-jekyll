@@ -19,4 +19,7 @@ Les sessions de Pathfinder sont généralement structurées sous la forme de cam
 * [Gérer les modes de jeu](gérer-les-modes-de-jeu.html)
 * [Degrés de difficulté](degrés-de-difficulté.html)
 * [Récompenses](récompenses.html)
-* [Environnement](environnement.html)
+* [L'environnement](environnement.html)
+* [Les dangers](dangers.html)
+* [Construire une rencontre](construire-une-rencontre.html)
+* [Utiliser les créatures](utiliser-les-créatures.html)

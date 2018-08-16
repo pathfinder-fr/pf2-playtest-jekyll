@@ -1,6 +1,6 @@
 ---
 title: "L'environnement"
-source: "Playtest Pathfinder"
+source: "Playtest + Bestiary"
 toc: true
 ---
 
