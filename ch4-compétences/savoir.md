@@ -7,10 +7,11 @@ toc: true
 index:
   - key: "Savoir (compétence)"
     anchor: ""
-  - key: "Savoir (compétence)"
-    anchor: ""
-  - key: "Savoir (compétence)"
-    anchor: ""
+  - key: "Se souvenir de connaissances"
+    anchor: "se-souvenir-de-connaissances"
+  - key: "Pratiquer un métier"
+    anchor: "pratiquer-un-métier"
+
 ---
 
 Vous disposez d’informations spécifiques sur un sujet précis. 
