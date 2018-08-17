@@ -13,6 +13,7 @@ index:
     anchor: "soigner-une-maladie"
   - key: "Soigner un empoisonnement"
     anchor: "soigner-un-empoisonnement"
+    
 ---
 
 Vous pouvez étancher les blessures et aider les gens à soigner leurs maladies et les empoisonnements.
@@ -20,6 +21,7 @@ Vous pouvez étancher les blessures et aider les gens à soigner leurs maladies 
 ## Utilisation de la compétence sans entraînement
 Vous pouvez utiliser la compétence Médecine sans entraînement de la manière suivante :
 
+{: .block .action1}
 > ### Administrer les premiers soins
 >
 > Conditions 
@@ -54,6 +56,7 @@ Vous ne pouvez utiliser la compétence Médecine de la manière suivante que si 
 >
 > **Échec critique** Vos efforts font subir à la créature une pénalité de circonstance de -2 à son prochain jet de protection contre la maladie.
 
+{: .block .action1}
 > ### Soigner un empoisonnement
 > 
 > Conditions 
