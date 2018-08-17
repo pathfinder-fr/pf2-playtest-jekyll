@@ -16,10 +16,9 @@ index:
   
 ---
 
-Diplomatie (Charisme)
 Vous influencez les autres par la négociation et la flatterie.
 
-Utilisations de la compétence Diplomatie sans entraînement
+## Utilisations de la compétence Diplomatie sans entraînement
 Voici les utilisations de la compétence Diplomatie que vous pouvez accomplir sans entraînement
 
 > ### Amadouer
@@ -67,4 +66,3 @@ Voici les utilisations de la compétence Diplomatie que vous pouvez accomplir sa
 > **Réussite** Vous parvenez à collecter des informations sur un individu ou un sujet spécifique. Le MJ détermine les détails.
 >
 > **Échec critique** Vous collectez des informations incorrectes sur le sujet ou l’individu.
-

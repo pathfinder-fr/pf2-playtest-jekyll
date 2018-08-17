@@ -7,20 +7,18 @@ toc: true
 index:
   - key: "Arcanes (compétence)"
     anchor: ""
-  - key: "Avancer sans tomber"
-    anchor: "avancer-sans-tomber"
-  - key: "Garder son équilibre"
-    anchor: "garder-son-équilibre"
-  - key: "se faufiler"
-    anchor: "se-faufiler"
-  - key: "se rattraper au bord"
-    anchor: "se-rattraper-au-bord"
-  - key: "traverser l'espace d'un ennemi"
-    anchor: "traverser-l'espace-d'un-ennemi"
-  - key: "manoeuvre en vol"
-    anchor: "manoeuvre-en-vol"
+  - key: "Se souvenir de connaissances"
+    anchor: "se-souvenir-de-connaissances"
+  - key: "Apprendre un sort arcanique"
+    anchor: "apprendre-un-sort-arcanique"
+  - key: "Emprunter un sort arcanique"
+    anchor: "emprunter-un-sort-arcanique"
+  - key: "Identifier la magie"
+    anchor: "identifier-la-magie"
+  - key: "Lire la magie"
+    anchor: "lire-la-magie"
+
 ---
-# Arcanes (Intelligence)
 
 Cette compétence mesure ce que vous connaissez de l’alchimie, des sorts arcaniques et des plus communs des objets magiques. 
 De plus, elle détermine votre niveau d’information sur l’alchimie et les énergies arcaniques ainsi que le savoir sur les créatures qui leurs sont associés.
@@ -70,8 +68,7 @@ Vous pouvez utiliser la compétence Arcanes selon les manières suivantes seulem
 ### Emprunter un sort arcanique
 > 
 > {: .traits}
->
-> Concentration
+>> Concentration
 > 
 > ---
 >
@@ -121,7 +118,7 @@ Identifier ou apprendre un sort
 {: .tablenotes}
 (*) Les sorts rares du niveau 9 ou de niveau inférieur ont typiquement un prix et un DD correspondant à un sort d’un niveau de plus.
 
-### Lecture de la magie
+### Lire la magie
 > 
 > {: .traits}
 >
