@@ -132,12 +132,12 @@ Identifier ou apprendre un sort
 >
 > ---
 > 
-> Vous pouvez lire et apprendre un écrit magique aussi longtemps qu’il est écrit dans une langue que vous pouvez normalement lire.
+> Vous pouvez lire et apprendre un écrit magique dès lors qu’il est écrit dans une langue que vous pouvez normalement lire.
 > 
 > Cela prend habituellement environ une minute par page de texte mais cela pourrait prendre plus longtemps dans le cas d’écrits anciens obscurs ou dans d’autres situations à la discrétion du MJ.
 > Pour lire et comprendre les nuances de textes particulièrement archaïques, ésotériques ou obscurs, le MJ peut vous demander d’effectuer un test d’Arcanes pour voir si vous parvenez à comprendre la véritable signification de l’écrit magique.
 > Le MJ pourrait vouloir que vous tentiez un test par écrit ou que vous effectuiez plusieurs tests pour chaque partie d’un plus grand texte.
 >
-> **Réussite** Vous comprenez la véritable signification du texte
+> **Réussite** Vous comprenez la véritable signification du texte.
 >
-> **Échec critique** Vous vous trompez dans la lecture
+> **Échec critique** Vous vous trompez dans la lecture.
