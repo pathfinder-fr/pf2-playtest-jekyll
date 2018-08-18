@@ -24,4 +24,4 @@ requirements:
 summary: "pouvoir de composition : composition persistante"
 ---
 
-En ajoutant un final, vous pouvez faire durer vos compositions plus longtemps. Vous apprenez le pouvoir de composition *composition persistante* (voir page <mark>235</mark>), que vous pouvez lancer en dépensant 1 Point de magie. Augmentez votre réserve de Points de magie de 2.
+En ajoutant un final, vous pouvez faire durer vos compositions plus longtemps. Vous apprenez le pouvoir de composition [*composition persistante*](/sorts/composition-persistante.html), que vous pouvez lancer en dépensant 1 Point de magie. Augmentez votre réserve de Points de magie de 2.

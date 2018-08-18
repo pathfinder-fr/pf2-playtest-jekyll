@@ -52,11 +52,11 @@ Vous pouvez utiliser la compétence Intimidation pour effectuer les actions suiv
 >
 > ---
 >
-> Par un cri soudain, une moquerie à propos ou un cutting put-down, vous pouvez fragiliser la résolution d’un ennemi.
+> Par un cri soudain, une moquerie à propos ou une inslute cinglante, vous pouvez fragiliser la résolution d’un ennemi.
 > Choisissez une créature à 6 cases de vous que vous pouvez détecter ou voir et qui peut vous détecter ou vous voir.
 > Tentez un test d’Intimidation contre le DD de Volonté de la cible. Si la cible ne comprend pas le langage que vous utilisez ou qu’elle ne peut vous entendre, vous subissez une pénalité de -4 à votre test au test et Démoraliser perd le trait langage.
 >
-> **Réussite** La cible devient effrayé 1
+> **Réussite** La cible devient effrayé 1.
 > 
 > **Réussite critique** La cible devient effrayée 2 et fuit jusqu’au terme de son prochain tour.
 >
