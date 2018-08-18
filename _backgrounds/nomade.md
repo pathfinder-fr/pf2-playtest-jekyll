@@ -15,7 +15,7 @@ abilityBoosts:
   - au choix
 skillFeat: "Garantie (Survie)"
 #Si le nom du fichier est standardisé (minuscules, - au lieu d'espaces), il n'est pas nécessaire de le préciser
-skillFeatFile: 
+skillFeatFile: garantie
 trainedSkill: "Savoir (un type de terrain où vous avez voyagé, comme désert ou marécage)"
 ---
 

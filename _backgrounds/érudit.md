@@ -15,7 +15,7 @@ abilityBoosts:
   - au choix
 skillFeat: "Garantie (Arcanes ou Nature ou Religion ou Occultisme)"
 #Si le nom du fichier est standardisé (minuscules, - au lieu d'espaces), il n'est pas nécessaire de le préciser
-skillFeatFile: 
+skillFeatFile: garantie
 trainedSkill: "Savoir (monde des érudits)"
 ---
 

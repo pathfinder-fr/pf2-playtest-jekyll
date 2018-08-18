@@ -16,9 +16,9 @@ cols:
     colsize: "25%"
     attribute: skillFeat
     isALink: true
-    urlPrefix: "../donscompetence/"
+    urlPrefix: "../dons/"
     urlSuffix: ".html"
-    fileName: skillFeatLink
+    fileName: skillFeatFile
     pageName: skillFeat
   - title: "Compétence entraînée"
     colsize: "20%"

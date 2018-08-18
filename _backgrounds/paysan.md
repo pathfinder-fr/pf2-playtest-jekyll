@@ -15,7 +15,7 @@ abilityBoosts:
   - au choix
 skillFeat: "Garantie (Athlétisme)"
 #Si le nom du fichier est standardisé (minuscules, - au lieu d'espaces), il n'est pas nécessaire de le préciser
-skillFeatFile: 
+skillFeatFile: garantie
 trainedSkill: "Savoir (ferme)"
 ---
 

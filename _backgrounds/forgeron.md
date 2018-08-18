@@ -15,7 +15,7 @@ abilityBoosts:
   - au choix
 skillFeat: "Artisanat spécialisé (forge)"
 #Si le nom du fichier est standardisé (minuscules, - au lieu d'espaces), il n'est pas nécessaire de le préciser
-skillFeatFile: 
+skillFeatFile: artisanat-spécialisé
 trainedSkill: "Savoir (forge)"
 ---
 
