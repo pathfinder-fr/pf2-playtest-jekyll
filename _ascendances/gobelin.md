@@ -43,7 +43,7 @@ Les gobelins atteignent l'adolescence à l'âge de 3 ans et l'âge adulte 4 ou 5
 Les aventuriers gobelins vénèrent généralement le dieu de l'aventure.
 
 ## Les aventuriers gobelins
-Certains backgrounds sont des choix particulièrement judicieux pour les gobelins. Considérez le criminel si vous venez d'une tribu sans loi, l'artiste si vous avez vécu en faisant des spectacles pour le public ou le gamin des rues si vous avez été élevé dans la pauvreté. En outre, l'acrobate, le gladiateur et le chasseur ont aussi du sens pour un gobelin.
+Certains backgrounds sont des choix particulièrement judicieux pour les gobelins. Considérez le criminel si vous venez d'une tribu sans loi, l'amuseur public si vous avez vécu en faisant des spectacles pour le public ou le gamin des rues si vous avez été élevé dans la pauvreté. En outre, l'acrobate, le gladiateur et le chasseur ont aussi du sens pour un gobelin.
 
 Au moment de choisir une classe, envisagez de jouer un alchimiste, puisque de nombreux gobelins aiment le feu, ou un barde, puisque de nombreux gobelins aiment les chansons. En tant que survivants, les gobelins sont souvent des roublards vivant dans l'ombre, bien que leur nature charismatique les incite également à suivre une classe liée à la magie telle que le sorcier.
 

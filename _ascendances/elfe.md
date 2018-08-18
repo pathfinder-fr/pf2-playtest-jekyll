@@ -42,7 +42,7 @@ Les elfes sont souvent émotifs et capricieux, mais ils apprécient également l
 La déesse du voyage et celle de la beauté font parties des favorites. La déesse de la vengeance est la plus célèbre des divinités elfes, car elle représente un grand nombre des idéaux elfiques pris à l'extrême.
 
 ## Les aventuriers elfes
-Certaines options de background conviennent particulièrement aux elfes. Par exemple le chasseur si vous avez été élevé dans la nature, le noble si vous avez grandi dans la cour ou au sein de la noblesse, ou l'érudit si vous avez passé votre vie en académie. En outre, l’acrobate, l’artiste et l'éclaireur sont tous de bons choix pour un elfe.
+Certaines options de background conviennent particulièrement aux elfes. Par exemple le chasseur si vous avez été élevé dans la nature, le noble si vous avez grandi dans la cour ou au sein de la noblesse, ou l'érudit si vous avez passé votre vie en académie. En outre, l’acrobate, l'amuseur public et l'éclaireur sont tous de bons choix pour un elfe.
 
 Lorsque vous sélectionnez une classe, envisagez le rôdeur ou le roublard, qui profitent tous deux de la dextérité elfique. Vous pourriez également envisager d'être un alchimiste ou un sorcier, répondant tous deux à la curiosité intellectuelle naturelle des elfes.
 
