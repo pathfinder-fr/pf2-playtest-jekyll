@@ -9,14 +9,14 @@ layout: block
 #Action: (rien), 1/2/3 (1/2/3 action[s]), R (réaction), L (action libre)
 action: 
 type: don
-level: 14
+level: 1
 #Rareté : C (commun), PC (peu commun), R (rare), U (unique)
 rarity: C
 
 traits:
   - prêtre
   - guérison
-  - positive
+  - positif
 prerequisites: 
 frequency: 
 cost:
