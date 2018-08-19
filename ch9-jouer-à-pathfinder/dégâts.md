@@ -20,13 +20,13 @@ Les dégâts de précision augmentent les dégâts d'une attaque plutôt que d'�
 
 Dans certains cas, vous devrez doubler ou diviser par deux une quantité de dégâts. Quand vous divisez des dégâts par deux, vous lancez les dégâts normalement puis vous divisez le résultat par deux en arrondissant vers le bas. Vous procédez de la sorte indépendamment du fait que les dégâts soient infligés par un effet avec un jet d'attaque ou un effet imposant un jet de sauvegarde.
 
-La manière dont vous doublez des dégâts dépend de la façon dont l'effet prend place. Si les dégâts proviennent d'un effet avec un jet d'attaque, vous lancez deux fois le nombre normal de dés et vous appliquez tous les modificateurs, bonus et pénalités de dégâts deux fois. Si les dégâts proviennent d'un effet autorisant un jet de sauvegarde, vous doublez let total de dégâts normal au lieu de lancer deux fois les dés.
+La manière dont vous doublez des dégâts dépend de la façon dont l'effet prend place. Si les dégâts proviennent d'un effet avec un jet d'attaque, vous lancez deux fois le nombre normal de dés et vous appliquez tous les modificateurs, bonus et pénalités de dégâts deux fois. Si les dégâts proviennent d'un effet autorisant un jet de sauvegarde, vous doublez le total de dégâts normal au lieu de lancer deux fois les dés.
 
 Par exemple, si vous portez une attaque critique avec une *épée longue +1*, vous devriez lancer 4d8 et ajouter votre modificateur deux fois au lieu de lancer 2d8 et de ne l'ajouter qu'une seule fois. D'un autre côté, si l'un de vos ennemis obtient un échec critique sur son jet de sauvegarde contre votre *boule de feu* de niveau 3, vous lanceriez 6d6 points pour calculer les dégâts puis vous doubleriez ce total. Par exemple, si vous obtenez 21 points de dégâts, ceux qui ont échoué de manière critique sur leur jet de sauvegarde contre ce sort subiraient 42 points de dégâts de feu.
 
 ### Attaques non létales
 
-Opus pouvez effectuer une attaque non létale afin de tenter de mettre quelqu'un KO au lieu de le tuer (voir [Être mis KO](../ch9-jouer-à-pathfinder/points-de-vie-et-guérison.md#être-mis-ko)). Les armes possédant le trait non létal (y compris les poings) le font automatiquement.
+Vous pouvez effectuer une attaque non létale afin de tenter de mettre quelqu'un KO au lieu de le tuer (voir [Être mis KO](../ch9-jouer-à-pathfinder/points-de-vie-et-guérison.md#être-mis-ko)). Les armes possédant le trait non létal (y compris les poings) le font automatiquement.
 
 Si vous effectuez une attaque non létale avec une arme qui ne possède pas le trait non létal, calculez le résultat de votre attaque comme si vous étiez non entraîné pour cette arme. De la même manière, si vous tentez de porter une attaque létale à l'aide d'une arme qui possède le trait non létal, calculez également le résultat de votre jet d'attaque comme si vous étiez non entraîné.
 
@@ -50,11 +50,11 @@ Une créature dotée d'une résistance réduit les dégâts qu'elle reçoit de l
 
 Si la créature possède plus d'un type de résistances qui pourraient s'appliquer aux mêmes dégâts, n'utilisez que celle qui possède la plus grande valeur.
 
-On peut bénéficier de résistances à tous les types de dégâts. Si vous une résistance à tous les dégâts, applique la résistance à chaque source séparément. Ainsi, une attaque qui devrait normalement infliger 7 points de dégâts de type tranchant et 4 points de dégâts de feu mais qui est contrée par une résistance de 5 points à tous les dégâts verrait ses dégâts réduits à 2 points de dégâts tranchant et ses dégâts de feu annulés.
+On peut bénéficier de résistances à tous les types de dégâts. Si vous avez une résistance à tous les dégâts, appliquez la résistance à chaque source séparément. Ainsi, une attaque qui devrait normalement infliger 7 points de dégâts de type tranchant et 4 points de dégâts de feu mais qui est contrée par une résistance de 5 points à tous les dégâts verrait ses dégâts réduits à 2 points de dégâts tranchant et ses dégâts de feu annulés.
 
 #### Interactions entre faiblesses et résistances
 
-Parfois, un objet magique ou un sort qui inflige une faiblesse ou octroie une résistance interagit avec les faiblesses et résistances de la créature elle-même ou avec d'autres effets octroyant des faiblesses ou des résistances. Si vous possédez une faiblesse à un type de dégâts et gagnez une résistance à ce même type de dégâts, commencez par réduire la faiblesse de la valeur de résistance. Une fois cela fait, s'il reste encore de la résistance, cette quantité restante devient votre résistance effective. Par exemple, si vous avez une faiblesse 5 au feu mais gagnez une résistance 10 au feu, votre faiblesse serait réduite à 0 et votre résistance finale serait de 5 points contre le feu.
+Parfois, un objet magique ou un sort qui inflige une faiblesse ou octroie une résistance interagit avec les faiblesses et résistances de la créature elle-même ou avec d'autres effets octroyant des faiblesses ou des résistances. Si vous possédez une faiblesse à un type de dégâts et gagnez une résistance à ce même type de dégâts, commencez par soustraire la faiblesse de la valeur de résistance. Une fois cela fait, s'il reste encore de la résistance, cette quantité restante devient votre résistance effective. Par exemple, si vous avez une faiblesse 5 au feu mais gagnez une résistance 10 au feu, votre faiblesse serait réduite à 0 et votre résistance finale serait de 5 points contre le feu.
 
 Cela fonctionne de la même manière si vous avez une résistance et gagnez une faiblesse. Comme de multiples résistances ou faiblesses ne sont pas cumulatives, déterminez la faiblesse la plus forte et la résistance la plus forte avant de les comparer.
 

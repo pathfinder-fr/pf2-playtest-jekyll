@@ -168,7 +168,7 @@ Vous vénérez les plantes et la générosité de la nature, vous agissez comme 
 Vous portez en vous la fureur de la nature, la canalisant pour produire des effets terrifiants et chevauchant vents et tempêtes.
 **Compétence** Vous êtes entraîné dans la compétence Acrobatie et elle devient une compétence de signature pour vous.  
 **Don** Vous obtenez le don de druide Né des tempêtes.
-**Pouvoir d'ordre** Vous pouvez lancer *assaut de la tempête* en dépensant 1 Point de magie.  
+**Pouvoir d'ordre** Vous pouvez lancer *puissance de la tempête* en dépensant 1 Point de magie.  
 **Anathème** Créer des conditions météorologiques non naturelles qui pourraient être dommageables pour l'environnement local (par exemple en utilisant le rituel de niveau 9 *contrôle du climat*) est un anathème pour votre ordre.
 
 #### Ordre sauvage
@@ -214,30 +214,3 @@ Votre degré de formation pour les jets de sorts, DD de sorts et jets d'attaque 
 
 ### Dons de druide
 Aux niveaux 2, 4, 6, 8, 10, 14, 18 et 20, vous obtenez un don de classe druide. 
-
-{:.bloc .action2}
-> ### Forme élémentaire **Don 10**
-> *Druide, Ordre sauvage*  
-> **Condition** Forme sauvage
-> 
-> ---
-> Vous pouvez lancer forme élémentaire en dépensant un point de votre réserve
-> de forme sauvage.  
-> Test avec plusieurs paragraphes.
-
-
-{:.bloc .action1}
-> ### Forme élémentaire **Don 10**
-> *Druide, Ordre sauvage*  
-> **Condition** Forme sauvage
-> 
-> ---
-> Vous pouvez lancer forme élémentaire en dépensant un point de votre réserve
-> de forme sauvage.  
-> Test avec plusieurs paragraphes.  
-> Ça a l'air de fonctionner. On peut aussi ajouter des résultats de jds.  
-> **Échec critique** : t'es mort.  
-> **Échec** : t'es à moitié mort.  
-> **Réussite** : tu saignes juste un peu.  
-> **Réussite critique** : tu n'as rien. 
-

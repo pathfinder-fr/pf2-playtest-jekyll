@@ -15,6 +15,7 @@ rarity: C
 
 traits:
   - barde
+  - druide
   - sorcier
 prerequisites: 
 frequency: 

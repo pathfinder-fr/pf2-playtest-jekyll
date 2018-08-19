@@ -126,3 +126,18 @@ En plus du don d'ascendance avec lequel vous avez commencé, vous gagnez un don 
 
 ### Dons de XX_CLASSE
 Au niveau 1 et à chaque niveau pair ensuite, vous obtenez un don de classe XX_CLASSE. 
+
+{:.bloc .action1}
+> ### Forme élémentaire **Don 10**
+> *Druide, Ordre sauvage*  
+> **Condition** Forme sauvage
+> 
+> ---
+> Vous pouvez lancer forme élémentaire en dépensant un point de votre réserve
+> de forme sauvage.  
+> Test avec plusieurs paragraphes.  
+> Ça a l'air de fonctionner. On peut aussi ajouter des résultats de jds.  
+> **Échec critique** : t'es mort.  
+> **Échec** : t'es à moitié mort.  
+> **Réussite** : tu saignes juste un peu.  
+> **Réussite critique** : tu n'as rien. 

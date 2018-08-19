@@ -15,7 +15,7 @@ La plupart des créatures, quand elles atteignent 0 Point de vie, meurent, à mo
 Quand vous êtes réduit à 0 Point de vie, vous êtes mis KO. Lorsque cela se produit, les effets suivants s'appliquent à vous.
 
 * Vous tombez inconscient (et gagnez la condition inconscient).
-* Vous déplacez immédiatement votre position d'initiative jusqu'à juste avant la créature ou l'effet qui vous a réduit à 0 pv.
+* Vous déplacez immédiatement votre position d'initiative pour qu'elle soit juste avant la créature ou l'effet qui vous a réduit à 0 pv.
 * Si l'attaque était létale, vous gagnez la condition mourant 1. Si vous possédiez déjà la condition mourant, augmentez sa valeur de 1. Si l'attaque était un coup critique, vous gagnez la condition mourant 2 (ou augmentez la valeur de condition déjà existante de 2).
 * Si l'attaque était non létale, vous ne gagnez pas la condition mourant et vous n'augmentez pas la valeur de la condition mourant si vous la possédiez déjà. Vous remontez à 1 Point de vie mais restez inconscient.
 
@@ -23,13 +23,13 @@ Si votre condition mourant atteint la valeur 4 ou plus, vous mourrez.
 
 #### Jets de récupération
 
-Quand vous êtes inconscient, au début de chacun de vos tours, vous effectuez un jet de Vigueur spécial ayant pour objectif de regagner conscience et qu'on appelle jet (de sauvegarde) de récupération.
+Quand vous êtes inconscient, au début de chacun de vos tours, vous effectuez un jet de Vigueur spécial ayant pour objectif de reprendre conscience et qu'on appelle jet (de sauvegarde) de récupération.
 
 Le MJ détermine le DD de votre jet de récupération lorsque vous êtes mis KO. Ce DD vaut le DD du sort ou de la capacité qui vous a mis hors combat plus la valeur actuelle de votre condition mourant.
 
 Si les dégâts qui vous ont amené à 0 Point de vie proviennent d'une source qui ne possède pas de DD, comme un jet d'attaque, utilisez le DD de classe de l'attaquant. Même si un DD de classe inclut généralement le modificateur de la caractéristique principale pour la classe du personnage, le MJ pourrait parfois décider qu'un autre modificateur de caractéristique est plus approprié. Par exemple, le DD de classe d'un magicien utilise généralement l'Intelligence mais, s'il met quelqu'un KO avec son bâton, le DD pourrait utiliser sa Force ou sa Dextérité. Pour les monstres, les MJ utiliseront le DD de compétence correspondant à une difficulté élevée pour le niveau du monstre (voir <mark>page 336</mark>).
 
-Utilisez toujours le DD de récupération déterminé au moment où vous avez mis KO ; si le DD de l'attaquant change par la suite, le DD de votre jet de récupération, lui, n'est pas modifié rétroactivement.
+Utilisez toujours le DD de récupération déterminé au moment où vous avez été mis KO ; si le DD de l'attaquant change par la suite, le DD de votre jet de récupération, lui, n'est pas modifié rétroactivement.
 
 #### Effets des jets de récupération
 
@@ -49,7 +49,7 @@ Si vous êtes à 1 Point de vie ou plus :
 
 #### Subir des dégâts en étant inconscient
 
-Si vous subissez des dégâts alors que vous êtes déjà inconscient, appliquez les mêmes effets que si vous aviez été mis KO par ces dégâts. Si le DD du jet de récupération pour ces nouveaux dégâts est plus élevé que votre DD de récupération actuel, ce dernier est remplacé par la valeur plus élevée.
+Si vous subissez des dégâts alors que vous êtes déjà inconscient, appliquez les mêmes effets que si vous aviez été mis KO par ces dégâts. Si le DD du jet de récupération pour ces nouveaux dégâts est plus élevé que votre DD de récupération actuel, ce dernier est remplacé par la valeur la plus élevée.
 
 #### Récupération héroïque
 
