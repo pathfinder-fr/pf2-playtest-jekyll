@@ -6,21 +6,23 @@ includeSource: true
 cols:
   - title: "Rareté"
     attribute: rarity
+    colsize: "5%"
   - title: "Accroissements"
     attribute: abilityBoosts
     isAList: true
     separator: ", "
+    colsize: "15%"
   - title: "Don de compétence"
+    colsize: "25%"
     attribute: skillFeat
     isALink: true
-    urlPrefix: "../donscompetence/"
+    urlPrefix: "../dons/"
     urlSuffix: ".html"
-    fileName: skillFeatLink
+    fileName: skillFeatFile
     pageName: skillFeat
   - title: "Compétence entraînée"
+    colsize: "20%"
     attribute: trainedSkill
-  - title: "Résumé"
-    attribute: summary
 index:
   - key: "backgrounds"
     anchor: "backgrounds"
