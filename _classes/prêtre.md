@@ -206,7 +206,7 @@ Domaines
 | Guérison | Votre magie de guérison est particulièrement puissante. | [*bénédiction du guérisseur*](/sorts/bénédiction-du-guérisseur.html) | [*source de guérison*](/sorts/source-de-guérison.html) (2) |
 | Liberté | Vous pouvez libérer vous-même ou une autre créature de ses entraves ou de contraintes. | [*déplacement sans entraves*](/sorts/déplacement-sans-entraves.html) | [*mot de liberté*](/sorts/mot-de-liberté.html) (3) |
 | Lumière | Vous maîtrisez la puissance du soleil et d'autres sources de lumières et vous punissez les morts-vivants. | [*banissement des morts-vivants*](/sorts/banissement-des-morts-vivants.html) | [*éclair aveuglant*](/sorts/éclair-aveuglant.html) (2) |
-| Lune | Vous possédez des pouvoirs associés à la lune. | [*clair de lune*](/sorts/clair-de-lune.html) | [*coup de lune*](/sorts/coup-de-lune.html) (2) |
+| Lune | Vous possédez des pouvoirs associés à la lune. | [*clair de lune*](/sorts/clair-de-lune.html) | [*rayon de lune*](/sorts/rayon-de-lune.html) (2) |
 | Magie | Vous savez réaliser l'inattendu et l'inexplicable. | [*réceptacle divin*](/sorts/réceptacle-divin.html) | [*guide mystique*](/sorts/guide-mystique.html) (1) |
 | Mort | Vous avez le pouvoir de mettre un terme à la vie et de détruire les morts-vivants. | [*banissement des morts-vivants*](/sorts/banissement-des-morts-vivants.html) | [*appel de la mort*](/sorts/appel-de-la-mort.html) (1) |
 | Mort-vivance | Votre magie possède des liens étroits avec la mort-vivance. | [*bénédiction de la non-vie*](/sorts/bénédiction-de-la-non-vie.html) | [*toucher de la mort-vivance*](/sorts/toucher-de-la-mort-vivance.html) (2) |
