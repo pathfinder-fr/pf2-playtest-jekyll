@@ -14,7 +14,7 @@ level: 1
 rarity: C
 
 traits:
-  - gnome
+  - gobelin
 prerequisites: 
 frequency:
 cost:
