@@ -17,6 +17,8 @@ traits:
   - métamagie
   - druide
   - sorcier
+  - magicien
+  - prêtre
 prerequisites:
 frequency: 
 cost:

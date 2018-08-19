@@ -22,7 +22,7 @@ cost:
 trigger: 
 requirements:
 
-summary: "Les sorts de [*soin*](/sorts/soin.html)inflige des dégâts aux fiélons."
+summary: "Les sorts de [*soin*](/sorts/soin.html) inflige des dégâts aux fiélons."
 ---
 
 Vous combinez l'énergie sacrée avec l'énergie positive pour infliger des dégâts aux démons, aux diables et à leurs congénères maléfiques.
