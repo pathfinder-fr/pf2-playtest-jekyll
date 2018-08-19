@@ -160,7 +160,7 @@ blockquote.block .sm-action-icon {
     height: 1rem;
 }
 
-blockquote.block h3 span {
+blockquote.block h3 strong {
     float: right;
 }
 
