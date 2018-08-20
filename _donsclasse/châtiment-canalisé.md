@@ -29,7 +29,7 @@ summary: Canalisation d'énergie via une arme
 Au lieu de lancer le sort [*soin*](/sorts/soin.html) ou [*blessure*](/sorts/blessure.html), vous délivrez l'énergie destructrice que vous canalisez par une frappe au corps-à-corps sur votre adversaire.
 
 Effectuez une Frappe au corps-à-corps. Cette Frappe a l'un des effets additionnels suivants en cas de réussite :
-* Si vous canalisez de l'énergie positive et si la cible est un mort-vivant, vous lui infligez un nombre de dégâts d'énergie positive supplémentares égal à celui du sort [*soin*](/sorts/soin.html) sur une cible unique.
+* Si vous canalisez de l'énergie positive et si la cible est un mort-vivant, vous lui infligez un nombre de dégâts d'énergie positive supplémentaires égal à celui du sort [*soin*](/sorts/soin.html) sur une cible unique.
 * Si vous canalisez de l'énergie négative et si la cible est vivante, vous lui infligez un nombre de dégâts d'énergie négative supplémentaires égal à celui du sort [*blessure*](/sorts/blessure.html) sur une cible unique.
 
 Si votre Frappe échoue ou touche une créature qui n'est pas affectée par le type d'énergie délivré, le sort est dépensé sans effet.

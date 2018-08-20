@@ -17,6 +17,7 @@ traits:
   - barde
   - druide
   - sorcier
+  - prêtre
 prerequisites: 
 frequency: 
 cost:

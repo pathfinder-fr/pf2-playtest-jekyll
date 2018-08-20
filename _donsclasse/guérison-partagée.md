@@ -1,5 +1,5 @@
 ---
-title: Guérison commune
+title: Guérison partagée
 titleEN: Communal Healing
 source: "Playtest Pathfinder"
 layout: block
@@ -23,7 +23,7 @@ cost:
 trigger: 
 requirements:
 
-summary: "Le prêtre récupère des Points de vien en soignant une autre créature."
+summary: "Le prêtre récupère des Points de vie en soignant une autre créature."
 ---
 
 Vous êtes un conduit d'énergie positive et lorsque vous la canalisez à travers vous, elle soigne une partie de vos blessures.
