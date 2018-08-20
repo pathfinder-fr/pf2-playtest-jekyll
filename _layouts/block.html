@@ -72,7 +72,7 @@ layout: default
         <p><strong>Fréquence</strong> {{ page.frequency }}</p>
     {%- endif -%}
     {% if page.cost %}
-        <p><strong>Coût</strong> {{ page.cost }}</p>
+        <p><strong>Coût</strong> {{ page.cost | markdownify | remove: '<p>' | remove: '</p>' }}</p>
     {%- endif -%}
 <!-- Trésors -->
     {% if page.price %}

@@ -14,6 +14,7 @@ traditions:
 
 #Action: (rien), 1/2/3 (1/2/3 action[s]), R (réaction), L (action libre)
 action: 
+
 type: sort
 level: 1
 #Rareté : C (commun), PC (peu commun), R (rare), U (unique)
