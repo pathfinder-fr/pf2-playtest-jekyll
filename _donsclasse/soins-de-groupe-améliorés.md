@@ -1,5 +1,5 @@
 ---
-title: Science de la guérison partagée
+title: Soins de groupe améliorés
 titleEN: Improved Communal Healing
 source: "Playtest Pathfinder"
 layout: block

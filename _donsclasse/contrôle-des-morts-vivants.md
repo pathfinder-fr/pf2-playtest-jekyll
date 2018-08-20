@@ -29,7 +29,7 @@ summary: Donne le contrôle d'un mort-vivant.
 Vous ajoutez une action d'Incantation verbale à l'incantation du sort d'éclencheur pour modifier ses effets sur la cible. La durée du sort [*blessure*](/sorts/blessure.html) passe à 24 heures. Au lieu de subir les effets normaux du sort [*blessure*](/sorts/blessure.html), ma cible effectue un jet de sauvegarde de Volonté pour résister à la prise de contrôle. Si la cible est déjà contrôlée par une autre créature, celle-ci doit également effectuer un jet de sauvegarde de Volonté et le mort-vivant choisi le meilleur résultat.
 
 **Réussite** Pas d'effet.
-**Réussite critique** Pas d'effet et le mort-vivant est résistant.
+**Réussite critique** Pas d'effet et le mort-vivant est endurant au sort.
 **Echec** Vous contrôlez la créature morte-vivante pendant 1 minute. L'effet se termine si vous ou l'un de vos alliés attaque le mort-vivant.
 **Echec critique** Vous contrôlez la créature morte-vivante pendant 1 heure. L'effet se termine si vous ou l'un de vos alliés attaque le mort-vivant.
 

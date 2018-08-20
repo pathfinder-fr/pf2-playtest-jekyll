@@ -1,5 +1,5 @@
 ---
-title: Châtiment canalisé
+title: Canalisation du châtiment
 titleEN: Channel Smite
 source: "Playtest Pathfinder"
 layout: block

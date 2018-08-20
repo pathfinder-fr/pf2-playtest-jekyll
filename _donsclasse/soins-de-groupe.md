@@ -1,5 +1,5 @@
 ---
-title: Guérison partagée
+title: Soins de groupe
 titleEN: Communal Healing
 source: "Playtest Pathfinder"
 layout: block

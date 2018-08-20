@@ -1,5 +1,5 @@
 ---
-title: Science du contrôle des morts-vivants
+title: Contrôle des morts-vivants amélioré
 titleEN: Improved Command Undead
 source: "Playtest Pathfinder"
 layout: block
