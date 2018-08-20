@@ -23,11 +23,11 @@ layout: default
     </p>
     <p> Vous gagnez le don de compétence
         <a href="
-            {% if skillFeatFile %}
-                ../donscompetence/{{skillFeatFile}}.html
+            {% if page.skillFeatFile %}
+                ../dons/{{page.skillFeatFile}}.html
             {% else %}
                 {% assign file = page.skillFeat | replace: " ", "-" | downcase %}
-                ../donscompetence/{{file}}.html
+                ../dons/{{file}}.html
             {%- endif %}
             ">
             {{ page.skillFeat }}

@@ -1,5 +1,5 @@
 ---
-title: Résistance au poison
+title: Résistance au poison (alchimiste)
 titleEN: Poison resistance
 source: "Playtest Pathfinder"
 layout: block

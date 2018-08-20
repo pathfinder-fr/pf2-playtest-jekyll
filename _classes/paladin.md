@@ -170,7 +170,7 @@ Les pouvoirs de champions sont seulement disponibles pour les paladins, et ne pe
 Vous gagnez la capacité de lancer le pouvoir de champion *imposition des mains* en dépensant 1 Point de magie.
 
 ### Dons de compétence
-Aux niveaux pairs, vous gagnez un don de compétence. Les dons de compétence se trouvent dans le Chapitre <mark>5</mark> et possèdent le trait compétence. Vous devez être au minimum entrainé dans la compétence correspondante pour pouvoir sélectionner un don de compétence.
+Au niveau 2 et tous les 2 niveaux par la suite, vous gagnez un nouveau don de compétence, c'est-à-dire un don qui porte le trait compétence. Vous devez être entraîné (au moins) dans la compétence correspondante au don de compétence que vous choisissez.
 
 ### Allié vertueux
 Votre dévotion pour la cause du bien attire l’attention d’un esprit sacré qui vous aide dans votre périple. L’esprit peut prendre plusieurs formes, chacune vous octroyant capacités et avantages. Une fois que vous avez choisi la forme de votre allié, elle ne peut plus être changée.
@@ -182,7 +182,7 @@ Voici les différents alliés vertueux :
 * **Coursier allié :** vous gagnez le service d'une monture entraînée, qui est traitée comme un jeune compagnon animal (voir page <mark>284</mark>). Normalement, vous ne pouvez sélectionner qu'un compagnon animal avec la capacité spéciale monture, comme un cheval. A la discrétion du MJ, vous pouvez sélectionner un différent type de compagnon animal approprié à votre ascendance et culture, mais il ne gagne pas la capacité spéciale monture.
 
 ### Dons généraux
-Au niveau 3, et tous les 4 niveaux ensuite, vous gagnez un don général. Les dons généraux sont listés dans le Chapître <mark>5</mark>
+Au niveau 3 et toutes les 4 niveaux par la suite, vous gagnez un don général.s
 
 ### Augmentation de compétence
 Au niveau 3, et tous les deux niveaux ensuite, vous obtenez une augmentation de compétence. Vous pouvez utiliser celle-ci :
@@ -192,10 +192,10 @@ Au niveau 3, et tous les deux niveaux ensuite, vous obtenez une augmentation de 
 * soit, si vous êtes au moins **niveau 15**, pour devenir légendaire dans une compétence de signature, dans laquelle vous êtes déjà un maître.
 
 ### Accroissement de caractéristique
-Au niveau 5 et tous les 5 niveaux ensuite, vous pouvez accroitre 4 caractéristiques différentes. Vous pouvez utiliser ces accroissements pour augmenter une caractéristique au dessus de 18. Accroître une caractéristique l'augmente de 1 si elle se trouve déjà à 18 ou plus, ou de 2 si elle n'est pas encore à 18.
+Au niveau 5 et tous les 5 niveaux par la suite, vous pouvez accroître les valeurs de quatre caractéristiques différentes. Vous pouvez utiliser ces accroissements pour faire grimper vos valeurs au-delà de 18. Accroître une valeur de caractéristique l'augmente de 1 si elle vaut ou dépasse 18, ou de 2 si elle est inférieure à 18.
 
 ### Dons d'ascendance
-En plus du don d'ascendance avec lequel vous commencez, vous gagnez un don d'ascendance au niveau 5 puis tous les 4 niveaux ensuite. La liste des dons d'ascendance disponibles pour vous se trouve au niveau de votre ascendance, dans le Chapitre <mark>2</mark>.
+En plus du don d'ascendance avec lequel vous avez commencé, vous gagnez un don d'ascendance au niveau 5 et tous les 4 niveaux par la suite.
 
 ### Expertise d'arme
 Sélectionnez un groupe d’arme spécifique. Votre formation pour les armes simple et de guerre de ce groupe augmente jusqu’à expert.
@@ -222,4 +222,4 @@ Votre formation en armures lourdes et boucliers augmente jusqu’à légendaire,
 Vous gagnez le pouvoir de défier la mort et de continuer le combat tant que vous possédez de l'énergie divine. Vous gagnez le pouvoir de champion *défi du héros*, que vous pouvez lancer en dépensant 2 Points de magie. Augmentez votre réserve de Points de magie de 2.
 
 ### Dons de paladin
-Au niveau 1 et à chaque niveau pair ensuite, vous obtenez un don de classe paladin. Les dons de classe paladin sont décrits à partir de la page <mark>48</mark>.
+Au niveau 1 et à chaque niveau pair ensuite, vous obtenez un don de classe paladin. 

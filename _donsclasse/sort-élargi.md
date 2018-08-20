@@ -15,6 +15,7 @@ rarity: C
 
 traits:
   - métamagie
+  - druide
   - sorcier
 prerequisites:
 frequency: 

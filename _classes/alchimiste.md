@@ -161,9 +161,7 @@ Le nombre maximal de vos Points de résonance est égal à votre niveau plus vot
 
 ### Dons de compétence
 
-Aux niveaux pairs, vous gagnez un don de compétence.
-Les dons de compétence se trouvent dans le Chapitre <mark>5</mark> et possèdent le trait compétence.
-Vous devez être au minimum entrainé dans la compétence correspondante pour pouvoir sélectionner un don de compétence.
+Au niveau 2 et tous les 2 niveaux par la suite, vous gagnez un nouveau don de compétence, c'est-à-dire un don qui porte le trait compétence. Vous devez être entraîné (au moins) dans la compétence correspondante au don de compétence que vous choisissez.
 
 ### Bombes amplifiées
 
@@ -180,8 +178,7 @@ Cela augmente également les dommages continus infligés par la bombe, mais pas 
 
 ### Dons généraux
 
-Au niveau 3, et tous les 4 niveaux ensuite, vous gagnez un don général.
-Les dons généraux sont listés dans le Chapître <mark>5</mark>
+Au niveau 3 et toutes les 4 niveaux par la suite, vous gagnez un don général.
 
 ### Augmentation de compétence
 
@@ -199,14 +196,10 @@ Lorsque vous gagnez un nouveau niveau et ajoutez de nouvelles formules dans votr
 
 ### Accroissement de caractéristique
 
-Au niveau 5 et tous les 5 niveaux ensuite, vous pouvez accroitre 4 caractéristiques différentes.
-Vous pouvez utiliser ces accroissements pour augmenter une caractéristique au dessus de 18.
-Accroître une caractéristique l'augmente de 1 si elle se trouve déjà à 18 ou plus, ou de 2 si elle n'est pas encore à 18.
+Au niveau 5 et tous les 5 niveaux par la suite, vous pouvez accroître les valeurs de quatre caractéristiques différentes. Vous pouvez utiliser ces accroissements pour faire grimper vos valeurs au-delà de 18. Accroître une valeur de caractéristique l'augmente de 1 si elle vaut ou dépasse 18, ou de 2 si elle est inférieure à 18.
 
 ### Dons d'ascendance
-
-En plus du don d'ascendance avec lequel vous commencez, vous gagnez un don d'ascendance au niveau 5 puis tous les 4 niveaux ensuite.
-La liste des dons d'ascendance disponibles pour vous se trouve au niveau de votre ascendance, dans le Chapitre <mark>2</mark>.
+En plus du don d'ascendance avec lequel vous avez commencé, vous gagnez un don d'ascendance au niveau 5 et tous les 4 niveaux par la suite.
 
 ### Résonance étendue
 Vous gagnez un nombre de Points de résonance bonus égal à la moitié de votre niveau.

@@ -168,7 +168,7 @@ Quand vous gagnez de nouveaux sorts dans votre répertoire, vous pourriez avoir 
 ### Premières compositions
 Les compositions sont un type spécial de sort qui vous oblige à utiliser la compétence Représentation dans le cadre de leur incantation. Au niveau 1, les bardes gagnent deux types de sorts de composition : les sortilèges de composition et les pouvoirs de composition (qui ont tous deux le trait de composition). Vous gagnez la composition *Inspiration vaillante* (voir page <mark>233</mark>), qui stimule les attaques, les dégâts et la défense de vos alliés contre la peur. Elle s'ajoute aux sortilèges que vous choisissez dans la liste occulte. Les dons peuvent vous donner des sortilèges de compositions supplémentaires. Contrairement aux autres sortilèges, vous ne pouvez pas échanger plus tard des compositions obtenues par des bardes, à moins que vous ne remplaciez le don en question par  par un réentraînement (voir page <mark>318</mark>).
 
-Vous pouvez également lancer un pouvoir de composition appelée *Contre-représentation* (voir page <mark>218</mark>) qui protège contre les effets auditifs et visuels. Vous avez une réserve de Points de magie que vous pouvez dépenser pour lancer ce sort. Votre nombre maximum de Points de magie est égal à votre modificateur de caractéristique principale (minimum 0). Vous récupérez tous vos Points de magie lors de vos préparations quotidiennes. Vous ne pouvez lancer *Contre-représentation* qu'en dépensant 1 Point de magie, pas en utilisaht d'emplacement de sort. Ce pouvoir est automatiquement élevé au plus haut niveau de sort que vous pouvez lancer.
+Vous pouvez également lancer un pouvoir de composition appelée *Contre-représentation* (voir page <mark>218</mark>) qui protège contre les effets auditifs et visuels. Vous avez une réserve de Points de magie que vous pouvez dépenser pour lancer ce sort. Votre nombre maximum de Points de magie est égal à votre modificateur de caractéristique principale (minimum 0). Vous récupérez tous vos Points de magie lors de vos préparations quotidiennes. Vous ne pouvez lancer *Contre-représentation* qu'en dépensant 1 Point de magie, pas en utilisant d'emplacement de sort. Ce pouvoir est automatiquement élevé au plus haut niveau de sort que vous pouvez lancer.
 
 Certains dons de barde vous permettent d’apprendre plus de pouvoirs de composition, et de tels dons augmentent généralement votre réserve de Points de magie.
 
@@ -182,13 +182,13 @@ En tant que barde, vous avez une muse qui vous guide pour accomplir de grandes c
 **Esprit universel** Votre muse papillone entre toutes les compétences. Vous obtenez le don Représentation polyvalente et ajoutez *convocation de monstre* à votre répertoire de sorts.
 
 ### Dons de compétence
-Aux niveaux pairs, vous gagnez un don de compétence. Les dons de compétence se trouvent dans le Chapitre <mark>5</mark> et possèdent le trait compétence. Vous devez être au minimum entrainé dans la compétence correspondante pour pouvoir sélectionner un don de compétence.
+Au niveau 2 et tous les 2 niveaux par la suite, vous gagnez un nouveau don de compétence, c'est-à-dire un don qui porte le trait compétence. Vous devez être entraîné (au moins) dans la compétence correspondante au don de compétence que vous choisissez.
 
 ### Élévation spontanée
 Vous apprenez à élever librement certains de vos sorts, même si vous ne connaissez que la version de base de ceux-ci. Pendant vos préparations quotidiennes, vous pouvez choisir deux sorts que vous connaissez. Vous pouvez lancer ces sorts en utilisant n'importe quel emplacement de sorts de niveau supérieur ou égal à celui du sort, ce qui élève ces sorts au niveau de l'emplacement utilisé, même si vous ne connaissez pas le sort en question au niveau choisi.
 
 ### Dons généraux
-Au niveau 3, et tous les 4 niveaux ensuite, vous gagnez un don général. Les dons généraux sont listés dans le Chapître <mark>5</mark>
+Au niveau 3 et toutes les 4 niveaux par la suite, vous gagnez un don général.
 
 ### Augmentation de compétence
 Au niveau 3, et tous les deux niveaux ensuite, vous obtenez une augmentation de compétence. Vous pouvez utiliser celle-ci :
@@ -198,10 +198,10 @@ Au niveau 3, et tous les deux niveaux ensuite, vous obtenez une augmentation de 
 * soit, si vous êtes au moins **niveau 15**, pour devenir légendaire dans une compétence de signature, dans laquelle vous êtes déjà un maître.
 
 ### Accroissement de caractéristique
-Au niveau 5 et tous les 5 niveaux ensuite, vous pouvez accroitre 4 caractéristiques différentes. Vous pouvez utiliser ces accroissements pour augmenter une caractéristique au dessus de 18. Accroître une caractéristique l'augmente de 1 si elle se trouve déjà à 18 ou plus, ou de 2 si elle n'est pas encore à 18.
+Au niveau 5 et tous les 5 niveaux par la suite, vous pouvez accroître les valeurs de quatre caractéristiques différentes. Vous pouvez utiliser ces accroissements pour faire grimper vos valeurs au-delà de 18. Accroître une valeur de caractéristique l'augmente de 1 si elle vaut ou dépasse 18, ou de 2 si elle est inférieure à 18.
 
 ### Dons d'ascendance
-En plus du don d'ascendance avec lequel vous commencez, vous gagnez un don d'ascendance au niveau 5 puis tous les 4 niveaux ensuite. La liste des dons d'ascendance disponibles pour vous se trouve au niveau de votre ascendance, dans le Chapitre <mark>2</mark>.
+En plus du don d'ascendance avec lequel vous avez commencé, vous gagnez un don d'ascendance au niveau 5 et tous les 4 niveaux par la suite.
 
 ### Lanceur de sorts expert
 Votre degré de formation pour les jets de sorts, DD de sorts et jets d'attaque pour les sorts occultes devient Expert.

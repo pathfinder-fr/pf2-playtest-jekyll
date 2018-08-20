@@ -17,7 +17,7 @@ layout: default
             <img class="action-icon" src="../images/actionlibre.png" title="action libre" />
         {%- endcase -%}
         {{ page.title }}
-        <span>
+        <strong>
             {{ page.type }} {{ page.level }}
             {% case page.rarity %}
             {% when 'PC' %}
@@ -27,7 +27,7 @@ layout: default
             {% when 'U' %}
               (Unique)
             {%- endcase -%}
-        </span>
+        </strong>
     </h3>
     {% if page.traits %}
         <p class="traits">{{ page.traits | sort | pfr_linkify_list: "/traits/" | join: ", "}}</p>

@@ -106,10 +106,10 @@ Blablabla
 > Vous créez un objet alchimique commun qui est de votre niveau ou d'un niveau inférieur sans devoir dépenser le coût monétaire habituel pour des réactifs alchimiques et sans avoir à effectuer un test d'Artisanat. Cet objet possède le trait infusion mais il ne reste efficace que jusqu'au début de votre prochain tour. Passé ce délai, l'objet devient interte et n'a plus d'effet. Si vous dépensez de la résonance pour cette capacité alors que votre réserve est vide et ratez le test (voir page <mark>  292</mark>), vous ne pouvez pas plus utiliser l'action Alchimie rapide à nouveau avant vos prochaines préparations quotidiennes.
 
 ### Dons de compétence
-Aux niveaux pairs, vous gagnez un don de compétence. Les dons de compétence se trouvent dans le Chapitre <mark>5</mark> et possèdent le trait compétence. Vous devez être au minimum entrainé dans la compétence correspondante pour pouvoir sélectionner un don de compétence.
+Au niveau 2 et tous les 2 niveaux par la suite, vous gagnez un nouveau don de compétence, c'est-à-dire un don qui porte le trait compétence. Vous devez être entraîné (au moins) dans la compétence correspondante au don de compétence que vous choisissez.
 
 ### Dons généraux
-Au niveau 3, et tous les 4 niveaux ensuite, vous gagnez un don général. Les dons généraux sont listés dans le Chapître <mark>5</mark>
+Au niveau 3 et toutes les 4 niveaux par la suite, vous gagnez un don général.
 
 ### Augmentation de compétence
 Au niveau 3, et tous les deux niveaux ensuite, vous obtenez une augmentation de compétence. Vous pouvez utiliser celle-ci :
@@ -119,10 +119,25 @@ Au niveau 3, et tous les deux niveaux ensuite, vous obtenez une augmentation de 
 * soit, si vous êtes au moins **niveau 15**, pour devenir légendaire dans une compétence de signature, dans laquelle vous êtes déjà un maître.
 
 ### Accroissement de caractéristique
-Au niveau 5 et tous les 5 niveaux ensuite, vous pouvez accroitre 4 caractéristiques différentes. Vous pouvez utiliser ces accroissements pour augmenter une caractéristique au dessus de 18. Accroître une caractéristique l'augmente de 1 si elle se trouve déjà à 18 ou plus, ou de 2 si elle n'est pas encore à 18.
+Au niveau 5 et tous les 5 niveaux par la suite, vous pouvez accroître les valeurs de quatre caractéristiques différentes. Vous pouvez utiliser ces accroissements pour faire grimper vos valeurs au-delà de 18. Accroître une valeur de caractéristique l'augmente de 1 si elle vaut ou dépasse 18, ou de 2 si elle est inférieure à 18.
 
 ### Dons d'ascendance
-En plus du don d'ascendance avec lequel vous commencez, vous gagnez un don d'ascendance au niveau 5 puis tous les 4 niveaux ensuite. La liste des dons d'ascendance disponibles pour vous se trouve au niveau de votre ascendance, dans le Chapitre <mark>2</mark>.
+En plus du don d'ascendance avec lequel vous avez commencé, vous gagnez un don d'ascendance au niveau 5 et tous les 4 niveaux par la suite.
 
 ### Dons de XX_CLASSE
-Au niveau 1 et à chaque niveau pair ensuite, vous obtenez un don de classe XX_CLASSE. Les dons de classe XX_CLASSE sont décrits à partir de la page <mark>48</mark>.
+Au niveau 1 et à chaque niveau pair ensuite, vous obtenez un don de classe XX_CLASSE. 
+
+{:.bloc .action1}
+> ### Forme élémentaire **Don 10**
+> *Druide, Ordre sauvage*  
+> **Condition** Forme sauvage
+> 
+> ---
+> Vous pouvez lancer forme élémentaire en dépensant un point de votre réserve
+> de forme sauvage.  
+> Test avec plusieurs paragraphes.  
+> Ça a l'air de fonctionner. On peut aussi ajouter des résultats de jds.  
+> **Échec critique** : t'es mort.  
+> **Échec** : t'es à moitié mort.  
+> **Réussite** : tu saignes juste un peu.  
+> **Réussite critique** : tu n'as rien. 

@@ -52,7 +52,7 @@ layout: default
                 {% elsif col.isALink %}
                     <a href="
                         {% if item[col.fileName] %}
-                            {{ col.urlPrefix }}{{ item[col.link] }}{{ col.urlSuffix }}
+                            {{ col.urlPrefix }}{{ item[col.fileName] }}{{ col.urlSuffix }}
                         {% else %}
                             {% assign file = item[col.pageName] | replace: " ", "-" | downcase %}
                             {{ col.urlPrefix }}{{ file }}{{ col.urlSuffix }}

@@ -198,9 +198,11 @@ Au niveau 3 et toutes les 4 niveaux par la suite, vous gagnez un don général.
 
 ### Augmentation de compétence
 
-Au niveau 3 et tous les 2 niveaux par la suite, vous gagnez une augmentation de compétence. Vous pouvez utiliser cette augmentation pour soit devenir entraîné dans une compétence où vous étiez non entraîné, soit devenir expert dans une compétence où vous étiez déjà entraîné.
-
-Si vous êtes de niveau 7 ou plus, vous pouvez utiliser cette augmentation pour devenir maître dans une compétence de signature où vous étiez déjà expert. Si vous êtes de niveau 15 ou plus, vous pouvez utiliser cette augmentation pour devenir légendaire dans une compétence de signature où vous étiez déjà maître.
+Au niveau 3, et tous les deux niveaux ensuite, vous obtenez une augmentation de compétence. Vous pouvez utiliser celle-ci :
+* soit pour être entraîné dans une compétence dans laquelle vous n'étiez pas encore entraîné.
+* soit pour devenir un expert dans une compétence dans laquelle vous êtes déjà entraîné.
+* soit, si vous êtes au moins **niveau 7**, pour devenir un maître dans une compétence de signature, dans laquelle vous êtes déjà un expert.
+* soit, si vous êtes au moins **niveau 15**, pour devenir légendaire dans une compétence de signature, dans laquelle vous êtes déjà un maître.
 
 ### Élévation spontanée
 

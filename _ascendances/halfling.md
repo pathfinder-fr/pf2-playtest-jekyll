@@ -41,7 +41,7 @@ Les halflings atteignent rarement 1 m de hauteur. Des touffes de poils réchauff
 L'esprit d'aventure et l'opportunisme des halflings en font des aventuriers idéaux, et une superstition populaire prétend même que voyager avec un halfling porte chance.
 
 ## Les aventuriers halflings
-Certains backgrounds sont des choix particulièrement judicieux pour les halflings. Vous pourriez envisager l'acrobate si vous avez été élevé dans une troupe, l'artiste si vous deviez jouer pour payer un repas, ou le gamin des rues si vous avez grandi dans la pauvreté. En outre, le tavernier, le criminel et l'ouvrier conviennent bien pour les halflings.
+Certains backgrounds sont des choix particulièrement judicieux pour les halflings. Vous pourriez envisager l'acrobate si vous avez été élevé dans une troupe, l'amuseur public si vous deviez jouer pour payer un repas, ou le gamin des rues si vous avez grandi dans la pauvreté. En outre, le tavernier, le criminel et l'ouvrier conviennent bien pour les halflings.
 
 Lorsque vous choisissez une classe, notez que les halflings font de bons prêtres et de bons roublards en raison de leurs propensions naturelles, mais beaucoup deviennent également d'habiles moines ou rôdeurs.
 

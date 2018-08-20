@@ -1,5 +1,5 @@
 ---
-title: Assurance
+title: Garantie
 titleEN: Assurance
 source: "Playtest Pathfinder"
 layout: block
