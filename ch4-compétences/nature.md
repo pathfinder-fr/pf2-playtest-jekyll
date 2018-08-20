@@ -2,13 +2,15 @@
 title: "Nature (Sagesse)"
 titleEN: Nature
 source: "Playtest Pathfinder"
+toc: true
+
 index:
   - key: "Nature (compétence)"
     anchor: ""
-  - key: "dresser un animal"
-    anchor: "dresser-un-animal"
-  - key: "Faire obéir un animal"
-    anchor: "faire-obéir-un-animal"
+  - key: "Amadouer un animal"
+    anchor: "amadouer-un-animal"
+  - key: "Diriger un animal"
+    anchor: "diriger-un-animal"
   - key: "Se souvenir de connaissances"
     anchor: "se-souvenir-de-connaissances"
   - key: "Identifier la magie"
@@ -23,7 +25,7 @@ Vous en connaissez beaucoup sur le monde naturel, savez comment vous faire obéi
 ## Utilisation de la compétence Nature sans entraînement.
 Vous pouvez accomplir les utilisations suivantes de la compétence Nature sans entraînement :
 
-> ### Dresser un animal
+> ### Amadouer un animal
 > 
 > {: .traits}
 > 
@@ -34,9 +36,9 @@ Vous pouvez accomplir les utilisations suivantes de la compétence Nature sans e
 >
 > Vous préparez un animal serviable à accepter vos ordres. Si vous êtes entraîné dans la compétence Nature, vous pouvez dresser tout aussi bien un animal amical ou un animal indifférent.
 >
-> **Réussite** Jusqu’à la fin de votre tour, vous pouvez utiliser l’action Se faire obéir d’un animal. Vous pouvez Monter l’animal (voir p.309)
+> **Réussite** Jusqu’à la fin de votre tour, vous pouvez utiliser l’action Diriger un animal. Vous pouvez Monter l’animal (voir p.309)
 
-> ### Faire obéir un animal
+> ### Diriger un animal
 >
 > {: .traits}
 > 
@@ -45,12 +47,12 @@ Vous pouvez accomplir les utilisations suivantes de la compétence Nature sans e
 >
 > ---
 > 
-> Vous donnez un ordre à un animal qui vous obéit, soit parce que vous l’avez préalablement dressé (voir ci-dessus) soit parce que vous avez le don Monter (voir page 170).
-> La plupart des animaux connaissent les actions de base Bondir, Rechercher, Rester, Se déplacer et Frapper.
-> Si un animal connaît une activité tel que le galop du cheval, vous pouvez lui ordonner d’accomplir cette activité mais vous devez dépenser autant d’actions pour Faire obéir un animal que le nombre d’actions de l’activité donnée.
+> Vous donnez un ordre à un animal qui vous obéit, soit parce que vous l’avez préalablement amadoué (voir ci-dessus) soit parce que vous avez le don Monter (voir page 170).
+> La plupart des animaux connaissent les actions de base (Bondir), (Rechercher), (Rester en place), (se Déplacer) et (Frapper).
+> Si un animal connaît une activité telle que le galop du cheval, vous pouvez lui ordonner d’accomplir cette activité mais vous devez dépenser autant d’actions pour Diriger un animal que le nombre d’actions de l’activité donnée.
 > L’animal utilise les actions que vous ordonnez.
-> La plupart des animaux ne comprenne que les plus simples des instructions ; ainsi vous pouvez donner à un animal pour instruction d’avancer jusqu’à une case déterminée mais pas lui dicter le chemin à suivre qui lui permettra d’y parvenir ou lui commander d’attaquer une créature particulière sans pouvoir lui ordonner d’utiliser contre celle-ci des attaques non létales.
-> Le MJ décide des spécificités que votre animal peut utiliser.
+> La plupart des animaux ne comprennent que les plus simples des instructions ; ainsi vous pouvez donner à un animal pour instruction de se Déplacer jusqu’à une case déterminée mais pas lui dicter le chemin à suivre qui lui permettra d’y parvenir ou lui commander d’attaquer une créature particulière sans pouvoir lui ordonner d’utiliser contre celle-ci des attaques non létales.
+> Le MJ décide des actions spécificités que votre animal peut utiliser.
 
 {: .block .action1}
 > ### Se souvenir de connaissances
@@ -61,6 +63,7 @@ Vous pouvez accomplir les utilisations suivantes de la compétence Nature sans e
 > secret
 > 
 > ---
+> 
 > Vous tentez un test d’Arcanes pour essayer de vous remémorer un bout des connaissances concernant la flore, la faune, la géographie, le climat ou les créatures ayant une importance naturelle. Le MJ détermine les DD pour de tels tests.
 >
 > **Réussite** Vous vous souvenez de connaissances précises.
@@ -69,6 +72,27 @@ Vous pouvez accomplir les utilisations suivantes de la compétence Nature sans e
 
 ## Utilisations de la Compétence Nature avec entraînement
 Vous ne pouvez utiliser la compétence Nature selon les manières suivantes que si vous disposez d’un entraînement.
+
+> ### Apprendre un sort primaire
+>
+> Concentration
+> 
+> ---
+>
+> Si vous êtes un lanceur de sorts primaire, vous pouvez disposer de l’accès à un nouveau sort par quelqu’un qui connait ce sort ou à partir d’un écrit magique comme un parchemin ou un livre de sorts.
+> 
+> Pour apprendre le sort, vous devez procéder comme suit.
+> - Dépenser une heure par niveau du sort, durant laquelle vous devez rester en conversation avec la personne qui connait le sort ou en possession de l’écrit magique.
+> - Disposer d’un montant de matériaux magiques d’une valeur indiquée dans la table ci-dessous.
+> - Essayer un test de Nature dont le DD est déterminé par le MJ (voir la table ci-dessous)
+>
+> **Réussite** Vous dépensez les matériaux et apprenez le sort. Si vous disposez d’un grimoire, le sort est ajouté à votre livre de sorts ; si vous préparez vos sorts à partir d’une liste, il est ajouté à cette liste ; si vous disposez d’un répertoire de sorts, vous pouvez le sélectionner lorsque vous pouvez échanger vos sorts ou lorsque vous en apprenez un nouveau.
+> 
+> **Réussite critique** Vous ne dépensez que la moitié du coût des matériaux.
+>
+> **Échec** Vous ne parvenez pas à apprendre le sort mais vous pourrez réessayer lorsque vous aurez acquis un niveau supplémentaire. Le coût des matériaux n’est pas dépensé.
+>
+> **Échec critique** Vous dépensez la moitié du coût des matériaux.
 
 > ### Identifier la magie
 > 
@@ -92,26 +116,6 @@ Vous ne pouvez utiliser la compétence Nature selon les manières suivantes que 
 >
 > **Échec critique** Vous confondez la magie avec autre chose au choix du MJ.
 
-> ### Apprendre un sort primaire
->
-> Concentration
-> 
-> ---
->
-> Si vous êtes un lanceur de sorts primaire, vous pouvez disposer de l’accès à un nouveau sort par quelqu’un qui connait ce sort ou à partir d’un écrit magique comme un parchemin ou un livre de sorts.
-> 
-> Pour apprendre le sort, vous devez procéder comme suit.
-> - Dépenser une heure par niveau du sort, durant laquelle vous devez rester en conversation avec la personne qui connait le sort ou en possession de l’écrit magique.
-> - Disposer d’un montant de matériaux magiques d’une valeur indiquée dans la table ci-dessous.
-> - Essayer un test de Nature dont le DD est déterminé par le MJ (voir la table ci-dessous)
->
-> **Réussite** Vous dépensez les matériaux et apprenez le sort. Si vous disposez d’un grimoire, le sort est ajouté à votre livre de sorts ; si vous préparez vos sorts à partir d’une liste, il est ajouté à cette liste ; si vous disposez d’un répertoire de sorts, vous pouvez le sélectionner lorsque vous pouvez échanger vos sorts ou lorsque vous en apprenez un nouveau.
-> 
-> **Réussite critique** Vous ne dépensez que la moitié du coût des matériaux.
->
-> **Échec** Vous ne parvenez pas à apprendre le sort mais vous pourrez réessayer lorsque vous aurez acquis un niveau supplémentaire. Le coût des matériaux n’est pas dépensé.
->
-> **Échec critique** Vous dépensez la moitié du coût des matériaux.
 
 {: .tabletitle}
 Identifier ou apprendre un sort
