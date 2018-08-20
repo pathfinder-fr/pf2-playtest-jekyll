@@ -21,7 +21,7 @@ cost:
 trigger: 
 requirements:
 
-summary: "Une créature au choix du prêtre réçoit des Points de vie lorsqu'il soignant une autre créature."
+summary: "Une créature au choix du prêtre réçoit des Points de vie lorsqu'il soigne une autre créature."
 ---
 
 Vous pouvez accorder le bonus de guérison de la [Guérison partagée](/donsclasse/guérison-partagée.html) à n'importe quelle créature située à portée de votre sort de [*soin*](/sorts/soin.html) au lieu de ne l'accorder qu'à vous-même.

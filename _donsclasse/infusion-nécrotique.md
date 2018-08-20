@@ -23,7 +23,7 @@ cost:
 trigger: Vous commencez à lancer le sort [*blessure*](/sorts/blessure.html) pour soigner une seule créature morte-vivante.
 requirements:
 
-summary: 
+summary: Augmente les dégâts d'attaque d'un mort-vivant
 ---
 
 Vous accumulez de l'énergie négative dans votre cible morte-vivante pour rendre plus puissantes ses attaques.
