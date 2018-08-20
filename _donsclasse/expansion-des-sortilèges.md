@@ -16,6 +16,7 @@ rarity: C
 traits:
   - barde
   - sorcier
+  - prêtre
 prerequisites: 
 frequency: 
 cost:
