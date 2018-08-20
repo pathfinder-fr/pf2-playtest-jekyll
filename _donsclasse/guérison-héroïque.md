@@ -1,5 +1,5 @@
 ---
-title: Récupération héroïque
+title: Guérison héroïque
 titleEN: Heroic Recovery
 source: "Playtest Pathfinder"
 layout: block
