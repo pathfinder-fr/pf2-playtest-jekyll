@@ -1,5 +1,5 @@
 ---
-title: Aria mortelle
+title: Aria fatale
 titleEN: Fatal Aria
 source: "Playtest Pathfinder"
 layout: block
@@ -21,7 +21,7 @@ cost:
 trigger: 
 requirements:
 
-summary: "pouvoir de composition : Aria mortelle"
+summary: "pouvoir de composition : Aria fatale"
 ---
 
-Vous apprenez le pouvoir de composition *Aria mortelle* (voir page <mark>223</mark>), que vous pouvez lancer en dépensant 2 Points de magie. Augmentez votre réserve de Points de magie de 2.
+Vous apprenez le pouvoir de composition *Aria fatale* (voir page <mark>223</mark>), que vous pouvez lancer en dépensant 2 Points de magie. Augmentez votre réserve de Points de magie de 2.
