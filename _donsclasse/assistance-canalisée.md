@@ -26,6 +26,6 @@ summary: Supprimer un état par canalisation d'énergie.
 
 Vous pouvez canaliser de l'énergie pour supprimer une condition.
 
-Vous pouvez utiliser votre [Canalisation d'énergie](/classes/prêtre.html#canalisation-dénergie) pour lancer n'importe lequel des sorts suivants que vous connaissez (une utilisation de [Canalisation d'énergie](/classes/prêtre.html#canalisation-dénergie) permet de lancer un sort) : [*suppression des malédictions*](/sorts/suppression-des-malédictions.html), [*suppression des maladies*](/sorts/suppression-des-maladies.html), [*supression de la paralysie*](/sorts/suppression-de-la-paralysie.html) ou [*restauration*](/sorts/restauration.html).
+Vous pouvez utiliser votre [Canalisation d'énergie](/classes/prêtre.html#canalisation-dénergie) pour lancer n'importe lequel des sorts suivants que vous connaissez (une utilisation de [Canalisation d'énergie](/classes/prêtre.html#canalisation-dénergie) permet de lancer un sort) : [*suppression des malédictions*](/sorts/suppression-des-malédictions.html), [*suppression de la maladie*](/sorts/suppression-de-la-maladie.html), [*supression de la paralysie*](/sorts/suppression-de-la-paralysie.html) ou [*restauration*](/sorts/restauration.html).
 
 Le sort remplacé est élevé au plus haut niveau de sort que vous pouvez lancer.
