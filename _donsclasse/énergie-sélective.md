@@ -21,9 +21,9 @@ cost:
 trigger: 
 requirements:
 
-summary: Permet de choisir les cibles des sorts de [*soin*](/sorts/soin.html) ou de [*blessure*](/sorts/blessure.html).
+summary: Permet de choisir les cibles des sorts de [*guérison*](/sorts/guérison.html) ou de [*blessure*](/sorts/blessure.html).
 ---
 
 Vous pouvez empêcher que vos ennemis ou vos alliés ne tirent bénéficent ou subissent la colère de votre pouvoir divin.
 
-Lorsque vous lancez la version à 3 actions des sorts [*soin*](/sorts/soin.html) ou [*blessure*](/sorts/blessure.html), vous pouvez désigner un nombre de créatures égal à votre modificateur de Charisme (minimum 1) qui ne seront pas affectées par le sort.
+Lorsque vous lancez la version à 3 actions des sorts [*guérison*](/sorts/guérison.html) ou [*blessure*](/sorts/blessure.html), vous pouvez désigner un nombre de créatures égal à votre modificateur de Charisme (minimum 1) qui ne seront pas affectées par le sort.

@@ -122,7 +122,7 @@ Vous connaissez les tours de magie suivants, qui peuvent être utilisés à volo
 > ### Stabilisation
 > *tour de magie*
 >
-> tour de magie, soin, nécromancie, positif  
+> tour de magie, guérison, nécromancie, positif  
 > **Incantation** [A] Incantation somatique, [A] Incantation verbale  
 > **Portée** 6 cases ; Cible une créature mourante  
 > 

@@ -154,7 +154,7 @@ Les ordres druidiques sont les suivants.
 Vous avez un lien fort avec les animaux du monde et vous êtes allié à un compagnon animal. 
 **Compétence** Vous êtes entraîné dans la compétence Athlétisme et elle devient une compétence de signature pour vous. 
 **Don** Vous obtenez le don de druide Compagnon animal. 
-**Pouvoir d'ordre** Vous pouvez lancer *soin animal* en dépensant 1 Point de magie. 
+**Pouvoir d'ordre** Vous pouvez lancer *guérison d'un animal* en dépensant 1 Point de magie. 
 **Anathème** Commettre une cruauté gratuite envers des animaux ou tuer des animaux sans raison est un anathème à votre ordre. (Cela ne vous empêche pas de vous défendre contre des animaux ou de les tuer proprement pour vous nourrir).
 
 #### Ordre de la feuille

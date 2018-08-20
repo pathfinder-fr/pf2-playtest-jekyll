@@ -21,7 +21,7 @@ cost:
 trigger: 
 requirements:
 
-summary: Soin ou blessure des élémentaires par canalisation d'énergie.
+summary: Guérison ou blessure des élémentaires par canalisation d'énergie.
 ---
 
 Votre contrôle d'un élément est si grand que vous pouvez concentrer votre énergie canalisée pour soigner ou blesser les élémentaires de ce type.

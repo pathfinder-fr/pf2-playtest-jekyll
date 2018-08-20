@@ -26,6 +26,6 @@ summary: Réduit la résistance de certaines créatures à l'énergie (positive 
 
 Vous réduisez la résistance que certaines créature ont envers l'énergie positive ou négative. 
 
-Si vous lancez un sort de [*soin*](/sorts/soin.html), la cible réduit de 1 ses bonus éventuels aux jets de sauvegarde contre l'énergie positive et elle diminue son éventuelle résistance à l'énergie positive (pour le sort uniquement) d'un nombre équivalent à votre modificateur de Charisme.
+Si vous lancez un sort de [*guérison*](/sorts/guérison.html), la cible réduit de 1 ses bonus éventuels aux jets de sauvegarde contre l'énergie positive et elle diminue son éventuelle résistance à l'énergie positive (pour le sort uniquement) d'un nombre équivalent à votre modificateur de Charisme.
 
 Si vous lancez un sort de [*blessure*](/sorts/blessure.html), la cible réduit de 1 ses bonus éventuels aux jets de sauvegarde contre l'énergie négative et elle diminue son éventuelle résistance à l'énergie négative (pour le sort uniquement) d'un nombre équivalent à votre modificateur de Charisme.

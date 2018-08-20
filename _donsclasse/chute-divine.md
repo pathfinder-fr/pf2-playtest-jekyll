@@ -19,14 +19,14 @@ traits:
 prerequisites: Canalisation d'énergie
 frequency: 
 cost: 
-trigger: Vous commencez à lancer un sort de [*blessure*](/sorts/blessure) ou de [*soin*](/sorts/soin.html) pour blesser un adversaire.
+trigger: Vous commencez à lancer un sort de [*blessure*](/sorts/blessure) ou de [*guérison*](/sorts/guérison.html) pour blesser un adversaire.
 requirements:
 
-summary: L'adversaire blessé par un sort de [*soin*](/sorts/soin) ou de [*blessure*](/sorts/blessure.html) tombe à terre.
+summary: L'adversaire blessé par un sort de [*guérison*](/sorts/guérison) ou de [*blessure*](/sorts/blessure.html) tombe à terre.
 ---
 
 Vous ajoutez une action d'Incantation verbale au lancement du sort déclencheur.
 
-Si la cible subit des dégâts de votre sort de [*soin*](/sorts/soin) ou de [*blessure*](/sorts/blessure.html), elle tombe à terre.
+Si la cible subit des dégâts de votre sort de [*guérison*](/sorts/guérison) ou de [*blessure*](/sorts/blessure.html), elle tombe à terre.
 
 Si vous faites une réussite critique au toucher ou si la cible subit un échec critique à son jet de sauvegard, sa vitesse est égalament réduite 10 pendant 1 minute.

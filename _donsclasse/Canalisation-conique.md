@@ -25,4 +25,4 @@ summary: Transforme l'aura de la canalisation d'énergie en cône.
 ---
 
 Vous pouvez émettre l'énergie que vous canalisez dans une direction spécifique, la rendant plus longue et plus ciblée.
-Lorsque vous lancez la version à 3 actions des sorts [*soin*](/sorts/soin.html) ou [*blessure*](/sorts/blessure.html), vous pouvez transformer sa zone en un cône de 12 cases au lieu d'une aura de 6 cases.
+Lorsque vous lancez la version à 3 actions des sorts [*guérison*](/sorts/guérison.html) ou [*blessure*](/sorts/blessure.html), vous pouvez transformer sa zone en un cône de 12 cases au lieu d'une aura de 6 cases.

@@ -61,7 +61,7 @@ index:
 
 Les joueurs qui incarnent un personnage barde pourraient adopter les approches suivantes :
 
-* Pendant les combats, vous utilisez des représentations magiques pour faire pencher la balance en faveur de votre groupe. Vous pouvez alterner entre des sorts utiles, des attaques ou des sorts de soin, selon les besoins.
+* Pendant les combats, vous utilisez des représentations magiques pour faire pencher la balance en faveur de votre groupe. Vous pouvez alterner entre des sorts utiles, des attaques ou des sorts de guérison, selon les besoins.
 * Pendant les rencontres sociales, vous persuadez, tergiversez et menacez avec aise.
 * Dans les phases d’explorations, vous êtes une source de connaissances et vous donnez des représentations pour aider vos alliés.
 * Pendant votre temps libre, vous pouvez gagner de l'argent et du prestige avec vos représentations, vous faire un nom et acquérir des mécènes. Vous pourriez même fonder votre propre collège bardique!

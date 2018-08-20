@@ -20,10 +20,10 @@ traits:
 prerequisites: Canalisation d'énergie (positive)
 frequency: 
 cost: 
-trigger: Vous commencez à lancer le sort de [*soin*](/sorts/soin.html).
+trigger: Vous commencez à lancer le sort de [*guérison*](/sorts/guérison.html).
 requirements:
 
 summary: accélère et renforce les mouvements de la cible.
 ---
 
-Vous ajoutez une action d'Incantation verbale au lancement du sort déclencheur pour rendre la cible du sort accélérée 5 et lui accorder un bonus conditionnel de +1 au jets d'attaque et de dégâts jusqu'à la fin de son prochain tour.
+Vous ajoutez une action d'Incantation verbale au lancement du sort déclencheur pour donner à la cible du sort une [vitesse accrue](/conditions/vitesse-accrue) 1 et lui accorder un bonus conditionnel de +1 au jets d'attaque et de dégâts jusqu'à la fin de son prochain tour.

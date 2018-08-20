@@ -28,4 +28,4 @@ summary: "Le prêtre récupère des Points de vie en soignant une autre créatur
 
 Vous êtes un conduit d'énergie positive et lorsque vous la canalisez à travers vous, elle soigne une partie de vos blessures.
 
-Lorsque vcous lancez le sort [*soin*](/sorts/soin.html) pour soigner une créature autre que vous même, vous récupérez un nombre de Points de vie égal au niveau auquel les sort a été lancé.
+Lorsque vcous lancez le sort [*guérison*](/sorts/guérison.html) pour soigner une créature autre que vous même, vous récupérez un nombre de Points de vie égal au niveau auquel les sort a été lancé.

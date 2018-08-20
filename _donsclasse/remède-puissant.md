@@ -21,7 +21,7 @@ cost:
 trigger: 
 requirements:
 
-summary: "cumul effet de soin + anti-toxine des élixirs de vie"
+summary: "cumul effet de guérison + anti-toxine des élixirs de vie"
 ---
 
-Lorsque vous utilisez l'Alchimie rapide pour fabriquer un objet de type élixir de vie, la créature qui boit l'élixir gagne l'effet de soin ainsi que l'effet qu'offre l'élixir contre les toxines, même si la créature n'est pas au maximum de ses points de vie quand il boit l'élixir.
+Lorsque vous utilisez l'Alchimie rapide pour fabriquer un objet de type élixir de vie, la créature qui boit l'élixir gagne l'effet de guérison ainsi que l'effet qu'offre l'élixir contre les toxines, même si la créature n'est pas au maximum de ses points de vie quand il boit l'élixir.
