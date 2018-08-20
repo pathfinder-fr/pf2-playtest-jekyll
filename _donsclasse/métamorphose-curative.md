@@ -22,7 +22,7 @@ cost:
 trigger: Vous lancer un sort de métamorphose non-sortilège, qui ne cible qu'une créature.
 requirements:
 
-summary: "soin 1d6 / niveau du sort à la cible"
+summary: "guérison 1d6 / niveau du sort à la cible"
 ---
 
 Vous ajoutez une Incantation somatique à l'incantation du sort déclencheur pour soigner 1d6 Points de vie par niveau du sort déclencheur à la cible.

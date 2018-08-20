@@ -21,7 +21,7 @@ cost:
 trigger: 
 requirements:
 
-summary: "Soin 1d6 PV / 2 bonus d'objet du mutagène ; fin du mutagène"
+summary: "guérison 1d6 PV / 2 bonus d'objet du mutagène ; fin du mutagène"
 ---
 
 Bien que sous l'effet d'un mutagène, vous pouvez métaboliser le pouvoir de ce mutagène pour vous soigner. Ca prend une action avec les traits concentration et manipulation. Une fois l'action terminée, vous récupérez 1d6 Points de vie par 2 bonus d'objet du mutagène, mais le mutagène prend fin immédiatement, même si vous êtes sous l'effet de Mutagène persistant.

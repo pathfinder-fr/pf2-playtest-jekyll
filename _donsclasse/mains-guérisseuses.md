@@ -19,10 +19,10 @@ traits:
 prerequisites: 
 frequency: 
 cost:
-trigger: Vous commencez à lancer le sort [*soin*](/sorts/soin.html) pour soigner une créature vivante ou le sort [*blessure*](/sorts/blessure.html) pour soigner une créature morte-vivante.
+trigger: Vous commencez à lancer le sort [*guérison*](/sorts/guérison.html) pour soigner une créature vivante ou le sort [*blessure*](/sorts/blessure.html) pour soigner une créature morte-vivante.
 requirements:
 
-summary: "Augmente le nombre de Points de vie soignés grâce aux sorts de [*soin*](/sorts/soin.html) ou de [*blessure*](/sorts/blessure.html)"
+summary: "Augmente le nombre de Points de vie soignés grâce aux sorts de [*guérison*](/sorts/guérison.html) ou de [*blessure*](/sorts/blessure.html)"
 ---
 
 Ajoutez une action d'Incantation verbale lors de l'incantation du sort déclencheur et augmentez de 1d8 le nombre de Points de vie récupérés par la cible du sort.

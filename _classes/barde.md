@@ -61,7 +61,7 @@ index:
 
 Les joueurs qui incarnent un personnage barde pourraient adopter les approches suivantes :
 
-* Pendant les combats, vous utilisez des représentations magiques pour faire pencher la balance en faveur de votre groupe. Vous pouvez alterner entre des sorts utiles, des attaques ou des sorts de soin, selon les besoins.
+* Pendant les combats, vous utilisez des représentations magiques pour faire pencher la balance en faveur de votre groupe. Vous pouvez alterner entre des sorts utiles, des attaques ou des sorts de guérison, selon les besoins.
 * Pendant les rencontres sociales, vous persuadez, tergiversez et menacez avec aise.
 * Dans les phases d’explorations, vous êtes une source de connaissances et vous donnez des représentations pour aider vos alliés.
 * Pendant votre temps libre, vous pouvez gagner de l'argent et du prestige avec vos représentations, vous faire un nom et acquérir des mécènes. Vous pourriez même fonder votre propre collège bardique!
@@ -179,7 +179,7 @@ En tant que barde, vous avez une muse qui vous guide pour accomplir de grandes c
 
 **Maestro** Votre muse vous inspire vers des performances toujours plus élevées. Vous gagnez le don de Composition persistante et ajouter "Apaisement" votre répertoire de sorts.
 
-**Esprit universel** Votre muse papillone entre toutes les compétences. Vous obtenez le don Représentation polyvalente et ajoutez *convocation de monstre* à votre répertoire de sorts.
+**Esprit universel** Votre muse papillone entre toutes les compétences. Vous obtenez le don Représentation polyvalente et ajoutez *convocation de monstres* à votre répertoire de sorts.
 
 ### Dons de compétence
 Au niveau 2 et tous les 2 niveaux par la suite, vous gagnez un nouveau don de compétence, c'est-à-dire un don qui porte le trait compétence. Vous devez être entraîné (au moins) dans la compétence correspondante au don de compétence que vous choisissez.

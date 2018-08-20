@@ -1,5 +1,5 @@
 ---
-title: Extraction de la vie
+title: Extraction de vie
 titleEN: Life Sapping
 source: "Playtest Pathfinder"
 layout: block
