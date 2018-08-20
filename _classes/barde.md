@@ -179,7 +179,7 @@ En tant que barde, vous avez une muse qui vous guide pour accomplir de grandes c
 
 **Maestro** Votre muse vous inspire vers des performances toujours plus élevées. Vous gagnez le don de Composition persistante et ajouter "Apaisement" votre répertoire de sorts.
 
-**Esprit universel** Votre muse papillone entre toutes les compétences. Vous obtenez le don Représentation polyvalente et ajoutez *convocation de monstre* à votre répertoire de sorts.
+**Esprit universel** Votre muse papillone entre toutes les compétences. Vous obtenez le don Représentation polyvalente et ajoutez *convocation de monstres* à votre répertoire de sorts.
 
 ### Dons de compétence
 Au niveau 2 et tous les 2 niveaux par la suite, vous gagnez un nouveau don de compétence, c'est-à-dire un don qui porte le trait compétence. Vous devez être entraîné (au moins) dans la compétence correspondante au don de compétence que vous choisissez.

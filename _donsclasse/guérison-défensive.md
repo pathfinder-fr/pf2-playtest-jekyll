@@ -15,9 +15,8 @@ rarity: C
 
 traits:
   - prêtre
-  - Bien
   - métamagie
-prerequisites: Canalisation d'énergie (positive)
+prerequisites: Canalisation d'énergie
 frequency: 
 cost: 
 trigger: Vous commencez à lancer le sort de [*guérison*](/sorts/guérison.html) ou de [*blessure*](/sorts/blessure.html) pour soigner une unique créature.
