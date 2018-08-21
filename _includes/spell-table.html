@@ -1,0 +1,32 @@
+<!--
+    Crée un tableau de sorts avec comme colonnes
+    - nom
+    - rareté
+    - traits (linkified)
+    - résumé + prérequis
+
+    - sorts = collection utilisée
+-->
+
+<table class="table table-sm table-striped table-hover">
+  <thead class="thead-light">
+    <tr>
+        <th style="width: 20%">Nom</th>
+        <th>Rareté</th>
+        <th style="width: 30%">Traits</th>
+        <th style="width: 50%">Résumé</th>
+    </tr>
+  </thead>
+  <tbody>
+      {% for sort in sorts %}
+      <tr>
+          <td><a href="{{sort.url}}">{{sort.title}}</a></td>
+          <td>{{sort.rarity}}</td>
+          <td>{{sort.traits | sort_ignore_accent_marks | pfr_linkify_list: "/traits/" | join: ", "}}</td>
+          <td>
+              {{sort.summary | markdownify | remove: '<p>' | remove: '</p>'}}
+          </td>
+      </tr>
+      {% endfor %}
+  </tbody>  
+</table>

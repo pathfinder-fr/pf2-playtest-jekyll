@@ -19,7 +19,7 @@ area:
 targets: 
 duration: 24 heures (see text)
 requirements: 
-castingtime:  1 minute ( [[A]] M, [[A]] S, [[A]] V)
+castingtime: 1 minute (M, S, V)
 
 summary: '..'
 ---

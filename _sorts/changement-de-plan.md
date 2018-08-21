@@ -22,7 +22,7 @@ area:
 targets: one willing creature, or up to eight willing creatures joining hands
 duration: 
 requirements: 
-castingtime:  10 minutes ( [[A]] V)
+castingtime: 10 minutes (M, S, V)
 
 summary: '..'
 ---

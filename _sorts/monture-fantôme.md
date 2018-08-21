@@ -20,7 +20,7 @@ area:
 targets: 
 duration: 8 hours or until dismissed
 requirements: 
-castingtime:  10 minutes ( [[A]] S, [[A]] V)
+castingtime: 10 minutes (S, V)
 
 summary: '..'
 ---
@@ -40,4 +40,4 @@ The steed has a Speed of 60 feet, can walk on water, and ignores areas of natura
 
 6th
 
-The steed can walk or fly at a Speed of 80 feet, can walk on water, and ignores areas of natural difficult terrain.
+The steed can walk or fly at a Speed of 80 feet, can walk on water, and ignores areas of natural difficult terrain.

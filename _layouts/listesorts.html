@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<!--
+    Crée des tableaux de sortilèges/sorts pour une tradition donnée
+
+    - page.tradition : tradition
+-->
+
+{% assign trad = page.tradition | downcase %}
+
+{% assign tradition = site["sorts"] | where_exp: "sort", "sort.traditions contains trad" %}
+
+<h2 id="sortilèges">Sortilèges</h2>
+{% assign sorts = tradition | where: "type", "sortilège" | sort_ignore_accent_marks: "title" %}
+{% include spell-table.html %}
+
+{% assign sorts_tous = tradition | where: "type", "sort" | sort_ignore_accent_marks: "title" | sort: "level" %}
+
+{% for level in (1..9) %}
+
+{% assign sorts = sorts_tous | where: "level", level %}
+<h2 id="sorts-de-niveau-{{level}}">Sorts de niveau {{level}}</h2>
+{% include spell-table.html %}
+
+{% endfor %}
+

@@ -23,7 +23,7 @@ area:
 targets: one object
 duration: 
 requirements: 
-castingtime:  10 minutes ( M, S, V)
+castingtime: 10 minutes (S, V)
 
 summary: '..'
 ---
@@ -39,4 +39,4 @@ You can target up to 10 objects.
 
 6th
 
-You can target any number of objects.
+You can target any number of objects.

@@ -18,7 +18,7 @@ area:
 targets: 
 duration: 1 heure
 requirements: You are in a city.
-castingtime:  1 minute ( [[A]] S, [[A]] V)
+castingtime: 1 minute (M, S, V)
 
 summary: '..'
 ---

@@ -20,7 +20,7 @@ area:
 targets: one willing creature
 duration: 1 jour
 requirements: 
-castingtime:  10 minutes ( M, S, V)
+castingtime: 10 minutes (S, V)
 
 summary: '..'
 ---
@@ -36,4 +36,4 @@ The target is protected from severe cold and heat.
 
 5th
 
-The target is protected from severe cold, severe heat, extreme cold, and extreme heat.
+The target is protected from severe cold, severe heat, extreme cold, and extreme heat.

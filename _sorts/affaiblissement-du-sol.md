@@ -19,7 +19,7 @@ area: émanation de 6 cases centered on you
 targets: 
 duration: 24 heures
 requirements: 
-castingtime:  1 minute ( [[A]] S, [[A]] V)
+castingtime: 1 minute (M, S, V)
 
 summary: '..'
 ---

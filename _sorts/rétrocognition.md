@@ -18,7 +18,7 @@ area:
 targets: 
 duration: concentration, up to 10 minutes
 requirements: 
-castingtime:  1 minute ( M, S, V)
+castingtime: 1 minute (M, S, V)
 
 summary: '..'
 ---

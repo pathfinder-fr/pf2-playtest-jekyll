@@ -20,7 +20,7 @@ area: émanation de 10 cases
 targets: 
 duration: 24 heures
 requirements: 
-castingtime:  10 minutes ( [[A]] S, or more)
+castingtime: 10 minutes (M, S, V)
 
 summary: '..'
 ---

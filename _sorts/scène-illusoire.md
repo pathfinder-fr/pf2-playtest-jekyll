@@ -21,7 +21,7 @@ area: émanation de 6 cases
 targets: 
 duration: 1 heure
 requirements: 
-castingtime:  10 minutes ( [[F]] V)
+castingtime: 10 minutes (S, V)
 
 summary: '..'
 ---
@@ -37,4 +37,4 @@ Creatures or objects in your scene can speak. You must speak the specific lines 
 
 8th
 
-Per 6th-level, and the duration is unlimited.
+Per 6th-level, and the duration is unlimited.

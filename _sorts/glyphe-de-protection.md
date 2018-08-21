@@ -17,7 +17,7 @@ area:
 targets: one container or 10-foot-by-10-foot area
 duration: unlimited until dismissed
 requirements: 
-castingtime:  10 minutes ( [[A]] S, [[A]] V)
+castingtime: 10 minutes (M, S, V)
 
 summary: '..'
 ---

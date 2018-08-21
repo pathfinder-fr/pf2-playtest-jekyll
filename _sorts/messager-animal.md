@@ -19,7 +19,7 @@ area:
 targets: 
 duration: 1 week
 requirements: 
-castingtime:  1 minute ( [[A]] S)
+castingtime: 1 minute (M, S, V)
 
 summary: '..'
 ---

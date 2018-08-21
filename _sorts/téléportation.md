@@ -20,7 +20,7 @@ area:
 targets: you and up to four willing creatures touched
 duration: 
 requirements: 
-castingtime:  10 minutes ( [[A]] S)
+castingtime: 10 minutes (M, S, V)
 
 summary: '..'
 ---

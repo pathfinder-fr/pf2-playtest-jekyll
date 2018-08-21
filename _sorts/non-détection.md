@@ -20,7 +20,7 @@ area:
 targets: une créature ou objet
 duration: 8 hours
 requirements: 
-castingtime:  10 minutes ( [[A]] S, [[A]] V)
+castingtime: 10 minutes (M, S, V)
 
 summary: '..'
 ---

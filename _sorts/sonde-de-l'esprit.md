@@ -21,7 +21,7 @@ area:
 targets: une créature
 duration: 1 minute
 requirements: 
-castingtime:  1 minute ( S, V)
+castingtime: 1 minute (M, S, V)
 
 summary: '..'
 ---

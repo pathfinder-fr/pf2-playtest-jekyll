@@ -18,7 +18,7 @@ area:
 targets: you and one ally
 duration: 24 heures
 requirements: 
-castingtime:  1 minute ( [[A]] S, [[A]] V)
+castingtime: 1 minute (M, S, V)
 
 summary: '..'
 ---

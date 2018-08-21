@@ -18,7 +18,7 @@ area:
 targets: one willing sleeping creature
 duration: 8 hours
 requirements: 
-castingtime:  1 minute ( [[A]] S, [[A]] V)
+castingtime: 1 minute (M, S, V)
 
 summary: '..'
 ---

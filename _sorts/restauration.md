@@ -21,7 +21,7 @@ area:
 targets: une créature
 duration: 
 requirements: 
-castingtime:  10 minutes ( [[A]] S, [[A]] V)
+castingtime: 10 minutes (S, V)
 
 summary: '..'
 ---
@@ -45,4 +45,4 @@ Add drained to the list of conditions you can reduce. When you lessen a toxin, r
 
 6th
 
-Per the 4th-level restoration, but you can reduce a permanent enervated condition if you add a Material Casting action while casting the spell, during which you provide 100 gp worth of diamond dust as a cost.
+Per the 4th-level restoration, but you can reduce a permanent enervated condition if you add a Material Casting action while casting the spell, during which you provide 100 gp worth of diamond dust as a cost.

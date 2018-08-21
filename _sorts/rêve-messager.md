@@ -21,7 +21,7 @@ area:
 targets: une créature you know by name and have met in person
 duration: 1 jour or until dismissed
 requirements: 
-castingtime:  10 minutes ( [[A]] S, [[A]] V)
+castingtime: 10 minutes (S, V)
 
 summary: '..'
 ---
@@ -33,4 +33,4 @@ Heightened
 
 4th
 
-You can target up to 10 creatures you know by name and have met in person. You must send the same message to all of them; the spell is dismissed for each creature individually.
+You can target up to 10 creatures you know by name and have met in person. You must send the same message to all of them; the spell is dismissed for each creature individually.

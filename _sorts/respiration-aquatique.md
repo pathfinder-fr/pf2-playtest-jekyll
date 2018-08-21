@@ -20,7 +20,7 @@ area:
 targets: up to five creatures
 duration: 1 heure
 requirements: 
-castingtime:  1 minute ( [[A]] S)
+castingtime: 1 minute (S, V)
 
 summary: '..'
 ---
@@ -36,4 +36,4 @@ The duration increases to 8 hours.
 
 4th
 
-The duration increases to 24 hours.
+The duration increases to 24 hours.

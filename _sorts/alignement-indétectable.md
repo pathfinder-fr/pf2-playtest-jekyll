@@ -19,7 +19,7 @@ area:
 targets: une créature ou objet
 duration: 1 jour
 requirements: 
-castingtime:  1 minute ( [[F]] S)
+castingtime: 1 minute (M, S, V)
 
 summary: '..'
 ---

@@ -20,7 +20,7 @@ area:
 targets: one page up to 3 square feet in size
 duration: unlimited
 requirements: 
-castingtime:  1 minute ( M, S, V)
+castingtime: 1 minute (M, S, V)
 
 summary: '..'
 ---

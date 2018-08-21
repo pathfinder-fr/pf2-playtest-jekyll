@@ -21,7 +21,7 @@ area:
 targets: one touched piece of rope from 5 to 30 feet long
 duration: 8 hours
 requirements: 
-castingtime:  10 minutes ( [[A]] M, [[A]] S)
+castingtime: 10 minutes (M, S, V)
 
 summary: '..'
 ---

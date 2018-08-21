@@ -28,5 +28,6 @@ cols:
   - title: "Description"
     attribute: summary
     colsize: "40%"
-
 ---
+
+Voir aussi les listes de sorts par tradition : [arcanique](liste-des-sorts-arcaniques.html), [divin](liste-des-sorts-divins.html), [occulte](liste-des-sorts-occultes.html), [primaire](liste-des-sorts-primaires.html)

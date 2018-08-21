@@ -21,7 +21,7 @@ area:
 targets: one specific object or type of object
 duration: concentration
 requirements: 
-castingtime:  10 minutes ( [[R]] V)
+castingtime: 10 minutes (M, S, V)
 
 summary: '..'
 ---

@@ -18,7 +18,7 @@ area:
 targets: 
 duration: 
 requirements: You can cast this spell only in a natural area that supports significant plant life.
-castingtime:  10 minutes ( M, S, V)
+castingtime: 10 minutes (M, S, V)
 
 summary: '..'
 ---

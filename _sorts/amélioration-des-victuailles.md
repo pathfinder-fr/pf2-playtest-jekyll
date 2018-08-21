@@ -17,7 +17,7 @@ area:
 targets: 1 nonmagical pint of water or pound of food
 duration: 
 requirements: 
-castingtime:  1 minute ( [[A]] S, [[A]] V)
+castingtime: 1 minute (M, S, V)
 
 summary: '..'
 ---

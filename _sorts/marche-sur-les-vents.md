@@ -20,7 +20,7 @@ area:
 targets: you and up to five creatures touched
 duration: 8 hours
 requirements: 
-castingtime:  10 minutes ()
+castingtime: 10 minutes (M, S, V)
 
 summary: '..'
 ---

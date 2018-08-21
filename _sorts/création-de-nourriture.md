@@ -20,7 +20,7 @@ area:
 targets: 
 duration: 
 requirements: 
-castingtime:  10 minutes ( [[A]] S, [[A]] V)
+castingtime: 10 minutes (S, V)
 
 summary: '..'
 ---
@@ -40,4 +40,4 @@ You can feed 50 Medium creatures.
 
 8th
 
-You can feed 200 Medium creatures.
+You can feed 200 Medium creatures.

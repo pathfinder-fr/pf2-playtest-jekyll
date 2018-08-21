@@ -123,6 +123,14 @@
       title: Format de description des sorts
     - url: /ch7-sorts/liste-des-sorts.html
       title: Liste des sorts
+    - url: /ch7-sorts/liste-des-sorts-arcaniques.html
+      title: Liste des sorts arcaniques
+    - url: /ch7-sorts/liste-des-sorts-divins.html
+      title: Liste des sorts divins
+    - url: /ch7-sorts/liste-des-sorts-occultes.html
+      title: Liste des sorts occultes
+    - url: /ch7-sorts/liste-des-sorts-primaires.html
+      title: Liste des sorts primaires
     - url: /ch7-sorts/rituels.html
       title: Les rituels
 

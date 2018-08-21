@@ -21,7 +21,7 @@ area:
 targets: you and up to nine willing creatures touched
 duration: 8 hours or until dismissed
 requirements: 
-castingtime:  1 minute ( [[A]] S, [[A]] V)
+castingtime: 1 minute (M, S, V)
 
 summary: '..'
 ---

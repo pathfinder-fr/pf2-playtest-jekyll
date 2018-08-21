@@ -20,7 +20,7 @@ area:
 targets: une créature you know by name
 duration: 1 jour or until dismissed
 requirements: 
-castingtime:  10 minutes ( [[R]] S)
+castingtime: 10 minutes (M, S, V)
 
 summary: '..'
 ---

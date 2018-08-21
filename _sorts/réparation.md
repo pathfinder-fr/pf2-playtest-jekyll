@@ -21,7 +21,7 @@ area:
 targets: nonmagical object of light Bulk or less
 duration: 
 requirements: 
-castingtime:  1 hour ( M, S, V)
+castingtime: 1 hour (S, V)
 
 summary: '..'
 ---
@@ -37,4 +37,4 @@ You can target a nonmagical object of 1 Bulk or less.
 
 3rd
 
-You can target a nonmagical object of 2 Bulk or less, or a magical object of 1 Bulk or less.
+You can target a nonmagical object of 2 Bulk or less, or a magical object of 1 Bulk or less.

@@ -18,7 +18,7 @@ area:
 targets: une créature
 duration: 24 heures
 requirements: 
-castingtime:  10 minutes ( M, S, V)
+castingtime: 10 minutes (M, S, V)
 
 summary: '..'
 ---

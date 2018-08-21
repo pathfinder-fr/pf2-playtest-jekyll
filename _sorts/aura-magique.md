@@ -19,7 +19,7 @@ area:
 targets: one 3 Bulk or lighter object
 duration: 1 jour
 requirements: 
-castingtime:  1 minute ( M, S, V)
+castingtime: 1 minute (M, S, V)
 
 summary: '..'
 ---

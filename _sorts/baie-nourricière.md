@@ -18,7 +18,7 @@ area:
 targets: one freshly-picked berry
 duration: 1 jour
 requirements: 
-castingtime:  10 minutes ( [[A]] M, [[A]] S)
+castingtime: 10 minutes (S, V)
 
 summary: '..'
 ---
@@ -30,4 +30,4 @@ Heightened
 
 1
 
-You can target an additional berry.
+You can target an additional berry.

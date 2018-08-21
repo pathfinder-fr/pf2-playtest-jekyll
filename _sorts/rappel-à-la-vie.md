@@ -19,7 +19,7 @@ area:
 targets: one dead creature of level 13 or lower
 duration: 
 requirements: 
-castingtime:  10 minutes ( M, S, V)
+castingtime: 10 minutes (M, S, V)
 
 summary: '..'
 ---

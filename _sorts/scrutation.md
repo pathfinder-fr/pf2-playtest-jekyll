@@ -20,7 +20,7 @@ area:
 targets: une créature
 duration: concentration, up to 10 minutes
 requirements: 
-castingtime:  10 minutes ( [[A]] S, [[A]] V)
+castingtime: 10 minutes (M, S, V)
 
 summary: '..'
 ---
