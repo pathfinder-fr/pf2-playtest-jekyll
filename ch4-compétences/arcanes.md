@@ -7,8 +7,8 @@ toc: true
 index:
   - key: "Arcanes (compétence)"
     anchor: ""
-  - key: "Se souvenir de connaissances"
-    anchor: "se-souvenir-de-connaissances"
+  - key: "Se rappeler (de connaissances)"
+    anchor: "se-rappeler"
   - key: "Apprendre un sort arcanique"
     anchor: "apprendre-un-sort-arcanique"
   - key: "Emprunter un sort arcanique"
@@ -20,115 +20,132 @@ index:
 
 ---
 
-Cette compétence mesure ce que vous connaissez de l’alchimie, des sorts arcaniques et des plus communs des objets magiques. 
-De plus, elle détermine votre niveau d’information sur l’alchimie et les énergies arcaniques ainsi que le savoir sur les créatures qui leurs sont associés.
+Cette compétence mesure ce que vous connaissez de l’alchimie, des sorts arcaniques et des objets magiques les plus courants.
+De plus, elle détermine votre niveau de connaissances sur l’alchimie et les énergies arcaniques ainsi que votre savoir sur les créatures qui sont associées à ces sujets.
 Si vous êtes entrainé en Arcanes, peu importe que vous soyez lanceur de sorts ou alchimiste, vous êtes versés dans l’art de reconnaître les objets alchimiques et magiques, même ceux que vous n’êtes pas capable d’utiliser.
 
+## Utilisations sans formation
 
-## Utilisation de la compétence Arcanes sans entraînement
+Vous pouvez utiliser la compétence d'Arcanes de la manière suivante, même si vous ne disposez d'aucune formation.
 
-{: .block .action1}
-> ### Se souvenir de connaissances
+
+
+
+{: .block .action1 #se-rappeler}
+> ### Se rappeler de connaissances
 > 
 > {: .traits}
->
-> concentration
-> secret
+> concentration, secret
 > 
 > ---
 > 
-> Vous tentez un test d’Arcanes pour essayer de vous remémorer un bout des connaissances concernant les réactions alchimiques, les théories arcaniques, les traditions magiques ou les créatures ayant une importance alchimique ou magique. Le MJ détermine les DD pour de tels tests.
+> Vous effectuez un test d’Arcanes pour essayer de vous remémorer un bout des connaissances concernant les réactions alchimiques, les théories arcaniques, les traditions magiques ou les créatures ayant un lien avec l'alchimie ou la magie. Le MJ détermine le DD du test.
 >
-> **Réussite** Vous vous souvenez de connaissances précises
+> **Réussite** Vous vous souvenez de connaissances précises.
 >
-> **Échec critique** Vous vous souvenez d’informations erronées
+> **Échec critique** Vous vous souvenez d’informations erronées.
 
-## Utilisations avec entrainement de la compétence Arcanes
 
-Vous ne pouvez utiliser la compétence Arcanes selon les manières suivantes que si vous disposez d’un entraînement.
 
+
+## Utilisations avec entrainement
+
+Vous ne pouvez utiliser la compétence Arcanes selon les manières suivantes que si vous êtes entraîné dans cette compétence.
+
+{: .block}
 > ### Apprendre un sort arcanique
 >
 > {: .traits}
->
-> Concentration
+> concentration
 > 
 > ---
 > 
-> Si vous êtes un jeteur de sorts, vous pouvez disposer de l’accès à un nouveau sort par quelqu’un qui connait ce sort ou à partir d’un écrit magique comme un parchemin ou un livre de sorts.
+> Si vous êtes un lanceur de sorts, vous pouvez avoir accès à un nouveau sort grâce à quelqu’un qui connaît ce sort ou à un écrit magique comme un parchemin ou un livre de sorts.
 > 
-> Pour apprendre le sort, vous devez procéder comme suit.
-> - Dépenser une heure par niveau du sort, durant laquelle vous devez rester en conversation avec la personne qui connait le sort ou en possession de l’écrit magique.
-> - Disposer d’un montant de matériaux magiques d’une valeur indiquée dans la table ci-dessous.
-> - Essayer un test d’Arcanes dont le DD est déterminé par le MJ (voir la table ci-dessous)
+> Pour apprendre le sort, vous devez procéder comme suit.  
+> * Passer une heure par niveau du sort ; pendant ce temps, vous devez rester en conversation avec la personne qui connait le sort ou en possession de l’écrit magique.
+> * Disposer d’un montant de matériaux magiques d’une valeur suffisante (voir le [tableau](#identifier-ou-apprendre-un-sort) ci-dessous).
+> * Effectuer un test d’Arcanes dont le DD est déterminé par le MJ (voir le [tableau](#identifier-ou-apprendre-un-sort) ci-dessous).
 >
-> **Réussite** Vous dépensez les matériaux et apprenez le sort. Si vous disposez d’un grimoire, le sort est ajouté à votre livre de sorts ; si vous préparez vos sorts à partir d’une liste, il est ajouté à cette liste ; si vous disposez d’un répertoire de sorts, vous pouvez le sélectionner lorsque vous pouvez échanger vos sorts ou lorsque vous en apprenez un nouveau.
+> **Réussite** Vous dépensez les matériaux et apprenez le sort. Si vous disposez d’un grimoire, le sort est ajouté à celui-ci ; si vous préparez vos sorts à partir d’une liste, il est ajouté à cette liste ; si vous disposez d’un répertoire de sorts, vous pouvez sélectionner le nouveau sort lorsque vous avez l'occasion d'ajouter un nouveau sort à votre répertoire ou de remplacer un des sorts qui s'y trouvent déjà.
 > 
 > **Réussite critique** Vous ne dépensez que la moitié du coût des matériaux.
 >
-> **Échec** Vous ne parvenez pas à apprendre le sort mais vous pourrez réessayer lorsque vous aurez acquis un niveau supplémentaire. Le coût des matériaux n’est pas dépenser.
+> **Échec** Vous ne parvenez pas à apprendre le sort mais vous pourrez réessayer lorsque vous aurez acquis un niveau de plus. Le coût des matériaux n’est pas dépensé.
 >
 > **Échec critique** Vous dépensez la moitié du coût des matériaux.
 
-> ### Emprunter un sort arcanique
-> 
-> {: .traits}
-> Concentration
-> 
-> ---
->
-> Si vous êtes un jeteur de sort qui prépare ses sorts, durant vos préparatifs quotidiens, vous pouvez essayer de préparer un sort à partir du livre de sort de quelqu’un d’autre. Le MJ fixe le DD du test (voir le tableau suivant).
->
-> **Réussite** Vous préparez le sort emprunté durant vos préparatifs quotidiens.
->
-> **Échec** Vous échouez à préparer le sort mais l’emplacement du sort reste utilisable pour vous permettre de préparer un sort différent. Vous ne pouvez pas essayer de préparer ce sort avant la prochaine fois où vous effectuerez vos préparatifs.
 
-> ### Identifier la magie
-> 
-> {: .traits}
->
-> Concentration
-> Secret
->
-> ---
->
-> Une fois que vous avez découvert qu’un objet, un effet en cours ou un lieu est magique, vous pouvez dépenser une heure à essayer d’identifier la nature et les particularités de sa magie. 
-> Si votre tentative est interrompue, vous devez recommencer. Le MJ fixe le DD de votre test (voir le tableau suivant).
-> Les objets maudits ou particulièrement ésotériques ont habituellement des DD supérieurs et peuvent même ne pas être identifiables en utilisant seulement la compétence Arcanes. Augmenter un sort ne rend pas plus difficile le DD nécessaire à son identification.
->
-> **Réussite** Pour un objet ou un lieu, vous avez une idée de ce qu’il fait et de la manière de l’activer. Pour un effet en cours, vous obtenez le nom de l’effet et ce qu’il fait. Vous ne pouvez pas tenter de nouveau le test pour espérer une réussite critique.
->
-> **Réussite critique** Vous apprenez tous les attributs de la magie incluant le fait de savoir si elle est maudite.
->
-> **Échec** Vous ne parvenez pas à identifier la magie et ne pouvez essayer pendant une journée.
->
-> **Échec critique** Vous confondez la magie avec autre chose au choix du MJ.
 
-{: .tabletitle}
+
+{: .tabletitle #identifier-ou-apprendre-un-sort}
 Identifier ou apprendre un sort
 
-{: .table .table-striped .table-sm .table-hover}
-| Niveau du sort | Prix* | DD Typique*|
-| :----: | ------ | ------:
-| 1 ou sortilège | 20 pa | 13 |
-| 2 | 60 pa | 16 |
-| 3 | 160 pa | 19 |
-| 4 | 360 pa | 22 |
-| 5 | 700 pa | 25 |
-| 6 | 1.400 pa | 28 |
-| 7 | 3.030 pa | 31 |
-| 8 | 6.500 pa | 34 |
-| 9 | 15.000 pa | 37 |
-| 10* | 70.000 pa | 40 |
+{: .table .table-striped .table-hover}
+| Niveau du sort | Prix*     | DD Typique* |
+| :------------: | :-------- | :---------: |
+| 1 ou sortilège | 20 pa     | 13          |
+| 2              | 60 pa     | 16          |
+| 3              | 160 pa    | 19          |
+| 4              | 360 pa    | 22          |
+| 5              | 700 pa    | 25          |
+| 6              | 1.400 pa  | 28          |
+| 7              | 3.030 pa  | 31          |
+| 8              | 6.500 pa  | 34          |
+| 9              | 15.000 pa | 37          |
+| 10             | 70.000 pa | 40          |
+
 {: .tablenotes}
 (*) Les sorts rares du niveau 9 ou de niveau inférieur ont typiquement un prix et un DD correspondant à un sort d’un niveau de plus.
 
+
+
+
+{: .block}
+> ### Emprunter un sort arcanique
+> 
+> {: .traits}
+> concentration
+> 
+> ---
+>
+> Si vous êtes un lanceur de sort qui prépare ses sorts, durant vos préparatifs quotidiens, vous pouvez essayer de préparer un sort à partir du grimoire de quelqu’un d’autre. Le MJ fixe le DD du test (voir le [tableau](#identifier-ou-apprendre-un-sort) ci-dessus).
+>
+> **Réussite** Vous préparez le sort emprunté durant vos préparatifs quotidiens.
+>
+> **Échec** Vous échouez à préparer le sort mais l’emplacement du sort reste utilisable pour vous permettre de préparer un sort différent. Vous ne pouvez pas essayer de préparer ce sort avant vos prochaines préparations quotidiennes.
+
+
+
+
+{: .block}
+> ### Identifier la magie
+> 
+> {: .traits}
+> concentration, secret
+>
+> ---
+>
+> Une fois que vous avez découvert qu’un objet, un effet en cours ou un lieu est magique, vous pouvez passer une heure à essayer d’identifier la nature et les particularités de cette magie. 
+> Si votre tentative est interrompue, vous devez recommencer. Le MJ fixe le DD de votre test (voir le [tableau](#identifier-ou-apprendre-un-sort) ci-dessus).
+> Les objets maudits ou particulièrement ésotériques ont habituellement des DD supérieurs et peuvent même ne pas être identifiables en utilisant seulement la compétence Arcanes. Élever un sort n'augmente pas le DD nécessaire à son identification.
+>
+> **Réussite** Pour un objet ou un lieu, vous avez une idée de ce qu’il fait et de la manière de l’activer. Pour un effet en cours, vous obtenez le nom de l’effet et ce qu’il fait. Vous ne pouvez pas effectuer un nouveau test pour espérer une réussite critique.
+>
+> **Réussite critique** Vous apprenez tous les attributs de la magie, y compris le fait de savoir si elle est maudite.
+>
+> **Échec** Vous ne parvenez pas à identifier la magie et ne pouvez réessayer pendant une journée.
+>
+> **Échec critique** Vous confondez la magie avec autre chose au choix du MJ.
+
+
+
+
+{: .block}
 > ### Lire la magie
 > 
 > {: .traits}
->
-> Concentration
-> Secret
+> concentration, secret
 >
 > ---
 > 
@@ -136,7 +153,7 @@ Identifier ou apprendre un sort
 > 
 > Cela prend habituellement environ une minute par page de texte mais cela pourrait prendre plus longtemps dans le cas d’écrits anciens obscurs ou dans d’autres situations à la discrétion du MJ.
 > Pour lire et comprendre les nuances de textes particulièrement archaïques, ésotériques ou obscurs, le MJ peut vous demander d’effectuer un test d’Arcanes pour voir si vous parvenez à comprendre la véritable signification de l’écrit magique.
-> Le MJ pourrait vouloir que vous tentiez un test par écrit ou que vous effectuiez plusieurs tests pour chaque partie d’un plus grand texte.
+> Le MJ pourrait vouloir que vous tentiez un test par écrit ou que vous effectuiez plusieurs tests, un pour chaque partie d’un texte plus long.
 >
 > **Réussite** Vous comprenez la véritable signification du texte.
 >

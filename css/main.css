@@ -116,6 +116,10 @@ main blockquote.inset {
 
 }
 
+/***********************************/
+/* Relatif aux tables              */
+/***********************************/
+
 .tabletitle {
     font-size: 120%;
     margin-bottom: 2px;
@@ -133,6 +137,14 @@ tr.firstlineofsection td {
     font-size: small;
     margin-top: -1rem;
     border-top: 2px solid #dee2e6;
+}
+
+table.no-border td {
+    border-width: 0;
+} 
+
+table.no-head thead {
+    display: none;
 }
 
 /* BLOCS POURS DONS, SORTS, ... */

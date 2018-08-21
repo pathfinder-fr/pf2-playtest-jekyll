@@ -18,7 +18,7 @@ Votre Vitesse (parfois appelée Vitesse au sol) est une valeur numérique que la
 
 Certaines capacités vous donnent d'autres moyens de vous mouvoir, par exemple à travers les airs ou dans le sol. Chacune de ces types de mouvement spéciaux possède sa propre valeur de Vitesse. Bon nombre de créatures possèdent ces Vitesses de manière naturelle. Les divers types de mouvement sont cités ci-dessous. Comme l'action de [Déplacement](actions-de-base.html#déplacement) ne peut être utilisée qu'avec votre Vitesse normale, pour vous déplacer avec ces types de mouvement spéciaux, vous devez utiliser une action spéciale ; de plus, vous ne pouvez pas effectuer de [Pas](actions-de-base.html#pas) quand vous utilisez l'un de ces types de mouvement. Comme la Vitesse en elle-même se réfère à votre Vitesse au sol, les règles concernant ces types de mouvement spéciaux indiquent à chaque fois à quel type de mouvement elles s'appliquent.
 
-Passer d'un type de mouvement à un autre nécessite de mettre un terme au mouvement dans le premier type puis d'utiliser une nouvelle action pour le nouveau type de mouvement. Par exemple, si vous Escaladez <mark>(ref cpt)</mark> sur 2 cases (3 mètres) vers le sommet d'une falaise, vous pourriez ensuite vous [Déplacer](actions-de-base.html#déplacement) vers l'avant de 2 cases.
+Passer d'un type de mouvement à un autre nécessite de mettre un terme au mouvement dans le premier type puis d'utiliser une nouvelle action pour le nouveau type de mouvement. Par exemple, si vous [Escaladez](/ch4-compétences/athlétisme.html#escalader) sur 2 cases (3 mètres) vers le sommet d'une falaise, vous pourriez ensuite vous [Déplacer](actions-de-base.html#déplacement) vers l'avant de 2 cases.
 
 #### Vitesse de fouissement
 
@@ -26,15 +26,15 @@ Une Vitesse de fouissement vous permet de creuse un tunnel dans le sol. Vous pou
 
 #### Vitesse d'escalade
 
-Une Vitesse d'escalade vous permet d'escalader (vers le haut ou vers le bas) des surfaces inclinées ou verticales. Au lieu d'avoir besoin de lancer un test d'Acrobaties pour Escalader <mark>(liens)</mark>, vous réussissez automatiquement et vous vous déplacez de votre Vitesse d'escalade plutôt que de la distance indiquée.
+Une Vitesse d'escalade vous permet d'escalader (vers le haut ou vers le bas) des surfaces inclinées ou verticales. Au lieu d'avoir besoin de lancer un test d'Athlétisme pour [Escalader](/ch4-compétences/athlétisme.html#escalader), vous réussissez automatiquement et vous vous déplacez de votre Vitesse d'escalade plutôt que de la distance indiquée.
 
-Vous pourriez tout de même devoir effectuer un test d'Acrobaties pour Escalader dans des conditions dangereuses, pour Escalader des surfaces de difficulté extrême ou pour traverser des surfaces planes horizontales comme des plafonds. Vous pouvez également choisir d'effectuer un test d'Athlétisme pour Escalader plutôt que d'utiliser votre réussite automatique. Votre Vitesse d'escalade vous donne un bonus de circonstances de +4 aux tests d'Athlétisme pour Escalader.
+Vous pourriez tout de même devoir effectuer un test d'Acrobaties pour [Escalader](/ch4-compétences/athlétisme.html#escalader) dans des conditions dangereuses, pour Escalader des surfaces de difficulté extrême ou pour traverser des surfaces planes horizontales comme des plafonds. Vous pouvez également choisir d'effectuer un test d'Athlétisme pour [Escalader](/ch4-compétences/athlétisme.html#escalader) plutôt que d'utiliser votre réussite automatique. Votre Vitesse d'escalade vous donne un bonus de circonstances de +4 aux tests d'Athlétisme pour Escalader.
 
 Si vous possédez une Vitesse d'escalade, vous n'êtes pas pris au dépourvu quand vous escaladez.
 
 #### Vitesse de vol
 
-Si vous avez une Vitesse de vol, vous pouvez utiliser les actions [Voler](actions-de-base.html#voler) et [Interrompre une chute](actions-de-base.html#interrompre-une-chute). Vous pouvez également tenter de Manoeuvrer en vol si vous êtes entraîné en Acrobaties <mark>page 145</mark>.
+Si vous avez une Vitesse de vol, vous pouvez utiliser les actions [Voler](actions-de-base.html#voler) et [Interrompre une chute](actions-de-base.html#interrompre-une-chute). Vous pouvez également tenter de [Manoeuvrer en vol](/ch4-compétences/acrobaties.html#manoeuvrer-en-vol) si vous êtes entraîné en Acrobaties.
 
 Les vents peuvent affecter votre manière de Voler. De manière générale, vous déplacer contre le vent compte comme un mouvement à travers un terrain difficile (ou un terrain très difficile si vous volez également vers le haut) ; et vous déplacer avec le vent vous permet de parcourir 2 cases pour chaque case de mouvement dépensée (cet avantage n'est pas cumulatif avec celui octroyé par le fait de voler verticalement vers le bas). Voir aussi [mouvements en mode "rencontres"](mouvement-et-positionnement.html#mouvement-en-mode-rencontres) pour plus d'informations.
 
@@ -44,7 +44,7 @@ Les mouvements vers le haut et vers le bas sont définis de manière relative à
 
 Avec une Vitesse de nage, vous pouvez vous propulser dans l'eau sans que celle-ci ne vous ralentisse de manière significative. Au lieu de lancer des tests d'Athlétisme pour Nager, vous réussissez automatiquement et vous vous déplacez d'au plus votre Vitesse de nage au lieu de la distance indiquée. Par contre, vous déplacer vers le haut ou vers le bas compte toujours comme du terrain difficile.
 
-Vous pourriez tout de même devoir effectuer un test dans le cas de situations dangereuses ou pour traverser des eaux turbulentes. Vous pouvez également choisir de faire un test d'Athlétisme pour Nager plutôt que de profiter de votre réussite automatique. Votre Vitesse de nage vous donne un bonus de circonstances de +4 aux tests d'Athlétisme pour Nager.
+Vous pourriez tout de même devoir effectuer un test dans le cas de situations dangereuses ou pour traverser des eaux turbulentes. Vous pouvez également choisir de faire un test d'Athlétisme pour [Nager](/ch4-compétences/athlétisme.html#nager) plutôt que de profiter de votre réussite automatique. Votre Vitesse de nage vous donne un bonus de circonstances de +4 aux tests d'Athlétisme pour [Nager](/ch4-compétences/athlétisme.html#nager).
 
 Ce n'est pas parce que vous possédez une Vitesse de nage que vous pouvez automatiquement respirer sous l'eau ; il pourrait vous être nécessaire de retenir votre respiration si vous êtes [sous l'eau](combats-spéciaux.html#combat-sous-leau).
 
@@ -52,7 +52,7 @@ Ce n'est pas parce que vous possédez une Vitesse de nage que vous pouvez automa
 
 Quand vous tombez de plus de 1 case (1,50 mètre), vous subissez des dégâts de type contondant lors de l'atterrissage, ces dégâts s'élevant à 2,5 points par case (ou 5 points par 3 mètres). Considérez les chutes plus longues que 300 cases (450 mètres) comme si elles étaient de 300 cases (750 points de dégâts). Si vous subissez des dégâts suite à une chute, vous êtes à terre quand vous atterrissez.
 
-Vous pouvez vous Rattraper au bord en utilisant une réaction avec la compétence d'Acrobaties <mark>page 144</mark> pour réduire les dégâts de certaines chutes. De plus, si vous tombez dans l'eau, la neige ou une autre matière relativement molle, vous pouvez considérer la chute comme faisant 4 cases (6 m) de moins, ou 6 cases (9 m) de moins si vous avez plongé volontairement. La réduction appliquée ne peut toutefois pas dépasser la profondeur de cette matière (ainsi, si vous tombez dans de l'eau avec une profondeur de 3 mètres, la chute serait considérée comme si elle faisait seulement 3 mètres de moins).
+Vous pouvez [vous Rattraper au bord](/ch4-compétences/acrobaties.html#se-rattraper-au-bord) en utilisant une réaction avec la compétence d'Acrobaties pour réduire les dégâts de certaines chutes. De plus, si vous tombez dans l'eau, la neige ou une autre matière relativement molle, vous pouvez considérer la chute comme faisant 4 cases (6 m) de moins, ou 6 cases (9 m) de moins si vous avez plongé volontairement. La réduction appliquée ne peut toutefois pas dépasser la profondeur de cette matière (ainsi, si vous tombez dans de l'eau avec une profondeur de 3 mètres, la chute serait considérée comme si elle faisait seulement 3 mètres de moins).
 
 ### Tomber sur une créature
 
@@ -128,11 +128,11 @@ Le terrain dangereux vous blesse chaque fois que vous le traversez. Par exemple,
 
 ### Surfaces étroites
 
-Une surface étroite est si dangereusement étroite que vous devez utiliser l'action Avancer sans tomber (voir Acrobaties <mark>page 144</mark>) pour éviter de tomber. Même en cas de réussite, vous êtes pris au dépourvu sur une surface étroite. Chaque fois que vous êtes touché par une attaque ou que vous ratez un jet de sauvegarde sur une surface étroite, vous devez Garder votre équilibre (<mark>144</mark>) pour éviter de tomber.
+Une surface étroite est si dangereusement étroite que vous devez utiliser l'action [Avancer sans tomber](/ch4-compétences/acrobaties.html#avancer-sans-tomber) pour éviter de tomber. Même en cas de réussite, vous êtes pris au dépourvu sur une surface étroite. Chaque fois que vous êtes touché par une attaque ou que vous ratez un jet de sauvegarde sur une surface étroite, vous devez [Garder votre équilibre](/ch4-compétences/acrobaties.html#garder-son-équilibre) pour éviter de tomber.
 
 ### Sol inégal
 
-Un sol inégal est une zone suffisamment instable ou irrégulière pour qu'il soit nécessaire d'Avancer sans tomber (voir Acrobaties <mark>page 144</mark>) pour éviter de tomber à terre et d'éventuellement vous blesser (en fonction des spécificités du sol en question). Vous êtes pris au dépourvu sur du sol inégal. Chaque fois que vous êtes touché par une attaque ou que vous ratez un jet de sauvegarde sur un sol inégal, vous devez Garder votre équilibre (<mark>144</mark>) pour éviter de tomber à terre.
+Un sol inégal est une zone suffisamment instable ou irrégulière pour qu'il soit nécessaire d'[Avancer sans tomber](/ch4-compétences/acrobaties.html#avancer-sans-tomber) pour éviter de tomber à terre et d'éventuellement vous blesser (en fonction des spécificités du sol en question). Vous êtes pris au dépourvu sur du sol inégal. Chaque fois que vous êtes touché par une attaque ou que vous ratez un jet de sauvegarde sur un sol inégal, vous devez [Garder votre équilibre](/ch4-compétences/acrobaties.html#garder-son-équilibre) pour éviter de tomber à terre.
 
 ### Pentes
 

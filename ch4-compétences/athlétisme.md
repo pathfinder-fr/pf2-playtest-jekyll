@@ -36,7 +36,7 @@ L’entraînement en Athlétisme est le résultat du conditionnement qui vous au
 Les utilisations de la compétence sans entraînement sont les suivants :
 
 {: .block .action1}
-> ### Agripper (action)
+> ### Agripper
 > 
 > {: .traits}
 > Attaque

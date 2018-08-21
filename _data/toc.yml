@@ -46,6 +46,8 @@
   items:
     - url: /ch4-compétences/compétences.html
       title: Règles générales
+    - url: /ch4-compétences/tableau-des-utilisations.html
+      title: Utilisations de compétences
     - url: /ch4-compétences/acrobaties.html
       title: Acrobaties
     - url: /ch4-compétences/arcanes.html

@@ -21,7 +21,7 @@ cost:
 trigger: 
 requirements:
 
-summary: "pouvoir : souvenir du maître du savoir (bonus pour se souvenir de quelque chose)"
+summary: "pouvoir : souvenir du maître du savoir (bonus pour se Rappeler de quelque chose)"
 ---
 
-Vous pouvez déverrouiller plus de souvenirs grâce à la magie, ce qui vous aide à vous souvenir de quelque chose. Vous apprenez le pouvoir *souvenir du maître du savoir* (voir page <mark>236</mark>), que vous pouvez lancer en dépensante 1 Point de magie. Augmentez votre réserve de Points de magie de 1.
+Vous pouvez déverrouiller plus de souvenirs grâce à la magie, ce qui vous aide à vous Rappeler de quelque chose. Vous apprenez le pouvoir *souvenir du maître du savoir* (voir page <mark>236</mark>), que vous pouvez lancer en dépensante 1 Point de magie. Augmentez votre réserve de Points de magie de 1.

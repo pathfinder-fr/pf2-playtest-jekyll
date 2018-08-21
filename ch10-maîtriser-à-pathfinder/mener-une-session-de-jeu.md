@@ -50,7 +50,7 @@ Pour vous aider à prendre des décisions à la volée, utilisez les conseils su
 
 * Si vous ne savez pas quelle compétence utiliser, choisissez la plus appropriée.
 
-* Si aucune compétence ne s'applique pour un test visant à se Souvenir de quelque chose, utilisez la compétence de Savoir (qui peut être utilisée même sans formation).
+* Si aucune compétence ne s'applique pour un test visant à se Rappeler de quelque chose, utilisez la compétence de Savoir (qui peut être utilisée même sans formation).
 
 * Utilisez les préparations quotidiennes des personnages comme le moment où remettre à zéro tout ce qui dure à peu près un jour.
 
