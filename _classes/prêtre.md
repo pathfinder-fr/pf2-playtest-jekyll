@@ -86,7 +86,7 @@ Progression de prêtre
 {: .table .table-striped .table-sm .table-hover}
 | Niveau | Capacités de classe |
 |:-------|:--------------------|
-| 1 | [anathème](#anathème), Background, [don d'ascendance](#dons-dascendance), [canalisation d'énergie](#canalisation-dénergie), [déité et domaine](#détié-et-domaine), formations initiales, [incantation divine](#incantation-divine) |
+| 1 | [anathème](#anathème), Background, [don d'ascendance](#dons-dascendance), [canalisation d'énergie](#canalisation-dénergie), [déité et domaine](#déité-et-domaine), formations initiales, [incantation divine](#incantation-divine) |
 | 2 | [Don de prêtre](#dons-de-prêtre), [don de compétence](#dons-de-compétence) |
 | 3 | [Augmentation de compétence](#augmentation-de-compétence), [don général](#dons-généraux), [sorts de niveau 2](#incantation-divine) |
 | 4 | [Don de prêtre](#dons-de-prêtre), [don de compétence](#dons-de-compétence) |
@@ -109,7 +109,12 @@ Progression de prêtre
 
 ### Incantation divine
 
-Vous avez le pouvoir de lancer des sorts divins en utilisant l'activité *Lancer un sort* et vous avez accès aux actions Incantation matérielle, Incantation somatique et Incantation verbale (voir Lancer des sorts à la page <mark>195</mark>). Comme vous êtes un prêtre, vous portez généralement sur vous un focalisateur divin (tel qu'un symbole ou un texte religieux) pour effectuer les actions Incantation matérielle et Incantation somatique. Vous n'avez donc généralement pas besoin de composantes matérielles ou d'avoir une main libre pour lancer un sort. Au niveau 1, vous pouvez préparer chaque matin deux sorts de premier niveau et quatre sortilèges issus de la liste des sorts divins communs (voir page <mark>200</mark>) ou de toute autre liste de sorts divins auxquelles vous aveza accès. Les sorts préparés restent disponibles jusqu'à ce que vous les lanciez ou jusqu'à ce que vous prépariez à nouveau vos sorts. Le nombre de sorts que vous pouvez préparer sont appelés emplacements de sorts.
+Vous avez le pouvoir de lancer des sorts divins en utilisant l'activité *Lancer un sort* et vous avez accès aux actions Incantation matérielle, Incantation somatique et Incantation verbale (voir Lancer des sorts à la page <mark>195</mark>). 
+Comme vous êtes un prêtre, vous portez généralement sur vous un focalisateur divin (tel qu'un symbole ou un texte religieux) pour effectuer les actions Incantation matérielle et Incantation somatique. 
+Vous n'avez donc généralement pas besoin de composantes matérielles ou d'avoir une main libre pour lancer un sort. 
+Au niveau 1, vous pouvez préparer chaque matin deux sorts de premier niveau et quatre sortilèges issus de la liste des sorts divins communs (voir page <mark>200</mark>) ou de toute autre liste de sorts divins auxquelles vous avez accès. Les sorts préparés restent disponibles jusqu'à ce que vous les lanciez ou jusqu'à ce que vous prépariez à nouveau vos sorts. 
+
+Le nombre de sorts que vous pouvez préparer sont appelés emplacements de sorts.
 
 Au fur et à mesure que vous gagnez des niveaux de prêtre, le nombre de sorts que vous pouvez préparer chaque jour augmente, ainsi que le niveau maximal des sorts que vous pouvez lancer (comme l'indique la table *Sorts de prêtre par jour* ci-dessous).
 
@@ -140,16 +145,19 @@ Sorts de prêtre par jour
 | 19     | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 |
 | 20     | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 |
 
-Certains de vos sorts nécessitent que vous fassiez un jet de sort pour vérifier leur efficacité ou que vos ennmis fassent un jet contre votre DD de sort. Comme votre caractéristique principale est la Sagesse, vots jets de sorts et vos DD de sorts utilisent votre modificateur de Sagesse (voir page <mark>291</mark> pour les détails de calcul de vos jets de sorts et vos DD de sorts).
+Certains de vos sorts nécessitent que vous fassiez un jet de sort pour vérifier leur efficacité ou que vos ennemis fassent un jet contre le DD de votre sort. Comme votre caractéristique principale est la Sagesse, vos jets de sorts et le DD de vos sorts utilisent votre modificateur de Sagesse (voir page <mark>291</mark> pour les détails de calcul de vos jets de sorts et le DD de vos sorts).
 
 #### Élever des sorts
 Quand vous obtenez des emplacements de sorts de niveau 2 et plus, vous pouvez préparer vos sorts de plus bas niveau dans ces emplacements pour les renforcer. Cela augmente le niveau du sorts jusqu'à atteindre le niveau de l'emplacement de sort utilisé. Plusieurs sorts possèdent des améliorations spécifiques lorsqu'ils sont élevés à un certain niveau (voir page <mark>192</mark>).
 
 #### Sortilèges
-Un sortilège est une type de sort spécial qui n'utilise pas d'emplacement de sort. Vous pouvez lancer un sortilège à volonté, autant de fois que vous le souhaitez dans la journée. Un sortilège est automatiquement élevé au niveau de sort le plus élevé que vous pouvez lancer en tant que prêtre. Par exemple, en tant que prêtre de niveau 1, le niveau de sort le plus élevé que vous pouvez lancer est le premier niveau, ainsi vos sortilèges sont des sorts de premier niveau. En tant que prêtre de niveau 5, le niveau de sort le plus élevé que vous pouvez lancer est le troisième niveau, vos sortilèges sont donc des sorts de troisième niveau.
+Un sortilège est un type de sort spécial qui n'utilise pas d'emplacement de sort. Vous pouvez lancer un sortilège à volonté, autant de fois que vous le souhaitez dans la journée. Un sortilège est automatiquement élevé au niveau de sort le plus élevé que vous pouvez lancer en tant que prêtre. Par exemple, en tant que prêtre de niveau 1, le niveau de sort le plus élevé que vous pouvez lancer est le premier niveau, ainsi vos sortilèges sont des sorts de premier niveau. En tant que prêtre de niveau 5, le niveau de sort le plus élevé que vous pouvez lancer est le troisième niveau, vos sortilèges sont donc des sorts de troisième niveau.
 
 ### Déité et domaine
-Choisissez une déité que vous adorez au-delà de toute autre. Les déités les plus communes dans Pathifner sont présentées dans le tableau *Déités* ci-dessous. Ce tableau contient le nom de chaque déité, ses domaines d'intérêts et son alignement ainsi que tous les avantages dont vous bénéficiez en étant prêtre de cette déité. Votre alignement doit être l'un d'entre ceux acceptés par votre déité. Votre déité vous accorde une compétence signature spécifique et le degré de formation Ent pour son arme de prédilection. Si cette arme de prédilection n'est pas commune, vous avez également accès à cette arme. Votre déité ajoute également des sorts à votre liste de sorts. Vous ajoutez ces sorts à la liste des sort divins dans lesquels vous pouvez choisir lorsque vous préparez vos sorts.
+Choisissez une déité que vous adorez au-delà de toute autre. Les déités les plus communes dans Pathfinder sont présentées dans le tableau *Déités* ci-dessous. Ce tableau contient le nom de chaque déité, ses domaines d'intérêts et son alignement ainsi que tous les avantages dont vous bénéficiez en étant prêtre de cette déité.
+Votre alignement doit être l'un d'entre ceux acceptés par votre déité. 
+Votre déité vous accorde une compétence signature spécifique et le degré de formation Entraîné pour son arme de prédilection. Si cette arme de prédilection n'est pas commune, vous avez également accès à cette arme.
+Votre déité ajoute également des sorts à votre liste de sorts. Vous ajoutez ces sorts à la liste des sort divins que vous pouvez choisir lorsque vous préparez vos sorts.
 
 {: .tabletitle}
 Déités
@@ -178,9 +186,14 @@ Déités
 | dieu de la maladie | Maladie, gourmandise et mort-vivance | NE (LE, NE, CE) | Négative | Intimidation | Faux | Assouvissement, Magie, Mort-vivance, Puissance | 1er : [*peste goblinoïde*](/sorts/peste-goblinoïde.html), 2ème : [*faim de goule*](/sorts/faim-de-goule.html), 7ème : [*masque de terreur*](/sorts/masque-de-terreur.html) |
 | dieu des ténèbres | Ténèbres, envie, perte et douleur | LE (LN, LE, NE) | Négative | Intimidation | chaîne cloutée | Ambition, Destruction, Douleur, Ténèbres | 1er : [*douleur fantôme*](/sorts/douleur-fantôme.html), 3ème : [*mur d'épines*](/sorts/mur-d'épines.html), 5ème : [*traversée des ombres*](/sorts/traversée-des-ombres.html) |
 
-Choisissez un domaine (un sujet qui vous intéresse particulièrement dans les traditions de votre religion) de la liste des domaines de votre déité. Ce domaine vous accorde une sorte particulière de sorts appelé pouvoir de domaine. Chaque thème et pouvoir de domaine est décrit dans la table *Domaines* ci-dessous. En choisissant un domaine, vous bénéficiez d'une réseve de Points de magie que vous utilisez pour lancer vos pouvoirs de domaine. Vous ne pouvez lancer un pouvoir de domaine uniquement en dépensant de Points de magie, pas en utilisant un emplacement de sort. Votre nombre maximal de Points de magie est égal à votre modificateur de Sagesse (minimum 0). Vous regagnez vos Points de magie à chaque fois que vous préparez vos sorts. Vous obtenez le pouvoir initial associé à votre domaine dès que vous choisissez ce domaine. Ce pouvoir initial nécessite 1 Point de magie pour être lancé et est automatiquement élevé au niveau maximal de sort que vous pouvez lancer. Les pouvoirs de domaine ne sont disponibles qu'aux personnages qui ont choisi le domaine correspondant et ne peuvent être appris par personne d'autre.
+Choisissez un domaine (un sujet qui vous intéresse particulièrement dans les traditions de votre religion) de la liste des domaines de votre déité. Ce domaine vous accorde une sorte particulière de sorts appelé pouvoir de domaine. Chaque thème et pouvoir de domaine est décrit dans la table *Domaines* ci-dessous. 
+En choisissant un domaine, vous bénéficiez d'une réserve de Points de magie que vous utilisez pour lancer vos pouvoirs de domaine. Vous ne pouvez lancer un pouvoir de domaine uniquement en dépensant de Points de magie, pas en utilisant un emplacement de sort. 
+Votre nombre maximal de Points de magie est égal à votre modificateur de Sagesse (minimum 0). Vous regagnez vos Points de magie à chaque fois que vous préparez vos sorts. 
+Vous obtenez le pouvoir initial associé à votre domaine dès que vous choisissez ce domaine. Ce pouvoir initial nécessite 1 Point de magie pour être lancé et est automatiquement élevé au niveau maximal de sort que vous pouvez lancer. Les pouvoirs de domaine ne sont disponibles qu'aux personnages qui ont choisi le domaine correspondant et ne peuvent être appris par personne d'autre.
 
-Certains dons de prêtres vous accordent plus de pouvoirs de domaines et, généralement, ces dons augmentent votre réserve de Points de magie. Vous pouvez apprendre d'autre pouvoirs, appelés pouvoirs de domaines avancés, en prenant le don [Domaine avancé](/donsclasse/domaine-avancé.html). Le coût en Points de magie de ce pouvoir de domaine avancé est indiqué entre parenthèses à la suite de son nom dans la table *Domaines*.
+Certains dons de prêtres vous accordent plus de pouvoirs de domaines et, généralement, ces dons augmentent votre réserve de Points de magie. 
+
+Vous pouvez apprendre d'autre pouvoirs, appelés pouvoirs de domaines avancés, en prenant le don [Domaine avancé](/donsclasse/domaine-avancé.html). Le coût en Points de magie de ce pouvoir de domaine avancé est indiqué entre parenthèses à la suite de son nom dans la table *Domaines*.
 
 {: .tabletitle}
 Domaines
@@ -228,15 +241,16 @@ Domaines
 
 ### Anathème
 
-Les actions qui s'opposent fondamentalement à l'alignement ou à l'idéal de votre déité sont des anathèmes pour votre foi. Commettre des actes, apprendres ou lancer des sorts et utiliser des objets considérés comme anathème pour votre déité vous sort des bonnes grâces de cette déité.
+Les actions qui s'opposent fondamentalement à l'alignement ou à l'idéal de votre déité sont des anathèmes pour votre foi. Commettre des actes, apprendre ou lancer des sorts et utiliser des objets considérés comme anathème pour votre déité vous sort des bonnes grâces de cette déité.
 
 Lancer des sorts possédant le trait Mal est presque toujours un anathème pour les déités bonnes et, inversement, lancer un sort possédant le trait Bon est presque toujours un anathème pour les déités maléfiques. De même, lancer un sort possédant le trait Chaos est presque toujours un anathème pour une déité Loyale alors que lancer un sort possédant le trait Loi est presque toujours un anathème pour une déité Chaotique. Un prêtre Neutre qui suit les préceptes d'une déité Neutre n'est pas limité par l'alignement de ses sorts. Mais il peut changer d'alignement au cours du temps s'il utilise plus fréquemment un sort ou un pouvoir d'un certain alignement.
 
-Ainsi, lancer des sorts qui sont anathèmes selon les préceptes ou les buts de votre foi peut interférer avec votre connexion à votre déité. Par exemple, lancer un sort pour améliorer votre capacité à mentir peut être un anathème pour la déesse de la guérison et de l'honnêteté, et lancer un sort qui permet de créer des morts-vivants serait un anathème pour la déesse de la mort.
+Ainsi, lancer des sorts qui sont anathèmes selon les préceptes ou les buts de votre foi peut interférer avec votre connexion à votre déité. Par exemple, lancer un sort pour améliorer votre capacité à mentir peut être un anathème pour la déesse de la guérison et de l'honnêteté et lancer un sort qui permet de créer des morts-vivants serait un anathème pour la déesse de la mort.
 
-Pour les cas à la marge, vous et votre MJ déterminez si les actions sont des anathèmes ou non. Par exemple, le dieu de l'artisanat est aussi celui des communautés. Par conséquent, les actions qui visent à détruire une communauté unie est typiquement un anathème pour lui. Mais comme il est églaement le dieu des nains, il pourrait vous permettre de détruire une communauté de géants qui menace de supprimer un village nain.
+Pour les cas à la marge, vous et votre MJ déterminez si les actions sont des anathèmes ou non. Par exemple, le dieu de l'artisanat est aussi celui des communautés. Par conséquent, les actions qui visent à détruire une communauté unie est typiquement un anathème pour lui. Mais comme il est également le dieu des nains, il pourrait vous permettre de détruire une communauté de géants qui menace de supprimer un village nain.
 
-Si vous effectués trop d'actes anathèmes pour votre déité ou si votre alignement évolue vers un alignement non autorisé par votre déité, vous perdez les capacités magiques qui proviennet de votre connexion avec votre déité. Les capacités de classe que vos perdez sont déterminées par le MJ, mais il s'agira probablement de la canalisation d'énergie, des pouvoirs de domaine et de la capacité à lancer des sorts divins. Ces capacités peuvent être regagnées seulement si vous faites preuve de repentance en suivant un rituel d'expiation (voi <mark>p.275</mark>).
+Si vous effectuez trop d'actes anathèmes pour votre déité ou si votre alignement évolue vers un alignement non autorisé par votre déité, vous perdez les capacités magiques qui proviennet de votre connexion avec votre déité. Les capacités de classe que vos perdez sont déterminées par le MJ, mais il s'agira probablement de la canalisation d'énergie, des pouvoirs de domaine et de la capacité à lancer des sorts divins. 
+Ces capacités peuvent être regagnées seulement si vous faites preuve de repentance en suivant un rituel d'expiation (voi <mark>p.275</mark>).
 
 ### Canalisation d'énergie
 
@@ -245,13 +259,14 @@ Vous possédez une réserve d'énergie positive ou négative (suivant votre déi
 Cette réserve d'énergie vous permet de lancer soit le sort [*guérison*](/sorts/guérison.html) (pour l'énergie positive) soit le sort [*blessure*](/sorts/blessure.html) (pour l'énergie négative) un nombre de fois par jour égal à 3 plus votre modificateur de CHarisme sans avoir besoin de préparer le sort à l'avance. Tous les sorts que vous lancez de cette manière sont élevés au niveau de sort maximum que vous pouvez lancer en tant que prêtre.
 
 ### Dons de compétence
-Au niveau 2 et tous les 2 niveaux par la suite, vous obtenez un don de classe de compétence. Les dons de compétence sont définis au <mark>chapitre 5</mark> et possèdent le trait 'compétence'. Vous devez être à minima Entraîné dans la compétence correspondante pour prendre un dons de compétence.
+Au niveau 2 et tous les 2 niveaux par la suite, vous obtenez un don de classe de compétence. Les dons de compétence sont définis au <mark>chapitre 5</mark> et possèdent le trait 'compétence'.
+Vous devez être à minima Entraîné dans la compétence correspondante pour prendre un dons de compétence.
 
 ### Dons généraux
 Au niveau 3 et tous les 4 niveaux par la suite, vous obtenez un don général. Les dons de compétence sont définis au <mark>chapitre 5</mark>.
 
 ### Augmentation de compétence
-Au niveau 3 et tous les 2 niveaux par la suite, vous obtenez une augmentation de compétence. Vous pouvez utiliser cette augmentation soit pour devenir Entraîné dans une compténce dans laquelle vous ne l'êtes pas, soit devenir Expert dans une compétence dans laquelle vous êtes déjà Entraîné.
+Au niveau 3 et tous les 2 niveaux par la suite, vous obtenez une augmentation de compétence. Vous pouvez utiliser cette augmentation soit pour devenir Entraîné dans une compétence dans laquelle vous ne l'êtes pas, soit devenir Expert dans une compétence dans laquelle vous êtes déjà Entraîné.
 
 Si vous êtes au moins de niveau 7, vous pouvez utiliser cette augmentation pour devenir Maître dans une compétence signature dans laquelle vous êtes déjà Expert.
 
@@ -264,13 +279,13 @@ En plus du don d'ascendance avec lequel vous avez démarré, vous obtenez un nou
 La liste des dons d'ascendance sont disponibles au <mark>chapitre 2</mark>.
 
 ### Lanceur de sorts expert
-Votre rang de formation pour les jets de sorts, DD de sorts et jets d'attaque avec des sorts divin devient Expert.
+Votre degré de formation pour les jets de sorts, DD de sorts et jets d'attaque avec des sorts divin devient Expert.
 
 ### Maître lanceur de sorts
-Votre rang de formation pour les jets de sorts, DD de sorts et jets d'attaque avec des sorts divin devient Maître.
+Votre degré de formation pour les jets de sorts, DD de sorts et jets d'attaque avec des sorts divin devient Maître.
 
 ### Lanceur de sorts légendaire
-Votre rang de formation pour les jets de sorts, DD de sorts et jets d'attaque avec des sorts divin devient Légendaire.
+Votre degré de formation pour les jets de sorts, DD de sorts et jets d'attaque avec des sorts divin devient Légendaire.
 
 ### Dons de prêtre
 Au niveau 2, vous obtenez un don de classe de prêtre (voir le tableau des dons en bas de page). Vous obtenez un autre don de classe de prêtre aux niveaux 4, 6, 8, 10, 14, 18 et 20.
