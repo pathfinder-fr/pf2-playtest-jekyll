@@ -182,7 +182,12 @@ blockquote.block hr {
 }
 
 blockquote.block ul { padding-left: 1rem; margin: 0; }
-blockquote.block .traits { font-variant: small-caps; }
+
+blockquote.block .traits {
+     font-variant: small-caps;
+     text-transform: lowercase;
+}
+
 blockquote.block.action1 h3::before { content: ""; display: inline-block; width: 1rem; height: 1rem; background-image: url("../images/1action.png"); background-size: 1rem 1rem; margin-right: .3rem; }
 blockquote.block.action2 h3::before { content: ""; display: inline-block; width: 1.3rem; height: 1rem; background-image: url("../images/2actions.png"); background-size: 1.3rem 1rem; margin-right: .3rem; }
 blockquote.block.action3 h3::before { content: ""; display: inline-block; width: 2rem; height: 1rem; background-image: url("../images/3actions.png"); background-size: 2rem 1rem; margin-right: .3rem; }

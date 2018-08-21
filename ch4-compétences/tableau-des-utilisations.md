@@ -6,7 +6,7 @@ source: "Playtest Pathfinder"
 Voir aussi les [règles générales](compétences.html) pour les compétences.
 
 {: .tabletitle}
-Tableau des compétences, de leurs caractéristiques liées et leurs utilisations
+Compétences et leurs utilisations
 
 {: .table .table-striped .table-sm .table-hover}
 | Compétence | Caractéristique liée | Utilisations sans formation | Utilisations entrainées |
@@ -14,7 +14,7 @@ Tableau des compétences, de leurs caractéristiques liées et leurs utilisation
 | [**Acrobaties**](acrobaties.html) | Dextérité | [Avancer sans tomber](acrobaties.html#avancer-sans-tomber) (action)<br/>[Garder son équilibre](acrobaties.html#garder-son-équilibre) (action libre)<br/>[Se faufiler](acrobaties.html#se-faufiler) (activité)<br/>[Se libérer](acrobaties.html#se-libérer) (action)<br/>[Se rattraper au bord](acrobaties.html#se-rattraper-au-bord) (réaction)<br/>[Traverser l'espace d'un ennemi](acrobaties.html#traverser-lespace-dun-ennemi) (action) | [Manoeuvrer en vol](acrobaties.html#manoeuvrer-en-vol) (action) |
 | [**Arcanes**](arcanes.html) | Intelligence | [Se rappeler de connaissances](arcanes.html#se-rappeler) (action) | [Apprendre un sort arcanique](arcanes.html#apprendre-un-sort-arcanique) (activité)<br/>[Emprunter un sort arcanique](arcanes.html#emprunter-un-sort-arcanique) (activité)<br/>[Identifier la magie](arcanes.html#identifier-la-magie) (activité)<br/>[Lire la magie](arcanes.html#lire-la-magie) (activité) |
 | [**Artisanat**](artisanat.html) | Intelligence | 
-| [**Athlétisme**](athlétisme.html) | Force | 
+| [**Athlétisme**](athlétisme.html) | Force | [Agripper](athlétisme.html#agripper) (action)<br/>[Escalader](athlétisme.html#escalader) (action)<br/>[Forcer](athlétisme.html#forcer) (action)<br/>[Mettre à terre](athlétisme.html#mettre-à-terre) (action)<br/>[Nager](athlétisme.html#nager) (action)<br/>[Pousser](athlétisme.html#pousser) (action)<br/>[Sauter en hauteur](athlétisme.html#sauter-en-hauteur) (activité)<br/>[Sauter en longueur](athlétisme.html#sauter-en-longueur) (activité)<br/>[Se libérer d'une prise](athlétisme.html#se-libérer-dune-prise) (action) | [Désarmer](athlétisme.html#désarmer) (action) |
 | [**Diplomatie**](diplomatie.html) | Charisme | 
 | [**Discrétion**](discrétion.html) | Dextérité | 
 | [**Intimidation**](intimidation.html) | Charisme | 
@@ -31,20 +31,6 @@ Tableau des compétences, de leurs caractéristiques liées et leurs utilisation
 
 
 
-
-{: .table .table-striped .table-sm .table-hover}
-| Compétence     | Caractéristique liée                      | Utilisations sans entraînement          | utilisation entrainées                            |
-| :------------- | ----------------------------------------- | --------------------------------------- | ------------------------------------------------: |
-| **Acrobaties** | **Dextérité**                             | Avancer sans tomber (action)            | manoeuvre en vol (action)                         |
-|                |                                           | Garder son équilibre (action libre)     |
-|                |                                           | Se faufiler (activité)                  |
-|                |                                           | Se libérer (action)                     |
-|                |                                           | Se rattraper au bord (réaction)         |
-|                |                                           | Traverser l'espace d'un ennemi (action) |
-| **Arcanes**    | **Intelligence**                          | Se rappeler de connaissances (action)   | Apprendre un sort arcanique (activité)            |
-|                |                                           |                                         | Emprunter un sort arcanique (activité)            |
-|                |                                           |                                         | Identifier un objet/lieu/effet magique (activité) |
-|                |                                           |                                         | Lire un écrit magique (activité)                  |
 | **Athlétisme** | **Force**                                 | Agripper (action)                       | Désarmer (action)                                 |
 |                |                                           | Escalader (action)                      |
 |                |                                           | Forcer l'ouverture (action)             |

@@ -1,5 +1,6 @@
 ---
 title: "Acrobaties (Dextérité)"
+skillName: "Acrobaties"
 titleEN: "Acrobatics"
 source: "Playtest Pathfinder"
 toc: true
@@ -34,7 +35,7 @@ Les utilisations sans entrainement de la compétence sont les suivantes.
 > ### Avancer sans tomber
 > 
 > {: .traits}
-> Mouvement
+> [Mouvement](/traits/mouvement.html)
 > 
 > ---
 > 
@@ -75,7 +76,7 @@ Les utilisations sans entrainement de la compétence sont les suivantes.
 > ### Se faufiler
 > 
 > {: .traits}
-> Mouvement
+> [Mouvement](/traits/mouvement.html)
 > 
 > ---
 > 
@@ -108,7 +109,7 @@ Les utilisations sans entrainement de la compétence sont les suivantes.
 > ### Se rattraper au bord
 > 
 > {: .traits}
-> Manipulation
+> [Manipulation](/traits/manipulation.html)
 > 
 > ---
 > 
@@ -135,7 +136,7 @@ Les utilisations sans entrainement de la compétence sont les suivantes.
 > ### Traverser l'espace d'un ennemi
 >
 > {: .traits}
-> Mouvement
+> [Mouvement](/traits/mouvement.html)
 >
 >---
 >
@@ -152,7 +153,7 @@ Les utilisations sans entrainement de la compétence sont les suivantes.
 
 
 
-## Utilisations avec entraînement
+## Utilisations nécessitant une formation
 
 Vous ne pouvez utiliser l’action suivante que si vous êtes entraîné dans cette compétence.
 
@@ -160,7 +161,7 @@ Vous ne pouvez utiliser l’action suivante que si vous êtes entraîné dans ce
 > ### Manoeuvrer en vol
 > 
 > {: .traits}
-> Mouvement
+> [Mouvement](/traits/mouvement.html)
 >
 > ---
 > 
@@ -172,3 +173,22 @@ Vous ne pouvez utiliser l’action suivante que si vous êtes entraîné dans ce
 >
 > **Échec** Votre manœuvre échoue et le MJ choisit si cela implique que vous ne pouvez tout simplement pas vous déplacer ou si un autre effet négatif survient également. 
 > Les conséquences d'un échec doivent être appropriés à la manœuvre tentée (par exemple, être dévié de votre route si vous luttiez contre un vent fort).
+
+
+
+
+## Dons de compétence apparentés
+
+{% assign cpt = page.skillName %}
+
+{% assign dons = site["dons"] | where_exp: "don", "don.featskill == cpt" | sort_ignore_accent_marks: "title" %}
+
+{% capture title %}
+Dons de compétence ({{cpt}})
+{% endcapture %}
+
+{% include feat-table.html tableTitle=title sortByLevel=true %}
+
+{% assign dons = site["dons"] | where_exp: "don", "don.featskill == nil" | where_exp: "don", "don.traits contains 'compétence'" | sort_ignore_accent_marks: "title" %}
+
+{% include feat-table.html tableTitle="Dons de compétence génériques" sortByLevel=true %}
