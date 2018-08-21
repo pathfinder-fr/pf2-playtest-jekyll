@@ -1,5 +1,5 @@
 ---
-title: Chute divine
+title: Calmanlisation renversante
 titleEN: Cast Down
 source: "Playtest Pathfinder"
 layout: block
