@@ -201,7 +201,7 @@ Domaines
 {: .table .table-striped .table-sm .table-hover}
 | Domaine | Description | Pouvoir de domaine initial | Pouvoir de domaine avancé |
 |:----|:--------------- |:---------------------------|:--------------------------|
-| Air | Vous pouvez contrôler les vents et le climat. | [*rafale repoussante*](/sorts/rafale-repoussante.html) | [*marche aérienne*](/sorts/marche-aérienne.html) (1) |
+| Air | Vous pouvez contrôler les vents et le climat. | [*rafale repoussante*](/sorts/rafale-repoussante.html) | [*marche sur l'air*](/sorts/marche-sur-l'air.html) (1) |
 | Ambition | Vous combattez pour suivre et dépasser la concurrence. | [*ambition aveugle*](/sorts/ambition-aveugle.html) | [*avantage compétitif*](/sorts/avantage-compétitif.html) (2) |
 | Assouvissement | Vous faites de grands festins et pouvez faire disparaître les effets des excès. | [*amélioration des victuailles*](/sorts/amélioration-des-victuailles.html) | [*progression du poison*](/sorts/progression-du-poison.html) (2) |
 | Assurance | Vous savez dépasser vos peurs et projeter de la fierté autour de vous. | [*voile d'assurance*](/sorts/voile-d'assurance.html) | [*orgueil délirant*](/sorts/orgueil-délirant.html) (2) |
