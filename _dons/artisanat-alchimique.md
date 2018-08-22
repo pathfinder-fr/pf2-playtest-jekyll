@@ -1,6 +1,6 @@
 ---
-title: Fabrication de trappes
-titleEN: Snare crafting
+title: Artisanat alchimique
+titleEN: Alchemical Crafting
 source: "Playtest Pathfinder"
 layout: block
 
@@ -28,7 +28,9 @@ cost:
 trigger:
 requirements:
 
-summary: "Vous pouvez [Fabriquer](/ch4-compétences/artisanat.html#fabriquer) des [trappes](/ch11-trésors/trappes.html)."
+summary: "Vous pouvez Fabriquer des [objets alchimiques](/ch11-trésors/objets-alchimiques.html)."
 ---
 
-Vous pouvez utiliser l'activité de [Fabrication](/ch4-compétences/artisanat.html#fabriquer) pour créer des [trappes](/ch11-trésors/trappes.html). Quand vous choisissez ce don, vous apparenez les formules de 4 trappes courantes. Si vous possédez un livre de formules, vous pouvez y consigner ces formules.
+Vous pouvez utiliser l'activité de [Fabrication](/ch4-compétences/artisanat.html#fabriquer) pour créer des [objets alchimiques](/ch11-trésors/objets-alchimiques.html), pas seulement des objets normaux.
+
+Quand vous choisissez ce don, vous apprenez les formules de 4 objets alchimiques communs de niveau 1. Si vous possédez un livre de formules, vous pouvez les inscrire dans ce livre.
