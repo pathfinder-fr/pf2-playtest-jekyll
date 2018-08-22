@@ -198,7 +198,7 @@ Au niveau 5 et tous les 5 niveaux par la suite, vous pouvez accroître les valeu
 En plus du don d'ascendance avec lequel vous avez commencé, vous gagnez un don d'ascendance au niveau 5 et tous les 4 niveaux par la suite.
 
 ### Expertise d'arme
-Sélectionnez un groupe d’arme spécifique. Votre formation pour les armes simple et de guerre de ce groupe augmente jusqu’à expert.
+Sélectionnez un groupe d’arme spécifique. Votre formation pour les armes simples et de guerre de ce groupe augmente jusqu’à expert.
 
 ### Armure de vigueur
 Votre formation en armure lourde et bouclier augmente jusqu’à expert, et votre formation en jet de vigueur augmente jusqu’à maître. Quand vous portez une armure lourde et que vous réussissez un jet de vigueur, traitez votre résultat comme un un succès critique.
