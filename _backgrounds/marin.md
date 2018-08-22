@@ -13,7 +13,7 @@ rarity: C
 abilityBoosts:
   - For ou Dex
   - au choix
-skillFeat: "Pillard sous-marin"
+skillFeat: "Combattant sous-marin"
 #Si le nom du fichier est standardisé (minuscules, - au lieu d'espaces), il n'est pas nécessaire de le préciser
 skillFeatFile: 
 trainedSkill: "Savoir (marin)"

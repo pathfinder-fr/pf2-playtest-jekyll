@@ -64,7 +64,7 @@ DD de compétence par niveau et par difficulté
 
 ### Tâches restreintes par le degré de formation
 
-Dans certains cas, pour réussir une tâche spécifique, il faut disposer d'un degré de formation plus élevé que le minimum requis pour l'utilisation de la compétence concernée. C'est particulièrement courant avec Désactiver un mécanisme, Crocheter une serrure et se Souvenir de quelque chose. Par exemple, vous pourriez décider que connaître les détails d'une certaine théorie arcanique est tout simplement impossible pour ceux qui ne sont pas au moins entraînés en Arcanes. Cependant, vous pourriez permettre à quelqu'un qui est non entraîné de tout de même effectuer le test ; dans ce cas précis, l'individu en question ne pourrait pas réussir le test mais il pourrait très bien obtenir un échec critique et donc des information erronées. Les serrures et les pièges requièrent souvent un degré de formation minimal pour que Crocheter une serrure ou Désamorcer un mécanisme soient utilisables ; un personnage dont le degré de formation en Pratique du voleur est plus bas que le degré demandé peu effectuer le test mais il ne peut pas réussir.
+Dans certains cas, pour réussir une tâche spécifique, il faut disposer d'un degré de formation plus élevé que le minimum requis pour l'utilisation de la compétence concernée. C'est particulièrement courant avec Désactiver un mécanisme, Crocheter une serrure et se Rappeler de quelque chose. Par exemple, vous pourriez décider que connaître les détails d'une certaine théorie arcanique est tout simplement impossible pour ceux qui ne sont pas au moins entraînés en Arcanes. Cependant, vous pourriez permettre à quelqu'un qui est non entraîné de tout de même effectuer le test ; dans ce cas précis, l'individu en question ne pourrait pas réussir le test mais il pourrait très bien obtenir un échec critique et donc des information erronées. Les serrures et les pièges requièrent souvent un degré de formation minimal pour que Crocheter une serrure ou Désamorcer un mécanisme soient utilisables ; un personnage dont le degré de formation en Pratique du voleur est plus bas que le degré demandé peu effectuer le test mais il ne peut pas réussir.
 
 Les tâches qui nécessitent un degré de formation minimal ne devraient quasiment jamais être réservées à un expert pour les tâches de de niveau 2 ou moins, quasiment jamais être réservées à un maître pour les tâches de niveau 6 ou moins, et quasiment jamais être réservées à une légende pour les tâches de niveau 14 ou moins. Si c'était le cas, aucun personnage de niveau approprié ne pourrait réussir.
 
@@ -159,19 +159,19 @@ Quand un personnage utilise Savoir pour exercer un métier, le niveau de la tâc
 
 Trouver une tâche est également plus difficile si le Savoir en question est plus obscur. Si vous avez Savoir (hours-hiboux), vous pourriez ne trouver que des tâches de niveau 0 ou 1, voire aucune tâche.
 
-### Se Souvenir de quelque chose
+### Se Rappeler de quelque chose
 
-Se Souvenir de quelque chose (avec Arcanes, Nature, Religion, Savoir ou Société) fonctionne de manière similaire à Obtenir des informations : utilisez le niveau de notoriété pour déterminer le niveau de la tâche et la profondeur de l'information pour décider de la catégorie de difficulté.
+Se Rappeler de quelque chose (avec Arcanes, Nature, Religion, Savoir ou Société) fonctionne de manière similaire à Obtenir des informations : utilisez le niveau de notoriété pour déterminer le niveau de la tâche et la profondeur de l'information pour décider de la catégorie de difficulté.
 
 #### Identifier un monstre
 
-Identifier les capacités d'un monstre est l'une des utilisations les plus communes de Se Souvenir de quelque chose. La rareté du monstre détermine la difficulté : faible pour les monstres communs, haute pour les peu communs et très élevé pour les rares ou uniques. Le niveau de la plupart des monstres devrait être le niveau du DD mais vous pourriez fortement réduire ce niveau dans le cas de monstres très connus. Un personnage qui réussit parvient à identifier le monstre ainsi que l'une de ses particularités les plus connues, comme le fait qu'un troll soit vulnérable à l'acide et au feu ou qu'une manticore utilise les piques qui garnissent sa queue. En cas de réussite critique, le personnage reçoit cette information plus quelque chose de plus subtil, comme les faiblesses d'un démon ou le déclencheur d'une réaction.
+Identifier les capacités d'un monstre est l'une des utilisations les plus communes de Se Rappeler de quelque chose. La rareté du monstre détermine la difficulté : faible pour les monstres communs, haute pour les peu communs et très élevé pour les rares ou uniques. Le niveau de la plupart des monstres devrait être le niveau du DD mais vous pourriez fortement réduire ce niveau dans le cas de monstres très connus. Un personnage qui réussit parvient à identifier le monstre ainsi que l'une de ses particularités les plus connues, comme le fait qu'un troll soit vulnérable à l'acide et au feu ou qu'une manticore utilise les piques qui garnissent sa queue. En cas de réussite critique, le personnage reçoit cette information plus quelque chose de plus subtil, comme les faiblesses d'un démon ou le déclencheur d'une réaction.
 
-Après une réussite, des utilisations répétées de Se Souvenir de quelque chose permettent d'obtenir plus d'information mais vous devriez à chaque fois augmenter la difficulté. Une fois qu'un personnage a tenté un test de difficulté très élevée, ou dès qu'il a échoué à un test, les tentatives suivantes ne lui apportent plus d'information.
+Après une réussite, des utilisations répétées de Se rappeler de quelque chose permettent d'obtenir plus d'information mais vous devriez à chaque fois augmenter la difficulté. Une fois qu'un personnage a tenté un test de difficulté très élevée, ou dès qu'il a échoué à un test, les tentatives suivantes ne lui apportent plus d'information.
 
 #### Compétences alternatives
 
-Seules certaines compétences citent Se Souvenir de quelque chose mais cela pourrait parfois vous sembler logique d'autoriser quelqu'un à se Souvenir de quelque chose avec une compétence différente. Par exemple, vous pourriez autoriser un test d'Artisanat pour se Souvenir de quelque chose au sujet de la qualité d'un objet ou d'une composante utilisée dans sa fabrication.
+Seules certaines compétences citent Se Rappeler de quelque chose mais cela pourrait parfois vous sembler logique d'autoriser quelqu'un à se Rappeler de quelque chose avec une compétence différente. Par exemple, vous pourriez autoriser un test d'Artisanat pour se Rappeler de quelque chose au sujet de la qualité d'un objet ou d'une composante utilisée dans sa fabrication.
 
 ### Entraîner un animal
 

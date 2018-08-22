@@ -7,7 +7,7 @@ toc: true
 index:
   - key: "Savoir (compétence)"
     anchor: ""
-  - key: "Se souvenir de connaissances"
+  - key: "Se rappeler de connaissances"
     anchor: "se-souvenir-de-connaissances"
   - key: "Pratiquer un métier"
     anchor: "pratiquer-un-métier"
@@ -30,7 +30,7 @@ S’il y a le moindre doute pour savoir si une sous-catégorie de Savoir s’app
 Vous pouvez accomplir l’action suivante de la compétence Savoir, même si vous n’êtes pas entraîné.
 
 {: .block .action1}
-> ### Se souvenir de connaissances
+> ### Se rappeler de connaissances
 > Vous pouvez utiliser la compétence Savoir pour vous remémorer un peu des connaissances relatives à ce type de Savoir.
 > Le MJ détermine le DD pour de tels tests et si votre Savoir s’applique à ce sujet.
 >

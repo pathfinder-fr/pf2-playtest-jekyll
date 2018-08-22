@@ -5,7 +5,7 @@ source: "Playtest Pathfinder"
 toc: true
 
 index:
-  - key: "Se souvenir de connaissances"
+  - key: "Se rappeler de connaissances"
     anchor: "se-souvenir-de-connaissances"
   - key: "Apprendre un sort ésotérique"
     anchor: "apprendre-un-sort-ésotérique"
@@ -21,7 +21,7 @@ Vous disposez de nombreuses connaissances sur les anciennes philosophies, le sav
 ## Utilisations de la compétence Occultisme même si vous n’êtes pas entraîné.
 
 {: .block .action1}
-> ### Se souvenir de connaissances
+> ### Se rappeler de connaissances
 > 
 > {: .traits}
 >

@@ -1,5 +1,5 @@
 ---
-title: Guérison héroïque
+title: Canalisation héroïque
 titleEN: Heroic Recovery
 source: "Playtest Pathfinder"
 layout: block

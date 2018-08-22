@@ -5,7 +5,7 @@ source: "Playtest Pathfinder"
 
 Certains talents nécessitent un peu d'entraînement mais sont à la portée de tout le monde, pas seulement des membres d'une ascendance ou d'une classe spécifique. Ces talents sont appelés des dons généraux. La majorité des classes donnent un don général quand vous atteignez le niveau 3 et tous les 4 niveaux par la suite. Vous pouvez choisir n'importe quel don dont vous remplissez les conditions. Parmi les dons généraux, on trouve également les dons de compétence qui ajoutent des options à ce que vous pouvez faire grâce aux compétences. La plupart des personanges gagnent des dons de compétence au niveau 2 et tous les 2 niveaux par la suite.
 
-{% assign dons = site["dons"] | sort_ignore_accent_marks: "title" %}
+{% assign dons = site["dons"] | sort_ignore_accent_marks: "title" | sort: "level" %}
 
 {% assign donscptspc = dons | where_exp: "don", "don.featskill" | sort_ignore_accent_marks: "featskill" %}
 

@@ -1,5 +1,5 @@
 ---
-title: Guérison défensive
+title: Canalisation protectrice
 titleEN: Defensive Recovery
 source: "Playtest Pathfinder"
 layout: block

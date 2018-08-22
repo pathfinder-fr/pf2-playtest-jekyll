@@ -1,5 +1,5 @@
 ---
-title: Assistance canalisée
+title: Canalisation restauratrice
 titleEN: Channeled Succor
 source: "Playtest Pathfinder"
 layout: block

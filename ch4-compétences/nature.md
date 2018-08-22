@@ -11,7 +11,7 @@ index:
     anchor: "amadouer-un-animal"
   - key: "Diriger un animal"
     anchor: "diriger-un-animal"
-  - key: "Se souvenir de connaissances"
+  - key: "Se rappeler de connaissances"
     anchor: "se-souvenir-de-connaissances"
   - key: "Identifier la magie"
     anchor: "identifier-la-magie"
@@ -55,7 +55,7 @@ Vous pouvez accomplir les utilisations suivantes de la compétence Nature sans e
 > Le MJ décide des actions spécificités que votre animal peut utiliser.
 
 {: .block .action1}
-> ### Se souvenir de connaissances
+> ### Se rappeler de connaissances
 > 
 > {: .traits}
 >
