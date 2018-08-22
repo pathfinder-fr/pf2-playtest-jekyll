@@ -27,21 +27,5 @@ Compétences et leurs utilisations
 | [**Savoir**](savoir.html) | Intelligence | 
 | [**Société**](société.html) | Intelligence | 
 | [**Survie**](survie.html) | Sagesse | 
-| [**Tromperie**](tromperie.html) | Charisme | 
+| [**Tromperie**](tromperie.html) | Charisme | [Créer une diversion](tromperie.html#créer-une-diversion) (action)<br/>[Mentir](tromperie.html#mentir) (activité)<br/>[Se faire passer pour quelqu'un](tromperie.html#se-faire-passer) (activité) | [Feinter](tromperie.html#feinter) (action) |
 
-
-
-| **Athlétisme** | **Force**                                 | Agripper (action)                       | Désarmer (action)                                 |
-|                |                                           | Escalader (action)                      |
-|                |                                           | Forcer l'ouverture (action)             |
-|                |                                           | Mettre à terre (action)                 |
-|                |                                           | Nager (action)                          |
-|                |                                           | Pousser (action)                        |
-|                |                                           | Saut en hauteur (action)                |
-|                |                                           | Saut en longueur (action)               |
-|                |                                           | Se libérer d'une prise (action)         |
-| **Artisanat**  | **Intelligence**                          | Réparer (activité)                      | Fabriquer (activité)                              |
-|                |                                           |                                         | Identifier un objet alchimique (activité)         |
-| **Tromperie**  | **Charisme**                              | Créer une diversion (action)            | Feinter (action)                                  |
-|       |         | Mentir (activité)                         |
-|        |        | Se faire passer pour quelqu'un (activité) |
