@@ -1,5 +1,5 @@
 ---
-title: "Représentation (Charisme)
+title: "Représentation (Charisme)"
 titleEN: "Performance"
 source: "Playtest Pathfinder"
 toc: true

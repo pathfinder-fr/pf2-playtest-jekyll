@@ -76,7 +76,7 @@ Vous pouvez tenter les utilisations de la compétence Artisanat suivantes seulem
 > Vous pouvez Fabriquer des objets portant le trait [utilisation unique](/traits/utilisation-unique) par groupe d'au plus 4 copies du même objet.
 > Cela nécessite d’inclure les matériaux bruts pour tous les objets composant le lot dès le départ et vous devez terminer le lot en une fois.
 > Après avoir dépensé le montant requis en matériaux bruts et consacré le temps libre minimal, effectuez un test de Fabrication. Si vous échouez ou échouez de manière critique, vous pouvez essayer de fabriquer de nouveau l’objet, mais vous devez recommencer du départ.
->
+> 
 > **Réussite** Votre essai de création de l’objet est un succès. Vous pouvez payer la moitié restant du Prix de l’objet pour le terminer immédiatement ou dépenser du temps libre supplémentaire pour y parvenir. Pour chaque jour supplémentaire que vous y passez, vous réduisez la valeur en matériaux bruts dont vous avez besoin pour terminer l’objet d'un montant basé sur votre niveau et votre degré de formation (voir le tableau ci-dessous). 
 > Après chacun de ces jours de temps libre, vous pouvez terminer l’objet en dépensant le montant restant en matériaux nécessaires. Si votre temps libre est interrompu, vous pouvez revenir pour terminer l’objet par la suite, en reprenant précisément là où vous en étiez.
 >
@@ -85,6 +85,9 @@ Vous pouvez tenter les utilisations de la compétence Artisanat suivantes seulem
 > **Échec** Vous échouez à réaliser l’objet. Vous pouvez récupérer les matériaux bruts que vous avez fournis pour la totalité de leur valeur.
 >
 > **Échec critique** Vous échouez à terminer l’objet. Vous gâchez 10% des matériaux bruts que vous avez fournis mais pouvez récupérer le reste.
+> 
+> *Voir aussi les [compléments d'information](#compléments-sur-lartisanat).*
+
 
 
 
@@ -144,8 +147,6 @@ Progression de la fabrication par jour
 
 
 
-
-
 ## Dons de compétence apparentés
 
 {% assign cpt = page.skillName %}
@@ -161,3 +162,30 @@ Dons de compétence ({{cpt}})
 {% assign dons = site["dons"] | where_exp: "don", "don.featskill == nil" | where_exp: "don", "don.traits contains 'compétence'" | sort_ignore_accent_marks: "title" %}
 
 {% include feat-table.html tableTitle="Dons de compétence génériques" sortByLevel=true %}
+
+
+
+
+
+
+## Compléments sur l'artisanat
+
+### Exemple de Fabrication d'un objet
+
+Un magicien de niveau 5, expert en Artisanat, possède un modificateur d'Artisanat de +10 ainsi que le don [Artisanat magique](/dons/artisanat-magique.html). Il dispose de 13 jours de temps libre et décide de fabriquer des [*bracelets d'armure II*], un objet de niveau 4. Le MJ choisit en secret un DD de 17.
+
+Il passe 3 jours à préparer la construction (vu que l'objet est d'un niveau inférieur de 1 à son propre niveau). L'objet a un Prix de 950 pa ; il dépense donc 475 pa de matières premières. Il possède encore 600 pa de matières premières dans ses réserves. Il obtient un 12 sur le dé à son test d'Artisanat, ce qui donne un résultat de 22. C'est une réussite ! À ce moment-ci, le magicien peut dépenser 475 pa de matières premières en plus pour terminer l'objet.
+
+Cependant, comme il lui reste 10 jours de temps libre, il décide de consacrer un peu plus de temps à la fabrication de l'objet. Comme c'est un personnage de niveau 5 et qu'il est expert en ARtisanat, il réduit la quantité restant à payer de 475 pa à 375 pa au cours de ces 10 jours. Il dépense les 375 po restantes, termine ainsi les bracelets et repart à l'aventure. Il aurait pu rester chez lui pour continuer à travailler et à ainsi diminuer le coût à payer en matières premières mais partir à l'aventure est bien plus lucratif !
+
+Si son test d'Artisanat avait été de 27 ou plus, il aurait obtenu une réussite critique. Dans ce cas-là, il aurait réduit la quantité restant à payer de 14 pa par jour, amenant la somme restant à payer à 335 pa après les 10 jours de travail supplémentaires.
+
+### Obtenir des formules
+
+Vous pouvez avoir accès aux formules de tous les objets communs décrit dans le chapitre Équipement en achetant un livet d'artisan basique <mark>p184</mark>. Voir les règles de la <mark>p188</mark> pour savoir comment obtenir d'autres formules.
+
+### Pratiquer l'artisanat comme métier
+
+Si vous voulez gagner de l'argent en utilisant la compétence Artisanat, vous pouvez travailler et produire des objets communs pour le marché local. Cela fonctionne comme [Exercer un métier](savoir.html#exercer-un-métier) mais vous utilisez votre compétence d'Artisanat au lieu de celle de [Savoir](savoir.html). Vous devez être entraîné en Artisanat.
+
+Le MJ détermine quelles tâches sont disponibles. C'est généralement assez facile de trouver du travail lorsqu'il s'agit de fabriquer des objets de base de 1 ou 2 niveaux en-dessous du niveau de la ville. Les tâches de plus haut niveau réprésentent des commandes spéciales et peuvent concerner la Fabrication d'un objet spécifique (utilisant les règles normales de l'activité de temps libre de [Fabrication](#fabriquer) et permettant de vendre l'objet à plein prix à un ahcheteur). Ces opportunités se produisent moins souvent et pourraient être garnies d'exigences supplémentaires ou de conséquences fâcheuses si vous ne parvenez pas à satisfaire les demandes d'un client important. 
