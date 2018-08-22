@@ -1,5 +1,6 @@
 ---
 title: "Arcanes (Intelligence)"
+skillName: Arcanes
 titleEN: "Arcana"
 source: "Playtest Pathfinder"
 toc: true

@@ -1,6 +1,6 @@
 ---
-title: Fabrication de trappes
-titleEN: Snare crafting
+title: Réparation rapide
+titleEN: Quick Repair
 source: "Playtest Pathfinder"
 layout: block
 
@@ -28,7 +28,7 @@ cost:
 trigger:
 requirements:
 
-summary: "Vous pouvez [Fabriquer](/ch4-compétences/artisanat.html#fabriquer) des [trappes](/ch11-trésors/trappes.html)."
+summary: "Vous pouvez [Réparer](/ch4-compétences/artisanat.html#réparer) les objets plus rapidement."
 ---
 
-Vous pouvez utiliser l'activité de [Fabrication](/ch4-compétences/artisanat.html#fabriquer) pour créer des [trappes](/ch11-trésors/trappes.html). Quand vous choisissez ce don, vous apparenez les formules de 4 trappes courantes. Si vous possédez un livre de formules, vous pouvez y consigner ces formules.
+Il vous suffit de 10 minutes pour [Réparer](/ch4-compétences/artisanat.html#réparer) un objet, au lieu de 1 heure. Si vous êtes un expert, 5 minutes suffisent. Si vous êtes un maître, 1 minute suffit. Si vous êtes une légende, 3 rounds suffisent.
