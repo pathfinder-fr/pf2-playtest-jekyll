@@ -170,7 +170,7 @@ Si vous choisissez de vous spécialiser des une école arcanique, vous gagnez un
 
 Vous apprenez un pouvoir d'école, un type de sort spécial enseigné aux étudiants de votre école arcanique. Vous bénéficiez également d'une réserve de Points de magie que vous utilisez pour lancer vos pouvoirs d'école. Vous ne pouvez lancer un pouvoir d'école qu'en dépensant des Points de magie issus de votre réserve, pas en utilisant un emplacement de sort. Comme les sortilèges, votre pouvoir d'école est automatqiuement élevé au niveau de sort le plus élevé que vous pouvez lancer.
 
-Votre nombre maximum de Points de magie est égale à votre modificateur d'Intelligence (minimum 0). Vous regagnez tous vos points de magie lorsque vous préparez vos sorts. Certains dons vous permettent d'apprendre plus de pouvoirs d'école. Ces dons augmentent généralement votre réserve de POints de magie.
+Votre nombre maximum de Points de magie est égale à votre modificateur d'Intelligence (minimum 0). Vous regagnez tous vos points de magie lorsque vous préparez vos sorts. Certains dons vous permettent d'apprendre plus de pouvoirs d'école. Ces dons augmentent généralement votre réserve de Points de magie.
 
 {: .tabletitle}
 écoles arcaniques

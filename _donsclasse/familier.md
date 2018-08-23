@@ -15,6 +15,7 @@ rarity: C
 
 traits:
   - sorcier
+  - magicien
 prerequisites:
 frequency: 
 cost:

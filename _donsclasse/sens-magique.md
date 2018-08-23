@@ -18,13 +18,16 @@ traits:
   - détection
   - divination
   - sorcier
+  - magicien
 prerequisites:
 frequency: 
 cost:
 trigger: 
 requirements: 
 
-summary: "*détection de la magie* sur commande"
+summary: "[*détection de la magie*](/sorts/détection-de-la-magie.html) sur commande"
 ---
 
-Vous pouvez sentir la présence d'auras magiques comme si vous utilisiez constamment sous l'effet un sort de *détection de la magie* de niveau 1. L'effet détecte la magie dans votre champ de vision uniquement. Lorsque vous Recherchez, vous obtenez les avantages d'un sort de *détection de la magie* de niveau 3 sur ce que vous voyez (en plus des avantages normaux de la recherche). Vous pouvez activer et désactiver ce sens par une action libre au début ou à la fin de votre tour.
+Vous pouvez sentir la présence d'auras magiques comme si vous utilisiez constamment sous l'effet un sort de [*détection de la magie*](/sorts/détection-de-la-magie.html) de niveau 1. L'effet détecte la magie dans votre champ de vision uniquement. 
+
+Lorsque vous Recherchez, vous obtenez les avantages d'un sort de [*détection de la magie*](/sorts/détection-de-la-magie.html) de niveau 3 sur ce que vous voyez (en plus des avantages normaux de la recherche). Vous pouvez activer et désactiver ce sens par une action libre au début ou à la fin de votre tour.

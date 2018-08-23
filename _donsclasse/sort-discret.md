@@ -16,6 +16,7 @@ rarity: C
 traits:
   - métamagie
   - sorcier
+  - magicien
 prerequisites:
 frequency: 
 cost:

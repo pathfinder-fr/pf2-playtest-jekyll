@@ -16,6 +16,7 @@ rarity: C
 traits:
   - abjuration
   - sorcier
+  - magicien
 prerequisites:
 frequency: 
 cost:
@@ -27,8 +28,8 @@ summary: "Dissipation d'un sort avec le même sort"
 
 Pour pouvoir contrer le sort déclencheur, vous devez être en mesure de le lancer et vous dépensez les mêmes ressources que si vous l'aviez effectivement lancé, à savoir :
 
-* si vous préparez vos sorts, vous devez avoir préparé le sort déclencheur; vous le perdez comme si vous l'aviez lancé.
-* Si vous lancez vos sorts spontanément, le sort déclencheur doit se trouver dans votre répertoire et il doit vous rester un emplacement non utilisé du niveau du sort; vous perdez un tel emplacement de sort comme si vous l'aviez utilisé pour lancer le sort.
+* si vous préparez vos sorts (magicien), vous devez avoir préparé le sort déclencheur; vous le perdez comme si vous l'aviez lancé.
+* Si vous lancez vos sorts spontanément (sorcier), le sort déclencheur doit se trouver dans votre répertoire et il doit vous rester un emplacement non utilisé du niveau du sort; vous perdez un tel emplacement de sort comme si vous l'aviez utilisé pour lancer le sort.
 
 Vous essayez ensuite de dissiper le sort déclencheur (voir Dissipation de la magie à la page <mark>197</mark>).
 
