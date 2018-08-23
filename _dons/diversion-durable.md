@@ -1,5 +1,5 @@
 ---
-title: Diversion longue
+title: Diversion durable
 titleEN: Lengthy Diversion
 source: "Playtest Pathfinder"
 layout: block

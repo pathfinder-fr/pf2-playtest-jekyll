@@ -13,7 +13,7 @@ featskill: Athlétisme
 #PARTIE PROPRE AUX BLOCS TECHNIQUES
 
 #Action: (rien), 1/2/3 (1/2/3 action[s]), R (réaction), L (action libre)
-action: L
+action:
 type: don
 level: 15
 #Rareté : C (commun), PC (peu commun), R (rare), U (unique)
