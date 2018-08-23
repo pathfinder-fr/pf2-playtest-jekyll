@@ -19,12 +19,12 @@ traits:
 prerequisites: 
 frequency: 
 cost: 
-trigger: Vous lancez un sort en utilisant l'action [Utiliser le focalisateur arcanique](/classes/magicien.html#focalisateur-arcanqiue)
+trigger: Vous lancez un sort en utilisant l'action [Utiliser le focalisateur arcanique](/classes/magicien.html#focalisateur-arcanique)
 requirements:
 
-summary: Donne une utilisation supplémentaire de l'action [Utiliser le focalisateur arcanique](/classes/magicien.html#focalisateur-arcanqiue)
+summary: Donne une utilisation supplémentaire de l'action [Utiliser le focalisateur arcanique](/classes/magicien.html#focalisateur-arcanique)
 ---
 
-Ajoutez une action d'Incantation somatique à votre incantation. Vous gagnez une utilisation supplémentaire de l'action [Utiliser le focalisateur arcanique](/classes/magicien.html#focalisateur-arcanqiue) sur un sort ayant au moins 2 niveaux de sort de moins que le sort déclencheur.
+Ajoutez une action d'Incantation somatique à votre incantation. Vous gagnez une utilisation supplémentaire de l'action [Utiliser le focalisateur arcanique](/classes/magicien.html#focalisateur-arcanique) sur un sort ayant au moins 2 niveaux de sort de moins que le sort déclencheur.
 
-Vous devez utiliser l'action [Utiliser le focalisateur arcanique](/classes/magicien.html#focalisateur-arcanqiue) supplémentaire avant la fin de votre prochain tour sinon elle est perdue.
+Vous devez utiliser l'action [Utiliser le focalisateur arcanique](/classes/magicien.html#focalisateur-arcanique) supplémentaire avant la fin de votre prochain tour sinon elle est perdue.
