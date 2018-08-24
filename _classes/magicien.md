@@ -87,7 +87,7 @@ Progression du magicien
 | 2 | [Don de magicien](#dons-de-magicien), [don de compétence](#dons-de-compétence) |
 | 3 | [Augmentation de compétence](#augmentation-de-compétence), [don général](#dons-généraux), [sorts de niveau 2](#incantation-arcanique) |
 | 4 | [Don de magicien](#dons-de-magicien), [don de compétence](#dons-de-compétence) |
-| 5 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [augmentation de compétence](#augmentation-de-compétence), [don d'ascendance](#dons-dascendance), [sorts de niveau 3](#incantation-divine) |
+| 5 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [augmentation de compétence](#augmentation-de-compétence), [don d'ascendance](#dons-dascendance), [sorts de niveau 3](#incantation-arcanique) |
 | 6 | [Don de magicien](#dons-de-magicien), [don de compétence](#dons-de-compétence) |
 | 7 | [Augmentation de compétence](#augmentation-de-compétence), [don général](#dons-généraux), [sorts de niveau 4](#incantation-arcanique) |
 | 8 | [Don de magicien](#dons-de-magicien), [don de compétence](#dons-de-compétence) |
@@ -97,7 +97,7 @@ Progression du magicien
 | 12 | [Lanceur de sorts expert](#lanceur-de-sorts-expert), [don de compétence](#dons-de-compétence) |
 | 13 | [Augmentation de compétence](#augmentation-de-compétence), [don d'ascendance](#dons-dascendance), [sorts de niveau 7](#incantation-arcanique) |
 | 14 | [Don de magicien](#dons-de-magicien), [don de compétence](#dons-de-compétence) |
-| 15 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [augmentation de compétence](#augmentation-de-compétence), [don général](#dons-généraux), [sorts de niveau 8](#incantation-divine) |
+| 15 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [augmentation de compétence](#augmentation-de-compétence), [don général](#dons-généraux), [sorts de niveau 8](#incantation-arcanique) |
 | 16 | [maître lanceur de sorts](#maître-lanceur-de-sorts), [don de compétence](#dons-de-compétence) |
 | 17 | [Augmentation de compétence](#augmentation-de-compétence), [don d'ascendance](#dons-dascendance), [sorts de niveau 9](#incantation-arcanique) |
 | 18 | [Don de magicien](#dons-de-magicien), [don de compétence](#dons-de-compétence) |
