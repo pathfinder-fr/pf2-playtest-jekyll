@@ -1,5 +1,5 @@
 ---
-title: Compagnon animal adulte
+title: Compagnon animal adulte (rôdeur)
 titleEN: Full-Grown Companion
 source: "Playtest Pathfinder"
 layout: block
@@ -15,7 +15,7 @@ rarity: C
 
 traits:
   - rôdeur
-prerequisites: Compagnon animal
+prerequisites: Compagnon animal adulte
 frequency: 
 cost:
 trigger: 
