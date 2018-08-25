@@ -110,7 +110,7 @@ Progression du rôdeur
 | 19 | [Augmentation de compétence](#augmentation-de-compétence), [don général](#dons-généraux), [Proie rapide](#proie-rapide) |
 | 20 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [Don de rôdeur](#dons-de-rôdeur), [don de compétence](#dons-de-compétence) |
 
-### Proie du chasseur
+### Chasser sa proie
 Vous gagnez l'action Chasser sa proie qui vous donne un avantage sur un adversaire.
 
 {:.block .action1}
