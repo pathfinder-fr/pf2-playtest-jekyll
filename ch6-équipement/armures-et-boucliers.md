@@ -95,7 +95,7 @@ La pénalité du bouclier aux compétences s'appliquent lorsque vous tenez le bo
 Lorsque votre bouclier est Levé, vous pouvez utiliser la réaction Bloquer avec un bouclier pour réduire les dégâts que vous subissez d'une valeur égale à la dureté du bouclier (3 pour un bouclier en bois, 5 pour un bouclier en acier).
 
 ### Attaquer avec un bouclier
-Si vous attaquez avec un bouclier, considérez qu'il s'agit d'une attaque avec une arme improvisée (voir <mark>p.178</mark>). Cette attaque inflige les dégâts de frappe de bouclier léger ou de frappe de bouclier lourd (selon le type de bouclier) comme indiqué dans le tableau des armes de guerre de mêlée (voir <mark>p.180</mark>).
+Si vous attaquez avec un bouclier, considérez qu'il s'agit d'une attaque avec une arme improvisée (voir <mark>p.178</mark>). Cette attaque inflige les dégâts de rondache ou d'écu (selon le type de bouclier) comme indiqué dans le tableau des armes de guerre de mêlée (voir <mark>p.180</mark>).
 
 Si vous souhaitez utiliser efficacement votre bouclier pour attaquer, vous devez acheter une boule de bouclier ou une pointe de bouclier à attacher pour votre bouclier. Ces boucliers améliorés fonctionnent comme les autres armes et des runes peuvent même y être gravées.
 

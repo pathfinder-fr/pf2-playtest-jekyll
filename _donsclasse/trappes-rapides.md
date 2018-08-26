@@ -1,5 +1,5 @@
 ---
-title: Pièges rapides
+title: Trappes rapides
 titleEN: Quick snares
 source: "Playtest Pathfinder"
 layout: block
@@ -15,13 +15,13 @@ rarity: C
 
 traits:
   - rôdeur
-prerequisites: Degré de formation Expert en Artisanat ; don Expertise des pièges
+prerequisites: Degré de formation Expert en Artisanat ; don Expertise des trappes
 frequency: 
 cost:
 trigger: 
 requirements:
 
-summary: "Réduit le temps de fabrication des pièges."
+summary: "Réduit le temps de fabrication des trappes."
 ---
 
-Vous fabriquez des pièges en 3 actions d'Intéraction au lieu d'1 minute.
+Vous fabriquez des trappes en 3 actions d'Intéraction au lieu d'1 minute.
