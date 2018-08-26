@@ -18,7 +18,7 @@ traits:
 prerequisites: 
 frequency: 
 cost:
-trigger: Vous faites un test d'Acrobatie pour vous Libérer, un test d'Athlétisme pour vous Libérer d'une prise, ou un jet de sauvegarde contre un effet d'Enchevêtrement ou d'Agrippement, ou vous utilisez votre DD de Vigueur pour résister à une Étreinte.
+trigger: Vous faites un test d'Acrobatie pour vous Libérer, un test d'Athlétisme pour vous Libérer d'une prise, ou un jet de sauvegarde contre un effet d'Enchevêtrement ou d'Agrippement, ou vous utilisez votre DD de Vigueur pour résister à une prise.
 requirements:
 
 summary: "Vous gagnez +2 aux tests ou DD de Vigueur pour vous Libérer."
