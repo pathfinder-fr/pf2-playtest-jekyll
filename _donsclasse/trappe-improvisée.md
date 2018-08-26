@@ -1,5 +1,5 @@
 ---
-title: Piège improvisé
+title: Trappe improvisée
 titleEN: Improvised Snare
 source: "Playtest Pathfinder"
 layout: block
@@ -21,7 +21,7 @@ cost:
 trigger: 
 requirements:
 
-summary: "Fabrique un piège sans les matériaux nécessaires"
+summary: "Fabrique une trappe sans les matériaux nécessaires"
 ---
 
-Vous pouvez fabriquer un piège sans nécessiter d'avoir les matériaux nécessaires. Mais le DD de ce piège est réduit de 2 et vous ne pouvez pas utiliser le don Pièges puissants pour l'augmenter.
+Vous pouvez fabriquer une trappe sans nécessiter d'avoir les matériaux nécessaires. Mais le DD de cette trappe est réduit de 2 et vous ne pouvez pas utiliser le don Pièges puissants pour l'augmenter.

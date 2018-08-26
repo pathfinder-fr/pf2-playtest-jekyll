@@ -156,7 +156,7 @@ En plus du don d'ascendance avec lequel vous avez commencé, vous gagnez un don 
 Vos sens et vos réflexes sont auiguisés comme un rasoir, vous permettant de vous écarter du danger. Votre degré de formation aux jets de Réflexes et à la Perception passe à Maître. Lorsque vous résussissez un jet de Réflexes, traitez le résultat comme une réussite critique à la place.
 
 ### Avantage naturel
-Vous considérez vos ennemis situés dans des zones de terrain naturel difficile (ou dans des zones de terrain difficile suite à l'effet d'un piège) comme pris au dépourvu.
+Vous considérez vos ennemis situés dans des zones de terrain naturel difficile (ou dans des zones de terrain difficile suite à l'effet d'une trappe) comme pris au dépourvu.
 
 ### Déplacement dans la nature
 Vous pouvez ignorer les effets non magiques des zones de terrain difficile et réduire les effets non magiques des zones de terrain très difficile en les considérant comme des zones de terrain difficile.

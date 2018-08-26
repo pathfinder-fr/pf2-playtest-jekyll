@@ -1,5 +1,5 @@
 ---
-title: Pièges puissants
+title: Trappes puissantes
 titleEN: Powerful snares
 source: "Playtest Pathfinder"
 layout: block
@@ -21,7 +21,7 @@ cost:
 trigger: 
 requirements:
 
-summary: "Améliore le DD de vos pièges"
+summary: "Améliore le DD de vos trappes"
 ---
 
-Lorsque vous positionnez un piège, son DD est égal à votre DD de classe s'il est supérieur à son DD de base.
+Lorsque vous positionnez une trappe, son DD est égal à votre DD de classe s'il est supérieur à son DD de base.
