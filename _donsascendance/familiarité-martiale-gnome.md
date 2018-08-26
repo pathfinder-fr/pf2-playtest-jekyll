@@ -26,6 +26,6 @@ summary: "Vous êtes entraîné à certaines armes gnomes, accès facilité aux 
 
 Vous privilégiez les armes insolites liées à votre peuple, comme des lames à la courbure et à la forme inhabituelles. Vous êtes entraîné avec les glaives et les kukris. De plus, vous gagnez accès à toutes les armes gnomes peu communes. 
 
-Pour déterminer votre degré de formation, vous traitez toutes les armes martiales gnomes comme des armes simples et les armes exotiques gnomes comme des armes martiales.
+Pour déterminer votre degré de formation, vous traitez toutes les armes de guerre gnomes comme des armes simples et les armes exotiques gnomes comme des armes de guerre.
 
 Pour plus d'informations sur les armes, voir page <mark>178</mark>.

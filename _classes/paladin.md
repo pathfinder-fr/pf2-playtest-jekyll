@@ -43,18 +43,18 @@ index:
   anchor: "allié-vertueux"
 - key : Coursier allié (capacité de paladin)
   anchor: "allié-vertueux"
-- key : Expertise d'arme (capacité de paladin)
-  anchor: "expertise-darme"
+- key : Expertise des armes (capacité de paladin)
+  anchor: "expertise-des-armes"
 - key : Armure de vigueur (capacité de paladin)
   anchor: "armure-de-vigueur"
 - key : Châtiment sacré (capacité de paladin)
   anchor: "châtiment-sacré"
 - key : Aura de justice (capacité de paladin)
   anchor: "aura-de-justice"
-- key : Maîtrise d'armure (capacité de paladin)
-  anchor: "maîtrise-darmure"
-- key : Maîtrise d'arme (capacité de paladin)
-  anchor: "maîtrise-darme"
+- key : Maîtrise des armures (capacité de paladin)
+  anchor: "maîtrise-des-armures"
+- key : Maîtrise des armes (capacité de paladin)
+  anchor: "maîtrise-des-armes"
 - key : Armure légendaire (capacité de paladin)
   anchor: "armure-légendaire"
 - key : Défi du héros (capacité de paladin)
@@ -113,7 +113,7 @@ Progression du paladin
 | 2 | [Don de paladin](#dons-de-paladin), [don de compétence](#dons-de-compétence) |
 | 3 | [Allié vertueux](#allié-vertueux), [augmentation de compétence](#augmentation-de-compétence), [don général](#dons-généraux) |
 | 4 | [Don de paladin](#dons-de-paladin), [don de compétence](#dons-de-compétence) |
-| 5 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [augmentation de compétence](#augmentation-de-compétence), [don d'ascendance](#dons-dascendance), [Expertise d'arme](#expertise-d'arme) |
+| 5 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [augmentation de compétence](#augmentation-de-compétence), [don d'ascendance](#dons-dascendance), [Expertise des armes](#expertise-des-armes) |
 | 6 | [Don de paladin](#dons-de-paladin), [don de compétence](#dons-de-compétence) |
 | 7 | [Armure de vigueur](#armure-de-vigueur), [augmentation de compétence](#augmentation-de-compétence), [don général](#dons-généraux) |
 | 8 | [Don de paladin](#dons-de-paladin), [don de compétence](#dons-de-compétence) |
@@ -121,9 +121,9 @@ Progression du paladin
 | 10 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [don de paladin](#dons-de-paladin), [don de compétence](#dons-de-compétence) |
 | 11 | [Augmentation de compétence](#augmentation-de-compétence), [Aura de justice](#aura-de-justice), [don général](#dons-généraux) |
 | 12 | [Don de paladin](#dons-de-paladin), [don de compétence](#dons-de-compétence) |
-| 13 | [Augmentation de compétence](#augmentation-de-compétence), [don d'ascendance](#dons-dascendance), [maîtrise d'armure](#maîtrise-d'armure) |
+| 13 | [Augmentation de compétence](#augmentation-de-compétence), [don d'ascendance](#dons-dascendance), [maîtrise des armures](#maîtrise-des-armures) |
 | 14 | [Don de paladin](#dons-de-paladin), [don de compétence](#dons-de-compétence) |
-| 15 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [augmentation de compétence](#augmentation-de-compétence), [don général](#dons-généraux), [maîtrise d'arme](#maîtrise-d'arme) |
+| 15 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [augmentation de compétence](#augmentation-de-compétence), [don général](#dons-généraux), [maîtrise des armes](#maîtrise-des-armes) |
 | 16 | [Don de paladin](#dons-de-paladin), [don de compétence](#dons-de-compétence) |
 | 17 | [Armure légendaire](#armure-légendaire), [augmentation de compétence](#augmentation-de-compétence), [don d'ascendance](#dons-dascendance) |
 | 18 | [Don de paladin](#dons-de-paladin), [don de compétence](#dons-de-compétence) |
@@ -197,7 +197,7 @@ Au niveau 5 et tous les 5 niveaux par la suite, vous pouvez accroître les valeu
 ### Dons d'ascendance
 En plus du don d'ascendance avec lequel vous avez commencé, vous gagnez un don d'ascendance au niveau 5 et tous les 4 niveaux par la suite.
 
-### Expertise d'arme
+### Expertise des armes
 Sélectionnez un groupe d’arme spécifique. Votre formation pour les armes simple et de guerre de ce groupe augmente jusqu’à expert.
 
 ### Armure de vigueur
@@ -209,10 +209,10 @@ Votre Frappe vengeresse entoure les cibles maléfiques d’une aura qui punit le
 ### Aura de justice
 Quand vous utilisez votre réaction de Frappe vengeresse, vous pouvez augmenter la pénalité de votre attaque à -5. si vous le faites, que votre attaque soit une réussite ou non, tous les alliés situés à 3m ou moins qui sont à portée de la cible peuvent aussi utiliser leur réaction pour faire une Frappe vengeresse normale contre la cible. Ces attaques supplémentaires ne rendent pas la cible affaiblie.
 
-### Maîtrise d'armure
+### Maîtrise des armures
 Votre formation en armures lourdes et boucliers augmente jusqu’à maître, et celle pour les armures légères ou moyennes augmente jusqu'à expert. Réduisez la pénalité de mouvement due aux armures lourdes de 2 à 1 case.
 
-### Maîtrise d'arme
+### Maîtrise des armes
 Votre formation pour les armes simples et de guerre du groupe d’armes que vous avez choisi augmente jusqu'à maître, et votre formation pour toutes les autres armes simples ou de guerre augmente jusqu’à expert.
 
 ### Armure légendaire

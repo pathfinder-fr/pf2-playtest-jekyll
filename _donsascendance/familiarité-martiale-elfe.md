@@ -26,6 +26,6 @@ summary: "Vous êtes entraîné à certaines armes elfes, accès facilité aux a
 
 Vous privilégiez les arcs et les armes élégantes. Vous êtes entraîné avec les arcs longs, les arcs longs composites, les épées longues, les rapières, les arcs courts et les arcs courts composites. De plus, vous gagnez accès à toutes les armes elfes peu communes. 
 
-Pour déterminer votre degré de formation, vous traitez toutes les armes martiales elfes comme des armes simples et les armes exotiques elfes comme des armes martiales.
+Pour déterminer votre degré de formation, vous traitez toutes les armes de guerre elfes comme des armes simples et les armes exotiques elfes comme des armes de guerre.
 
 Pour plus d'informations sur les armes, voir page <mark>178</mark>.
