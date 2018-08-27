@@ -14,11 +14,11 @@ level: 2
 rarity: C
 
 traits:
-	- attaque
-	- peur
-	- guerrier
-	- émotion
-	- mental
+  - attaque
+  - peur
+  - guerrier
+  - émotion
+  - mental
 prerequisites: 
 frequency: 
 cost:
