@@ -14,7 +14,7 @@ level: 1
 rarity: C
 
 traits:
-	- guerrier
+  - guerrier
 prerequisites:
 frequency: 
 cost:

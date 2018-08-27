@@ -14,9 +14,9 @@ level: 4
 rarity: C
 
 traits:
-	- attaque
-	- guerrier
-	- enchaînement
+  - attaque
+  - guerrier
+  - enchaînement
 prerequisites: 
 frequency: 
 cost:

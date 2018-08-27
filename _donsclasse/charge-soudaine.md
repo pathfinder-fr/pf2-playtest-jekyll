@@ -14,10 +14,10 @@ level: 1
 rarity: C
 
 traits:
-	- attaque
-	- guerrier
-	- mouvement
-	- ouverture
+  - attaque
+  - guerrier
+  - mouvement
+  - ouverture
 prerequisites:
 frequency: 
 cost:

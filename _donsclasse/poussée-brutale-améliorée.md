@@ -14,7 +14,7 @@ level: 4
 rarity: C
 
 traits:
-	- guerrier
+  - guerrier
 prerequisites: Pousée brutale
 frequency: 
 cost:

@@ -14,8 +14,8 @@ level: 1
 rarity: C
 
 traits:
-	- guerrier
-	- ouverture
+  - guerrier
+  - ouverture
 prerequisites:
 frequency: 
 cost:
