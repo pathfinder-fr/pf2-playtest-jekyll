@@ -14,7 +14,7 @@ Au cours de chaque session de jeu, le MJ ne devrait pas attribuer plus de 1 Poin
 
 Dépenser des Points héroïques ne nécessite pas de dépenser des actions, réactions ou actions libres.
 
-* Dépenser **1 Point héroïque** vous permet d'éloigner la mort. Chaque fois que vous gagnez la condition mourant ou que votre condition mourant s'aggrave (voir [Points de vie et guérison](points-de-vie-et-guérison.html)), vous pouvez dépenser 1 Point héroïque pour éliminer complètement la condition mourant, même si l'accroissement de sa valeur vous ferait normalement mourir. Si vous avez 0 Points de vie, vous gagnez également 1 Point de vie.
+* Dépenser **1 Point héroïque** vous permet d'éloigner la mort. Chaque fois que vous gagnez la condition mourant ou que votre condition mourant s'aggrave (voir [Points de vie et guérison](points-de-vie-et-guérison.html)), vous pouvez dépenser 1 Point héroïque pour revenir à 1 Point de vie. Les règles normales s'appliquent : vous perdez la condition [mourant](/conditions/mourant.html), devenez conscienct et êtes [lent](/conditions/lent.html) pendant 1 round.
 
 * Dépenser **2 Points héroïques** vous permet de relancer un d20. Vous devez utiliser le second résultat mais, s'il s'agit d'un échec, vous regagnez 1 des Points héroïques que vous avez dépensés. Vous ne pouvez pas dépenser des Points héroïques plus d'une fois pour un lancer donné. Il s'agit d'un effet de chance.
 

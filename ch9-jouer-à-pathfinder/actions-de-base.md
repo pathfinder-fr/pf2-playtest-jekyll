@@ -83,7 +83,7 @@ Si vous pouvez lancer des sorts, les activités et actions pour le lancement de 
 > 
 > ---
 > 
-> Vous laissez tomber un objet que vous tenez dans votre main ou dans vos mains. Contrairement à la plupart des actions de manipulation, Lâcher ne déclenche pas de réaction comme une Attaque d'opportunité.
+> Vous laissez tomber un objet que vous tenez à une main ou vous lâcher la prise de l'objet d'une de vos mains pendant que vous continuez à le tenir de l'autre. Contrairement à la plupart des actions de manipulation, Lâcher ne déclenche pas de réaction comme une Attaque d'opportunité.
 
 {: .block .action1 }
 > ### Se laisser tomber

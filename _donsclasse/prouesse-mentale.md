@@ -1,6 +1,6 @@
 ---
-title: Sort mélodieux
-titleEN: Melodious Spell
+title: Prouesse mentale
+titleEN: Mental prowess
 source: "Playtest Pathfinder"
 layout: block
 

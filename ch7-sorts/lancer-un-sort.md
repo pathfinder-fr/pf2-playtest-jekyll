@@ -6,7 +6,7 @@ toc: true
 
 ## Lancer un sort
 
-Lancer un Sort est une activité spéciale composée d'une combinaison d'actions d'incantation. Pour les classes capables de lancer des sorts présentées dans le playtest, ces actions sont Incantation matérielle, Incantation somatique et Incantation verbale mais d'autres lanceurs de sorts pourraient utiliser des actions différentes pour lancer leurs sorts.
+Lancer un Sort est une activité spéciale composée d'une combinaison d'actions d'incantation. Pour les classes capables de lancer des sorts présentées dans le playtest, ces actions sont Incantation matérielle, Incantation somatique et Incantation verbale mais d'autres lanceurs de sorts pourraient utiliser des actions différentes pour lancer leurs sorts. Lorsque vous Lancez un sort, votre incantation provoque une manifestation visuelle de la magie accumulée. Mais des dons tels que [Sort discret](/donsclasse/sort-discret.html) ou [Sort mélodieux](/donsclasse/sort-mélodieux.html) peuvent vous adier à masquer ces manifestations ou à empêcher les observateurs de remarquer que vous êtes en train d'incanter.
 
 {: .block}
 > {: .no_toc}
@@ -135,6 +135,14 @@ Pour certains sorts, vous devez réussir un jet d'attaque afin d'affecter la cib
 Généralement, ce type de sorts nécessitent une attaque de contact au corps à corps ou une attaque de contact à distance. Dans les deux cas, effectuez un jet d'attaque et comparez le résultat à la CAC de la cible. Votre modificateur de formation pour les jets d'attaque du sort est le même que votre modificateur de formation pour les jets de sorts. Les attaques de sorts sont des attaques sans arme mais elles ne bénéficient pas des avantages spéciaux provenant de vos armes ou de vos attaques sans arme, et elles n'infligent pas de dégâts en-dehors de ceux indiqués dans la description du sort. Les attaques de contact au corps à corps possèdent le trait finesse (voir <mark>page 182</mark>) ; vous ajoutez votre modificateur de Force ou de Dextérité à ces attaques, conformément aux règles normales. En cas d'attaque réussie, votre sort affecte la cible et, en cas d'échec, le sort est perdu (sauf mention contraire). Les sorts avec une portée de "contact" nécessitent toujours une attaque de contact au corps à corps lorsqu'ils sont utilisés contre la volonté de la cible, mais pas lorsque la cible est volontaire ou inconsciente.
 
 Certains sorts nécessitent une attaque au corps à corps normale ou une attaque à distance au lieu d'une attaque de contact. Ils fonctionnent comme indiqué ci-dessus mais ciblent la CA au lieu de la CAC.
+
+## Identifier un sort
+
+Parfois vous avez besoin d'identifier un sort, spécialement si ses effets ne sont pas directement évidents. Si vous remarquez qu'un sort est en train d'être incanté ou remarquez ses manifestations physiques et que vous avez préparé ce sort (ou le possédez dans votre répoertoire), vous le reconnaissez automatiquement et vous savez à quel niveau il est élevé.
+
+Autrement pour essyer d'identifier le sort, vous devez soit :
+* utiliser une action de votre tour en utilisant Rappel de connaissance 
+* utiliser une réaction en utilisant le don général [Identification de sorts](/dons/identification-de-sorts.html)
 
 ## Dissiper un sort
 

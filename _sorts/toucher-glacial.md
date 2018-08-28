@@ -10,6 +10,7 @@ traditions:
   - arcanique
   - divin
   - occulte
+  - sortilège
 
 #PARTIE PROPRE AUX BLOCS TECHNIQUES
 

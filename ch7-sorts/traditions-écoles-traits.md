@@ -76,7 +76,7 @@ Les créatures conjurées peuvent être bannies par divers sorts et effets et so
 
 ### Métamorphose
 
-Ces effets transforment la cible en une nouvelle forme. Aucune créature ni objet ne peut être affectée par plus d'un effet de métamorphose à la fois. Si une créature ou un objet subit un second effet de métamorphose, ce dernier dissipe le précédent. Sauf mention contraire, ces sorts ne permettent pas à la cible d'adopter l'apparence d'une créature spécifique mais seulement celle d'une créature d'un type donné ou d'une ascendance donnée.
+Ces effets transforment la cible en une nouvelle forme. Aucune créature ni objet ne peut être affectée par plus d'un effet de métamorphose à la fois. Si une créature ou un objet subit un second effet de métamorphose, ce dernier dissipe le précédent. Toutes les nouvelles Frappes données spécifiquement par un effet de métamorphose sont magiques. Sauf mention contraire, ces sorts ne permettent pas à la cible d'adopter l'apparence d'une créature spécifique mais seulement celle d'une créature d'un type donné ou d'une ascendance donnée.
 
 ### Transformation
 

@@ -6,6 +6,4 @@ layout: condition
 summary: "vous mourrez si la valeur est 4"
 ---
 
-Vous saignez ou, du moins, vous vous trouvez à deux doigts de la mort. Mourant s'accompagne toujours d'une valeur et, si celle-ci atteint 4, vous mourez. Si vous êtes mourant, les jets de récupération provenant de la condition [inconscient](inconscient.html) déterminent si votre condition s'améliore ou pas. Si vous avez 1 Point de vie ou plus et que vous êtes conscient, la valeur de votre condition mourant décroît de 1 à la fin de chacun de vos tours.
-
-Voir aussi [Points de vie et guérison](/ch9-jouer-à-pathfinder/points-de-vie-et-guérison.html).
+Vous saignez ou êtes, d'une manière ou d'une autre, à deux doigts de la mort. Mourant porte toujours une valeur et, si celle-ci atteint 4, vous mourrez. Si vous êtes mourant, vous devez effectuer un [jet de récupération](/jouer-à-pathfinder/points-de-vie-et-guérison.html#jets-de-récupération) au début de chacun de vos tours pour déterminer si votre état s'améliore ou empire. Si vous avez 1 Point de vie ou plus, vous perdez la condition mourant.

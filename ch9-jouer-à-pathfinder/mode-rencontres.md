@@ -58,7 +58,7 @@ Effectuez les étapes suivantes et faites toutes les autres choses dont la descr
 
 * Vous pouvez utiliser des actions libres ou des réactions dont le déclencheur signifie "Votre tour commence".
 
-* Si vous êtes mourant ou inconscient, effectuez un [jet de récupération](points-de-vie-et-guérison.html#jets-de-récupération).
+* Si vous êtes mourant, effectuez un [jet de récupération](points-de-vie-et-guérison.html#jets-de-récupération).
 
 La dernière étape du début de votre tour est toujours la même.
 

@@ -28,7 +28,7 @@ Par exemple, si vous portez une attaque critique avec une *épée longue +1*, vo
 
 Vous pouvez effectuer une attaque non létale afin de tenter de mettre quelqu'un KO au lieu de le tuer (voir [Être mis KO](../ch9-jouer-à-pathfinder/points-de-vie-et-guérison.md#être-mis-ko)). Les armes possédant le trait non létal (y compris les poings) le font automatiquement.
 
-Si vous effectuez une attaque non létale avec une arme qui ne possède pas le trait non létal, calculez le résultat de votre attaque comme si vous étiez non entraîné pour cette arme. De la même manière, si vous tentez de porter une attaque létale à l'aide d'une arme qui possède le trait non létal, calculez également le résultat de votre jet d'attaque comme si vous étiez non entraîné.
+Si vous effectuez une attaque non létale avec une arme qui ne possède pas le trait non létal, vous subissez une pénalité de circonstance de -2 au jet d'attaque. Si vous tentez de porter une attaque létale à l'aide d'une arme qui possède le trait non létal, calculez également le résultat de votre jet d'attaque comme si vous étiez non entraîné.
 
 ### Immunités, faiblesses et résistances
 

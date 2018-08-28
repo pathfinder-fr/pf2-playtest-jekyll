@@ -242,7 +242,7 @@ Chaque description de lignage comporte les informations suivantes.
 
 **Liste de sorts** Vous utilisez la tradition magique indiquée et sa liste de sorts.
 
-**Compétences de signature du lignage** Vous considérez les compétences indiquées ici comme des compétences de signature.
+**Compétences de signature du lignage** Vous ajoutez les compétences indiquées ici à vos compétences de signature.
 
 **Sorts octroyés** Vous apprenez automatiquement les sorts cités ici. Au niveau 1, vous gagnez un sortilège et un sort. Vous apprenez les autres sorts de la liste dès que vous êtes capable de lancer des sorts de sorcier de ce niveau. Chaque fois que vous gagnez un sort grâce à votre lignage, vous gagnez également un emplacement de sort de ce niveau, que vous pouvez utiliser pour lancer n'importe quel sort de sorcier (pas uniquement ceux octroyés par votre lignage). Par exemple, en devenant sorcier de niveau 3, vous apprenez le sort de lignage de niveau 2 et gagnez un nouvel emplacement de sort de niveau 2 que vous pouvez utiliser pour lancer n'importe quel sort de sorcier que vous connaissez.
 
