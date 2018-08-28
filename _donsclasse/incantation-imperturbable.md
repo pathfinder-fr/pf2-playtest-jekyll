@@ -18,6 +18,7 @@ traits:
   - druide
   - sorcier
   - prêtre
+  - magicien
 prerequisites: 
 frequency: 
 cost:

@@ -26,6 +26,6 @@ summary: "Vous êtes entraîné à certaines armes orques, accès facilité aux 
 
 Vous privilégiez les armes brutales de vos ancêtres orques. Vous êtes entraîné avec la hache à deux mains et le cimeterre à deux mains. De plus, vous gagnez accès à toutes les armes orques peu communes. 
 
-Pour déterminer votre degré de formation, vous traitez toutes les armes martiales orques comme des armes simples et les armes exotiques orques comme des armes martiales.
+Pour déterminer votre degré de formation, vous traitez toutes les armes de guerre orques comme des armes simples et les armes exotiques orques comme des armes de guerre.
 
 Pour plus d'informations sur les armes, voir page <mark>178</mark>.

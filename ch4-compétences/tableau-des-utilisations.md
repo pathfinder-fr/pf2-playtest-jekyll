@@ -15,7 +15,7 @@ Compétences et leurs utilisations
 | [**Arcanes**](arcanes.html) | Intelligence | [Se rappeler de connaissances](arcanes.html#se-rappeler) (action) | [Apprendre un sort arcanique](arcanes.html#apprendre-un-sort-arcanique) (activité)<br/>[Emprunter un sort arcanique](arcanes.html#emprunter-un-sort-arcanique) (activité)<br/>[Identifier la magie](arcanes.html#identifier-la-magie) (activité)<br/>[Lire la magie](arcanes.html#lire-la-magie) (activité) |
 | [**Artisanat**](artisanat.html) | Intelligence | [Réparer](artisanat.html#réparer) (activité) | [Fabriquer](artisanat.html#fabriquer) (activité)<br/>[Identifier un objet alchimique](artisanat.html#identifier-un-objet-alchimique) (activité) |
 | [**Athlétisme**](athlétisme.html) | Force | [Agripper](athlétisme.html#agripper) (action)<br/>[Escalader](athlétisme.html#escalader) (action)<br/>[Forcer](athlétisme.html#forcer) (action)<br/>[Mettre à terre](athlétisme.html#mettre-à-terre) (action)<br/>[Nager](athlétisme.html#nager) (action)<br/>[Pousser](athlétisme.html#pousser) (action)<br/>[Sauter en hauteur](athlétisme.html#sauter-en-hauteur) (activité)<br/>[Sauter en longueur](athlétisme.html#sauter-en-longueur) (activité)<br/>[Se libérer d'une prise](athlétisme.html#se-libérer-dune-prise) (action) | [Désarmer](athlétisme.html#désarmer) (action) |
-| [**Diplomatie**](diplomatie.html) | Charisme | 
+| [**Diplomatie**](diplomatie.html) | Charisme | [Amadouer quelqu'un](diplomatie.html#amadouer) (activité)<br/>[Formuler une requête](diplomatie.html#formuler-une-requête) (action)<br/>[Recueillir des informations](diplomatie.html#recueillir-des-informations) (activité) | |
 | [**Discrétion**](discrétion.html) | Dextérité | 
 | [**Intimidation**](intimidation.html) | Charisme | 
 | [**Médecine**](médecine.html) | Sagesse | 
@@ -27,21 +27,5 @@ Compétences et leurs utilisations
 | [**Savoir**](savoir.html) | Intelligence | 
 | [**Société**](société.html) | Intelligence | 
 | [**Survie**](survie.html) | Sagesse | 
-| [**Tromperie**](tromperie.html) | Charisme | 
+| [**Tromperie**](tromperie.html) | Charisme | [Créer une diversion](tromperie.html#créer-une-diversion) (action)<br/>[Mentir](tromperie.html#mentir) (activité)<br/>[Se faire passer pour quelqu'un](tromperie.html#se-faire-passer) (activité) | [Feinter](tromperie.html#feinter) (action) |
 
-
-
-| **Athlétisme** | **Force**                                 | Agripper (action)                       | Désarmer (action)                                 |
-|                |                                           | Escalader (action)                      |
-|                |                                           | Forcer l'ouverture (action)             |
-|                |                                           | Mettre à terre (action)                 |
-|                |                                           | Nager (action)                          |
-|                |                                           | Pousser (action)                        |
-|                |                                           | Saut en hauteur (action)                |
-|                |                                           | Saut en longueur (action)               |
-|                |                                           | Se libérer d'une prise (action)         |
-| **Artisanat**  | **Intelligence**                          | Réparer (activité)                      | Fabriquer (activité)                              |
-|                |                                           |                                         | Identifier un objet alchimique (activité)         |
-| **Tromperie**  | **Charisme**                              | Créer une diversion (action)            | Feinter (action)                                  |
-|       |         | Mentir (activité)                         |
-|        |        | Se faire passer pour quelqu'un (activité) |

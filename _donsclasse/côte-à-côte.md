@@ -15,6 +15,7 @@ rarity: C
 
 traits:
   - druide
+  - rôdeur
   - ordre des animaux
 prerequisites: Compagnon animal
 frequency: 
@@ -25,4 +26,4 @@ requirements:
 summary: "avec le compagnon : prise en tenaille quelque soit la position autour de la creature"
 ---
 
-Vous et votre compagnon vous battez à l'unisson. Chaque fois que vous et votre compagnon animal êtes tous deux adjacents au même ennemi, vous considérez que vous planquez tous les deux cet ennemi, indépendamment de votre position réelle.
+Vous et votre compagnon vous battez à l'unisson. Chaque fois que vous et votre compagnon animal êtes tous deux adjacents au même adversaire, vous considérez que vous le prenez en tenaille, indépendamment de votre position réelle.

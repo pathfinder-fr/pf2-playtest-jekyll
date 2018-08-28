@@ -15,6 +15,7 @@ rarity: C
 
 traits:
   - sorcier
+  - magicien
 prerequisites:
 frequency: 
 cost:
@@ -24,4 +25,4 @@ requirements:
 summary: "Effets instantané de Concentration"
 ---
 
-Vous gagnez automatiquement les effets d'une Concentration sur un Sort pour prolonger la durée d'un de vos sorts de sorcier actifs.
+Vous gagnez automatiquement les effets d'une Concentration sur un Sort pour prolonger la durée d'un de vos sorts actifs.

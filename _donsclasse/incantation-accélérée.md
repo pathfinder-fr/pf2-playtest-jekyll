@@ -15,10 +15,11 @@ rarity: C
 
 traits:
   - sorcier
+  - magicien
 prerequisites:
 frequency: une fois par jour
 cost:
-trigger: Vous lancez un sortilège ou un sort de sorcier qui est au moins 2 niveaux en dessous du plus haut niveau de sort que vous pouvez lancer. Le sort doit avoir au minimum 2 actions d'incantation.
+trigger: Vous lancez un sortilège ou un sort qui est au moins 2 niveaux en dessous du plus haut niveau de sort que vous pouvez lancer. Le sort doit avoir au minimum 2 actions d'incantation.
 requirements: 
 
 summary: "-1 action d'incantation du sort"

@@ -30,4 +30,4 @@ Vous ajoutez une Incantation somatique à l'incantation du sort déclencheur pou
 
 * S'il s'agit d'une étendue d'un rayon d'au moins 2 cases, son rayon est augmenté d'une case.
 * S'il s'agit d'un cône ou d'une ligne d'une longueur d'au maximum 3 cases, sa longueur est augmentée d'une case.
-* S'il s'agit d'un cône ou d'une ligne d'une longueur d'au maximum 4 cases, sa longueur est augmentée de 2 cases.
+* S'il s'agit d'un cône ou d'une ligne d'une longueur de 4 cases ou plus, sa longueur est augmentée de 2 cases.

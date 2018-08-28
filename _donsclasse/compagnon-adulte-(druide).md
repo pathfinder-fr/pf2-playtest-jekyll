@@ -1,5 +1,5 @@
 ---
-title: Compagnon adulte
+title: Compagnon adulte (druide)
 titleEN: Full-grown Companion
 source: "Playtest Pathfinder"
 layout: block

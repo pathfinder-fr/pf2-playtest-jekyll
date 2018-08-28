@@ -87,7 +87,7 @@ Progression du magicien
 | 2 | [Don de magicien](#dons-de-magicien), [don de compétence](#dons-de-compétence) |
 | 3 | [Augmentation de compétence](#augmentation-de-compétence), [don général](#dons-généraux), [sorts de niveau 2](#incantation-arcanique) |
 | 4 | [Don de magicien](#dons-de-magicien), [don de compétence](#dons-de-compétence) |
-| 5 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [augmentation de compétence](#augmentation-de-compétence), [don d'ascendance](#dons-dascendance), [sorts de niveau 3](#incantation-divine) |
+| 5 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [augmentation de compétence](#augmentation-de-compétence), [don d'ascendance](#dons-dascendance), [sorts de niveau 3](#incantation-arcanique) |
 | 6 | [Don de magicien](#dons-de-magicien), [don de compétence](#dons-de-compétence) |
 | 7 | [Augmentation de compétence](#augmentation-de-compétence), [don général](#dons-généraux), [sorts de niveau 4](#incantation-arcanique) |
 | 8 | [Don de magicien](#dons-de-magicien), [don de compétence](#dons-de-compétence) |
@@ -97,7 +97,7 @@ Progression du magicien
 | 12 | [Lanceur de sorts expert](#lanceur-de-sorts-expert), [don de compétence](#dons-de-compétence) |
 | 13 | [Augmentation de compétence](#augmentation-de-compétence), [don d'ascendance](#dons-dascendance), [sorts de niveau 7](#incantation-arcanique) |
 | 14 | [Don de magicien](#dons-de-magicien), [don de compétence](#dons-de-compétence) |
-| 15 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [augmentation de compétence](#augmentation-de-compétence), [don général](#dons-généraux), [sorts de niveau 8](#incantation-divine) |
+| 15 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [augmentation de compétence](#augmentation-de-compétence), [don général](#dons-généraux), [sorts de niveau 8](#incantation-arcanique) |
 | 16 | [maître lanceur de sorts](#maître-lanceur-de-sorts), [don de compétence](#dons-de-compétence) |
 | 17 | [Augmentation de compétence](#augmentation-de-compétence), [don d'ascendance](#dons-dascendance), [sorts de niveau 9](#incantation-arcanique) |
 | 18 | [Don de magicien](#dons-de-magicien), [don de compétence](#dons-de-compétence) |
@@ -170,7 +170,7 @@ Si vous choisissez de vous spécialiser des une école arcanique, vous gagnez un
 
 Vous apprenez un pouvoir d'école, un type de sort spécial enseigné aux étudiants de votre école arcanique. Vous bénéficiez également d'une réserve de Points de magie que vous utilisez pour lancer vos pouvoirs d'école. Vous ne pouvez lancer un pouvoir d'école qu'en dépensant des Points de magie issus de votre réserve, pas en utilisant un emplacement de sort. Comme les sortilèges, votre pouvoir d'école est automatqiuement élevé au niveau de sort le plus élevé que vous pouvez lancer.
 
-Votre nombre maximum de Points de magie est égale à votre modificateur d'Intelligence (minimum 0). Vous regagnez tous vos points de magie lorsque vous préparez vos sorts. Certains dons vous permettent d'apprendre plus de pouvoirs d'école. Ces dons augmentent généralement votre réserve de POints de magie.
+Votre nombre maximum de Points de magie est égale à votre modificateur d'Intelligence (minimum 0). Vous regagnez tous vos points de magie lorsque vous préparez vos sorts. Certains dons vous permettent d'apprendre plus de pouvoirs d'école. Ces dons augmentent généralement votre réserve de Points de magie.
 
 {: .tabletitle}
 écoles arcaniques
@@ -186,13 +186,13 @@ Votre nombre maximum de Points de magie est égale à votre modificateur d'Intel
 | Illusion | En tant qu'illusioniste, vous utilisez la magie pour créer des images décondertantes, des illusions et des phantasmes pour déconcerter vos ennemis. Vous comprenez que la perception est la réalité. Vous ajoutez un sort d'illusion de niveau 1 (comme [*objet illusoire*](/sorts/objet-illusoire.html)) à votre grimoire | [*terrain déformé*](/sorts/terrain-déformé.html) (1) |
 | Nécromancie | En tant que nécromant, vous faites appel au puissances de la vie et de la mort pour les utiliser contre vos ennemis. Alors que votre école de magie est souvent considérée comme réduite à ceux qui rappellent les morts, vous comprenez que le contrôle de la vie signifie également le contrôle de la guérison. Vous ajoutez un sort de nécromancie de niveau 1 (comme [*vrilles funestes*](/sorts/vrilles-funestes.html)) à votre grimoire | [*appel du tombeau*](/sorts/appel-du-tombeau.html) (1) |
 | Transmutation | En tant que transmuteur, vous alétrez les propriétés physiques des choses en transformant des objets, des créatures, la nature qui vous entoure et même vous-même selon vos envies. Vous comprenez que le changement est inévitable. Vous ajoutez un sort de transmutation de niveau 1 (comme [*arme magique*](/sorts/arme-magique.html)) à votre grimoire | [*stimulation physique*](/sorts/stimulation-physique.html) (1) |
-| Universaliste | Vous pouvez choisir de ne pas vous spécialiser dans une école arcanique et devenir à la place un magicien universaliste. Si vous le faites, vous pouvez utiliser l'action [Canal de focalisation arcanique](#focalisateur-arcanique) une fois par jour par niveau de sort que vous pouvez lancer (au lieu d'une seule fois par jour). Vous gagnez aussi un don de classe de magicien supplémentaire. | - |
+| Universaliste | Vous pouvez choisir de ne pas vous spécialiser dans une école arcanique et devenir à la place un magicien universaliste. Si vous le faites, vous pouvez utiliser l'action libre [Utiliser le focalisation arcanique](#focalisateur-arcanique) une fois par jour par niveau de sort que vous pouvez lancer (au lieu d'une seule fois par jour). Vous gagnez aussi un don de classe de magicien supplémentaire. | - |
 
 ### Focalisateur arcanique
-Vous pouvez placer une partie de votre potentiel magique dans un objet appelé focalisateur arcanique. Chaque jour, lorsque vous préparez vos sorts, vous pouvez désigner un unique objet en votre possession comme focalisateur arcanique. Il s'agit généralement d'un objet associé à l'incantation et à la magie (comme une baguette, un anneau ou un bâton), mais vous êtes libre de choisir un arme ou un autre objet. Vous gagnez également l'action libre Canaliser le focalisateur arcanique.
+Vous pouvez placer une partie de votre potentiel magique dans un objet appelé focalisateur arcanique. Chaque jour, lorsque vous préparez vos sorts, vous pouvez désigner un unique objet en votre possession comme focalisateur arcanique. Il s'agit généralement d'un objet associé à l'incantation et à la magie (comme une baguette, un anneau ou un bâton), mais vous êtes libre de choisir un arme ou un autre objet. Vous gagnez également l'action libre Utiliser le focalisateur arcanique.
 
 {:.block .actionlibre}
-> ### Canaliser le focalisateur arcanique
+> ### Utiliser le focalisateur arcanique
 > 
 > {: .traits }
 > arcanique, magicien

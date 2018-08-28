@@ -16,6 +16,7 @@ rarity: C
 traits:
   - druide
   - ordre des animaux
+  - rôdeur
 prerequisites:
 frequency: 
 cost:

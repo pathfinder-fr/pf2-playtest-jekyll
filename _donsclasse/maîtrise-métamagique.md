@@ -15,6 +15,7 @@ rarity: C
 
 traits:
   - sorcier
+  - magicien
 prerequisites: 
 frequency: 
 cost:
@@ -24,4 +25,4 @@ requirements:
 summary: "Incantation somatique plus nécessaire pour les dons métamagiques"
 ---
 
-Lorsque vous appliquez un don métamagique à un sort, vous ne devez pas ajouter d'Incantation somatique à l'incantation du sort.
+Lorsque vous appliquez un don métamagique à un sort, vous n'avez pas besoin d'ajouter d'Incantation somatique à l'incantation du sort.

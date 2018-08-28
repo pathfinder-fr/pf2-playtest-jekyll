@@ -27,8 +27,20 @@ signatureSkills:
   - une compétence déterminée par l'ordre
 
 index:
-  - key: NOM_CAPACITE (capacité du druide)
-    anchor: "LIEN_CAPACITE"
+  - key: Ordre druidique (capacité du druide)
+    anchor: "ordre-druidique"
+  - key: Ordre animal (capacité du druide - Ordre)
+    anchor: "ordre-animal"
+  - key: Ordre de la feuille (capacité du druide - Ordre)
+    anchor: "ordre-de-la-feuille"
+  - key: Ordre des tempêtes (capacité du druide - Ordre)
+    anchor: "ordre-des-tempêtes"
+  - key: Ordre sauvage (capacité du druide - Ordre)
+    anchor: "ordre-sauvage"
+  - key: Langage druidique (capacité du druide)
+    anchor: "langage-druidique"
+  - key: Empathie sauvage (capacité du druide)
+    anchor: "empathie-sauvage"
 ---
 
  *Le pouvoir de la nature est impossible à résister. En quelques minutes, il peut entraîner la ruine de la plus forte forteresse, ramenant les plus grandes édifices à un tas de débris, les brûlant jusqu'à ce qu'il n'en reste que des cendres, les enterrant sous une avalanche de neige ou les noyant sous les vagues. Elle peut fournir ses bienfaits inépuisables et une splendeur à couper le souffle à ceux qui la respectent et une mort angoissante à ceux qui la prennent trop à la légère. Vous êtes l'un de ceux qui entendent l'appel de la nature. Vous craignez la majesté de son pouvoir et vous vous mettez à son service.*
