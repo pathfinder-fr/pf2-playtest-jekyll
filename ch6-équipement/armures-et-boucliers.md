@@ -56,7 +56,7 @@ Armures
 | Ecu en acier | 20 pa | +2<sup>*</sup> | +2<sup>*</sup> | - | -1 | - | 1 | - |
 
 {: .tablenotes}
-<sup>*</sup> Obtenir le bonus de circonstance du bouclier à la CA et la CAC nécessite d'utiliser l'action Lever un bouclier. La pénalité aux test d'un bouclier s'applique toujours lorsque vous portez un bouclier, qu'il soit Levé pour gagner son bonus à la CA et à la CAC ou non.
+(*) Obtenir le bonus de circonstance du bouclier à la CA et la CAC nécessite d'utiliser l'action Lever un bouclier. La pénalité aux test d'un bouclier s'applique toujours lorsque vous portez un bouclier, qu'il soit Levé pour gagner son bonus à la CA et à la CAC ou non.
 
 ### Bonus à la CA et Bonus à la CAC
 Ces chiffres indiquent les bonus d'objet que vous ajoutez à votre CA et à votre CAC respectivement.

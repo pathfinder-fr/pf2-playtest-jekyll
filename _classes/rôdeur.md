@@ -7,7 +7,7 @@ layout: classe
 
 #PARTIE PROPRE AUX CLASSES
 
-keyAbility: Dex
+keyAbility: For ou Dex
 hp: 10
 
 #Degrés: NE Ent Exp Maî Lég
