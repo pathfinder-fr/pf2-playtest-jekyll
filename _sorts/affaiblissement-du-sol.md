@@ -11,24 +11,24 @@ level: 7
 rarity: C
 traits:
   - abjuration
-  - consecration
+  - consécration
 trigger: 
-cost: 1 vial of holy water
+cost: 1 flasque d'eau bénite
 range: 
-area: émanation de 6 cases centered on you
+area: émanation de 6 cases centrée sur vous
 targets: 
 duration: 24 heures
 requirements: 
 castingtime: 1 minute (M, S, V)
 
-summary: '..'
+summary: 'Réduit la résistance et augmente les faiblesses des adversaires.'
 ---
-You sanctify the area, sprinkling it with holy water and materials anathema to particular foes to render them vulnerable to destruction. Choose aberrations, celestials, dragons, fiends, or undead. All such creatures in the area reduce their resistances by 3 and gain weakness 3 to physical damage.
 
-Heightened
+Vous senctifiez la zone, l'arrosant d'[eau bénite](/objetsmagiques/eau-bénite.html) et de matériaux anathèmes à des adversaires spécifiques pour les rendre vulnérables à la destruction.
 
--
+Choisissez un type de crature parmi aberrations, celestes, dragons, fiélons ou morts-vivants.
 
-9th
+Toutes les créatures du type choisi présentes dans la zone réduisent leur [résistance](/ch9-jouer-à-pathfinder/dégâts.html#résistance) réduite de 3 et gagnent une [faiblesse](/ch9-jouer-à-pathfinder/dégâts.html#faiblesse) de 3 aux dégâts physiques.
 
-Affected creatures reduce their resistances by 4 and gain weakness 4 to physical damage.
+**Elévations**
+* 9<sup>ème</sup> : Les créatures affectées réduisent leur [résistance](/ch9-jouer-à-pathfinder/dégâts.html#résistance) de 4 et  gagnent une [faiblesse](/ch9-jouer-à-pathfinder/dégâts.html#faiblesse) de 4 aux dégâts physiques

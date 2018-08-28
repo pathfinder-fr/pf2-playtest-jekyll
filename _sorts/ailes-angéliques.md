@@ -25,18 +25,14 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: 'Des ailes de lumière poussent dans votre dos.'
 ---
-Wings of pure light spread out from your back, granting you a fly Speed of 30 feet. Your wings cast bright light in a 30-foot radius. When the duration would end, if you have Spell Points, you can spend 1 Spell Point to increase the duration by 3 rounds. When it ends, you float to the ground, with feather fall's effects.
+Des ailes de pure lumière poussent sur votre dos, vous donnant une vitesse de vol de 6 cases. Vos ailes émettent de la [lumière vive](/ch9-jouer-à-pathfinder/perception.html#lumière-vive) dans une zone de 6 cases de rayon centrée sur vous.
 
-Heightened
+Lorsque le sort va prendre fin, s'il vous reste des Points de magie, vous pouvez dépenser 1 Point de magie pour prolonger la durée du sort de 3 rounds.
 
--
+Lorsque le sort se termine, vous flottez jusqu'au sol en bénéficiant des effets du sort [*feuille morte*](/sorts/feuille-morte.html)
 
-5th
-
-The base duration, and the extra duration for spending 1 Spell Point, increase to 1 minute.
-
-7th
-
-The base duration increases to 10 minutes. The extra duration for spending 1 Spell Point increases to 5 minutes.
+**Elévations**
+* 5<sup>ème</sup> : La durée initiale du sort et la durée de la prolongation pour 1 Point de magie passe à 1 minute.
+* 7<sup>ème</sup> : La durée initiale du sort passe à 10 minutes et la durée de la prolongation pour 1 Point de magie passe à 5 minutes.

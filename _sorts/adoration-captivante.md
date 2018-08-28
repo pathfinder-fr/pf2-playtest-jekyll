@@ -26,14 +26,15 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: 'Fascine les créatures dans la zone d'effet.'
 ---
-You become entrancingly beautiful and desirable, and creatures are distracted by their feelings for you as long as they remain within the area. The effect is determined by their Will saves. If a creature leaves and reenters, use the original save results.
 
-**Réussite** The creature takes a –1 conditional penalty to Perception and skill checks not directed at you.
+Vous devenez d'une beauté enchanteresse et désirable et les créatures sont distraites par leurs sentiments à votre égard tant qu'elle reste dans la zone d'effet. L'effet est déterminé par le résultat de leur jet de sauvegarde de Volonté. Si une créature quitte la zone d'effet puis y pénètre à nouvea, utilisez le résultat du jet de sauvegarde original (avant qu'elle ne quitte la zone).
 
-**Réussite critique** The creature is unaffected.
+**Réussite** La créature subit une pénalité conditionnelle de -1 aux tests de [Perception](/ch9-jouer-à-pethfinder/perception.html) qui ne sont pas dirigés vers vous.
 
-**Échec** The creature is fascinated.
+**Réussite critique** La créature n'est pas affectée.
 
-**Échec critique** The creature is fascinated and its attitude toward you improves by one step.
+**Échec** La créature est [fascinée](/conditions/fasciné.html).
+
+**Échec critique** La créature est [fascinée](/conditions/fasciné.html) et son attitude envers vous s'améliore d'un degré.

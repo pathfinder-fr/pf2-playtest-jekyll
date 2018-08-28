@@ -10,7 +10,7 @@ level: 4
 rarity: PC
 traits:
   - abjuration
-trigger: An effect deals acid, cold, electricity, or fire damage to you.
+trigger: Un effet vous inflige des dégâts d'acide, de froid, d'électricité ou de feu.
 cost: 
 range: 
 area: 
@@ -22,22 +22,11 @@ casting:
   - action: R
     description: Incantation verbale
 
-summary: '..'
+summary: 'Donne une résistance aux dégâts d'énergie.'
 ---
-You gain resistance 10 to acid, cold, electricity, or fire damage from the triggering effect (one type of your choice). The resistance applies only to the triggering effect’s initial damage.
+Vous gagnez une [résistance](/ch9-jouer-à-pathfinder/dégâts.html#résistance) 10 aux dégâts d'acide, de froid, d'électricité ou de feu infligés par l'effet déclencheur (un seul type à votre choix). La [résistance](/ch9-jouer-à-pathfinder/dégâts.html#résistance) ne s'applique que sur les dégâts initiaux de l'effet déclencheur.
 
-Heightened
-
--
-
-3rd
-
-The resistance increases to 15.
-
-6th
-
-The resistance increases to 20.
-
-8th
-
-The resistance increases to 25.
+**Elévations**
+* 3<sup>ème</sup> : La [résistance](/ch9-jouer-à-pathfinder/dégâts.html#résistance) passe à 15
+* 6<sup>ème</sup> : La [résistance](/ch9-jouer-à-pathfinder/dégâts.html#résistance) passe à 20
+* 8<sup>ème</sup> : La [résistance](/ch9-jouer-à-pathfinder/dégâts.html#résistance) passe à 25

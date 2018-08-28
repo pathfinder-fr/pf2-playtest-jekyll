@@ -18,7 +18,7 @@ trigger:
 cost: 
 range: 6 cases
 area: 
-targets: one ally
+targets: 1 allié
 duration: 1 round
 requirements: 
 
@@ -28,4 +28,7 @@ casting:
 
 summary: '..'
 ---
-You perform rapidly, speeding your ally. The ally is quick and can use the action to Strike, Stride, or Step.
+
+Vous faites une représentation très rapide, ce qui accélère votre allié.
+
+L'allié est [rapide](/conditions/rapide.html) et peut utiliser l'action obtenue pour Attaquer, Se déplacer ou Effectuer un pas de placement.

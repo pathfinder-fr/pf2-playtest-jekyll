@@ -19,18 +19,22 @@ cost:
 range: contact
 area: émanation de 4 cases
 targets: 
-duration: 8 hours
-requirements: 3gp silver bell focus
+duration: 8 heures
+requirements: focalisateur (cloche d'argent à 3 po)
 castingtime: 10 minutes (M, S, V)
 
-summary: '..'
+summary: 'Positionne une alarme qui vous réveille lorsqu'elle est déclenchée.'
 ---
-The focus is whisked away until the magic is broken or the spell expires. When you cast alarm, select a password. Whenever a Small or larger corporeal creature enters the spell's area without speaking the password, alarm sends your choice of a mental alert that awakens you (in which case the spell gains the mental trait) or an audible alarm with the sound and volume of a hand bell (in which case the spell gains the auditory trait). Either option automatically awakens you, and the bell allows each creature in the area to awake if it succeeds at a DC 15 Perception check. A creature aware of the alarm must succeed at a Stealth check against the spell's DC or trigger the alarm when moving into the area.
 
-Heightened
+Le focalisateur disparaît jusqu'à ce que la magie soit rompue ou le sort expire.
 
--
+Lorsque vous incantez le sort *alarme*, choisissez un mot de passe. Dès qu'une créarture corporelle de taille P ou plus entre dans la zone du sort sans donner le mot de passe, *alarme* émet au choix :
+* une alerte mentale à votre destination (dans ce cas le sort gagne le trait mental) 
+* une alerte audible ayant le son et le volume d'une cloche à main (dans ce cas le sort gagne le trait auditif)
 
-3rd
+Dans un cas comme dans l'autre, vous êtes automatiquement réveillé. Dans le second cas, les créatures situées dans la zone d'effet du sort se réveillent si elles réussissent un jet de [Percetion](/ch9-jouer-à-pethfinder/perception.html) DD 15. 
 
-You can specify criteria for creatures that sound the alarm. For instance, orcs or people with red hair.
+Une créature au courant de la présence d'une *alarme* doit réussir un jet de [Discrétion](/compétences/discrétion.html) contre le DD du sort ou déclencher l'alarme losqu'elle se déplace dans la zone d'effet du sort.
+
+**Elévations**
+* 3<sup>ème</sup> : Vous pouvez spécifier des critères précis pour les créatures qui déclencheront l'alarme. Par exemple, les orques ou les gens ayant les cheveux rouge.

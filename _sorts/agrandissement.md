@@ -17,7 +17,7 @@ trigger:
 cost: 
 range: 6 cases
 area: 
-targets: one willing creature
+targets: une créature volontaire
 duration: 1 minute
 requirements: 
 
@@ -27,18 +27,14 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: 'Fait grandir une créature.'
 ---
-The target grows to size Large. Its equipment grows with it but returns to natural size if removed. The creature is sluggish 1. Its reach increases by 5 feet (or by 10 feet if it started out Tiny) and it gains a +2 conditional bonus to melee damage. This spell has no effect on a Large or larger creature.
+La cible grandit jusqu'à avoir la taille G. Son équipement grandi avec elle, mais revient à sa taille normale si il lui est retiré.
 
-Heightened
+La créature est [apathique](/conditions/apathique.html) 1. Son allonge augmente d'1 case (ou de 2 cases si elle avait une taille initiale TP) et elle gagne un bonus conditionnel de +2 aux dégâts au corps à corps. 
 
--
+Ce sort n'a pas d'effets sur les créatures de taille G ou plus.
 
-4th
-
-The creature instead grows to size Huge. The conditional bonus to melee damage is +4 and reach increases by 10 feet (or 15 feet if the creature started out Tiny). The spell has no effect on a Huge or larger creature.
-
-6th
-
-As level 4, but you can target up to 10 creatures.
+**Elévations**
+* 4<sup>ème</sup> : La créature grandit jusqu'à la taille TG. Le bonus conditionnel aux dégâts de corps à corps est de +4 et son allonge augmente de 2 cases (ou de 3 cases si elle avait une taille initiale TP). Le sort n'a pas d'affets sur les créatures de taille TG ou plus.
+* 6<sup>ème</sup> : Comme pour l'élévation au niveau 4, mais vous pouvez cibler jusqu'à 10 créatures.

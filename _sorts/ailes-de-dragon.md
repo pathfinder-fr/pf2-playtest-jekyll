@@ -25,14 +25,15 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: 'Des ailes de cuir poussent dans votre dos.'
 ---
-Leathery wings sprout from your back, giving you a fly Speed of 60 feet. When the duration would end, if you have Spell Points, you can spend 1 Spell Point to increase the duration by 1 minute. When it ends, you float to the ground, with the effect of feather fall. If you have Spell Points, you can increase the cost by 1 Spell Point to gain the effects of dragon claws as long as the wings last.
+Des ailes de cuir poussent dans votre dos, vous donnat une vitesse de vol de 12 cases. 
 
-Heightened
+Lorsque le sort va prendre fin, s'il vous reste des Points de magie, vous pouvez dépenser 1 Point de magie pour prolonger la durée du sort de 1 minute.
 
--
+Lorsque le sort se termine, vous flottez jusqu'au sol en bénéficiant des effets du sort [*feuille morte*](/sorts/feuille-morte.html).
 
-7th
+S'il vous reste des Points de magie, vous pouvez augmenter le coût du sort de 1 Point de magie pour bénéficier des effets du sort [*griffes du dragon*](/sorts/griffes-du-dragon.html) tant que les ailes de dragon sont présentes sur votre dos.
 
-The duration increases to 10 minutes. Spell Points increase the duration by 5 minutes.
+**Elévations**
+* 7<sup>ème</sup> : La durée initiale du sort passe à 10 minutes et la durée de la prolongation pour 1 Point de magie passe à 5 minutes.
