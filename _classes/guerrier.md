@@ -83,7 +83,7 @@ Voici quelques termes spécifiques utilisés dans les descriptions des capacité
 **Enchaînement** Les actions avec ce trait vous permettent d'enchaîner sur les attaques précédentes. Une action avec le trait de enchaînement ne peut être utilisée que si vous êtes actuellement affecté par une pénalité d'attaque multiple. Certaines actions avec le trait enchaînement accordent également un effet sur un échec. Les effets sur un échec ne peuvent être obtenus que si l'action subit une pénalité d'attaque multiple de au moins -4. Les effets appliqués lors d'un échec ne s'appliquent pas lors d'un échec critique.
 Si votre action d'enchaînement réussit ou réussit de manière critique, mais qu'elle n'inflige aucun dégât et ne cause aucun autre effet (généralement en raison d'une résistance), vous pouvez choisir d'appliquer l'effet applicable lors d'un échet.
 
-**Posture** Une posture est une stratégie de combat générale dans laquelle vous entrez en utilisant une action portant le trait posture. Vous ne pouvez adopter une posture qu’en mode “rencontres”. Vous conservez la posture en question jusqu’à ce que vous soyez mis KO, jusqu’à ce que ses conditions (s’il y en a) ne soient plus respectées ou jusqu’à ce que vous adoptiez une nouvelle posture (la première condition vérifiée met un terme à la posture).
+**Posture** Une posture est une stratégie de combat générale dans laquelle vous entrez en utilisant une action portant le trait posture. Vous ne pouvez adopter ou maintenir une posture qu’en mode “rencontres”. Vous conservez la posture en question jusqu’à ce que vous soyez mis KO, jusqu’à ce que ses conditions (s’il y en a) ne soient plus respectées ou jusqu’à ce que vous adoptiez une nouvelle posture (la première condition vérifiée met un terme à la posture).
 
 **Augmenter la catégorie des dés de dégâts** 
 Quand un effet vous demande d'augmenter vos dés de dégâts, au lieu d'utiliser les dégâts normaux de l'arme, vous utilisez le dés suivant (si vous utilisiez un d4, vous utilisez un d6, etc). Si vous utilisiez déjà un d12, vous continuez d'utiliser un d12 et gagnez à la place un bonus de circonstances de +2 au jets de dégâts. Vous ne pouvez jamais augmenter la catégorie de dés de dégâts de votre arme plus d'une fois.
@@ -175,7 +175,7 @@ Votre degré de formation pour les armures lourdes et les boucliers augmente jus
 ### Spécialisation martiale
 Votre degré de formation pour toutes les armes simples et de guerre augmente jusqu'à maître, et vous gagnez accès aux effets de spécialisation de critique pour tous les groupes d'armes. Votre degré de formation pour toutes les armes exotiques passe à expert.
 
-Choisissez un groupe d'arme. Votre formation pour les armes simples et de guerre du groupe d’armes que vous avez choisi augmente jusqu'à légendaire, et votre formation pour les armes exotiques de ce groupe augmente jusqu'à maître. Vous obtenez l'accès aux effets de spécialisation de critique pour toutes les armes du groupe choisi.
+Choisissez un groupe d'arme. Votre formation pour les armes simples et de guerre du groupe d’armes que vous avez choisi augmente jusqu'à légendaire, et votre formation pour les armes exotiques de ce groupe augmente jusqu'à maître.
 
 ### Flexibilité améliorée
 Lorsque vous utilisez [Flexibilité au combat](#flexibilité-au-combat), vous pouvez gagner deux dons au lieu d'un. Le deuxième don doit être de niveau 14 ou moins, et peut avoir le premier don en prérequis. Vous devez répondre à tous les autres prérequis des dons.

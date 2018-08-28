@@ -78,7 +78,7 @@ Armes de guerre de corps à corps
 | Ecu (boule) | 5 pa | 1d6 C | - | 1 | boucliers | attaché au bouclier lourd |
 | Ecu (pointe) | 5 pa | 1d6 P | - | 1 | boucliers | attaché au bouclier lourd |
 | Epée à deux mains | 20 pa | 1d12 T | 2 | 2 | épées | polyvalent P |
-| Epée bâtarde | 35 pa | 1d8 P | 1 | 1 | épées | deux mains d12 |
+| Epée bâtarde | 35 pa | 1d8 T | 1 | 1 | épées | deux mains d12 |
 | Epée courte | 9 pa | 1d6 P | L | 1 | épées | agile, finesse, polyvalent T |
 | Epée longue | 10 pa | 1d8 T | 1 | 1 | épées | polyvalent P |
 | Faux | 18 pa | 1d10 T | 2 | 2 | armes d'hast | mise à terre, mortel d10 |
