@@ -131,7 +131,7 @@ Progression du paladin
 | 20 | [Accroissement de caractéristique](#accroissement-de-caractéristique), [don de paladin](#dons-de-paladin), [don de compétence](#dons-de-compétence) |
 
 ### Codes de conduite
-Les paladins sont les champions divins d’une divinité. Vous devez être loyal bon et vénérez une divinité qui autorise des prêtres loyal bon. La liste des divinités est ici (lien hyper texte). Les actions fondamentalement opposées à l’alignement et aux idéaux de votre divinité sont anathèmes pour votre foi. Il ya quelques exemples d’actes considérés anathèmes dans chaque description des divinités. Vous et votre MJ devriez déterminer quels autres actes peuvent être considérés comme anathèmes.
+Les paladins sont les champions divins d’une divinité. Vous devez être d'alignement loyal bon et vénérer une divinité qui autorise des prêtres loyal bon. La liste des divinités est ici (lien hyper texte). Les actions fondamentalement opposées à l’alignement et aux idéaux de votre divinité sont anathèmes pour votre foi. Il ya quelques exemples d’actes considérés anathèmes dans chaque description des divinités. Vous et votre MJ devriez déterminer quels autres actes peuvent être considérés comme anathèmes.
 
 De plus, les paladins doivent suivre le code de conduite décrit ci dessous. Les divinités ajoutent souvent certaines obligations pour leurs propres paladins (par exemple les paladins de la déesse de la beauté ne peuvent attaquer en premier sauf pour protéger un innocent, et ils doivent choisir et se perfectionner dans une forme d’art).
 
@@ -197,8 +197,8 @@ Au niveau 5 et tous les 5 niveaux par la suite, vous pouvez accroître les valeu
 ### Dons d'ascendance
 En plus du don d'ascendance avec lequel vous avez commencé, vous gagnez un don d'ascendance au niveau 5 et tous les 4 niveaux par la suite.
 
-### Expertise des armes
-Sélectionnez un groupe d’arme spécifique. Votre formation pour les armes simple et de guerre de ce groupe augmente jusqu’à expert.
+### Expertise d'arme
+Sélectionnez un groupe d’arme spécifique. Votre formation pour les armes simples et de guerre de ce groupe augmente jusqu’à expert.
 
 ### Armure de vigueur
 Votre formation en armure lourde et bouclier augmente jusqu’à expert, et votre formation en jet de vigueur augmente jusqu’à maître. Quand vous portez une armure lourde et que vous réussissez un jet de vigueur, traitez votre résultat comme un un succès critique.
@@ -207,7 +207,7 @@ Votre formation en armure lourde et bouclier augmente jusqu’à expert, et votr
 Votre Frappe vengeresse entoure les cibles maléfiques d’une aura qui punit leurs transgressions. La cible d’une Frappe vengeresse réussie subit des dégâts continus bons égaux à votre modificateur de charisme.
 
 ### Aura de justice
-Quand vous utilisez votre réaction de Frappe vengeresse, vous pouvez augmenter la pénalité de votre attaque à -5. si vous le faites, que votre attaque soit une réussite ou non, tous les alliés situés à 3m ou moins qui sont à portée de la cible peuvent aussi utiliser leur réaction pour faire une Frappe vengeresse normale contre la cible. Ces attaques supplémentaires ne rendent pas la cible affaiblie.
+Quand vous utilisez votre réaction de Frappe vengeresse, vous pouvez augmenter la pénalité de votre attaque à -5. si vous le faites, que votre attaque soit une réussite ou non, tous les alliés situés à 2 cases ou moins qui sont à portée de la cible peuvent aussi utiliser leur réaction pour faire une Frappe vengeresse normale contre la cible. Ces attaques supplémentaires ne rendent pas la cible affaiblie.
 
 ### Maîtrise des armures
 Votre formation en armures lourdes et boucliers augmente jusqu’à maître, et celle pour les armures légères ou moyennes augmente jusqu'à expert. Réduisez la pénalité de mouvement due aux armures lourdes de 2 à 1 case.

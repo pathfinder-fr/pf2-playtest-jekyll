@@ -1,10 +1,8 @@
 # Site règles Pathfinder 2de édition
 
-<http://2nd.pathfinder-fr.org>
+Ce projet contient le prototype du site PRD pour le playtest de Pathfinder 2nde édition.
 
-Ce projet contient le prototype du site PRD Pathfinder 2nde édition.
-
-Le site peut être consulté à cette adresse : <http://2nd.pathfinder-fr.org>
+Le site peut être consulté à cette adresse : <http://playtest.pathfinder-fr.org>
 
 Les contributeurs sont invités à consulter les [différents guide de contribution](https://gitlab.com/pathfinder-fr/pf2-jekyll/wikis/home).
 
