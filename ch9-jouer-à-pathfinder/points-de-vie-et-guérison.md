@@ -14,46 +14,45 @@ La plupart des créatures, quand elles atteignent 0 Point de vie, meurent, à mo
 
 Quand vous êtes réduit à 0 Point de vie, vous êtes mis KO. Lorsque cela se produit, les effets suivants s'appliquent à vous.
 
-* Vous tombez inconscient (et gagnez la condition inconscient).
-* Vous déplacez immédiatement votre position d'initiative pour qu'elle soit juste avant la créature ou l'effet qui vous a réduit à 0 pv.
-* Si l'attaque était létale, vous gagnez la condition mourant 1. Si vous possédiez déjà la condition mourant, augmentez sa valeur de 1. Si l'attaque était un coup critique, vous gagnez la condition mourant 2 (ou augmentez la valeur de condition déjà existante de 2).
-* Si l'attaque était non létale, vous ne gagnez pas la condition mourant et vous n'augmentez pas la valeur de la condition mourant si vous la possédiez déjà. Vous remontez à 1 Point de vie mais restez inconscient.
+* Vous **tombez [inconscient](/conditions/inconscient.html)** (et gagnez la condition inconscient).
+* Vous **déplacez immédiatement votre position d'initiative** pour qu'elle soit juste avant la position actuelle de l'initiative. Par exemple, si vous avez été mis KO par une créature, votre prochain tour se produirait juste avant celui de la créature en question.
+* Si les dégâts provenaient d'une source létale, vous gagnez la condition **[mourant](/conditions/mourant.html) 1**. Si l'effet qui vous a mis KO était une réussite critique pour l'attaquant ou le résultat d'un échec critique de votre part, vous gagnez la condition **mourant 2**. Si les dégâts provenaient d'une attaque ou d'un effet non létal, vous ne gagnez pas la condition mourant mais vous êtes tout de même [inconscient](/conditions/inconscient.html) et à 0 Point de vie.
 
-Si votre condition mourant atteint la valeur 4 ou plus, vous mourrez.
+### Mourir
+
+Si votre condition [mourant](/conditions/mourant.html) atteint la valeur 4 ou plus, vous mourrez. Vous perdez la condition mourant dès que vous revenez à 1 Point de vie ou plus. Quand vous perdez la condition mourant, vous redevenez conscient mais vous êtes [lent](/conditions/lent.html) pendant 1 round. La valeur de votre condition lent est égale à celle de votre condition [mourant](/conditions/mourant.html) au moment où vous avez été soigné (ainsi, si vous étiez mourant 2, vous êtes ralenti 2 pour 1 round).
+
 
 #### Jets de récupération
 
-Quand vous êtes inconscient, au début de chacun de vos tours, vous effectuez un jet de Vigueur spécial ayant pour objectif de reprendre conscience et qu'on appelle jet (de sauvegarde) de récupération.
+Quand vous êtes mourant, au début de chacun de vos tours, vous effectuez un jet de Vigueur spécial ayant pour objectif de reprendre conscience et appelé jet (de sauvegarde) de récupération. Les effets de ce jet de sauvegarde sont les suivants.
 
-Le MJ détermine le DD de votre jet de récupération lorsque vous êtes mis KO. Ce DD vaut le DD du sort ou de la capacité qui vous a mis hors combat plus la valeur actuelle de votre condition mourant.
-
-Si les dégâts qui vous ont amené à 0 Point de vie proviennent d'une source qui ne possède pas de DD, comme un jet d'attaque, utilisez le DD de classe de l'attaquant. Même si un DD de classe inclut généralement le modificateur de la caractéristique principale pour la classe du personnage, le MJ pourrait parfois décider qu'un autre modificateur de caractéristique est plus approprié. Par exemple, le DD de classe d'un magicien utilise généralement l'Intelligence mais, s'il met quelqu'un KO avec son bâton, le DD pourrait utiliser sa Force ou sa Dextérité. Pour les monstres, les MJ utiliseront le DD de compétence correspondant à une difficulté élevée pour le niveau du monstre (voir <mark>page 336</mark>).
-
-Utilisez toujours le DD de récupération déterminé au moment où vous avez été mis KO ; si le DD de l'attaquant change par la suite, le DD de votre jet de récupération, lui, n'est pas modifié rétroactivement.
-
-#### Effets des jets de récupération
-
-Les effets possibles d'un jet de récupération dépendent de votre situation, selon que vous êtes à 0 Point de vie (et risquez de mourir) ou à 1 Point de vie (stabilisé avec une chance de vous réveiller).
-
-Si vous êtes à 0 Point de vie :
-* **Réussite** Vous revenez à 1 Point de vie.
+* **Réussite** La valeur de votre condition [mourant](/conditions/mourant.html) diminue de 1.
+* **Réussite critique** La valeur de votre condition [mourant](/conditions/mourant.html) diminue de 2.
 * **Échec** La valeur de votre condition mourant augmente de 1.
 * **Échec critique** La valeur de votre condition mourant augmente de 2.
 
-Si vous êtes à 1 Point de vie ou plus :
-* **Réussite** Vous devenez conscient et vous pouvez effectuer votre tour normalement mais vous perdez 1 action ce tour-ci (donc, dans la plupart des cas, vous ne disposez que de 2 actions). Vous conservez la condition mourant.
+Le MJ détermine le DD de votre jet de récupération lorsque vous êtes mis KO. Ce DD vaut le DD du sort ou de la capacité qui vous a mis hors combat plus la valeur actuelle de votre condition mourant.
 
-#### Réduire la condition mourant
+Si les dégâts qui vous ont amené à 0 Point de vie proviennent d'une source qui ne possède pas de DD, comme un jet d'attaque, utilisez le DD de classe de l'attaquant. Même si un DD de classe inclut généralement le modificateur de la caractéristique principale pour la classe du personnage, le MJ pourrait parfois décider qu'un autre modificateur de caractéristique est plus approprié. Par exemple, le DD de classe d'un magicien utilise généralement l'Intelligence mais, s'il met quelqu'un KO avec son bâton, le DD pourrait utiliser sa Force ou sa Dextérité. Pour les monstres, les MJ utiliseront le DD de compétence correspondant à une difficulté élevée pour le niveau du monstre (voir [Degrés de difficulté](ch10-maîtriser-à-pathfinder/degrés-de-difficultés)).
 
-À la fin de chacun de vos tours, quand vous avez au moins 1 Point de vie et que vous êtes conscient, vous réduisez la valeur de votre condition mourant de 1. Comme pour toutes les autres conditions, lorsque la valeur de votre condition mourant atteint 0, la condition disparaît.
+Utilisez toujours le DD de récupération déterminé au moment où vous avez été mis KO ; si le DD de l'attaquant change par la suite, le DD de votre jet de récupération, lui, n'est pas modifié rétroactivement.
 
 #### Subir des dégâts en étant inconscient
 
-Si vous subissez des dégâts alors que vous êtes déjà inconscient, appliquez les mêmes effets que si vous aviez été mis KO par ces dégâts. Si le DD du jet de récupération pour ces nouveaux dégâts est plus élevé que votre DD de récupération actuel, ce dernier est remplacé par la valeur la plus élevée.
+Si vous subissez des dégâts alors que vous êtes déjà inconscient, appliquez les mêmes effets que si vous aviez été mis KO par ces dégâts mais ne déplacez pas votre position dans l'initiative. Si vous étiez déjà mourant et que le DD du jet de récupération pour ces nouveaux dégâts est plus élevé que votre DD de récupération actuel, vous utilsez désormais le DD le plus élevé.
 
 #### Récupération héroïque
 
-Vous pouvez dépenser 1 [Point héroïque](points-héroïques.html) pour perdre la condition mourant et revenir à 1 Point de vie (si vous êtes à 0 Point de vie), que vous soyez à deux doigts de la mort ou pas.
+Vous pouvez dépenser 1 [Point héroïque](points-héroïques.html) quand vous êtes [mourant](/conditions/mourant.html), afin de revenir à 1 Point de vie, que vous soyez à deux doigts de la mort ou pas. Les règles normales s'appliquent : en revenat à 1 Point de vie, vous perdez la condition mourant et devenez conscient et [lent](/conditions/lent.html).
+
+### Inconscient
+
+Quand vous êtes réduit à 0 Point de vie, vous tombez [inconcient](/conditions/inconscient.html). Vous perdez toutes les actions et réactions qu'il vous reste et, tant que vous êtes inconscient, vous ne regagnez pas d'action ni de réaction au début de votre tour.
+
+Si vous revenez à 1 Point de vie ou plus, vous redevenez conscient. Comme indiqué plus haut, si vous possédiez la condition [mourant](/conditions/mourant.html), vous êtes [lent](/conditions/lent.html) lors du premier tour qui suit le moment où vous avez regagné conscience. Si vous ne possédiez pas la condition mourant au moment où vous avez regagné conscience, vous n'êtes pas lent.
+
+Quand vous êtes inconscient et à 0 Point de vie mais que vous n'êtes plus mourant, vous retournez à 1 Point de vie de manière naturelle et vous vous réveillez une fois que suffisamment de temps s'est écoulé. Le MJ détermine combien de temps vous restez inconscient ; il peut s'agir de 10 minutes ou de plusieurs heures.
 
 ### Aux portes de la mort
 
@@ -65,11 +64,11 @@ Vous n'êtes plus vivant. Vous ne pouvez pas agir ni être affecté par des sort
 
 #### Mourant
 
-Vous saignez ou êtes, d'une manière ou d'une autre, à deux doigts de la mort. Mourant porte toujours une valeur et, si celle-ci atteint 4, vous mourrez. Si vous êtes mourant, les jets de récupération associés à la condition inconscient déterminent si votre état s'améliore ou empire. Si vous avez 1 Point de vie ou plus et êtes conscient, votre condition mourant décroît de 1 à la fin de votre tour chaque round.
+Vous saignez ou êtes, d'une manière ou d'une autre, à deux doigts de la mort. Mourant porte toujours une valeur et, si celle-ci atteint 4, vous mourrez. Si vous êtes mourant, vous devez effectuer un [jet de récupération](/jouer-à-pathfinder/points-de-vie-et-guérison.html#jets-de-récupération) au début de chacun de vos tours pour déterminer si votre état s'améliore ou empire. Si vous avez 1 Point de vie ou plus, vous perdez la condition mourant.
 
 #### Inconscient
 
-Vous avez été mis KO. Vous ne pouvez pas agir ; vous possédez les conditions aveuglé, assourdi et pris au dépourvu et vous subissez une pénalité de condition de -4 à la CA. Quand vous gagnez cette condition, vous tombez à terre et lâchez tous les objets que vous teniez ou manipuliez à moins que l'effet n'indique explicitement le contraire ou que le MJ détermine que vous vous trouvez dans une situation où cela ne se produirait pas. Vous devez effectuer un [jet de récupération](../ch9-jouer-à-pathfinder/points-de-vie-et-guérison.html#jets-de-récupération) au début de chacun de vos tours.
+Vous avez été mis KO. Vous ne pouvez pas agir. Vous subissez une pénalité de condition de -4 à la CA et gagnez les conditions [aveuglé](/conditions/aveuglé.html), [assourdi](/conditions/assourdi.html) et [pris au dépourvu](/pris-au-dépourvu.html). Quand vous gagnez cette condition, vous tombez à terre et lâchez tous les objets que vous teniez ou manipuliez à moins que l'effet n'indique explicitement le contraire ou que le MJ détermine que vous vous trouvez dans une situation où cela ne se produirait pas. Si vous revenez à 1 Point de vie ou plus, vous redevenez conscient. Si vous étiez [mourant](/conditions/mourant.html) au moment où vous avez regagné conscience, vous êtes [lent](/conditions/lent.html) pendant 1 round, avec une valeur égale à celle de votre condition mourant juste avant de revenir à 1 pv. Quand vous êtes inconscient, à 0 pv mais que vous n'êtes plus mourant, vous repassez à 1 Point de vie de manière naturelle et vous vous réveillez une fois que suffisamment de temps s'est écoulé. Le MJ détermine combien de temps vous restez inconscient ; il peut s'agir de 10 minutes ou de plusieurs heures.
 
 ### Effets de mort et mort instantanée
 

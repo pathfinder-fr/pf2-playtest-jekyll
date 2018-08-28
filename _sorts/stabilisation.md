@@ -19,7 +19,7 @@ trigger:
 cost: 
 range: 6 cases
 area: 
-targets: one dying creature
+targets: une créature mourante
 duration: 
 requirements: 
 
@@ -29,14 +29,7 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: La cible perd la condition [mourant](/conditions/mourant.html) mais reste inconsciente à 0 pv.
 ---
-A single touch shuts death’s door. The target goes from 0 Hit Points to 1 Hit Point.
 
-Heightened
-
--
-
-4th
-
-You also reduce the target’s dying value by 1.
+La lueur apaisante de l'énergie positive éloigne la mort. La cible perd la condition [mourant](/conditions/mourant.html) mais elle reste inconsciente et à 0 Points de vie.

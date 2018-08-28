@@ -25,7 +25,8 @@ En fonction de la manière dont le MJ vent gérer vos déplacements, vous pourri
 | 10      | 100       | 150   | 10    | 80      |
 | 12      | 120       | 180   | 12    | 96      |
 
-
+{: .tablenotes}
+*Notes. Il s'agit de conversions approximatives pour tomber sur des valeurs faciles à utiliser. Pour des valeurs plus exactes, multipliez les km/h et km/jour par 9/10. Pour des valeurs plus proches de la version anglaise, multipliez les km/h et km/jour par 8/10.*
 
 Les distances de la table supposent que vous voyagez à bonne allure sans toutefois que ce soit trop fatigant ni dangereux et que le terrain traversé est relativement plat et dégagé. En cas de terrain difficile, les vitesses sont divisées par deux. En cas de terrain très difficile, les distances sont divisées par trois par rapport à la normale.
 
