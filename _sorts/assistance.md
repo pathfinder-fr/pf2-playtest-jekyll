@@ -18,8 +18,8 @@ trigger:
 cost: 
 range: contact
 area: 
-targets: une créature
-duration: until the start of your next turn or until dismissed
+targets: 1 créature
+duration: Jusqu'au début de votre prochain tour ou jusqu'à ce qu'il soit consommé
 requirements: 
 
 casting:
@@ -28,6 +28,6 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Donne un petit bonus à la cible pour un jet."
 ---
-You ask for divine guidance, granting the target a +1 conditional bonus to one attack roll, Perception check, saving throw, or skill check the target attempts before the duration ends. The target chooses which roll to use the bonus on before rolling. If the target uses the bonus, the spell ends. Either way, it’s bolstered.
+Vous demandez une assistance divine, accordant à la cible un bonus conditionnel de +1 à un jet d'attaque, de Percetion, de sauvegarde ou de compétence qui doit être réalisé pendant la durée du sort. La cible choisit à quel jet le bonus est accordé avant de lancer les dés. Si la cible utilise le bonus, le sort se termine. Quelque soit son choix, la cible par la suite est [endurante](/ch9-jouer-à-pathfinder/conditions.html#endurant) au sort.

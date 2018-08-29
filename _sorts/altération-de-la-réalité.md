@@ -27,12 +27,11 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Permet de dupliquer ou imiter un sort occulte ou non occulte."
 ---
-You use your occult lore and the power of your mind to manipulate the spiritual multiverse, resulting in any of the following effects:
+Vous utilisez votre savoir occulte et la puissance de votre esprit pour manipuler le multivers. Ce qui a pour résultat de provoquer l'un des effets suivants :
+* Dupliquer un sort occulte de niveau 9 ou moins.
+* Dupliquer un sort non occulte de niveau 7 ou moins.
+* Produire un effet dont la puissance est équivalente à un sort occulte de niveau 9 ou moins ou à un sort non occulte de niveau 7 ou moins.
 
-- Duplicate any occult spell of 9th level or lower.
-
-- Duplicate any non-occult spell of 7th level or lower.
-
-- Produce any effect whose power is equivalent to any occult spell 9th level or lower, or non-occult spell 7th level or lower. At the GM's discretion, you can try to produce greater effects, but this is dangerous and the spell may have only a partial effect.
+A la discrétion du MJ, vous pouvez essayer de produire des effets plus puissants, mais c'est dangereux et le sort peut n'avoir qu'une partie de l'effet attendu.

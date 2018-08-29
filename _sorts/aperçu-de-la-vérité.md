@@ -22,6 +22,6 @@ casting:
   - action: 1
     description: Incantation somatique
 
-summary: '..'
+summary: "Permet de voir les choses telles qu'elles sont réellement."
 ---
-You see things within 30 feet as they truly are. The GM attempts a special secret dispel check against any illusion in the area, but only for the purpose of determining whether you see through it (for instance, if the check succeeds against an illusory disguise spell, you see the creature’s true form but it doesn’t end the illusory disguise).
+Vous voyez les choses situées dans un rayon de 6 cases comme elles le sont réellement. Le MJ tente en secret un jet de dissipation spécial contre les illusions présentes dans la zone, mais seulement dans le but de déterminer si vous pouvez voir à travers (par exemple, si le test réussi contre un sorts de [*déguisement illusoire*](/sorts/déguisement-illusoire.html), vous voyez la véritable forme de la créature, mais cela ne met pas un terme au sort de [*déguisement illusoire*](/sorts/déguisement-illusoire.html)).

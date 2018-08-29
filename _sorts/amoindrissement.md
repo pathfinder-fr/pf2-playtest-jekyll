@@ -29,14 +29,16 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Amoindri la cible pendant la durée du sort."
 ---
-Make a ranged touch attack. If you succeed, the effect depends on the target’s Fortitude save; if you critically succeed, treat the result as one degree worse. Enervated effects last for only the duration.
+Tentez une attaque de contact à distance. Si votre attaque est réussie, l'effet dépend du jet de sauvegarde de Vigueur e la cible. Si l'attaque est une réussite critique, traitez le résultat du jet de sauvegarde comme étant d'un niveau inférieur.
 
-**Réussite** The target is enervated 1.
+les effets d'ammoindrissements ne durent que pour la durée du sort.
 
-**Réussite critique** The target is unaffected.
+**Réussite** La cible est [amoindrie](/conditions/amoindri.html) 1
 
-**Échec** The target is enervated 2.
+**Réussite critique** La cible n'est pas affectée par le sort.
 
-**Échec critique** The target is enervated 4.
+**Échec** La cible est [amoindrie](/conditions/amoindri.html) 2.
+
+**Échec critique** La cible est [amoindrie](/conditions/amoindri.html) 4.

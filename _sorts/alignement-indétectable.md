@@ -21,7 +21,7 @@ duration: 1 jour
 requirements: 
 castingtime: 1 minute (M, S, V)
 
-summary: 'Rend indétectable l'alignement réel d'une créature ou d'un objet.'
+summary: "Rend indétectable l'alignement réel d'une créature ou d'un objet."
 ---
 
 L'alignement de la cible est considéré comme Neutre pour tous les effets qui peuvent détecter son alignement.

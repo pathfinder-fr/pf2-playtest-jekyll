@@ -25,7 +25,7 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: 'Des ailes de lumière poussent dans votre dos.'
+summary: "Des ailes de lumière poussent dans votre dos."
 ---
 Des ailes de pure lumière poussent sur votre dos, vous donnant une vitesse de vol de 6 cases. Vos ailes émettent de la [lumière vive](/ch9-jouer-à-pathfinder/perception.html#lumière-vive) dans une zone de 6 cases de rayon centrée sur vous.
 
@@ -34,5 +34,5 @@ Lorsque le sort va prendre fin, s'il vous reste des Points de magie, vous pouvez
 Lorsque le sort se termine, vous flottez jusqu'au sol en bénéficiant des effets du sort [*feuille morte*](/sorts/feuille-morte.html)
 
 **Elévations**
-* 5<sup>ème</sup> : La durée initiale du sort et la durée de la prolongation pour 1 Point de magie passe à 1 minute.
-* 7<sup>ème</sup> : La durée initiale du sort passe à 10 minutes et la durée de la prolongation pour 1 Point de magie passe à 5 minutes.
+* 5 : La durée initiale du sort et la durée de la prolongation pour 1 Point de magie passe à 1 minute.
+* 7 : La durée initiale du sort passe à 10 minutes et la durée de la prolongation pour 1 Point de magie passe à 5 minutes.

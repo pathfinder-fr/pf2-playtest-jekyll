@@ -19,7 +19,7 @@ trigger:
 cost: 
 range: 6 cases
 area: 
-targets: one or two creatures
+targets: 1 ou 2 créatures
 duration: 
 requirements: 
 
@@ -29,32 +29,24 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Infloige des dégâts d'électricité."
 ---
-You deal 1d6 electricity damage; each target must attempt a Reflex save. Heightening increases damage.
+Vous infligez 1d6 points de dégâts d'électricité. 
 
-**Réussite** The target takes half damage.
+Chaque cible doit tenter un jet de sauvegarde de Réflexes.
 
-**Réussite critique** The target takes no damage.
+Elever le sort augmente les dégâts.
 
-**Échec** The target takes full damage.
+**Réussite** La cible subit la moitié des dégâts.
 
-**Échec critique** The target takes double damage.
+**Réussite critique** La cible ne subit aucun dégâts.
 
-Heightened
+**Échec** La cible subit la totalité des dégâts.
 
-3rd
+**Échec critique** La cible subit le double des dégâts.
 
-Damage of 1d6 + your spellcasting ability modifier.
-
-5th
-
-Damage of 2d6 + your spellcasting ability modifier.
-
-7th
-
-Damage of 3d6 + your spellcasting ability modifier.
-
-9th
-
-Damage of 4d6 + your spellcasting ability modifier.
+**Eléveations**
+* 3 : Les dégâts passent à 1d6 + le modificateur de votre attribut de lancement de sorts.
+* 5 : Les dégâts passent à 2d6 + le modificateur de votre attribut de lancement de sorts.
+* 7 : Les dégâts passent à 3d6 + le modificateur de votre attribut de lancement de sorts.
+* 9 : Les dégâts passent à 4d6 + le modificateur de votre attribut de lancement de sorts.

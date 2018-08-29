@@ -26,6 +26,11 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Améiore votre bonus contre un DD très élevé."
 ---
-Your competitiveness drives you to better yourself against superior opposition. You gain a +1 conditional bonus to checks against a DC more than 11 greater than your total bonus before competitive edge; this doesn't affect your DCs. For instance, if you attempt a check at a +10 against a DC of 22 or higher, you gain the bonus, but if the DC is 21 or lower, you don't.
+Votre compétitivité vous conduit à donner le meilleur de vous-même contre une opposition supérieure.
+
+Vous béénficiez d'un bonus conditionnel de +1 aux test contre un DD supérieur d'au moins 12 à votre total de bonus avant l'*avantage compétitif*. Cela n'effecte pas vos propres DD.
+
+Par exemple, si vous tentez un test à +10 contre un DD de 22 ou plus, vous bénéficiez du bonus. En revanche, si le DD est 21 ou moins, vous n'en bénéficiez pas.
+

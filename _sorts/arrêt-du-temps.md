@@ -28,6 +28,7 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Arrête le temps temporairement."
 ---
-You temporarily stop time for everything but you, allowing you to use an incredible number of actions in a short period of time. Immediately after casting time stop, you can use up to 9 actions in three sets of up to 3 actions each. After each set of actions, 1 round passes, but only for you, effects specifically targeting or affecting you, and effects you create during the stoppage. All other creatures and objects are invulnerable to your attacks, and you can’t target or affect them with anything. Once you have finished your actions, time begins to flow again for the rest of the world. If you had created an effect whose duration extends past the end of the spell, such as a wall of fire, it immediately affects others again as normal, though it doesn’t have any of the effects that normally happen when you first cast the spell.
+Vous arrêtez le temps temporairement pour tout le monde sauf vous, vous permettant d'utiliser un nombre incroyable d'actions durant une courte période. Immédiatement après avoir lancé *arrêt du temps*, vous pouvez utiliser jusqu'à 9 actions réparties en trois blocs de 3 actions. Après chaque bloc d'actions, 1 round passe, mais seulement pour vous, pou les effets qui vous ciblent ou vous affectent et les effet que vous avez créés durant l'arrêt. Toutes les autres créatures et objets sont invulnérables à vos attaques et vous ne pouvez pas les cibler ou les affecter avec quoi que ce soit. Une fois que vous avez fini vos actions, le temps commence à repartir pour le reste du monde. Si vous avez créé un effet dont la durée normale s'étend au delà de la fin du sort, comme un [*mur de feu*](/sorts/mur-de-feu.html), il affecte automatiquement les autre comme d'habitude, même s'il n'a pas les effets qui auraient dû se produire au début du sorts n'apparaissent pas.
+ 

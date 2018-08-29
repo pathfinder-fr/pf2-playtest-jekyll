@@ -27,6 +27,11 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Emet une musique qui inflige de lourds dégâts à la cible."
 ---
-You perform music so perfect that the target dies of joy or sorrow. Once targeted, the target is bolstered against all castings of fatal aria. The effect of the spell depends on the target’s level and current Hit Points. 16th or Lower The target dies instantly. 17th If the target has 50 Hit Points or fewer, it dies instantly; otherwise, the target drops to 0 Hit Points and gains dying 1 or, if it’s already dying, increases its dying condition by 1. 18th or Higher The target takes 50 damage. If this brings it to 0 Hit Points, it dies instantly.
+Vous exécutez une musique si parfaite que la cible en meurt de joie ou de tristesse. Une fois ciblée, la cible devient [endurante](/ch9-jouer-à-pathfinder/conditions.html#endurant) à toutes les incantations d'*aria fatale*.
+
+Les effets du sort dépendent du niveau de la cible de et son nombre actuel de Points de vie :
+* Niveau 16 ou moins : La cible meurt instantanément
+* Niveau 17 : Si la cible possède 50 pv ou moins, elle meurt instantanément. Sinon, la cible tombe à 0 pv et devient [mourante](/conditions/mourant.html) 1 ou, si elle est déjà [mourante](/conditions/mourant.html), sa condition augmente de 1.
+* Niveau 18 ou plus : La cible subit 50 points de dégâts. Si la cible est réduite à 0 pv, elle meurt instantanément.

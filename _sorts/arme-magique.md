@@ -17,7 +17,7 @@ trigger:
 cost: 
 range: contact
 area: 
-targets: one nonmagical weapon that is unattended or that is wielded by you or a willing ally
+targets: Une arme non magique laisée sans surveillance ou manipulée par vous ou l'un de vos alliés volontaire
 duration: 1 minute
 requirements: 
 
@@ -27,6 +27,6 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Rend magique une arme matérielle."
 ---
-The weapon glimmers with magic and energy. The target becomes a +1 magic weapon, gaining a +1 item bonus to attack rolls and dealing another die of damage on a hit.
+L'arme scintille de magie et d'énergie. L'arme ciblée devient un *arme magique +1*, gagnant un bonus d'objet aux jets d'attaque et ajoutant 1 dé de dégâts en cas d'attaque réussie.

@@ -25,20 +25,11 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Donne une résistance aux attaques et l'attaquant subit de dégâts d'acide."
 ---
-You transform your flesh and organs into a bizarre amalgam of glistening skin, rough scales, tufts of hair, and tumorous protuberances. This has three effects:
+Vous transformez votre chair et vos organes en un amalgame bizarre et luisant de peau, d'écailles rugueuses, de touffes de poils et de protubérances tumorales. Ce sort a trois effets :
+* Vous gagnez une [résistance](/ch9-jouer-à-pathfinder/dégâts.html#résistance) 10 aux dégâts de précision et aux dégâts supplémentaires subit lors d'une attaque critique. Si la [résistance](/ch9-jouer-à-pathfinder/dégâts.html#résistance) est supérieure aux dégâts supplémentaires en cas d'attaque critique, elle les réduit à 0 mais ne réduit pas les dégâts normaux de l'attaque. Toute créature qui vous attaque doit calculer les dégâts normaux et les dégâts de critique séparément tant que votre anatomie est altérée.
+* Vous gagnez la [vision dans le noir](/ch9-jouer-à-pathfinder/perception.html#vision-dans-le-noir).
+* Des vases acides s'échappent de votre peau. Toute créature qui vous touche avec une attaque sans arme ou avec une arme sans allonge subit 2d6 points de dégâts d'acide.
 
-- You gain resistance 10 to precision damage and resistance 10 to extra damage from critical hits. If the resistance is greater than the extra damage, it reduces the extra damage to 0 but doesn’t reduce the attack’s normal damage. Any creature attacking you should calculate the normal damage and extra damage separately while your anatomy is altered.
-
-- You gain darkvision.
-
-- Acid oozes from your skin. Any creature that hits you with an unarmed attack or with a non-reach weapon takes 2d6 acid damage.
-
-Heightened
-
--
-
-2
-
-The resistances increase by 5 and the acid damage by 1d6.
+**Elévation** (+2) : La [résistance](/ch9-jouer-à-pathfinder/dégâts.html#résistance) augmente de 5 et les dégâts d'acide de 1d6

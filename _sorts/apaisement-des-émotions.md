@@ -19,7 +19,7 @@ cost:
 range: 24 cases
 area: émanation de 2 cases
 targets: 
-duration: concentration, up to 1 minute
+duration: concentration, jusqu'à 1 minute
 requirements: 
 
 casting:
@@ -28,14 +28,14 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Empêche tout acte hostile de la part d'une ou plusieurs créatures."
 ---
-Creatures in the area become calm, depending on their Will saves.
+Les créatures situées dans la zone d'effet deviennent calmes, selon le résultat de leur jet de sauvegarde de Volonté.
 
-**Réussite** Calming urges give a –1 conditional penalty to attack rolls.
+**Réussite** Le besoin irrépressible de calme inflige une pénalité conditionnelle de -1 aux jets d'attaque.
 
-**Réussite critique** The creature is unaffected.
+**Réussite critique** La créature n'est pas affectée.
 
-**Échec** You suppress emotion effects and prevent the creature from acting hostile. If it is subject to hostility from any other creature, it ceases to be affected by calm emotions.
+**Échec** Vous supprimez les effets d'émotion et interdisez à la créature d'agir de manière hostile. Si elle est la cible d'actes hostiles de n'importe quelle autre créature, elle cesse d'être affectée par le sort.
 
-**Échec critique** As failure, but hostility doesn't end the effect.
+**Échec critique** Comme en cas d'échec, mais les actes hostiles n'arrêtent pas l'effet du sort.

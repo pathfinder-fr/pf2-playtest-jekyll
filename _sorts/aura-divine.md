@@ -15,8 +15,8 @@ trigger:
 cost: 
 range: 
 area: aura de 2 cases
-targets: allies in the aura
-duration: concentration, up to 1 minute
+targets: Alliés situés dans la zone d'effet
+duration: concentration, jusqu'à 1 minute
 requirements: 
 
 casting:
@@ -25,6 +25,12 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Protège les cibles contre les attaques et effets alignés."
 ---
-Divine power wards the targets, granting a +1 conditional bonus to AC and saves while in the area. Choose chaotic, evil, good, or lawful. If you choose chaos, this spell gains the lawful trait and so on. The bonuses increase to +2 against attacks by creatures of the chosen alignment and effects created by such creatures. The bonuses increase to +4 against effects from such creatures that directly control the target and attacks made by summoned creatures of the chosen alignment. When a creature of the chosen alignment hits a target with a melee attack, it must succeed at a Will save or be blinded for 1 minute. It’s bolstered against all divine auras for the duration. The first time you Concentrate on the Spell each round, the radius grows 10 feet.
+Le pouvoir divin protège les cibles, leur accordant un bonus conditionnel de +1 à la CA et aux jets de sauvegarde tant qu'elles sont dans la zone d'effet.
+
+Choisissez le Chaos, le Mal, le Bien ou la Loi. Si vous choisissez le Chaos, le sort obtient le trait Loi, etc... Les bonus passent à +2 contre les attaques et les effets créés par les créatures de l'alignement choisi. Les bonus passent à +4 contre les effets de ces créatures qui contrôlent directement la cible et les attaques effectuées pas les créatures conjurées de l'alignement choisi.
+
+Lorsque une créature de l'alignement choisi touche une cible avec une attaque au corps à corps, elle doit réussir un jet de sauvegarde de Volonté ou être [aveuglée](/conditions/aveuglé.html) pendant 1 minute. Elle est [endurante](/ch9-jouer-à-pathfinder/conditions.html#endurant) à toutes les *auras divines* pendant la durée du sort.
+
+La première fois que vous vous Concentrez sur le sort à chaque tour, l'aura augmente de 2 cases.

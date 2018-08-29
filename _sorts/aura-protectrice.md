@@ -26,6 +26,10 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Vous permet de gagner une résistance ainsi que vos alliés autour de vous."
 ---
-You create a 15-foot-radius protective aura. You gain resistance equal to half your level to all damage. Your allies also gain this resistance while they are within the aura.
+Vous créez une aura de protection de 3 cases de rayon.
+
+Vous gagnez une [résistance](/ch9-jouer-à-pathfinder/dégâts.html#résistance) égale à la moitié de votre niveau contre tous les dégâts.
+
+Vos alliés gagnent aussi cette [résistance](/ch9-jouer-à-pathfinder/dégâts.html#résistance) lorsqu'ils sont situés à l'intérieure de l'aura.

@@ -24,14 +24,8 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Réduit la résistance des créatures."
 ---
-Reduce resistances of creatures in the aura (including you) by 1.
+Réduit la [résistance](/ch9-jouer-à-pathfinder/dégâts.html#résistance) des créatures dans la zone d'effet (dont vous) de 1.
 
-Heightened
-
--
-
-2
-
-Reduce resistances by an additional 1.
+**Elévation** (+2) : Réduit la [résistance](/ch9-jouer-à-pathfinder/dégâts.html#résistance) de 1 point supplémentaire.

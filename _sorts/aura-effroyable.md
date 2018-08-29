@@ -16,7 +16,7 @@ traits:
 trigger: 
 cost: 
 range: 
-area: 30-foot-radius aura centered on you
+area: zone de 6 cases de rayon centrée sur vous
 targets: 
 duration: 1 round
 requirements: 
@@ -27,6 +27,8 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Effraie les ennemis autour de vous."
 ---
-You emit an aura of terror. Foes in the area are frightened 1 and unable to reduce the condition. If you have Spell Points, you can spend 1 Spell Point to Concentrate on the Spell and extend its duration, for up to 1 minute.
+Vous émettez une aura de terreur. Les adversaires présents dans l'aura sont [effrayés](/conditions/effrayé.html) 1  et ne peuvent pas réduire leur condition.
+
+Si vous avez des Points de magie, vous pouvez en dépenser 1 pour vous Concentrer sur le sort et étendre sa durée jusqu'à 1 minute.

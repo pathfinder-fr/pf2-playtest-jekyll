@@ -14,19 +14,19 @@ trigger:
 cost: 
 range: contact
 area: 
-targets: 1 nonmagical pint of water or pound of food
+targets: 0,5 l d'eau ou 0,5 kg de nourriture non magique
 duration: 
 requirements: 
 castingtime: 1 minute (M, S, V)
 
-summary: '..'
+summary: "Améliore la qualité de la nourriture ou de l'eau."
 ---
-You transform the target into delicious fare, changing water into wine or another fine beverage or enhancing food’s taste and ingredients to make it a gourmet treat. The transformation also attempts to counteract toxins in the food or water. If you have Spell Points, you can add an additional pint or pound for each additional Spell Point you spend. The feast vanishes if not consumed.
+Vous transformez la cible en un repas délicieux : l'eau est changée en vin ou en un autre brévage fin ou le goût de la nourriture et les ingrédients sont améliorés pour le transformer en un plat gastronomique.
 
-Heightened
+La transformation tente également de contrer les toxines présentes dans la nourriture ou l'eau. 
 
--
+Si vous avez des Points de magie, vous pouvez ajouter 0,5 l ou 0,5 kg par Point de magie supplémentaire.
 
-1
+Le festin disparaît s'il n'est pas consommé.
 
-Initial and additional pints or pounds increase by 1.
+**Elévation** (+1) : Les quantités d'eau ou de nourriture initiales et additionnelles augmentent de 0,5 l et 0,5 kg respectivement.

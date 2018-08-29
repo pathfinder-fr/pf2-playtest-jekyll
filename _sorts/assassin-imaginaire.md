@@ -20,7 +20,7 @@ trigger:
 cost: 
 range: 24 cases
 area: 
-targets: one living creature
+targets: 1 créature vivante
 duration: 
 requirements: 
 
@@ -30,20 +30,18 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Invoque un assassin dans l'esprit de la cible."
 ---
-You create a phantasmal image of the most fearsome creature imaginable to the target. Only the spell’s target can see the killer, though you can see the vague shape of the illusion as it races forth to attack. The effect of the killer is based on the outcome of the target’s Will saving throw.
+Vous créez une image phantasmatique de la créature la plus effroyable qui soit pour la cible. Seule la cible du sort peut voir l'assassin, bien que vous puissiez voir une vague forme de l'illusion alors qu'elle se déplace pour attaquer. 
 
-**Réussite** The target is frightened 1.
+L'effet de l'*assassin imaginaire* est basé sur sur le résulté du jet de sauvegarde de Volonté de la cible.
 
-**Réussite critique** The target is unaffected.
+**Réussite** La cible est [effrayée](/conditions/effrayé.html) 1.
 
-**Échec** The target takes 8d6 mental damage and is frightened 2.
+**Réussite critique** La cible n'est pas affectée.
 
-**Échec critique** The target is so afraid it might instantly die. It must attempt a Fortitude saving throw; if the target fails, it is reduced to 0 Hit Points and dies. On a successful Fortitude save, the target still takes 12d6 mental damage, is fleeing until the end of its next turn, and is frightened 4.
+**Échec** La cible subit 8d6 dégâts mentaux et est [effrayée](/conditions/effrayé.html) 2.
 
-Heightened
+**Échec critique** La cible est si effrayée qu'elle devrait mourir instantanément. Elle doit tenter un jet de sauvegarde de Vigueur. Si le résultat est un échec, elle est réduite à 0 Points de vie et meurt. Si le résultat est une réussite, la cible subit 12d6 dégâts mentaux, elle [fuit](/condition/en-fuite.html) jusqu'à la fin de son prochain tour et elle est [effrayée](/conditions/effrayé.html) 4.
 
-1
-
-The damage on a failure increases by 2d6 and on a critical failure by 3d6.
+**Elévation** (+1) : Les dégâts sur un échec augmentent de 2d6 et sur un échec critique de 3d6.

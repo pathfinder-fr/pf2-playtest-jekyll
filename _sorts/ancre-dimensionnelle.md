@@ -27,14 +27,16 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Empêche la cible de voyager à travers les dimensions."
 ---
-You interfere with the target's ability to travel dimensions. The target is immune to teleportation and any effect that would move it to a different plane. The duration is determined by its Will save.
+Vous interférez avec la capacité de la cible à voyager à travers les dimensions. La cible est [immunisée](/ch9-jouer-à-pathfinder/dégâts.html#immunité) à la téléportation et à tous les effets qui pourraient la déplacer dans un plan différent.
 
-**Réussite** The effect lasts for 1 round.
+La durée de l'effet dépend du résultat du jet de sauvegarde de Volonté de la cible.
 
-**Réussite critique** No effect.
+**Réussite** L'effet dure 1 round.
 
-**Échec** The effect lasts for 1 minute.
+**Réussite critique** Aucun effet.
 
-**Échec critique** The effects lasts for 1 hour.
+**Échec** Leffet dure 1 minute.
+
+**Échec critique** L'effet dure 1 heure.

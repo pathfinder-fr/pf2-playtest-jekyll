@@ -22,6 +22,8 @@ casting:
   - action: 1
     description: Incantation somatique
 
-summary: '..'
+summary: "Améliore une arme tenue en main pour une courte durée."
 ---
-Your Somatic Casting action for this spell is to hold your weapon aloft and charge it with magical energy, so you can use the Somatic Casting action even if you don’t have a hand free. On your next attack with that weapon before the start of your next turn, increase the item bonus of your weapon by 1 (minimum +1 and maximum +5). This adds an additional die of damage as is normal for magic weapons.
+Votre action d'Incantation somatique pour ce sort est de tenir votre arme en l'air et de la charger avec de l'énergie magique. Vous pouvez donc utiliser l'action d'Incantation somatique même si vous n'avez pas de main libre.
+
+A votre prochaine attaque avec cette arme et avant le début de votre prochain tour, augmentez le bonus d'objet de l'arme de 1 (minimum +1 et maximum +5). Cela ajoute un dé de dégâts supplémentaire à l'arme comme pour toute arme magique.

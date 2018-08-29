@@ -18,7 +18,7 @@ trigger:
 cost: 
 range: 6 cases
 area: 
-targets: one living creature
+targets: 1 créature vivante
 duration: 
 requirements: 
 
@@ -28,12 +28,12 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Un rayon d'effroi effraie une créature vivante."
 ---
-You fire a dreadful ray. Make a ranged touch attack.
+Vous tirez un rayon d'effroi. Effectuez un jet d'attaque de contact à distance.
 
-**Réussite** The target becomes frightened 1.
+**Réussite** La cible est [effrayé](/conditions/effrayé.html) 1.
 
-**Réussite critique** The target becomes frightened 2.
+**Réussite critique** La cible est [effrayé](/conditions/effrayé.html) 2.
 
-**Échec** The target is unaffected.
+**Échec** La cible n'est pas affectée par le pouvoir.

@@ -26,7 +26,7 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Donne la condition [rapide](/conditions/rapide.html) à un allié."
 ---
 
 Vous faites une représentation très rapide, ce qui accélère votre allié.

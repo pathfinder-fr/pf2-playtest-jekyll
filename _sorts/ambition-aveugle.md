@@ -26,15 +26,14 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Renforce l'ambition de la cible pour la rendre plus facilement manipulable."
 ---
+Vous renforcez l'ambition de la cible, augmentez son ressentiment et la rendez plus simple à retourner. Les effets du sorts dépendent du résultat de son jet de sauvegarde de Volonté.
 
-You strengthen a target's ambition, increase its resentment of allies, and make it easier to turn. The effects depend on its Will save.
+**Réussite** Les tentatives pour Contraindre, Formuler une requête ou utiliser un effet mental pour convaincre la cible d'accéder à son ambition ne subit que la moitié des pénalités de circonstance (ou la cible ne gagne que la moitié de son bonus à son jet de sauvegarde éventuel) habituelles à cause de convictions ou de natures opposées.
 
-**Réussite** Attempts to Coerce, Request, or use mental effects to convince the target to advance its own ambitions take half the usual circumstance penalties (or gain bonuses on the target's save) for being against the target's convictions or nature.
+**Réussite critique** La cible n'est pas affectée par le sort.
 
-**Réussite critique** The target takes no effect.
+**Échec** Les tentatives pour Contraindre, Formuler une requête ou utiliser un effet mental pour convaincre la cible d'accéder à son ambition ingnorent les pénalités de circonstance (ou la cible ne gagne pas de bonus à son jet de sauvegarde éventuel) habituelles à cause de convictions ou de natures opposées et les demandes issues d'effets comme *suggestion* semblent raisonnables.
 
-**Échec** Attempts to Coerce, Request, or use mental effects to convince the target to advance its own ambitions ignore any circumstance penalties (or bonuses on the target's save) for being against the target's convictions or nature, and they seem reasonable for effects like suggestion.
-
-**Échec critique** The target is overcome with ambition, taking whatever actions would advance its own agenda over that of its allies, even without attempts to convince the target.
+**Échec critique** La cible est dévorée par son ambition et fera tout ce qu'elle peut pour l'atteindre son but avant celui de celui de ses alliés, même sans besoin de la convaincre.

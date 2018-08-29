@@ -22,14 +22,12 @@ duration:
 requirements: 
 castingtime: 10 minutes (M, S, V)
 
-summary: '..'
+summary: "Devine le résultat des actes à venir."
 ---
-You ask about the results of a particular course of action. The spell can predict results up to 30 minutes into the future, and reveals the GM's best guess among the following outcomes.
+Vous questionnez sur les résultats d'un enchaînement d'actions spécifiques. Le sort peut prédire les résultats jusqu'à 30 minutes dans le futur et révéler l'évènement le plus probables (selon le MJ) parmi les suivants :
+* Fortune : le résultat sera bon
+* Infortune : le résultat sera mauvais
+* Fortune et infortune : le résultat sera un mélange de bon et de mauvais
+* Rien : Le résultat ne sera ni bon ni mauvais.
 
-- Weal The results will be good.
-
-- Woe The results will be bad.
-
-- Weal and Woe The results will be a mix of good and bad.
-
-- Nothing There won't be particularly good or bad results. The GM rolls a secret DC 6 flat check. On a failure, the result is always ""nothing."" This makes it impossible to tell whether a ""nothing"" result is accurate. If anyone casts augury on the same topic, use the secret roll result from the first casting. It's possible to get a different result if circumstances change.
+Le MJ effectue un [test pur](/ch9-jouer-à-pathfinder/tests/html#tests-purs) secret DD 6. En cas d'échec, le résultat est toujours "Rien". Il est impossible de dire si le résultat "Rien" est juste ou non. Si quelqu'un lance *augure* sur le même sujet, utilisez le résultat secret de la première incantation. Il est possible d'obtenir un résultat différent sir les conditions évoluent.

@@ -23,7 +23,7 @@ duration: 8 heures
 requirements: focalisateur (cloche d'argent à 3 po)
 castingtime: 10 minutes (M, S, V)
 
-summary: 'Positionne une alarme qui vous réveille lorsqu'elle est déclenchée.'
+summary: "Positionne une alarme qui vous réveille lorsqu'elle est déclenchée."
 ---
 
 Le focalisateur disparaît jusqu'à ce que la magie soit rompue ou le sort expire.
@@ -37,4 +37,4 @@ Dans un cas comme dans l'autre, vous êtes automatiquement réveillé. Dans le s
 Une créature au courant de la présence d'une *alarme* doit réussir un jet de [Discrétion](/compétences/discrétion.html) contre le DD du sort ou déclencher l'alarme losqu'elle se déplace dans la zone d'effet du sort.
 
 **Elévations**
-* 3<sup>ème</sup> : Vous pouvez spécifier des critères précis pour les créatures qui déclencheront l'alarme. Par exemple, les orques ou les gens ayant les cheveux rouge.
+* 3 : Vous pouvez spécifier des critères précis pour les créatures qui déclencheront l'alarme. Par exemple, les orques ou les gens ayant les cheveux rouge.

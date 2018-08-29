@@ -25,18 +25,10 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Protège contre le Mal."
 ---
-You gain the effects of protection against evil.
+Vous obtenez les effets de la [*protection contre le Mal*](/sorts/portection-contre-un-alignement.html).
 
-Heightened
-
--
-
-3rd
-
-The effect of the spell increases to that of a circle of protection against evil, centered on you for 1 minute.
-
-5th
-
-The spell's duration increases to 1 hour
+**Elévations**
+* 3 : les effets du sort deviennent ceux d'un [*Cercle de protection contre le Mal*](/sorts/cercle-de-protection.html), centré sur vous pendant 1 minute.
+* 5 : La durée du sort passe à 1 heure.

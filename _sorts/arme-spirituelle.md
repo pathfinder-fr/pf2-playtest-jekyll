@@ -19,8 +19,8 @@ cost:
 range: 24 cases
 area: 
 targets: 
-duration: concentration, up to 1 minute
-requirements: You must have a deity.
+duration: concentration, jusqu'à 1 minute
+requirements: Vous devez avoir une déité.
 
 casting:
   - action: 1
@@ -28,14 +28,14 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Invoque une arme divine de force qui attaque les adversaires."
 ---
-A weapon made of pure magical force manifests and attacks foes you designate within range. This weapon is ghostly and appears as your deity’s favored weapon. When you cast the spell, the weapon appears next to a foe of your choice within range and makes a Strike against it. Each time you Concentrate on the Spell, you can move the weapon to a new target within range (if you choose to do so) and make a Strike with it. The spiritual weapon uses and contributes to your multiple attack penalty. Attacks with the weapon use your attack modifier with that type of weapon, but substitute your spellcasting ability modifier instead of the normal ability modifier. Regardless of its appearance, the weapon deals force damage equal to 1d8 plus your spellcasting ability modifier. When you Strike with the weapon, you can deal damage of the normal damage type of the weapon instead of force damage (or any of the available damage types for a versatile weapon). No other attributes of the weapon apply, and even a ranged weapon attacks adjacent creatures only. A spiritual weapon counts as a weapon for triggers, resistances, and so forth. The weapon doesn’t take up space, grant flanking, or have any other attributes a creature would. The weapon can’t make any kind of attack other than a normal Strike, and feats or spells that affect weapons do not apply to this weapon.
+Une arme faite de pure force magique apparaît et attaque les adversaires que vous avez désigné situés dans la zone d'effet. Cette arme prend l'apparence fantomatique de l'arme de prédilection de votre déité.
 
-Heightened
+Lorsque vous lancez le sort, l'arme apparaît à côté d'un adversaire de votre choix situé dans la zone d'effet du sort et l'Attaque. Chaque fois que vous vous Concentrez sur le sort, vous pouvez déplacer l'arme jusqu'à une autre cible située dans la zone d'effet du sort (si vous le souhaitez) et Attaquer avec l'arme. L'*arme spirituelle* utilise et contribue à votre pénalité d'attaques multiples.
 
--
+Les attaques avec l'*arme spirituelle* utilisent votre modificateur d'attaque avec ce type d'arme, mais remplace le modificateur de votre caractéristique d'attaque normale par le modificateur de votre caractéristique de lancement de sorts. Quelle que soit son apparence, l'*arme spirituelle* inflige des dégâts de force égaux à 1d8 plus le modificateur de votre caractéristique de lancement de sorts. Lorsque vous Attaquez avec l'arme, vous pouvez choisir d'infliger le type de dégâts normaux de l'arme au lieu des dégâts de force (ou n'importe quel type de dégâts disponible s'il s'agit d'une arme [polyvalent](/ch6-équipement/armes.html#polyvalent)). Aucun autre attribut de l'arme ne s'applique, et même une arme à distance n'attaque que les créatures adjacentes. Une *arme spirituelle* compte comme une arme en ce qui concerne les déclencheurs, les [résistances](/ch9-jouer-à-pathfinder/dégâts.html#résistance), etc...
 
-2
+L'*arme spirituelle* ne prend pas d'espace, ne permet pas de prendre en tenaille ou n'a aucun autre attribut qu'une créature pourrait avoir. L'*arme spirituelle* ne peut effectuer aucun autre type d'attaque qu'une Attaque normale et les dons et sorts qui affectent les armes ne s'appliquent pas à elle.
 
-The weapon’s damage increases by 1d8.
+**Elévation** (+2) Les dégâts infligés par l'*arme spirituelle* augmentent de 1d8.

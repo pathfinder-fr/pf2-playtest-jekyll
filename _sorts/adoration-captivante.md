@@ -26,7 +26,7 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: 'Fascine les créatures dans la zone d'effet.'
+summary: "Fascine les créatures dans la zone d'effet."
 ---
 
 Vous devenez d'une beauté enchanteresse et désirable et les créatures sont distraites par leurs sentiments à votre égard tant qu'elle reste dans la zone d'effet. L'effet est déterminé par le résultat de leur jet de sauvegarde de Volonté. Si une créature quitte la zone d'effet puis y pénètre à nouvea, utilisez le résultat du jet de sauvegarde original (avant qu'elle ne quitte la zone).

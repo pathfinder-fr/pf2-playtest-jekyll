@@ -18,7 +18,7 @@ trigger:
 cost: 
 range: contact
 area: 
-targets: one willing or unconscious living creature
+targets: Une créature vivante volontaire ou inconsciente
 duration: 1 minute
 requirements: 
 
@@ -28,14 +28,8 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Soigne la cible et renforce son esprit contre les attaque mentales."
 ---
-You grace the target’s mind, boosting its mental defenses and healing its wounds. The target regains Hit Points equal to 1d6 plus your spellcasting ability modifier when you Cast the Spell and gains a +1 conditional bonus to saves against mental effects for the duration.
+Votre bénissez l'esprit de la cible, améliorant ses défenses mentales et soignant ses blessures. Dès que vous lancez le sort, la cible regagne un nombre de Points de vie égal à 1d6 plus votre modificateur de caractéristique de lancement de sort. Pendant la durée du sort, la cible gagne un bonus conditionnel de +1 aux jets de sauvegarde contre les effets mentaux.
 
-Heightened
-
--
-
-1
-
-The amount of healing increases by 2d6.
+**Elévation** (+1) : Le nombre de Points de vie soignés augmente de 2d6

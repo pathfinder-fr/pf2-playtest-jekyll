@@ -10,7 +10,7 @@ level: 2
 rarity: PC
 traits:
   - nécromancie
-trigger: You reduce an enemy to 0 HP.
+trigger: Vous réduisez les Points de vie d'un ennemi à 0.
 cost: 
 range: 
 area: 
@@ -22,6 +22,8 @@ casting:
   - action: R
     description: Incantation verbale
 
-summary: '..'
+summary: "Donne des points de vie temporaires."
 ---
-You gain temporary HP equal to the enemy's level, or twice the enemy's level if it was undead. It is bolstered against all castings of death's call. The temporary HP last for 1 minute.
+Vous gagnez un nombre de Points de vie temporaires égal au niveau de l'ennemi ou à deux fois son niveau s'il s'agit d'un mort-vivant.
+
+L'ennemi est par la suite [endurant](ch9-jouer-à-pathfinder/conditions.html#endurant) contre toutes les incantations futures d '*appel de la mort*. Les Points de vie temporaires durent pendant 1 minute.

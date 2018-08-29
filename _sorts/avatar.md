@@ -17,7 +17,7 @@ cost:
 range: 
 area: 
 targets: 
-duration: 1 minute or until dismissed
+duration: 1 minute ou jusqu'à terminaison.
 requirements: 
 
 casting:
@@ -26,96 +26,37 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: ""
 ---
-You transform into an avatar of your deity, assuming a Huge battle form. You must have space to expand or the spell is lost. You count as a deity in addition to your normal traits. Your gear is absorbed into you; the constant abilities of your gear still function, but you can't activate it. When you transform, you gain the following:
+Vous vous transformez en un avatar de votre déité, prenant une forme de combat de taille TG. Vous devez avoir suffisamment d'espace pour vous agrandir, sinon le osrt est perdu. Vous êtes considéré comme une déité en plus de votre traits normaux. Votre équipement est absorbé à l'intérieur de vous. Les capacités constantes de votre équipement continuent de fonctionner, mais vous ne pouvez pas les activer. Lorsque vous vous transformez, vous obtenez les effets suivants :
+* CA 42 (CAC 39), vous ignorez la pénalité d'armue aux tests de compétence et la réduction de vitesse liée à l'armure.
+* Une attaque ou plus, qui sont les seuls types d'attaques que vous pouvez effectuer. Vous êtes Entraîné pour ces attaques. Votre modificateur d'attaque est de +31 et le bonus aux dégâts est indiqué. Les attaques de corps à corps sont basées sur la Force (pour les [affaiblissements](/conditions/affaibli.html) par exemple) sauf s'ils ont le trait finesse et les attaques à distances sont basées sur la Dextérité. Elles ciblent la CA de l'ennemi. Même si elles infliges des dégâts positifs ou négatifs, elle ne soignent pas les créatures.
+* 30 Points de vie temporaires pendant la durée de la transformation.
+* [vision dans le noir](/ch9-jouer-à-pathfinder/perception.html#vision-dans-le-noir)
+* Un bonus de +31 aux tests d'Athlétisme sauf si votre propre bonus est suéprieur. 
 
-- AC 42 (TAC 39), ignore armor's check penalty and reduced Speed.
+Ces statistiques peuvent être ajustées seulement pas des pénalités, des bonus de circonstance ou des bonus conditionnels. Il est impossible d'Incanter un sort et presque d'effectuer la plupart des actions de manipulation qui nécessitent des mains (c'est au MJ de décider si il y a un doute) lorsque vous êtes sous cette forme.
+Vous pouvez mettre un terme au sort par une action de concentration.
 
-- One or more attacks, which are the only types of attacks you can use. You're trained with them. Your attack modifier is +31 and the damage bonus is listed. Melee attacks are Strength based (for the purposes of enfeebled, for example) unless they have the finesse trait, and all ranged attacks are Dexterity based. They target the enemy's AC. Even if they deal positive or negative damage, they don't heal creatures.
+Lorsque vous êtes sous forme de bataille, vous gagnez les attaques, vitesse de déplacement et capacités spéciales associées à votre déité ci-dessous.
 
-- 30 temporary Hit Points while you have the form.
-
-- Darkvision.
-
-- Athletics bonus of +31 unless your own bonus is higher. These statistics can be adjusted only by penalties, circumstance bonuses, and conditional bonuses. This form prevents spellcasting and most manipulate actions that require hands (the GM decides if there's doubt). You can dismiss the spell with a concentrate action. When in battle form, you gain the attacks, Speeds, and special abilities listed for your deity below.
-
-Abadar
-
-Speed 50 feet, immune to hampered and immobilized, burrow Speed 30 feet; crossbow (range 120 feet, reload 1), Damage 6d10+3 piercing.
-
-Asmodeus
-
-Speed 70 feet, immune to hampered, air walk; mace (reach 15 feet), Damage 6d10+6 bludgeoning; hellfire (range 120 feet), Damage 6d6+3 fire.
-
-Calistria
-
-Speed 30 feet, fly Speed 70 feet; whip (disarm, finesse nonlethal, reach 20 feet), Damage 6d4+6 slashing; savored sting (range 60 feet), Damage 6d6+3 poison.
-
-Cayden Cailean
-
-Speed 70 feet, ignore difficult terrain (and greater), air walk; rapier (deadly, reach 15), Damage 6d6+6 piercing; ale splash (range 120 feet), Damage 6d6+3 poison.
-
-Desna
-
-Speed 30 feet, fly Speed 70 feet; starknife (agile, deadly, finesse, reach 15, silver, thrown 60), Damage 6d4+6 piercing; moonbeam (range 120 feet, silver), Damage 6d6+3 fire.
-
-Erastil
-
-Speed 70 feet, ignore difficult terrain (and greater), air walk; longbow (deadly, range 150), Damage 6d8+3 piercing.
-
-Gorum
-
-Speed 70 feet, immune to hampered and immobilized; greatsword (versatile P, reach 15), Damage 6d12+6 slashing.
-
-Gozreh
-
-fly Speed 70 feet, swim Speed 70 feet, no land Speed; ignore difficult terrain (and greater); wind (versatile electricity, range 120 feet), Damage 6d6+3 bludgeoning; waves Damage 6d8+6 bludgeoning (bull rush, reach 15, thrown 20).
-
-Iomedae
-
-Speed 70 feet, immune to hampered, air walk; shield (15 Hardness, can't be dented or broken); longsword (versatile piercing, reach 15 feet), Damage 6d8+6 slashing.
-
-Irori
-
-Speed 80 feet, immune to hampered, air walk; unfettered strike (agile, versatile S or P, finesse, reach 15), Damage 6d8+6 bludgeoning; wind strike (range 60), Damage 6d4+6 bludgeoning.
-
-Lamashtu
-
-Speed 30 feet, fly Speed 70 feet; falchion (forceful, reach 15 feet), Damage 6d10+6 slashing; waters of Lamashtu, (range 120 feet), Damage 6d6+3 poison.
-
-Nethys
-
-Speed 70 feet, immune hampered, air walk; raw magic (versatile cold, electricity, fire, range 120), Damage 6d6 force.
-
-Norgorber
-
-Speed 70 feet, ignore difficult terrain and greater difficult terrain, air walk; short sword (agile, finesse, versatile slashing, reach 15 feet), Damage 6d6+6 piercing; blackfinger toss (range 120 feet), Damage 6d6+3 poison.
-
-Pharasma
-
-Speed 70 feet, immune to hampered, airwalk; dagger (agile, finesse, reach 15 feet, thrown 40 feet), Damage 6d6+6 slashing; spiral blast (range 120 feet, damages only undead, Damage 6d8+3 positive).
-
-Rovagug
-
-Speed 50 feet, immune to hampered and immobilized, burrow Speed 30 feet; jaws (reach 15 feet), Damage 6d12+6 piercing; leg (agile, versatile piercing, reach 15 feet), Damage 6d8+6 bludgeoning.
-
-Sarenrae
-
-Speed 30 feet, fly Speed 70 feet; scimitar (forceful, nonlethal, reach 15 feet), Damage 6d6+6 slashing; everflame (nonlethal, range 120 feet), Damage 6d6+3 fire.
-
-Shelyn
-
-Speed 70 feet, ignore difficultterrain and greater difficult terrain, air walk; glaive (deadly, nonlethal, reach 20 feet), Damage 6d8+6 slashing; melody of inner beauty, (nonlethal, range 120 feet), Damage 6d6+3 sonic.
-
-Torag
-
-Speed 50 feet, immune to hampered and immobilized, burrow Speed 30 feet; shield (15 Hardness, can't be dented or broken); warhammer (bull rush, reach 15 feet), Damage 6d8+6 bludgeoning.
-
-Urgathoa
-
-Speed 70 feet, immune to hampered, air walk; scythe (deadly, trip, reach 15 feet), Damage 6d10+6 slashing; pallid plague (range 120 feet), Damage 6d6+3 negative.
-
-Zon-Kuthon
-
-Speed 70 feet, ignore difficult terrain and greater difficult terrain, air walk; spiked chain (disarm, trip, reach 15 feet), Damage 6d8+6 slashing; midnight pain (mental, nonlethal, range 120 feet), Damage 6d6+3.
+* **Dieu du commerce** : Vitesse 10 cases, [immunité](/ch9-jouer-à-pathfinder/dégâts.html#immunité) à la [vitesse réduite](/conditions/vitesse-réduite) et à l'[immobilisation](/conditions/immobilisé.html), Vitesse de fouissement 6 cases ; arbalète (portée 24 cases, rechargement 1), **dégâts** 6d10+3 P.
+* **Dieu de la tyrannie** : Vitesse 24 cases, [immunité](/ch9-jouer-à-pathfinder/dégâts.html#immunité) à la [vitesse réduite](/conditions/vitesse-réduite), [*marche aérienne*](/sorts/marche-aérienne.html) ; massue (allonge 3 cases), **dégâts** 6d10+3 C ; feu de l'enfer (portée 24 cases), **dégâts** 6d6+3 feu.
+* **Déesse de la vengeance** : Vitesse 6 cases, vitesse de vol 14 cases ; fouet (désarmement, finesse, non létal, allonge 4 cases), **dégâts** 6d4+6 T ; dard savoureux (portée 12 cases), **dégâts** 6d6+3 poison.
+* **Dieu de l'aventure** : Vitesse 14 cases, ignore les terrains difficiles (ou plus), [*marche aérienne*](/sorts/marche-aérienne.html) ; rapière (mortel, allonge 3 cases), **dégâts** 6d6+6 P ; éclaboussure de bière (portée 24 cases), **dégâts** 6d6+3 poison.
+* **Déesse du voyage** : Vitesse 6 cases, vitesse de vol 14 cases ; lamétoile (agile, mortel, finesse, allonge 3 cases, argent, lancé 12 cases), **dégâts** 6d4+6 P ; rayon de lune (portée 24 cases, argent), **dégâts** 6d6+3 feu.
+* **Dieu de la chasse** : Vitesse 14 cases, ignore les terrains difficiles (ou plus), [*marche aérienne*](/sorts/marche-aérienne.html) ; arc long (mortel, portée 30 cases), **dégâts** 6d8+3 P.
+* **Dieu de la guerre** : Vitesse 14 cases, [immunité](/ch9-jouer-à-pathfinder/dégâts.html#immunité) à la [vitesse réduite](/conditions/vitesse-réduite) et à l'[immobilisation](/conditions/immobilisé.html) ; épée à deux mains (polyvalent P, allonge 3 cases), **dégâts** 6d12+6 T.
+* **Dieu de la nature** : Vitesse de vol 14 cases, Vitesse de nage 14 cases, pas de vitesse sur terre, ignore les terrains difficiles (ou plus) ; vent (polyvalent électricité, portée 24 cases), **dégâts** 6d6+3 C ; vagues  (pousser, allonge 3 cases, lancé 4 cases), **dégâts** 6d8+6 C.
+* **Déesse de la justice** : Vitesse 14 cases, [immunité](/ch9-jouer-à-pathfinder/dégâts.html#immunité) à la [vitesse réduite](/conditions/vitesse-réduite), [*marche aérienne*](/sorts/marche-aérienne.html) ; bouclier (Solidité 15, ne peut recevoir de coups ou être brisé) ; épée longue (polyvalent P, allonge 3 cases), **dégâts** 6d8+6 T.
+* **Dieu de la perfection de soi** : Vitesse 16 cases, [immunité](/ch9-jouer-à-pathfinder/dégâts.html#immunité) à la [vitesse réduite](/conditions/vitesse-réduite), [*marche aérienne*](/sorts/marche-aérienne.html) ; attaque sans entraves (agile, polyvalent T ou P, finesse, allonge 3 cases), **dégâts** 6d8+6 C ; attaque du vent (portée 12 cases), **dégâts** 6d4+6 C.
+* **Dieu des cauchemars** : Vitesse 6 cases, vitesse de vol 14 cases ; fauchon (inertie, allonge 3 cases), **dégâts** 6d10+6 T ; eau des cauchemars (portée 20 cases), **dégâts** 6d6+3 poison.
+* **Déesse de la magie** : Vitesse 14 cases, [immunité](/ch9-jouer-à-pathfinder/dégâts.html#immunité) à la [vitesse réduite](/conditions/vitesse-réduite), [*marche aérienne*](/sorts/marche-aérienne.html) ; magie pure (polyvalent froid, électricité, feu, portée 20 cases), **dégâts** 6d6 force.
+* **Dieu des assassins** : Vitesse 14 cases, ingore les terrains difficiles et très difficile, [*marche aérienne*](/sorts/marche-aérienne.html) ; épée courte (agile, finesse, polyvalent T, allonge 3 cases), **dégâts** 6d8+6 P ; jet du doigt noir (portée 20 cases), **dégâts** 6d6+3 poison.
+* **Déesse de la mort** : Vitesse 14 cases, [immunité](/ch9-jouer-à-pathfinder/dégâts.html#immunité) à la [vitesse réduite](/conditions/vitesse-réduite), [*marche aérienne*](/sorts/marche-aérienne.html) ; dague (agile, finesse, allonge 3 cases, lancé 8 cases), **dégâts** 6d6+6 T ; souffle spiralé (portée 20 cases), **dégâts** 6d8+3 positif (n'affecte que que les morts-vivants).
+* **Dieu de la destruction** : Vitesse 10 cases, vitesse de fouissement 6 cases, [immunité](/ch9-jouer-à-pathfinder/dégâts.html#immunité) à la [vitesse réduite](/conditions/vitesse-réduite) et à l'[immobilisation](/conditions/immobilisé.html) , [*marche aérienne*](/sorts/marche-aérienne.html) ; mâchoires (allonge 3 cases), **dégâts** 6d12+6 P ; jambe (agile, polyvalent P, allonge 3 cases), **dégâts** 6d8+6 C.
+* **Déesse de la guérison** : Vitesse 6 cases, vitesse de vol 14 cases ; cimeterre (inertie, non létal, allonge 3 cases), **dégâts** 6d6+6 T ; flamme éternelle (non létal, portée 24 cases), **dégâts** 6d6+3 feu.
+* **Déesse de la beauté** : Vitesse 14 cases, ignore les terrains difficiles et très difficiles, [*marche aérienne*](/sorts/marche-aérienne.html) ; glaive (mortel, non létal, allonge 4 cases), **dégâts** 6d8+6 T ; mélodie de la beauté intérieure (non létal, portée 24 cases), **dégâts** 6d6+3 son.
+* **Dieu de l'artisanat** : Vitesse 10 cases, vitesse de fouissement 6 cases, [immunité](/ch9-jouer-à-pathfinder/dégâts.html#immunité) à la [vitesse réduite](/conditions/vitesse-réduite) et à l'[immobilisation](/conditions/immobilisé.html), [*marche aérienne*](/sorts/marche-aérienne.html) ; bouclier (solidité 15, ne peut prendre de coups ou être brisé) ; marteau de guerre (pousser, allonge 3 cases), **dégâts** 6d8+6 C.
+* **Dieu de la maladie** : Vitesse 14 cases, [immunité](/ch9-jouer-à-pathfinder/dégâts.html#immunité) à la [vitesse réduite](/conditions/vitesse-réduite), [*marche aérienne*](/sorts/marche-aérienne.html) ; faux (mortel, mise à terre, allonge 3 cases), **dégâts** 6d10+6 T ; peste blanche (portée 24 cases), **dégâts** 6d6+3 négatif.
+* **Dieu des ténèbres** : Vitesse 14 cases, ignore les terrains difficiles et très difficiles, [*marche aérienne*](/sorts/marche-aérienne.html) ; chaîne cloutée (désarmement, mise à terre, allonge 3 cases), **dégâts** 6d8+6 T ; douleur de minuit (mental, non létal, portée 24 cases), **dégâts** 6d6+3.
