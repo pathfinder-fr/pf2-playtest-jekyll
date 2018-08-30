@@ -18,7 +18,7 @@ cost:
 range: 24 cases
 area: émanation de 4 cases
 targets: 
-duration: 1 minute or until dismissed
+duration: 1 minute ou jusqu'à annulation
 requirements: 
 
 casting:
@@ -29,6 +29,6 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Crée une brume dissimulante qui rend le terrain difficile."
 ---
-Per obscuring mist, except that the area is also difficult terrain.
+Les effets du sort sont identiques à [*brume dissimulante*](/sorts/brume-dissimulante.html) excepté que la zone est aussi considérée comme un terrain difficile.

@@ -17,8 +17,8 @@ trigger:
 cost: 
 range: 
 area: aura de 6 cases
-targets: you and allies in the aura
-duration: concentration, up to 1 minute
+targets: vous et vos alliés situés dans l'aura
+duration: concentration, jusqu'à 1 minute
 requirements: 
 
 casting:
@@ -27,6 +27,8 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Les bénédictions de l'au-delà rendent vos compagnons plus puissants."
 ---
-Blessings from beyond make your companions potent. They gain a +1 conditional bonus to attack rolls. Bless can dispel bane.
+Les bénédictions de l'au-delà rendent vos compagnons plus puissants. Ils gagnent un bonus conditionnel de +1 aux jets d'attaque.
+
+*Bénédiction* peut contrer [*imprécation*](/sorts/imprécation.html).

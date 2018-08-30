@@ -17,7 +17,7 @@ cost:
 range: 
 area: 
 targets: 
-duration: concentration, up to 1 minute or until dismissed
+duration: concentration, jusqu'à 1 minute ou annulation
 requirements: 
 
 casting:
@@ -26,24 +26,23 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Crée un nuage parsemé d'éclairs qui vous camoufle et inflige de dégâts à vos attaquants."
 ---
-You become surrounded by a cloud of swirling fog, punctuated by occasional sparks of lightning and thunderous booms. You become concealed, but take a –2 penalty to Stealth checks. You deal electricity damage equal to 3d6 plus your spellcasting ability modifier to any creature that hits you with an unarmed attack or with a non-reach weapon.
+Vous êtes entouré d'un nuage tourbillonnant, parsemé d'éclairs et de coups de tonnerre occasionnels.
 
-**Réussite** Half damage.
+Vous êtes [camouflé](/conditions/camouflé.html), mais vous subissez une pénalité de -2 aux tests de [Discrétion](/compétences/discrétion.html).
 
-**Réussite critique** No damage.
+Vous infligez un nombre de points de dégâts d'électricité égal à 3d6 plus le modificateur de votre caractéristique de lancement de sorts à toutes les créatures qui vous touche avec une attaque sans arme ou avec une arme au corps à corps sans allonge.
 
-**Échec** Full damage and the target is deafened for 1 round.
+**Réussite** Demi-dégâts.
 
-**Échec critique** Double damage and the target is deafened for 1 round.
+**Réussite critique** Aucun dégâts.
 
-Heightened
+**Échec** Dégâts complets et la cible est [assourdie](/conditions/assourdi.html) pendant 1 round.
 
-6th
+**Échec critique** Dégâts doublés et la cible est [assourdie](/conditions/assourdi.html) pendant 1 round.
 
-The damage increases to 5d6.
 
-8th
-
-The damage increases to 7d6.
+**Elévations**
+* 6 : Les dégâts passent à 5d6
+* 8 : Les dégâts passent à 7d6

@@ -15,7 +15,7 @@ traits:
   - feu
 trigger: 
 cost: 
-range: 500 feet
+range: 100 cases
 area: émanation de 4 cases
 targets: 
 duration: 
@@ -27,20 +27,16 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Crée une boule de feu qui explose au point d'impact ciblé."
 ---
-A burst of fire explodes, dealing 6d6 fire damage; creatures in the area must attempt a Reflex save.
+Une boule de feu explose, infligeant 6d6 points de dégâts de feu. Les créatures dans la zone d'effet doivent tenter un jet de sauvegarde de Réflexes.
 
-**Réussite** The creature takes half damage.
+**Réussite** La créature subit la moitié des dégâts.
 
-**Réussite critique** The creature is unaffected.
+**Réussite critique** La créature ne subit aucun dégât.
 
-**Échec** The creature takes full damage.
+**Échec** La créature subit la totalité des dégâts.
 
-**Échec critique** The creature takes double damage.
+**Échec critique** La créature subit le double des dégâts.
 
-Heightened
-
-1
-
-The damage increases by 2d6.
+**Elévation** (+1) : Les dégâts sont augmentés de 2d6.

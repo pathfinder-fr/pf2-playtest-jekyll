@@ -19,7 +19,7 @@ cost:
 range: contact
 area: 
 targets: une créature ou objet
-duration: unlimited or until dismissed
+duration: illimité ou jusqu'à son annulation
 requirements: 
 
 casting:
@@ -28,6 +28,8 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Crée une bouche illusoire qui transmet un message sur déclencheur."
 ---
-You specify a trigger stimulus (see page 197) and a message up to 25 words long. When the trigger stimulus occurs within 30 feet of the target, an illusory mouth appears on the target and speaks the message. Magic mouth is then dismissed.
+Vous sépcifiez un [stimulus déclencheur](/ch7-sorts/lancer-un-sort.html#stimulus-déclencheur) et un message contenant jusqu'à 25 mots. Lorsque le [stimulus déclencheur](/ch7-sorts/lancer-un-sort.html#stimulus-déclencheur) est déclenché à une distance de 6 cases de la cible, une bouche illusoire apparaît sur la cible et transmet le message.
+
+*Bouche magique* est alors annulé.

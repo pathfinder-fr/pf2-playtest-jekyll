@@ -26,7 +26,7 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: ""
+summary: "Vous vous transformez en un avatar de votre déité."
 ---
 Vous vous transformez en un avatar de votre déité, prenant une forme de combat de taille TG. Vous devez avoir suffisamment d'espace pour vous agrandir, sinon le osrt est perdu. Vous êtes considéré comme une déité en plus de votre traits normaux. Votre équipement est absorbé à l'intérieur de vous. Les capacités constantes de votre équipement continuent de fonctionner, mais vous ne pouvez pas les activer. Lorsque vous vous transformez, vous obtenez les effets suivants :
 * CA 42 (CAC 39), vous ignorez la pénalité d'armue aux tests de compétence et la réduction de vitesse liée à l'armure.

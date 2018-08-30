@@ -10,7 +10,7 @@ level: 1
 rarity: PC
 traits:
   - nécromancie
-trigger: You cast a heal spell to heal a living creature.
+trigger: Vous lancez un sort de [*guérison*](/sorts/guérison.html) pour soigner une créature vivante.
 cost: 
 range: 
 area: 
@@ -22,6 +22,6 @@ casting:
   - action: L
     description: Incantation somatique
 
-summary: '..'
+summary: "Améliore les soins prodigués aux vivants."
 ---
-The amount healed by the triggering spell increases by 2 points per die. If you’re both healing living creatures and damaging undead, the healing increases by that amount but the damage does not.
+Augmente le nombre de Points de vie soignés de 2 pv par dé de soins. Si vous infligez des dégâts à des créatures mortes-vivantes en même temps que vous guérissez des vivants, seuls les soins sont augmentés.

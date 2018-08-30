@@ -20,29 +20,22 @@ cost:
 range: 
 area: 
 targets: 
-duration: until your next turn or until dismissed
+duration: jusqu'au début de votre prochain tour ou jusqu'à annulation
 requirements: 
 
 casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Créer un bouclier de force qui vous protège contre les attaques."
 ---
-You raise a magical shield of force to protect you. This counts as using the Raise a Shield action (see the sidebar) to gain a +1 circumstance bonus to AC until the start of your next turn, though it doesn’t require a hand to use. While the spell is in effect, you can also use the Shield Block reaction with your magic shield. The shield has Hardness 4. After you use Shield Block, the spell is dismissed and you can’t cast it again for 10 minutes. Unlike a normal Shield Block, you can use the spell’s reaction against the magic missile spell. Heightening the spell increases the Hardness.
+Vous levez un bouclier de force magique pour vous protéger. Cela équivaut à effectuer l'action Lever un bouclier pour gagner un bonus de circonstance de +1 à la CA jusqu'au début de votre prochain tour même si le *bouclier* ne nécessite pas de main pour être manipulé.
 
-Heightened
+Tant que le sort est actif, vous pouvez également utiliser la réaction Blocage avec un bouclier avec votre *bouclier*. Le *bouclier* possède une Solidité de 4. Après que vous ayez utilisé la réaction Blocage avec un bouclier, le sort est annulé et vous ne pouvez pas le relancer pendant 10 minutes. Contrairement à un Blocage avec un bouclier normal, vous pouvez utiliser la réaction du *bouclier* contre les sorts de [*projectile magique*](/sorts/projectile-magique.html).
 
--
+Elever le sort augmente la Solidité du *bouclier*.
 
-3rd
-
-Hardness 10.
-
-5th
-
-Hardness 15.
-
-7th
-
-Hardness 20.
+**Elévations**
+* 3 : Le *bouclier* possède une Solidité de 10
+* 5 : Le *bouclier* possède une Solidité de 15
+* 7 : Le *bouclier* possède une Solidité de 20

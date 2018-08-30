@@ -28,20 +28,18 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Créé une barrière de lame dangereuse à franchir."
 ---
-Blades of force form a churning wall. The wall is a straight line 20 feet high, 120 feet long, and 2 inches thick and provides cover. You deal 6d8 force damage to each creature in its space when the wall is created, that attempts to pass through the wall, or that ends its turn inside the wall; the creature must attempt a Reflex save. A creature that succeeds when the wall is created is pushed to the nearest space on the side of its choice.
+Des lames de force constituent un mur mouvant. Le mur est une ligne droite de 4 cases de haut, 24 cases de long et 5 cm d'épaisseur et fourni un [abri](//ch9-jouer-à-pathfinder/mouvement-et-positionnement.html#abri). 
 
-**Réussite** The creature takes half damage.
+Vous infligez 6d8 points de dégâts de force à toute créature qui est située dans l'espace du mur lorsqu'il est créé, qui tente de le traverser ou qui termine son tour à l'intérieur du mur. Une créature concernée par l'un de ces cas doit tenter un jet de sauvegarde de Réflexes. Une créature qui est sur la trajectoire du mur lorsqu'il est créé et qui réussi son jet de sauvegarde est repoussée vers la case adjacente disponible de son choix la plus proche.
 
-**Réussite critique** The creature is unaffected.
+**Réussite** La créature subit la moitié des dégâts.
 
-**Échec** The creature takes full damage.
+**Réussite critique** La créature n'est pas affectée.
 
-**Échec critique** The creature takes double damage. If it was trying to move through, it fails but can try again with later actions.
+**Échec** La créature subit la totalité des dégâts.
 
-Heightened
+**Échec critique** La créature subit le double des dégâts. Si elle essayait de traverser le mur, elle échoue mais peut réessayer avec ses actions suivantes.
 
-1
-
-The damage increases by 1d8.
+**Elévation** (+1) : Les dégâts sont augmentés de 1d8.

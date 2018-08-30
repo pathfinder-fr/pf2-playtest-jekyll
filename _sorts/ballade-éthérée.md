@@ -18,7 +18,7 @@ cost:
 range: 
 area: 
 targets: 
-duration: concentration, up to 1 minute
+duration: concentration, jusqu'à 1 minute
 requirements: 
 
 casting:
@@ -27,14 +27,15 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Autorise le voyage à travers le plan Ethéré."
 ---
-You travel to the Ethereal Plane, which overlaps the Material Plane. Material Plane creatures can’t see you and you can move through things on the Material Plane. You move at half your normal Speeds, but can move in any directions (including up and down). You can see onto the Material Plane within a radius of 60 feet; it is gray, hazy, and concealed from you. You can’t affect the Material Plane, and you can’t be affected by the Material Plane except by force effects and abjurations. When the spell ends, you return to the Material Plane. If you’re in the air, you fall (unless you can fly), and if you’re inside an object, you’re pushed into the nearest open space and take 1d6 damage per 5 feet you were pushed. If you cast this spell when not on the Material Plane, it is lost.
+Vous voyagez vers le plan Ethéré, qui coïncide avec le plan Matériel. 
 
-Heightened
+Les créatures du plan Matériel ne peuvent pas vous voir et vous pouvez vous déplacer d'un objet à l'autre sur le plan Matériel. Vous vous déplacez à la moitié de votre vitesse de déplacement normale, mais vous pouvez vous déplacer dans n'importe quelle direction (y compris vers le haut ou vers le bas). 
 
--
+Vous pouvez voir dans le plan Matériel jusqu'à une distance de 12 cases. Le plan Matériel vous apparaît gris, rouble et masqué. Vous ne pouvez pas affecter le plan Matériel et ne pouvez être affecté par lui, excepté par les effets de force et d'abjuration.
 
-9th
+Lorsque le sort prend fin, vous retournez sur le plan matériel. Si vous êtes en l'air, vous tombez (sauf si vous savez voler) et si vous vous trouvez à l'intérieur d'un objet, vous êtes expulsé vers la case la plus proche et subissez 1d6 points de dégâts par case que dure l'expulsion. Si vous lancez ce sort alors que vous n'êtes pas sur le plan Matériel, il est perdu.
 
-You can target up to five additional willing creatures at a range of 30 feet. The maximum duration is 10 minutes.
+**Elévations**
+* 9 : Vous pouvez cibler jusqu'à 5 créatures volontaires supplémentaires situées dans une zone de 6 cases. La durée maximale du sort passe à 10 minutes.

@@ -23,14 +23,11 @@ duration: 24 heures
 requirements: 
 castingtime: 1 minute (M, S, V)
 
-summary: '..'
+summary: "Crée une barrière protectrice autour de la cible."
 ---
-You protect the target with a powerful, long-lasting barrier. It gains resistance 5 to acid, cold, electricity, fire, force, and sonic.
+Vous protégez la cible avec une puissante barrière de longue durée.
 
-Heightened
+La cible gagne une [résistance](/ch9-jouer-à-pathfinder/dégâts.html#résistance) 5 à l'acide, au froid, à l'électricité, au feu, à la force et au son.
 
--
-
-9th
-
-The resistances increase to 10.
+**Elévations**
+* 9 : La [résistance](/ch9-jouer-à-pathfinder/dégâts.html#résistance) passe à 10.

@@ -15,19 +15,15 @@ trigger:
 cost: 
 range: contact
 area: 
-targets: one freshly-picked berry
+targets: 1 baie fraîchement cueillie
 duration: 1 jour
 requirements: 
 castingtime: 10 minutes (S, V)
 
-summary: '..'
+summary: "Améliore les qualités nutritives et de guérison d'une baie."
 ---
-You imbue the target berry with the bounty of nature, allowing it to heal and sustain far beyond its normal capacity. A living creature that eats the berry with an Interact action gains as much nourishment as a square meal for a typical human and regains 1d4 Hit Points plus your spellcasting ability modifier. If not consumed during the duration, the berry withers away.
+Vous imprégnez la baie ciblée avec la générosité de la nature, la rendant capable de soigner et nourrir bien plus que ces capacités normales. Une créature qui mange la baie à l'aide de l'action Intéragir est autant nourrie que si elle avait mangé un repas complet pour un humain typique et regagne un nombnre de Points de vie égal à 1d4 plus le modificateur de votre caractéristique de lancement de sorts. 
 
-Heightened
+Si elle n'est pas  consommée pendant la durée du sort, la baie dépéri.
 
--
-
-1
-
-You can target an additional berry.
+**Elévation** (+1) : Vous pouvez cibler 1 baie supplémentaire.

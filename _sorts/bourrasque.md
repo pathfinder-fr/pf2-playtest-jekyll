@@ -18,7 +18,7 @@ cost:
 range: 
 area: ligne de 12 cases
 targets: 
-duration: until the start of your next turn
+duration: Jusqu'au début de votre prochain tour.
 requirements: 
 
 casting:
@@ -27,14 +27,18 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Crée un fort coup de vent en ligne droite depuis votre position."
 ---
-A violent wind issues forth from your outstretched palm, blowing from the point where you are when you cast the spell to the line’s opposite end. The wind extinguishes small nonmagical fires, disperses fog and mist, blows around objects of light Bulk or less, and pushes larger objects. Large or smaller creatures in the area must attempt a Fortitude save. Large or smaller creatures that move into the gust later must attempt the save on entering.
+Vous émettez un coup de vent violent depuis la paume de votre main orientée dans la direction où vous souhaitez lancer le sort qui se propage jusqu'au point d'impact du sort.
 
-**Réussite** The creature can’t move against the wind.
+Le vent éteint les petits feux non magiques, disperse le brouillard et la brume, éparpille les objets d'Encombrement L ou moins et pousser les objets plus grands.
 
-**Réussite critique** Unaffected.
+Les créatures de taille L ou moins situées sur la trajectoire du sort doivent effectuer une jet de sauvegarde de Vigueur. Les créatures de taille L ou moins qui pénètrent dans la trajectoire du sort après son lancement doivent également effectuer un jet de sauvegarde.
 
-**Échec** Knocked prone. If it was flying, it suffers the effects of critical failure instead.
+**Réussite** La créature est bloquée face au vent.
 
-**Échec critique** Pushed 30 feet in the wind direction, knocked prone, and takes 2d6 bludgeoning damage.
+**Réussite critique** La créature n'est pas affectée.
+
+**Échec** La créature est [mise à terre](/conditions/à-terre.html). Si elle était en train de voler, elle subit les effets d'un échec critique à la place.
+
+**Échec critique** La créature est repoussée de 6 cases dans la direction du vent, elle est [mise à terre](/conditions/à-terre.html) et subit 2d6 points de dégâts C.

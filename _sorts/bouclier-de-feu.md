@@ -27,14 +27,8 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Crée une barrière de flammes qui vous protège du froid et inflige des dégâts à vos attaquants."
 ---
-You wreathe yourself in flames, gaining cold resistance 5. Additionally, adjacent creatures that hit you with a melee attack, as well as creatures that touch you or hit you with an unarmed attack, take 2d6 fire damage each time they do.
+Vous vous enveloppez de flammes, gagnant un [résistance](/ch9-jouer-à-pathfinder/dégâts.html#résistance) 5 au froid. De plus, les créatures adjacentes qui vous attaquent au corps à corps ou sans arme, subissent 2d6 points de dégâts de feu à chaque attaque réussie.
 
-Heightened
-
--
-
-2
-
-The cold resistance increases by 5 and the fire damage increases by 1d6.
+**Elévation** (+2) : La [résistance](/ch9-jouer-à-pathfinder/dégâts.html#résistance) au froid augmente de 5 et les dégâts de feu de 1d6.

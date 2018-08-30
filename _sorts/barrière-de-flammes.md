@@ -11,7 +11,7 @@ rarity: PC
 traits:
   - abjuration
   - feu
-trigger: An effect deals fire damage to either you or an ally within range.
+trigger: Un effet inflige des dégâts de feu à vous ou à un allié à portée.
 cost: 
 range: 12 cases
 area: 
@@ -23,6 +23,6 @@ casting:
   - action: R
     description: Incantation verbale
 
-summary: '..'
+summary: "Offre une résistance au feu produit par l'effet déclencheur."
 ---
-You or one ally gains fire resistance from the triggering effect equal to twice your level. The resistance applies only against damage you take from the triggering attack, not to any enhancements or conditions.
+Vous-même ou un allié bénéficiez d'une [résistance](/ch9-jouer-à-pathfinder/dégâts.html#résistance) aux dégâts de feu de l'effet déclencheur égal à 2 fois votre niveau. La [résistance](/ch9-jouer-à-pathfinder/dégâts.html#résistance) ne s'applique qu'aux dégâts que vous ou votre allié subissez de l'attaque de l'effet déclencheur, pas de ceux subis par des améliorations ou des conditions.

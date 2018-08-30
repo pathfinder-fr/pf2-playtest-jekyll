@@ -14,30 +14,25 @@ traits:
   - négatif
 trigger: 
 cost: 
-range: contact, Range 6 cases, or Area 30-foot aura (see text)
+range: contact, 6 cases, ou aura de 6 cases (voir texte)
 area: 
-targets: one living creature or willing undead creature
+targets: 1 créature vivante ou 1 créature morte-vivante volontaire.
 duration: 
 requirements: 
 
 casting:
   - action: 1
-    description: Incantation somatique or more
+    description: Incantation somatique ou plus
 
-summary: '..'
+summary: "Blesse une créature vivante ou soigne une créature morte-vivante."
 ---
-You channel negative energy to harm the living or heal the undead. You restore Hit Points equal to 1d8 plus your spellcasting ability modifier to a willing undead target, or deal that amount of negative damage to a living target. The number of actions spent Casting this Spell determines its targets, range, area, and other parameters.
+Vous canalisez de l'énergie négative pour blesser les vivants ou soigner les morts-vivants.
 
-- Somatic Casting The spell has a range of touch. You must succeed at a melee touch attack to damage a living target.
+Vous soignez une créature morte-vivante volontaire pour un nombre de Points de vie égal à 1d8 plus le modificateur de votre caractéristique de lancement de sorts ou vous infligez un nombre équivalent de points de dégâts négatifs à une créature vivante. 
 
-- Somatic Casting, Verbal Casting The spell has a range of 30 feet and doesn’t require a touch attack when targeting a living creature. A living target must attempt a Fortitude save, taking half damage on a success, no damage on a critical success, or double damage on a critical failure.
+Le nombre d'actions d'Incantations utilisées pour lancer le sort détermine ces cibles, sa portée, sa zone d'effet et d'autres paramètres :
+* Incantation somatique : Le sort à une portée de contact. Vous devez réussir une attaque de contact au corps à corps pour infliger des dégâts à une créature vivante.
+* Incantation somatique et Incantation verbale : Le sort à une portée de 6 cases et ne nécessite pas d'attaque de contact lorsque vous ciblez une créature vivante. Une crétaure vivante doit tenter un jet de sauvegarde de Vigueur. En cas de succès, elle subit la moitié de dégâts. En cas de succès critique, elle ne subit aucun dégât. En cas d'échec critique, elle subit le double des dégâts.
+* Incantation matérielle, Incantation somatique et Incantation verbale : Vous dispersez l'énergie négative dans une aura de 6 cases. Les effets sont les mêmes que pour la version à 2 actions, mais le sort cible toutes les créatures vivantes et toutes les créatures mortes-vivantes présentes dans l'aura et réduit le nombre de Points de vie soignés ou de dégâts infligés au modificateur de votre caractéristique de lancement de sorts.
 
-- Material Casting, Somatic Casting, Verbal Casting You disperse negative energy in a 30-foot aura. This has the same effect as the two-action version, but it targets all living and undead creatures in the burst and reduces the amount of healing or damage to your spellcasting ability modifier.
-
-Heightened
-
--
-
-1
-
-the amount of healing or damage increases by 1d8, or by 2d8 if you’re using the 1- or 2-action version to heal undead.
+**Elévation** (+1) : Le montant des soins ou des dégâts augmentent de 1d8, ou de 2d8 si vous utilisez les versions à 1 ou 2 actions pour soigner les morts-vivants.

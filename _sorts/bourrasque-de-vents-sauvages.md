@@ -17,7 +17,7 @@ range:
 area: cône de 6 cases
 targets: 
 duration: 
-requirements: You are in wild winds stance.
+requirements: Vous êtes sous l'effet du pouvoir [*posture des vents sauvages*](/sorts/posture-des-vents-sauvages.html).
 
 casting:
   - action: 1
@@ -25,6 +25,6 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Permet d'effectuer une attaque de <mark>[Collision des vents](/classes/moine.html)</mark> contre chacune des créatures situées dans la zone."
 ---
-Make a wind crash Strike against each creature in the area. These attacks all count toward your multiple attack penalty, but the penalty doesn’t increase until after you make all the attacks.
+Vous effectuez une Attaque de <mark>[Collision des vents](/classes/moine.html)</mark> contre chacune des créatures situées dans la zone. Ces attaques comptent dans votre pénalité d'attaques multiples, mais la pénalité n'augmente que lorsque l'ensemble de vos attaques de <mark>[Collision des vents](/classes/moine.html)</mark> ont été effectuées.

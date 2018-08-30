@@ -18,7 +18,7 @@ trigger:
 cost: 
 range: 6 cases
 area: 
-targets: une créature that isn't on its home plane
+targets: 1 créature qui n'est pas sur son plan d'origine.
 duration: 
 requirements: 
 
@@ -28,20 +28,23 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Renvoie une créature vers son plan d'origine."
 ---
-You send the target back to its home plane, to the place it was before leaving. The effect depends on the target's Will save. You can add a Material Casting action to give the creature a –2 circumstance penalty to its save. The component must be a specially gathered object that is anathema to the creature, not from a spell component pouch. You can cast this spell only when you're on your home plane.
+Vous renvoyez la cible vers son plan d'origine, à l'endroit où elle était avant d'être conjurée.
 
-**Réussite** The creature resists being banished.
+L'effet dépend du résultat du jet de sauvegarde de Volonté de la cible.
 
-**Réussite critique** The creature resists being banished and you are stunned until the end of your next turn.
+Vous pouvez ajouter une action d'Incantation matériel pour infliger à la cible un pénalité de circonstance de -2 à son jet de sauvegarde. La composante matérielle doit être un objet qui est anathème à la créateur et qui a été récupéré spécifiquement (donc non issu d'une sacoche à composantes). 
 
-**Échec** The creature is banished.
+Vous pouvez lancer ce sort uniquement si vous êtes sur votre plan d'origine.
 
-crit-**Échec** The creature is banished and can't return to your home plane by any means for 1 week.
+**Réussite** La créature résiste au *banissement*.
 
-Heightened
+**Réussite critique** La créature résiste au banissement et vous êtes [étourdi](/conditions/étourdi.html) jusqu'à la fin de votre prochain tour.
 
-9th
+**Échec** la créature est banie.
 
-You can target up to 10 creatures. The extra material component affects these targets if it is anathema to them.
+**Échec critique** La créature est banie et ne peut revenir sur votre plan d'origine pendant 1 semaine (quel que soit son moyen).
+
+**Elévations**
+* 9 : Vous pouvez cibler jusqu'à 10 créatures. La composante matérielle affecte ces cibles si elle est anathème pour elles.

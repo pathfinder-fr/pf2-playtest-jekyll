@@ -24,14 +24,8 @@ casting:
   - action: 1
     description: Incantation somatique
 
-summary: '..'
+summary: "Invoque une pierre magique qui peut être lancée sur une cible."
 ---
-You evoke a magical stone and throw it. Make a ranged Strike with the rock weapon against a single creature within 60 feet. The stone deals bludgeoning damage equal to 1d10 plus your Strength modifier.
+Vous invoquez une pierre magique et la lancez. Faites une attaque à distance avec la pierre contre une créature située à moins de 12 cases. La pierre inflige des dégâts C égaux à 1d10 plus votre modificateur de Force.
 
-Heightened
-
--
-
-2
-
-The stone’s base damage increases by 1d10.
+**Elévation** (+2) : Les dégâts de la pierre augmentent de 1d10.

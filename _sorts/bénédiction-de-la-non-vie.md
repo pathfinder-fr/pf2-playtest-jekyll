@@ -10,7 +10,7 @@ level: 1
 rarity: PC
 traits:
   - nécromancie
-trigger: You cast a harm spell to heal an undead creature.
+trigger: Vous lancez un sort de [*blessure*](/sorts/blessure.html) pour soigner une créature morte-vivante.
 cost: 
 range: 
 area: 
@@ -22,6 +22,6 @@ casting:
   - action: L
     description: Incantation somatique
 
-summary: '..'
+summary: "Améliore les soins prodigués aux morts-vivants."
 ---
-Increase the amount healed by 2 Hit Points per die. If you’re both healing undead and damaging living creatures, the healing is increased by that amount but the damage is not.
+Augmente le nombre de Points de vie soignés de 2 pv par dé de soins. Si vous infligez des dégâts à des créatures vivantes en même temps que vous guérissez des morts-vivants, seuls les soins sont augmentés.

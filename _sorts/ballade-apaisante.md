@@ -19,7 +19,7 @@ trigger:
 cost: 
 range: 6 cases
 area: 
-targets: you and up to nine allies
+targets: Vous et jusqu'à 9 alliés
 duration: 
 requirements: 
 
@@ -29,24 +29,13 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "La musique du barde contre des effets de peur ou de paralysie ou soigne les cibles."
 ---
-You draw upon the power of your muse to soothe your allies. Choose one of the following three effects:
+Vous utilisez le pouvoir de votre muse pour apaiser vos alliés. Choisissez l'un des trois effets suivants :
+* Le sort tente de contrer les effets de peur dont sont affecté les cibles.
+* Le sort tente de contrer les effets de paralysie dont sont affecté les cibles.
+* La *ballade apaisante* soigne les cibles d'un nombre de Points de vie égale à 7d6 plus le modificateur de votre caractéristique de lancement de sort.
 
-- The spell attempts to counteract fear effects on the targets.
-
-- The spell attempts to counteract paralysis effects on the targets.
-
-- Soothing ballad restores Hit Points equal to 7d6 plus your spellcasting ability modifier to the targets.
-
-Heightened
-
--
-
-8th
-
-When healing, soothing ballad restores Hit Points equal to 8d6 + your spellcasting ability modifier.
-
-9th
-
-When healing, soothing ballad restores Hit Points equal to 9d6 + your spellcasting ability modifier.
+**Elévations**
+* 8 : Si vous choisissez les soins, la *ballade apaisante* soigne les cibles d'un nombre de Points de vie égale à 8d6 plus le modificateur de votre caractéristique de lancement de sort
+* 9 : Si vous choisissez les soins, la *ballade apaisante* soigne les cibles d'un nombre de Points de vie égale à 9d6 plus le modificateur de votre caractéristique de lancement de sort
