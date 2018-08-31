@@ -14,7 +14,7 @@ traits:
 trigger: 
 cost: 
 range: 
-area: 60-foot burst centered on you
+area: émanation de 12 cases centrée sur vous
 targets: 
 duration: 10 minutes
 requirements: 
@@ -25,6 +25,8 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Illumine la zone d'effet d'une lumière lunaire."
 ---
-You cause the area to shimmer with moonlight. This counts as dim light, but any magical script or arcane symbols in the area glow a slightly brighter blue, granting a +1 circumstance bonus to Perception checks to Seek them. Magical ink visible only in moonlight also appears in an area of moonlight glow.
+La zone brille de lumière lunaire. Cela compte comme une [pénombre](/ch9-jouer-à-pathfinder/perception.html#pénombre), mais toutes les écritures magiques ou les symboles arcaniques dans la zones luisent d'un bleu un peu plus clair, accordant un bonus de circonstance de +1 aux tests de [Perception](/ch9-jouer-à-pathfinder/perception.html) pour les [Rechercher](/ch9-jouer-à-pathfinder/actions-de-base.html#rechercher).
+
+L'encre magique visible seulement à la lumière lunaire apparaît également dans une zone de *clair de lune*.

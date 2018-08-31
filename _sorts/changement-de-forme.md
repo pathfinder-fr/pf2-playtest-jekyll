@@ -18,7 +18,7 @@ cost:
 range: 
 area: 
 targets: 
-duration: 1 minute or until dismissed
+duration: 1 minute ou jusqu'à annulation
 requirements: 
 
 casting:
@@ -27,6 +27,10 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Vous permet de passer sous n'importe quelle forme connue."
 ---
-You transform yourself into any form you could choose with a different polymorph spell you know of 7th level or lower. You choose the type of creature as you cast the spell rather than when you prepare it. You can Concentrate on the Spell to change your form to any other form you could choose with this spell. You can dismiss this spell by using an action (this action has the concentrate trait).
+Vous vous transformez en une forme que vous pouvez choisir via un sort de transformation de niveau 7 ou moins que vous connaissez. Vous choisissez le type de créature pendant que vous incantez le sort plutôt que lorsque vous le pérarez.
+
+Vous pouvez vous Concentrer sur le sort pour passer sous une autre forme que vous pouvez choisir avec ce sort.
+
+Vous pouvez mettre un terme au sort en utilisant une action (cette action possède le trait concentration).

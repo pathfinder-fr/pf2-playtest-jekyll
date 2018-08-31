@@ -11,7 +11,7 @@ rarity: PC
 traits:
   - divination
   - chance
-trigger: You spend a Seek or Recall Knowledge action.
+trigger: Vous utilisez l'action Rechercher ou l'action Se rappeler de connaissances.
 cost: 
 range: 
 area: 
@@ -23,6 +23,8 @@ casting:
   - action: L
     description: Incantation verbale
 
-summary: '..'
+summary: "Permet de lancer deux fois le jet de Recherche ou de Rappel de connaissances"
 ---
-Roll the Perception or Religion check you attempt as part of that action twice and take the higher result. If you’re trained in Arcana, Nature, or Occult, you can also use this spell on those checks attempted as part of a Recall Knowledge action.
+Effectuez deux fois le jet de [Perception](/ch9-jouer-à-pathfinder/perception.html) ou de [Religion](/compétences/religion.html) réalisé dans le cadre de l'action que vous entreprenez et conservez le résultat le plus élevé.
+
+Si vous êtes Entraîné en [Arcanes](/compétences/arcanes.html), [Nature](/compétences/nature.html) ou en [Occultisme](/compétences/occultisme.html), vous pouvez également utiliser ce sort pour les jets effectués dans le cadre d'une action de Rappel des souvenirs.

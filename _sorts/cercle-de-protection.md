@@ -15,7 +15,7 @@ traits:
 trigger: 
 cost: 
 range: contact
-area: 10-foot-aura centered on the touched creature
+area: aira de 2 cases centrée sur la cible
 targets: 
 duration: 1 minute
 requirements: 
@@ -28,14 +28,13 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "La cible émet une aura qui protège contre les créatures d'un alignement choisi."
 ---
-Choose chaotic, evil, good, or lawful. If you choose chaos, this spell gains the lawful trait and so on. Creatures in the area gain a +1 conditional bonus to AC against attacks by creatures of the chosen alignment and saves against effects from such creatures. This increases to +3 against effects from such creatures that directly control the target and attacks made by such summoned creatures. Summoned creatures of the chosen alignment can't willingly enter without a Will save. Use the first result for repeated attempts.
+Choisissez un alignement parmi le Chaos, le Mal, le Bien ou la Loi. Le sort gagne le trait de l'alignement choisi.
 
-Heightened
+Les créatures situées dans la zone d'effet gagnent un bonus conditionnel de +1 à la CA contre les attaques et aux jets de sauvegarde contre les effets effectués par des créatures de l'alignement choisi. Le bonus passe à +3 contre les effets des créatures de l'alignement choisi qui contrôlent directement la cible et contre les attaques effectuées par des créatures convoquées de cet alignement.
 
--
+Les créatures convoquées de l'alignement choisi ne peuvent entrer volontairement dans la zone d'effet sans réussir un jet de sauvegarde de VOlonté. Utilisez le premier jet pour chacune des tentatives.
 
-4th
-
-The duration increases to 1 hour.
+**Elévations**
+* 4 : La durée du sort passe à 1 heure.

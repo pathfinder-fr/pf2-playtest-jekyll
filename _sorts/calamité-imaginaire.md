@@ -15,7 +15,7 @@ traits:
   - mental
 trigger: 
 cost: 
-range: 500 feet
+range: 100 cases
 area: émanation de 6 cases
 targets: 
 duration: 
@@ -27,20 +27,18 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Instille une vision apocalyptique dans l'esprit de créatures pour les étourdir."
 ---
-A vision of apocalyptic destruction fills the mind of each target. Each creature in the area sees its own version of the calamity tailored to its worst fears, and must attempt a Will saving throw. This vision deals 11d6 mental damage and inflicts other effects, depending on the outcome of each creature’s saving throw. It must succeed at a Reflex saving throw or believe it’s trapped (fallen into a crevasse, adrift at sea, or some other fate depending on its vision). If it fails, it’s stunned for 1 minute. It gets a new Will save at the end of each of its turns, and on a success, it disbelieves the illusion and recovers from stunned.
+Une vision de destruction apocalytique emplit l'esprit de chaque cible. Chaque créature située dans la zone d'effet voit sa propre version de la calamité, adaptée selon ses pires peurs, et doit effectuer un jet de sauvegarde de Volonté.
 
-**Réussite** Half damage.
+La vision inflige 11d6 points de dégâts mentaux et inflige d'autres effets en fonction de résultat du jet de sauvegarde de chacune des créatures.
 
-**Réussite critique** Unaffected.
+**Réussite** La cible subit la moitié des dégâts.
 
-**Échec** Full damage.
+**Réussite critique** La cible n'est pas affectée par le sort.
 
-**Échec critique** Double damage and the creature falls prone.
+**Échec** La cible subit la totalité des dégâts.
 
-Heightened
+**Échec critique** La cible subit le double des dégâts et est [mise à terre](/conditions/à-terre.html). Si elle échoue à un jet de sauvegarde de Réflexe, elle pense qu'elle est piégée (tombée dans une crevasse, à la dérive au milieu de la mer, ou d'autres destins selon sa vision) et elle est [étourdie](/conditions/étourdi.html) pendant 1 minute. Une cible [étourdie](/conditions/étourdi.html) peut tenter un nouveau jet de sauvegarde de Volonté à la fin de chacun de ses tours. En cas de réussite, elle perce l'illusion et n'est plus [étourdie](/conditions/étourdi.html).
 
-1
-
-The damage increases by 2d6.
+**Elévation** (+1) : Les dégâts augmentent de 2d6.

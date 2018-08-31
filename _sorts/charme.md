@@ -18,8 +18,8 @@ trigger:
 cost: 
 range: 6 cases
 area: 
-targets: one humanoid creature
-duration: 1 heure or until dismissed
+targets: 1 créature humanoïde
+duration: 1 heure ou jusqu'à annulation
 requirements: 
 
 casting:
@@ -28,24 +28,20 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Charme une créature humanoïde pour la rendre amicale envers vous."
 ---
-To the target, your words are honey and your visage bathed in dreamy haze. It must attempt a Will save, with a +4 circumstance bonus if you or your allies recently threatened it or acted hostile. You can dismiss charm with a Verbal Casting action. If you act hostile to the target, the spell ends. When the spell ends, the target doesn't necessarily realize it was charmed unless its friendship with you or the actions you convinced it to take clash with its expectations, which could potentially allow you to convince the target to continue being your friend via mundane means.
+Pour la cible, vos mots sont du miel et votre visage est baigné d'une brume onirique. Elle doit effectuer un jet de sauvegarde de Volonté, avec un bonus de circonstance de +4 si vous ou l'un de vos alliés l'avez menacée ou agit hostilement envers elle recemment. 
 
-**Réussite** The target is unaffected, but thinks your spell was something harmless instead of charm, unless it identifies the spell (usually with Identify Magic).
+Vous pouvez mettre un terme au *charme* avec une action d'Incantation verbale. Si vous agissez hostilement envers la cible, le sort se termine. Lorsque le sort se termine, la cible ne réalise pas forcément qu'elle a été charmée, à moins que son amitié envers vous ou les actions que vous lui avez convaincu de réaliser aillent à l'encontre de ses attentes. Ce qui pourrait potentiellement vous permettre de convaincre la cible de continuer à être votre amie par des moyens plus classiques.
 
-**Réussite critique** The target is unaffected and aware you tried to charm it.
+**Réussite** La cible n'est pas affectée, mais pense que votre sort était un sort inoffensif au lieu de *charme*, sauf si elle identifie le sort (généralement en utilisant l'action d'Identification de la magie).
 
-**Échec** The target's attitude becomes friendly toward you. If it was friendly, it becomes helpful. It can't act hostile toward you.
+**Réussite critique** La cible n'est pas affectée et sait que vous avez essayé de la charmer.
 
-**Échec critique** Target is helpful and can't act hostile toward you.
+**Échec** L'attitude de la cible envers vous devient amicale. Si elle était déjà amicale, elle devient serviable. Elle ne peut pas agir hostilement envers vous.
 
-Heightened
+**Échec critique** La cible est serviable et ne peut pas agir hostilement envers vous.
 
-4th
-
-You can target any creature, not just humanoids.
-
-8th
-
-You can target up to 10 creatures of any kind.
+**Elévations*
+* 4 : Vous pouvez cibler n'importe quelle créature, pas seulement des humanoïdes.
+* 8 : Vous pouvez cibler jusqu'à 10 créatures de n'importe quel type.

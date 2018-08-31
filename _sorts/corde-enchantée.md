@@ -18,11 +18,15 @@ trigger:
 cost: 
 range: contact
 area: 
-targets: one touched piece of rope from 5 to 30 feet long
+targets: 1 morceau de corde de 1,5 à 9 m de long touchée
 duration: 8 hours
 requirements: 
 castingtime: 10 minutes (M, S, V)
 
-summary: '..'
+summary: "La corde permet d'accéder à un espace extra-dimensionnel situé à son sommet."
 ---
-You cause the target rope to rise vertically into the air. Where it ends, an extradimensional space springs up, connected to the top of the rope. This space can be reached only by climbing the rope. The entrance to the space can’t be seen, and it can be pinpointed only by the presence of the rope. The rope can’t be removed or hidden, though it can be detached from the extradimensional space by pulling it with 16,000 pounds of weight, critically succeeding at an Athletics check against the spell’s DC, or destroying the rope. The space holds up to eight Medium creatures and their gear. A Large creature counts as two Medium creatures, a Huge creature counts as four Medium creatures, and a Gargantuan creature fills the space on its own. If the rope is detached or destroyed or if a creature attempts to enter the space that would put it over its capacity, the space begins to unravel. It disappears in 1d4 rounds, depositing the creatures within safely on the ground below.
+La corde ciblée se dresse verticalement dans les airs. Lorsqu'elle s'arrête, un espace extra-dimensionnel se crée, connecté au bout de la corde. Cet espace ne peut être atteint que si on grimpe à la corde. L'entrée de l'espace n'est pas visible et ne peut être localisé que par la présence de la corde. La corde de ne peut être enlevée ou cachée bien qu'elle puisse être décrochée de l'espace extra-dimensionnel en la tirant avec un poids de 8 tonnes, en réalisant une réussite critique à un jet d'[Athlétisme](/compétences/athlétisme.html) contre le DD du sort ou en détruisant la corde.
+
+L'espace peut contenir jusqu'à 8 créatures de taille M et leur équipement. Une créature de grande taille équivaut à deux créatures de taille moyenne, une créature de très grande taille équivaut à quatre créatures de taille moyenne et une créature de taille gargantuesque remplit l'espace à elle-seule.
+
+Si la corde est détachée ou détruite ou si une créature qui essaie d'entrer dans l'espace fait dépasser sa capacité totale, il commence à s'effilocher. Il disparaît en 1d4 rounds, déposant au sol et sans danger les créatures qui étaient à l'intérieur.

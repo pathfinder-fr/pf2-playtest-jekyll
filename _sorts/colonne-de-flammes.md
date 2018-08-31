@@ -15,7 +15,7 @@ traits:
 trigger: 
 cost: 
 range: 24 cases
-area: 10-foot radius, 40-foot-tall cylinder
+area: cylindre de 2 cases de rayon et 8 cases de hauteur
 targets: 
 duration: 
 requirements: 
@@ -26,20 +26,16 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Une colonne de flammes apparaît au pont d'impact."
 ---
-You call a rain of divine fire that plummets down from above, dealing 8d6 fire damage. Each creature in the area must attempt a Reflex save. Because the flame is infused with divine energy, creatures in the area apply only half their usual fire resistance. Creatures that are immune to fire treat their result on the saving throw as one degree of success better instead of gaining the usual benefit of immunity.
+Vous appelez une pluie de feu divin qui tombe du ciel, infligeant 8d6 points de dégâts de feu. Chaque créature dans la zone d'effet doit effectuer un jet de Réflexes. Comme les flammes sont infusées d'énergie divine, les créatures situées dans la zone d'effet n'appliquent que la moitié de leur [résistance](/ch9-jouer-à-pathfinder/dégâts#résistance) au feu habituelle. Les créatures [immunisées](/ch9-jouer-à-pathfinder/dégâts#immunité) contre le feu considère leur résultat au jet de sauvegarde comme étant d'un niveau de réussite supérieur au lieu de bénéficier de leur [immunité](/ch9-jouer-à-pathfinder/dégâts#immunité) habituelle.
 
-**Réussite** The creature takes half damage.
+**Réussite** La créature subit la moitié des dégâts.
 
-**Réussite critique** The creature is unaffected.
+**Réussite critique** La créature n'est pas affectée.
 
-**Échec** The creature takes full damage.
+**Échec** La créature subit la totalité des dégâts.
 
-**Échec critique** The creature takes double damage.
+**Échec critique** La créature subit le double des dégâts.
 
-Heightened
-
-1
-
-The damage increases by 2d6.
+**Elévation** (+1) : Les dégâts augmentent de 2d6.

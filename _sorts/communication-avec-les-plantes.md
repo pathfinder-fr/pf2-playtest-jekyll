@@ -26,6 +26,6 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Vous pouvez échanger oralement avec les plantes."
 ---
-You can ask questions of and receive answers from plants, but the spell doesn’t make them more friendly or intelligent than normal. Most normal plants have a limited and distinctive view of the world around them, so they don’t recognize details about creatures or know anything about the world beyond their immediate vicinity. Wary and cunning plant monsters are likely to be terse and evasive, while less intelligent ones often make inane comments.
+Vous pouvez poser des questions et comprendre les réponses avec les animaux. Le sort ne les rends pas plus amicaux ou intelligents qu'ils ne le sont d'habitude. La plupart des plantes normales ont une vision limitée et distincte du monde qui les entoure. Elles ne peuvent donc pas reconnaître des détails concernant des créatures ou connaître quoi que ce soit du monde situé au-delà de leur voisinage immédiat. Les plantes méfiantes et rusées sont plutôt laconiques et évasives. Les plantes les moins intelligentes font souvent des commentaires stupides.

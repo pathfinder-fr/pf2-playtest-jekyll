@@ -11,7 +11,7 @@ rarity: PC
 traits:
   - chance
   - divination
-trigger: You or an ally within range fails an attack roll, saving throw, or skill check by 1 and did not benefit from a conditional bonus.
+trigger: Vous ou un allié à portée échoue à un jet d'attaque, de sauvegarde ou de compétence de 1 et ne bénéficiait pas de bonus conditionnel pour ce jet.
 cost: 
 range: 6 cases
 area: 
@@ -23,6 +23,6 @@ casting:
   - action: R
     description: Incantation somatique
 
-summary: '..'
+summary: "La chance donne un léger coup de pouce après un échec."
 ---
-You tilt the scales of luck slightly, adding a +1 conditional bonus to the check retroactively, thus making the check a success.
+Vous faites basculer légèrement la chance de votre côté, ajoutant un bonus conditionnel de +1 au jet rétroactivement, le faisant donc devenir une réussite.

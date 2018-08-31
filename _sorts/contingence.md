@@ -20,22 +20,17 @@ duration: 24 heures
 requirements: 
 castingtime: 10 minutes (M, S, V)
 
-summary: '..'
+summary: "Vous préparez un sort que vous lancerez plus tard."
 ---
-You prepare a spell to trigger later. While casting contingency, you also cast another spell of 4th level or lower with a casting time of no more than three actions. You must pay any appropriate costs for the spell. This companion spell must be one that can affect you. You must make any decisions for the spell when you set the contingency, such as choosing damage type for resist energy. During the casting, choose a trigger under which the spell will be cast, using the same restrictions as the trigger for a readied action. You can cause the companion spell to come into effect as a reaction with that trigger. It affects only you, even if it would normally affect more creatures. If you define complicated conditions, as determined by the GM, the trigger might fail. If you cast contingency, the newer one supersedes the older.
+Vous préparez un sort que vous lancerez plus tard.
 
-Heightened
+Lorsque vous lancez *contingence*, vous incantez également un autre sort de niveau 4 ou moins ayant une durée d'incantation inférieure ou égale à 3 actions. Vous devez payer tous les coûts associés au sort. Vous devez être la cible du sort appairé. Vous devez faire tous les choix reltaifs au sort appairé lorsque vous lancez *contingence* (comme choisir les types de dégâts pour [*résistance à une énergie*](§sorts/résistance-à-une-énergie.html))
 
--
+Pendant l'incantation, vous choisissez un déclencheur pour le lancement du sort appairé en utilisant les mêmes restriction que pour le déclencheur d'une action préparée. Vous pouvez choisire de lancer le sort appairé comme une réaction à ce déclencheur.
 
-8th
+Le sort appairé n'affecte que vous, même si il affecte normalement plus de créatures. Si vous définissez des conditions de déclenchement compliquées (la complexité est déterminée par le MJ), le déclenchement peut échouer. Si vous lancez à nouveau *contingence*, le nouveau sort appairé remplace l'ancien.
 
-You can choose a spell of 5th level or lower.
-
-9th
-
-You can choose a spell of 6th level or lower.
-
-10th
-
-You can choose a spell of 7th level or lower.
+**Elévations** :
+* 8 : Vous pouvez choisir un sort appairé de niveau 5 ou moins.
+* 9 : Vous pouvez choisir un sort appairé de niveau 6 ou moins.
+* 10 : Vous pouvez choisir un sort appairé de niveau 7 ou moins.

@@ -15,21 +15,21 @@ traits:
   - mental
 trigger: 
 cost: 
-range: planetary
+range: Planète entière
 area: 
-targets: une créature you know by name
-duration: 1 jour or until dismissed
+targets: une créature dont vous connaissez le nom
+duration: 1 jour ou jusqu'à annulation
 requirements: 
 castingtime: 10 minutes (M, S, V)
 
-summary: '..'
+summary: "La cible fait des cauchemars pendant son sommeil."
 ---
-You send disturbing nightmares to your target. The next time the target falls asleep, it must attempt a Will saving throw against the nightmare. If you know the target only by name and have never met them, the target gets a +4 circumstance bonus to the Will saving throw.
+Vous envoyez des cauchemars dérangeants à votre cible. La prochaine fois que la cible s'endort, elle doit tenter une jet de sauvegarde de Volonté contre le cauchemar. Si vous ne connaissez que le nom de la cible et ne l'avez jamais rencontrée, elle bénéficie d'un bonus de circonstance de +4 à son jet de sauvegarde de Volonté.
 
-**Réussite** The target suffers no adverse effects from the nightmare, other than its memories.
+**Réussite** La cible ne subit aucun mauvais effet du cauchemar excepté son souvenir.
 
-**Réussite critique** The target suffers no adverse effects and is inoculated for 1 week.
+**Réussite critique** La cible ne subit aucun mauvais effet du cauchemar (pas même son souvenir) et est vaccinée contre le sort pendant 1 semaine.
 
-**Échec** The target awakens fatigued.
+**Échec** La cible se réveille [fatiguée](/conditions/fatigué.html).
 
-**Échec critique** The target awakens fatigued and is drained 2 until no longer fatigued.
+**Échec critique** La cible se réveille [fatiguée](/conditions/fatigué.html) et est [drainé](/conditions/drainé.html) 2 jusqu'à ce qu'elle ne soit plus [fatiguée](/conditions/fatigué.html).

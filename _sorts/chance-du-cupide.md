@@ -20,6 +20,6 @@ duration: 24 heures
 requirements: 
 castingtime: 10 minutes (M, S, V)
 
-summary: '..'
+summary: "Permet d'effacer un échec critique dans la pratique d'un métier."
 ---
-You call upon good fortune to protect from brutal calamity in daily work. If your target rolls a critical failure on a Lore check to Practice a Trade, it rerolls the check and takes the second result.
+Vous comptez sur la chance pour protéger la cible des problèmes lors de votre travail quotidien. Si la cible du sort obtient un échec critique à un test de [Savoir](/compétences/savoir.html) pour Pratiquer un métier, elle relance le jet et conserve le second résultat.

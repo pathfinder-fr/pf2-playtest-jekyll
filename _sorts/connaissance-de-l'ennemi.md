@@ -11,7 +11,7 @@ rarity: PC
 traits:
   - divination
   - chance
-trigger: You hit a creature with a melee Strike.
+trigger: YVous touchez une créature avec une Attaque au corps à corps.
 cost: 
 range: 
 area: 
@@ -23,6 +23,6 @@ casting:
   - action: L
     description: Incantation somatique
 
-summary: '..'
+summary: "Vous pouvez tenter de vous rappeler vos connaissances sur la créature touchée par votre attaque."
 ---
-Roll the appropriate skill check to identify the creature’s abilities as if you had spent a Recall Knowledge action. You can use lorekeeper’s fortune on this check.
+Lancez le test de la compétence appropriée pour identifier les capacités de la créature comme si vous aviez utilisé une action de Rappel de connaissances. Vous pouvez utiliser le sort [*chance de l'érudit*](/sorts/chance-de-l'érudit.html) sur ce jet.

@@ -16,7 +16,7 @@ cost:
 range: 
 area: aura de 2 cases
 targets: 
-duration: concentration, up to 1 minute
+duration: concentration, Jusqu'à 1 minute
 requirements: 
 
 casting:
@@ -27,6 +27,8 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Crée une zone où la magie n'a plus cours."
 ---
-Spells can't penetrate the area, magic items cease to function within it, and no one inside can cast spells or use magic abilities. Likewise, spells—such as dispel magic—can't affect the field itself unless they are of a higher level. Magic effects resume the moment they pass outside the field. For example, a ray fired from one side of the field could target a creature on the other side (as long as caster and target are outside). A summoned creature winks out of existence but reappears if the field moves or ends. Invested magic items cease to function, but they remain invested and function when the item exits; the ability boost from a potent item isn't suppressed. Spells of a higher level than the antimagic field overcome its effects, and can even be cast by a creature within the field. The field disrupts only magic, so a +3 longsword still functions as a master-quality longsword. Magically created creatures (such as golems) function normally within an antimagic field.
+Les sorts ne peuvent pas pénétrer la zone, les objets magiques cessent de fonctionner à l'intérieur de celle-ci et personne ne peut lancer de sort ou utiliser une capacité magique à l'intérieur. De même, des sorts comme [*dissipation de la magie*](/sorts/dissipation-de-la-magie.html) ne peuvent affecter le terrain lui-même à moins d'être d'un niveau plus élevé. Les effets magiques redeviennent actifs à partir du moment où il sortent de la zone d'effet. Par exemple, un rayon tiré à un bout de la zone peut cibler une créature située à l'autre bout (tant que le lanceur du sort et la cible sont situés en dehors de la zone). Une créature convoquée disparaît lorsqu'elle pénètre dans la zone (ou que la zone est déplacée sur elle), mais elle réapparaît dès qu'elle en sort (ou que la zone est déplacée ou que le sort se termine). Les objets investis de magie cessent de fonctionner, mais ils restent investis de magie et se remettent à fonctionner dès que l'objet sort de la zone. Les augmentations de caractéristiques dues à un objet à potentiel magique ne sont pas supprimés. Les sorts d'un niveau supérieur à celui du sort *champ anti-magique* surpassent le sort (fonctionnent comme s'il n'y avait pas de champ d'anti-magie) et peuvent même être lancés par une créature située à l'intérieur de la zone.
+
+Le champ n'interromp que la magie. Ainsi, une *épée longue +3* fonctionne comme une épée longue de maître. Les créatures crées magiquement (comme les golems) fonctionne normalement à l'intérieur d'un *champ anti-magie*.

@@ -16,12 +16,12 @@ range:
 area: 
 targets: 
 duration: 
-requirements: Your last action was a Strike that dealt damage.
+requirements: Votre dernière action était une Attaque qui a infligé des dégâts.
 
 casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Inflige des dégâts supplémentaires à une créature blessée par votre dernière attaque."
 ---
-You shout of glory and deal additional damage equal to your level.
+Vous criez de joie et infligez un nombre de points de dégâts additionnels égal à votre niveau.

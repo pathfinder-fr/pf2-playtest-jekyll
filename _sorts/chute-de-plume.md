@@ -12,18 +12,20 @@ level: 1
 rarity: C
 traits:
   - abjuration
-trigger: A creature within range is falling.
+trigger: 1 créature à portée est en train de chuter.
 cost: 
 range: 12 cases
 area: 
-targets: one falling creature
-duration: 1 minute or until dismissed
+targets: 1 créature en train de chuter
+duration: 1 minute ou jusqu'à annulation 
 requirements: 
 
 casting:
   - action: R
     description: Incantation verbale
 
-summary: '..'
+summary: "Ralenti la chute d'une créature"
 ---
-The target’s fall slows to 60 feet per round, and the portion of the fall during the spell’s duration doesn’t count when calculating falling damage. If the target reaches the ground while the spell is in effect, it takes no damage from the fall. The spell is dismissed as soon as the target lands.
+La cible chute lentement de 12 cases par round et la portion de la chute pendant la durée du sort ne compte pas dans les dégâts de chute. Si la cible atrteint le sol alors que le sort fait toujours effet, elle ne subit aucun dégâts de la chute.
+
+Le sort se termine dès que la cible touche le sol.

@@ -16,8 +16,8 @@ trigger:
 cost: 
 range: 24 cases
 area: 
-targets: one flying creature
-duration: varies (see below)
+targets: 1 créature en vol
+duration: varie (voir texte)
 requirements: 
 
 casting:
@@ -26,14 +26,14 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Fait tomber une créature en vol et l'empêche de voler."
 ---
-You hamper a target’s flight, with effects based on its Fortitude save. If the creature reaches the ground, it doesn’t take falling damage.
+Vous gênez le vol d'une créature avec des effets dépendant du résultat de son jet de sauvegarde de Vigueur. Si la cible touche le sol, elle ne subit pas de dégâts de chute.
 
-**Réussite** The target falls safely up to 120 feet.
+**Réussite** La cible chute sans danger d'une hauteur de 24 cases.
 
-**Réussite critique** The target is unaffected.
+**Réussite critique** La cible n'est pas affectée.
 
-**Échec** The target falls safely up to 120 feet. If it hits the ground, it can’t Fly, levitate, or otherwise leave the ground for 1 round.
+**Échec** La cible chute sans danger d'une hauteur de 24 cases. Si elle atteint le sol, elle ne peut plus [Voler](/ch9-jouer-à-pathfinder/actions-de-base.html#voler), être sous l'effet d'un sort de [*lévitation*](/sorts/lévitation.html) ou quitter le sol d'une autre manière pendant 1 round.
 
-**Échec critique** The target falls safely up to 120 feet. If it hits the ground, it can’t Fly, levitate, or otherwise leave the ground for 1 minute.
+**Échec critique** La cible chute sans danger d'une hauteur de 24 cases. Si elle atteint le sol, elle ne peut plus [Voler](/ch9-jouer-à-pathfinder/actions-de-base.html#voler), être sous l'effet d'un sort de [*lévitation*](/sorts/lévitation.html) ou quitter le sol d'une autre manière pendant 1 minute.

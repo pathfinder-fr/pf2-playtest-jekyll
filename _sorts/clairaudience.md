@@ -15,13 +15,13 @@ traits:
   - scrutation
 trigger: 
 cost: 
-range: 500 feet
+range: 100 mètres
 area: 
 targets: 
 duration: 1 minute
 requirements: 
 castingtime: 1 minute (M, S, V)
 
-summary: '..'
+summary: "Crée une oreille magique qui permet d'entendre à grande distance."
 ---
-You create an invisible floating ear at a location within range (even if it's outside your line of sight or line of effect). It can't move, but you can hear through the ear as if using your normal auditory senses.
+Vous créez une oreille invisible et flottante dans un lieu situé à portée (même situé en dehors de votre ligne de vue ou d'effet). Elle ne peut pas se déplacer, mais vous entendez à travers elle comme si vous utilisiez vos propres sens auditifs.

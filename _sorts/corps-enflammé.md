@@ -28,14 +28,13 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Votre corps s'enflamme."
 ---
-You become living flame, giving you fire immunity, resistance 10 to precision damage, and weakness 5 to cold and to water. Any creature that touches you or damages you with an unarmed attack or non-reach melee weapon takes 3d6 fire damage. Your unarmed attacks deal 1d4 additional fire damage, and your fire spells deal one additional die of fire damage (of the same damage die the spell uses). You can cast produce flame as an innate spell with a single Somatic Casting action. In fire form, you have a fly Speed of 40 feet and don’t need to breathe.
+Vous devenez des flammes vivantes, vous donnant une [immunité](/ch9-jouer-à-pathfinder/dégâts.html#immunité) au feu, une [résistance](/ch9-jouer-à-pathfinder/dégâts.html#résistance) 10 aux dégâts de précision et une [faiblesse](/ch9-jouer-à-pathfinder/dégâts.html#faiblesse) 5 au froid et à l'eau.
 
-Heightened
+Toute créature qui vous touche ou vous inflige des dégâts avec une attaque sans arme ou avec une arme sans allonge subit 3d6 points de dégâts de feu. Votre attaque sans arme inflige 1d4 points de dégâts de feu supplémentaire et vos sorts de feu 1 dé additionnel de dégâts de feu (de la même catégorie de dé que celle utilisée par le sort). Vous pouvez lancer [*production de flammes*](/sorts/production-de-flammes.html) comme un sort inné avec une action d'Incantation somatique.
 
--
+Sous forme de feu, vous avez une vitesse de vol de 8 cases et n'avez pas besoin de respirer.
 
-9th
-
-You have resistance 15 to precision damage, creatures touching you take 4d6 fire damage instead of 3d6, your unarmed attacks deal 2d4 fire damage, and you have a fly Speed of 60 feet.
+**Elévations**
+* 9 : votre [résistance](/ch9-jouer-à-pathfinder/dégâts.html#résistance) aux dégâts de précision passe à 15, les créatures qui vous touchent ou vous inflige des dégâts avec des attaques sans arme ou avec des armes sans allonge subissent 3d6 points de dégâts de feu, votre attaque sans arme inflige 2d4 points de dégâts de feu et vous avec une vitesse de vol de 12 cases.

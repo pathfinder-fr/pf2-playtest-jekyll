@@ -25,6 +25,6 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Vous pouvez échanger oralement avec les animaux."
 ---
-You can ask questions of, receive answers from, and use the Diplomacy skill with animals. The spell doesn’t make them more friendly than normal. Wary and cunning animals are likely to be terse and evasive; less intelligent ones often make inane comments.
+Vous pouvez poser des questions, comprendre les réponses et utiliser la compétence [Diplomatie](/compétences/diplomatie.html) avec les animaux. Le sort ne les rends pas plus amicaux qu'ils ne le sont d'habitude. Les animaux méfiants et rusés sont plutôt laconiques et évasifs. Les animaux les moins intelligents font souvent des commentaires stupides.

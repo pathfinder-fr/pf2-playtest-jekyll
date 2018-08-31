@@ -25,6 +25,6 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Votre corps devient éthéré."
 ---
-You turn ethereal as ethereal jaunt but don’t need to concentrate.
+Vous devenez éthéré comme sous l'effet du sort [*ballade éthérée*](/sorts/ballade-éthérée.html) sauf que vous n'avez pas besoin de vous Concentrer.

@@ -28,6 +28,8 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Crée 8 litres d'eau."
 ---
-Cupping your hands, water begins to flow. You create 2 gallons of water. If no one drinks it, it evaporates after 1 day.
+L'eau commence à couler depuis vos mains assemblées en forme de coupe.
+
+Vous créez 8 litres d'eau. Si personne ne la consomme, elle s'évapore au bout d'un jour.

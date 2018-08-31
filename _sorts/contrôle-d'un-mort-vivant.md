@@ -17,7 +17,7 @@ trigger:
 cost: 
 range: 6 cases
 area: 
-targets: one mindless undead creature with a level no greater than bind undead's spell level
+targets: 1 créature morte-vivante sans intelligence ayant un niveau inférieur ou égal au niveau du sort *contrôle d'un mort vivant*
 duration: 1 jour
 requirements: 
 
@@ -27,6 +27,6 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Donne le contrôle d'un mort-vivant."
 ---
-You control the target. It gains the minion trait. If you or an ally acts hostile to the target, the spell ends.
+Vous contrôlez la cible. Elle gagne le trait sbire. Si vous ou l'un de vos alliés agissez de manière hostile contre la cible, le sort s'arrête.

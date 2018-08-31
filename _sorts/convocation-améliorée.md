@@ -10,7 +10,7 @@ level: 1
 rarity: PC
 traits:
   - conjuration
-trigger: You complete an arcane spell that summons a creature.
+trigger: Vous terminez le lancement d'un sort arcanique qui convoque une créature.
 cost: 
 range: 
 area: 
@@ -22,6 +22,6 @@ casting:
   - action: L
     description: Incantation verbale
 
-summary: '..'
+summary: "Renforce une créature convoquée."
 ---
-The summoned creature gains a +1 conditional bonus to attack rolls, AC, and saving throws for the duration of the triggering spell.
+La créature convoquée gagne un bonus conditionnel au jets d'attaque et de sauvegarde ainsi qu'à la CA pendant la durée du sort déclencheur.

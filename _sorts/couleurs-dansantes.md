@@ -18,7 +18,7 @@ cost:
 range: 
 area: cône de 3 cases
 targets: 
-duration: 1 or more rounds (see below)
+duration: 1 round ou plus (voir texte)
 requirements: 
 
 casting:
@@ -27,14 +27,14 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Emet des couleurs mouvantes qui éblouissent les créatures situées dans la zone d'effet."
 ---
-Swirling colors affect viewers based on their Will saves.
+Des couleurs mouvantes affectent les créatures situées dans la zone d'effet en fonction du résultat de leur jet de sauvegarde de Volonté.
 
-**Réussite** Dazzled for 1 round.
+**Réussite** La créature est [éblouie](/conditions/ébloui.html) pendant 1 round.
 
-**Réussite critique** The target is unaffected.
+**Réussite critique** La créature n'est pas affectée.
 
-**Échec** Blinded for 1 round, dazzled for 4 rounds.
+**Échec** La créature est [aveuglée](/conditions/aveuglé.html) pendant 1 round puis [éblouie](/conditions/ébloui.html) pendant 4 rounds.
 
-**Échec critique** Stunned for 1 round, blinded for 4 rounds.
+**Échec critique** La créature est [étourdie](/conditions/étourdi.html) pendant 1 round puis [aveuglée](/conditions/aveuglé.html) pendant 4 rounds.

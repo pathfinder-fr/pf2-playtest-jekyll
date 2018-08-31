@@ -31,7 +31,7 @@ Des ailes de pure lumière poussent sur votre dos, vous donnant une vitesse de v
 
 Lorsque le sort va prendre fin, s'il vous reste des Points de magie, vous pouvez dépenser 1 Point de magie pour prolonger la durée du sort de 3 rounds.
 
-Lorsque le sort se termine, vous flottez jusqu'au sol en bénéficiant des effets du sort [*feuille morte*](/sorts/feuille-morte.html)
+Lorsque le sort se termine, vous flottez jusqu'au sol en bénéficiant des effets du sort [*chute de plume*](/sorts/chute-de-plume.html)
 
 **Elévations**
 * 5 : La durée initiale du sort et la durée de la prolongation pour 1 Point de magie passe à 1 minute.

@@ -24,44 +24,27 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Vous faites appel aux abysses pour infliger des dégâts à vos cibles."
 ---
-You evoke the power of an Abyssal realm. The damage types of the spell (one energy and one physical) are based on the result of rolling on the table below. The spell gains the corresponding traits. You deal 2d10 damage of the corresponding damage types to each creature in the cone; the creature must attempt a Reflex save.
+Vous évoquez les pouvoir du royaume des Abysses. Les types de dégâts du sort (une énergie et une physique) sont indiqués dans le tableau ci-dessous. Le sort gagne les traits correspondants à ces types.
 
-**Réussite** The creature takes half damage
+{: .table .table-sm .table-striped .table-hover}
+| 1d4 | Royaume | Manifestation | Types de dégâts |
+|:----|:--------|:--------------|:----------------|
+| 1 | Cieux | foudre et débris volants | contodant et électricité |
+| 2 | Profondeurs | acide et explosions démoniaques | acide et tranchant |
+| 3 | Gel | air glacé et glace | contondant et froid |
+| 4 | Volcan | rochers volcaniques irréguliers et magma | feu et perçant |
 
-**Réussite critique** The creature is unaffected
+Vous infligez 2d10 points de dégâts des types indiqués à toutes les créatures présentes dans le cône. CHacune des créatures doit effectuer une jet de sauvegarde de Réflexes.
 
-**Échec** The creature takes full damage of each damage type
 
-**Échec critique** It takes double damage of each damage type
+**Réussite** La créature subit la moitié des dégâts
 
-Heightened
+**Réussite critique** La créature n'es pas affectée
 
-2
+**Échec** La créature subit la totalité des dégâts de chaque type
 
-The damage is increased by 1d10
+**Échec critique** La créature subit le double des dégâts de chaque type
 
-1d4||Realm||Manifestation||Damage type
-
-1||Skies||Bolts of lightning and flying debris||Bludgeoning and electricity
-
-2||Depths||Acid and demonic shells||Acid ans slashing
-
-3||Frozen||Frigid air and ice||Bludgeoning and cold
-
-4||Volcanic||Jagged volcanic rocks and magma||Fire and piercing
-
-**Réussite** The creature takes half damage
-
-**Réussite critique** The creature is unaffected
-
-**Échec** The creature takes full damage of each damage type
-
-**Échec critique** It takes double damage of each damage type
-
-Heightened
-
-2
-
-The damage is increased by 1d10
+**Elévation** (+2) : Les dégâts sont augmentés de 1d10.

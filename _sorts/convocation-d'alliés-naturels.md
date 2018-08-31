@@ -16,7 +16,7 @@ cost:
 range: 6 cases
 area: 
 targets: 
-duration: concentration, up to 1 minute or until dismissed
+duration: concentration, jusqu'à 1 minute ou jusqu'à annulation
 requirements: 
 
 casting:
@@ -27,66 +27,35 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Convoque un allié naturel qui combat avec vous."
 ---
-You summon a level 0 creature from the summon nature’s ally list. This creature fights for you until the spell ends. The creature gains the summoned trait. The spell automatically ends if the monster’s Hit Points drop to 0. Summoned creatures have 2 actions per turn (which they use when you Concentrate on the Spell) and can’t use reactions. The creature attacks your enemies to the best of its abilities. If you can communicate with it, you can attempt to command it as part of your action to Concentrate on a Spell, but the GM determines the degree to which it follows your commands. Heightening the spell increases the maximum level of monster you can summon. You can always summon a monster of a lower level than the spell allows.
+Vous convoquez une créature de niveau 0 issue de la liste ci-dessous. Cette créature combat pour vous jusqu'à la fin  du sort. La créature gagne le trait conjuré. Le sort s'arrête automatiquement si le nombre de moints de vies de la créature tombe à 0.
 
-Spell level||Allies
+{: .table .table-sm .table-striped .table-hover}
+| Niveau du sort | Alliés naturels |
+|:---------------|:----------------|
+| 1 | **niveau 0** <mark>bloodseeker</mark>, lynx, rat sanguinaire, scarabée de feu, cochon, poney, vipère |
+| 2 | **niveau 1** serpent contricteur, anguille électrique, chien gobelin, cheval, araignée chasseresse, hyène, léopard, méphit élémentaire, loup |
+| 3 | **niveau 2** requin bleu, ours, crocodile, déinonychus, chauve-souris géante, serpent géant, panthère, ptéranodon, <mark>warg</mark>, cheval de bataille |
+| 4 | **niveau 3** Ankhrav, bunyip, cockatrice, dryade, scorpiont géant, grizzly, hyaenodon, lion, élémentaire <mark>minor</mark> |
+| 5 | **niveau 4** grand requin blanc, tigre ; **niveau 5** élémentaire <mark>lesser</mark>, chapeau rouge, smilodon |
+| 6 | **niveau 6** ankylausaure, ours des cavernes, <mark>shambler</mark>, tigre smilodon ; **niveau 7** Ptérausaure de Quetzacoatl |
+| 7 | **niveau 8** élémentaire noble, mégalodon, roc, anaconda géant, mastodonte, sylvanien |
+| 8 | **niveau 10** tyrannosaure ; **niveau 11** seigneur-élémentaire, araignée goliath |
+| 9 | **niveau 12** roussalka, serpent de mer ; **niveau 13** ver pourpre |
+| 10 | **niveau 15** phoenix |
 
-Heightened
+Les créatures convoquées possèdent 2 actions par tour (qu'elles utilisent lorsque vous vous Concentrez sur le sort) et ne peuvent pas utiliser de réaction. La créature attaque vos ennemis au mieux de ses possibilités. Si vous pouvez communiquer avec elle, vous pouvez essayer de lui donner des ordres dans le cadre de votre action de Concentration, mais le MJ détermine jusqu'à quel point elle suit vos ordres.
 
-2nd
+Elever le sort augmente le niveau maximum des créatures que vous pouvez convoquer. Vous pouvez toujours convoquer une créature d'un niveau inférieur au niveau que vous permet le sort.
 
-Level 1
-
-3rd
-
-Level 2.
-
-4th
-
-Level 3.
-
-5th
-
-Level 5.
-
-6th
-
-Level 7.
-
-7th
-
-Level 9.
-
-8th
-
-Level 11.
-
-9th
-
-Level 13.
-
-10th
-
-Level 15.
-
-1st||Level 0: Bloodseeker, bobcat, dog, dire rat, fire beetle, pig, pony, viper
-
-2nd||Level 1: Constrictor snake, electric eel, goblin dog, horse, hunting spider, hyena, leopard, mephit elemental, wolf
-
-3rd||Level 2: Blue shark, boar, crocodile, deinonychus, giant bat, giant snake, panther, pteranodon, warg, warhorse
-
-4th||Level 3: Ankhrav, bunyip, cockatrice, dryad, giant scorpion, grizzly bear, hyaenadon, lion, minor elemental
-
-5th||Level 5: Lesser elemental, redcap, smilodon; Level 4: great white shark, tiger
-
-6th||Level 7: Quetzalcoatlus pterosaur; Level 6: ankylosaurus, cave bear, shambler, smilodon tiger
-
-7th||Level 8: Greater elemental, megalodon, roc, giant anaconda, mastodon, treant
-
-8th||Level 11: Elder elemental, goliath spider; Level 10: tyrannosaurus
-
-9th||Level 13: Purple worm; Level 12: rusalka, sea serpent
-
-10th||Level 15: Phoenix
+**Elévations**
+* 2 : Créatures de niveau 1 ou moins
+* 3 : Créatures de niveau 2 ou moins
+* 4 : Créatures de niveau 3 ou moins
+* 5 : Créatures de niveau 5 ou moins
+* 6 : Créatures de niveau 7 ou moins
+* 7 : Créatures de niveau 9 ou moins
+* 8 : Créatures de niveau 11 ou moins
+* 9 : Créatures de niveau 13 ou moins
+* 10 : Créatures de niveau 15 ou moins

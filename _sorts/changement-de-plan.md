@@ -19,11 +19,13 @@ trigger:
 cost: 
 range: contact
 area: 
-targets: one willing creature, or up to eight willing creatures joining hands
+targets: 1 créature volontaire ou jusqu'à 8 créatures volontaires se tenant par la mains
 duration: 
 requirements: 
 castingtime: 10 minutes (M, S, V)
 
-summary: '..'
+summary: "Permet de voyager d'un plan dimensionnel vers un autre."
 ---
-The target or targets move to another dimensional plane, such as the Plane of Fire, the Shadow Plane, Hell, or the Abyss. Attempting to reach a particular plane requires specific knowledge of the plane and a magic tuning fork created from material from that plane; while the tuning forks for most prominent planes are uncommon, just like the spell plane shift, more obscure planes and demiplanes often have rare tuning forks. The spell is highly imprecise, and you appear 1d20×25 miles from the last place one of the targets (of your choice) was located the last time that target traveled to the plane. If it’s the first time traveling to a particular plane for all targets, you appear at a random location on the plane, though you can use other means of transit, such as teleport, to travel while on the new plane. Plane shift doesn’t provide a means of return travel, though casting plane shift again allows you to return to your previous plane unless there are extenuating circumstances.
+La (ou lest) cible(s) se déplace(nt) vers un autre plan dimensionnel (comme clui du Feu, des Ombres, l'Enfer ou les Abysses). Essayer d'atteindre un plan particulier nécessite une connaissance spécifique du plan et un diapason magique créé à partir de matériaux issus du plan visé. ALors que les diapasons pour les plans les plus connus sont peu communs, comme le sort *changement de plan*, les plans plus obscures et les demi-plans ont généralement besoin de diapasons rares.
+
+Le sort est très imprécis et vous apparaissez à 1d10x37 km du dernier endroit où l'une des cibles du sort (de votre choix) a voyagé sur le plan. S'il s'agit du premier voyage de toutes les cibles vers le plan ciblé, vous y apparaissez à un lieu aléatoire. Mais vous pouvez utiliser d'autres moyens de transit (comme un sort de [*téléportation*](/sorts/téléportation.html)) une fois arrivé sur place. *Changement de plan* ne fournit pas de moyen pour revenir vers le plan précédent, bien que l'incanter à nouveau vous permette de revenir (à moins qu'il n'y ait des circonstances atténuantes).

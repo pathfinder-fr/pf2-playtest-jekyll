@@ -23,14 +23,14 @@ casting:
   - action: 1
     description: Incantation somatique
 
-summary: '..'
+summary: "Instille une vision cauchemardesque dans l'esprit de la cible qui peut l'aider ou la gêner."
 ---
-You fill the creature’s mind with a vision out of a nightmare that might help or hinder it. Before attempting an attack roll, saving throw, or skill check, the target must attempt a DC 11 flat check. They gain a conditional bonus or penalty to the attack roll, saving throw, or skill check depending on the result.
+Vous instillez une vision cauchemardesque dans l'esprit de la créature ciblée qui peut l'aider ou la gêner. Avant de tenter un jet d'attaque, un jet de sauvegarde ou un test de compétence, la cible doit effectuer un [test pur](/ch9-jouer-à-pathfinder/tests.html#tests-pur) DD 11. Selon le résultat, elle gagne un bonus conditionnel ou subit une pénalité conditionnelle à son jet d'attaque, son jet de sauvegarde ou son test de compétence.
 
-**Réussite** +1 conditional bonus.
+**Réussite** Bonus conditionnel de +1.
 
-**Réussite critique** +2 conditional bonus.
+**Réussite critique** Bonus conditionnel de +2.
 
-**Échec** –1 conditional penalty.
+**Échec** pénalité conditionnelle de -1.
 
-**Échec critique** –2 conditional penalty.
+**Échec critique** pénalité conditionnelle de -2.

@@ -14,21 +14,16 @@ traits:
   - conjuration
 trigger: 
 cost: 
-range: 0 feet
+range: 0 case
 area: 
 targets: 
 duration: 1 heure
 requirements: 
 castingtime: 1 minute (M, S, V)
 
-summary: '..'
+summary: "Crée un petit objet simple."
 ---
-You create a temporary standard-quality object. It must be of vegetable matter and 5 cubic feet or smaller. It can't rely on intricate artistry or complex moving parts, never functions as a cost or the like, and can't be made of special materials or materials with a rarity of uncommon or higher. It is obviously temporary conjured.
+Vous créez un objet temporaire de qualité standard. Il doit être composé de matière végétale et doit entrer dans un volume de 1,5 m<sup>3</sup>. Il ne peut pas avoir de décorations artistiques ou de parties mobiles complexes, ne peut être utilisé pour paiement ou troc et ne peut être fabriqué à partir de matériaux spéciaux ou ayant un rareté peu commune ou plus. Il est manifestement invoqué.
 
-Heightened
-
--
-
-5th
-
-The item is expert quality and can use minerals.
+**Elévations**
+*5 : L'objet est de qualité Expert et peut être composé de minéraux.

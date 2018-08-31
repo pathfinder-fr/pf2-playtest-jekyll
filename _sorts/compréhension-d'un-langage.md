@@ -26,18 +26,10 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "La cible comprend une langue qu'elle est en train de lire ou d'entendre."
 ---
-The target can understand the meaning of a single language it is hearing or reading when you cast the spell. This doesn't let it understand codes, language couched in metaphor, and the like.
+La cible peut comprendre la signification d'une unique langue qu'elle entend ou lit lorsque vous lancez le sort. Cela ne lui permet pas de comprendre les codes, les métaphores et tout ce qui y ressemble.
 
-Heightened
-
--
-
-3rd
-
-The target can also speak the language.
-
-4th
-
-You can target up to 10 creatures, and targets can also speak the language.
+**Elévations**
+* 3 : La cible peut également parler la langue.
+* 4 : Vous pouvez cibler jusqu'à 10 créatures et les cibles peuvent également parler la langue.

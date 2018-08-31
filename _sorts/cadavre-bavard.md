@@ -16,19 +16,23 @@ trigger:
 cost: 
 range: contact
 area: 
-targets: one corpse
+targets: 1 corps
 duration: 10 minutes
 requirements: 
 castingtime: 10 minutes (M, S, V)
 
-summary: '..'
+summary: "Permet au corps d'une créature décédée de répondre à 3 questions."
 ---
-You grant the corpse a semblance of life, which it uses to speak the answers to three questions. This uses the physical body’s latent memories rather than calling back the deceased’s spirit, so the corpse must be mostly intact. The more damage it has taken, the more inaccurate or patchwork its answers, and it must have a throat and mouth to speak at all. If anyone has previously cast this spell on the corpse in the last week, the spell automatically fails. The corpse can attempt a Will save to resist the questions as if it were the original creature at its time of death, with the following effects.
+Vous donnez au corps un semblant de vie qu'il utilise pour répondre à 3 questions. Le sort utilise les souvenirs latents du corps physique plutôt que de rappeler l'esprit du défunt, le corps doit donc être pratiquement intact. Plus il a subit de dégâts plus ses réponses sont imprécises ou fouillies. De plus, il doit avoir au minimum une gorge et une bouche pour pouvoir parler.
 
-**Réussite** The target can lie or refuse to answer your questions.
+Si quelqu'un a déjà lancé ce sort sur le même corps surant la semaine écoulée, le sort échoue automatiquement.
 
-**Réussite critique** The target can lie or refuse to answer your questions, and the target’s spirit haunts you throughout the day, bothering you and causing you to be unable to gain any rest for 1 day.
+Le corps peut tenter un jet de sauvegarde de Volonté pour ne pas répondre aux questions comme s'il s'agissait de la créature au moment de sa mort. Les effets suivants s'appliquent en fonction du résultat du jet de sauvegarde.
 
-**Échec** The target must answer truthfully, but its answers can be brief, cryptic, and repetitive. It can still mislead you or attempt to stall so that the spell’s duration runs out before you can ask all your questions.
+**Réussite** La cible peut mentir ou refuser de répondre à vos questions.
 
-**Échec critique** Per failure, but the target’s answers are more direct and less repetitive, though still cryptic. It takes a –2 conditional penalty to Deception checks to deceive you.
+**Réussite critique** La cible peut mentir ou refuser de répondre à vos questions et l'esprit de la cible vous hante toute la journée, vous ennuyant et vous empêchant de vous [reposer](/ch9-jouer-à-pathfinder/mode-exploration.html#repos-et-préparations-quotidiennes) pendant 1 jour.
+
+**Échec** La cible doit répondre sincèrement, mais ses réponses peuvent être brève, cryptiques et répétitives. Elle peut toujours tromper ou essayer de gagner du temps pour que le sort se termine avant qu'elle n'ait répondu à toutes vos questions.
+
+**Échec critique** Comme pour l'échec, mais les réponses de la cible sont plus directes et moins répétitives, bien que toujours cryptiques. Elle subit une pénalité conditionnelle de -2 aux tests de [Tromperie](/compétences/tromperie.html) pour vous induire en erreur.

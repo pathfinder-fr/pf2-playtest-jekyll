@@ -28,14 +28,11 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Crée une explosion qui soigne les vivants et blesse les morts-vivants."
 ---
-A field of positive energy fills the area, exuding warmth and rejuvenating those within. Each living creature that starts its turn in the area regains 1d4 Hit Points, and any undead creature that starts its turn in the area takes 1d4 positive damage.
+Un champ d'énergie positive emplit la zone d'effet, émanant de la chaleur et revigorant les créatures situées à l'intérieur de la zone.
 
-Heightened
+Toutes les créatures vivantes qui commencent leur tour à l'intérieur de la zone d'effet regagnent 1d4 points de vie, et toutes les créatures mortes-vivantes qui commencent leur tour à l'intérieur de la zone d'effet subissent 1d4 points de dégâts positifs.
 
--
-
-9th
-
-The healing and damage increase to 1d6.
+**Elévations**
+* 9 : Les soins et les dégâts passent à 1d6.

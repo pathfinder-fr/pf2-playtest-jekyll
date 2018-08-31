@@ -29,14 +29,11 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Vous savez ou se situe le nord par rapport à votre position."
 ---
-In your mind’s eye, you see a path northward. You immediately know which direction is north (if there is such a thing as north at your current location).
+Vous percevez spirituellement un chemin vers le nord.
 
-Heightened
+Vous savez immédiatement dans quelle direction se trouve le nord (s'il existe quelque chose comme ça là où vous vous trouvez).
 
--
-
-7th
-
-You can choose to instead know the direction to a specific location with which you are very familiar, such as a previous home, a favorite tavern, or the temple where you trained.
+**Elévations**
+* 7 : Vous pouvez choisir de connaître la direction vers un lieu spécifique dont vous êtes très familier (comme une ancienne habitation, l'une de vos tavernes favorites ou le temple où vous avez été entraîné).

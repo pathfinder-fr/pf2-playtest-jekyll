@@ -27,20 +27,18 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Un cône de froid s'échape de vos mains."
 ---
-Icy cold rushes forth from your hands. You deal 11d6 cold damage to creatures in the area; they must each attempt a Reflex save. When casting this Spell, you can add a Material Casting action to include a small crystal or icicle. If you do, increase the area to a 60-foot cone.
+Des traits de froid gelant s'échappent de vos mains. Vous infligez 11d6 dégâts de froid aux créatures situées dans la zone. Chacune d'entre elles doit effectuer un jet de sauvegarde de Réflexes. 
 
-**Réussite** The creature takes half damage.
+**Réussite** La créature subit la moitié des dégâts.
 
-**Réussite critique** The creature takes no damage.
+**Réussite critique** La créature ne subit aucun dégât.
 
-**Échec** The creature takes full damage.
+**Échec** La créature subit la totalité des dégâts.
 
-**Échec critique** The creature takes double damage.
+**Échec critique** La créature subit le double des dégâts.
 
-Heightened
+Lorsque vous lancez ce sort, vous pouvez ajouter une action d'Incantation matérielle pour inclure un petit cristal ou une stalactite de glace afin de faire passer la zone d'effet à un cône de 12 cases.
 
-1
-
-The damage increases by 2d6.
+**Elévation** (+1) : Les dégâts augmentent de 2d6.

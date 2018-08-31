@@ -31,7 +31,7 @@ Des ailes de cuir poussent dans votre dos, vous donnat une vitesse de vol de 12 
 
 Lorsque le sort va prendre fin, s'il vous reste des Points de magie, vous pouvez dépenser 1 Point de magie pour prolonger la durée du sort de 1 minute.
 
-Lorsque le sort se termine, vous flottez jusqu'au sol en bénéficiant des effets du sort [*feuille morte*](/sorts/feuille-morte.html).
+Lorsque le sort se termine, vous flottez jusqu'au sol en bénéficiant des effets du sort [*chute de plume*](/sorts/chute-de-plume.html).
 
 S'il vous reste des Points de magie, vous pouvez augmenter le coût du sort de 1 Point de magie pour bénéficier des effets du sort [*griffes du dragon*](/sorts/griffes-du-dragon.html) tant que les ailes de dragon sont présentes sur votre dos.
 

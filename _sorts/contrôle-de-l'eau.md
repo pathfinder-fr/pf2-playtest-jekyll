@@ -15,8 +15,8 @@ traits:
   - eau
 trigger: 
 cost: 
-range: 500 feet
-area: 50 feet long by 50 feet wide
+range: 100 cases
+area: carré de 10 cases de côté
 targets: 
 duration: 
 requirements: 
@@ -27,6 +27,6 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Vous faites monter ou baisser le niveau d'une étendue d'eau."
 ---
-You can raise or lower the level of water in the chosen area by 10 feet. Water creatures in the area suffer the effects of slow.
+Vous pouvez faire monter ou baisser le niveau de l'eau de 2 cases dans la zone d'éffet. Les créatures aquatiques situées dans la zone subissent les effets d'un sort de [*ralentissement*](/sorts/ralentissement.html).

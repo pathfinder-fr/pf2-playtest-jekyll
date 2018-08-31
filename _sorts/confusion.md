@@ -19,7 +19,7 @@ cost:
 range: 6 cases
 area: 
 targets: une créature
-duration: 1 minute or until dismissed
+duration: 1 minute ou jusqu'à annulation
 requirements: 
 
 casting:
@@ -28,20 +28,17 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Rend une créature confuse."
 ---
-You befuddle your target with strange impulses, causing it to act randomly. The effects are determined by the target's Will save.
+Vous embrouillez votre cible à l'aide d'étranges impulsions, ce qui la force à agir de manière aléatoire. Les effets sont déterminés par le résultat du jet de sauvegarde de Volonté de la cible.
 
-**Réussite** Babbles incoherently and is slowed 1 for 1 round.
+**Réussite** La cible bredouille de manière incohérente et est [lente](/conditions/lent.html) 1 pendant 1 round.
 
-**Réussite critique** The target is unaffected.
+**Réussite critique** La cible n'est pas affectée.
 
-**Échec** Confused for 1 minute. It can attempt a new save at the end of each of its turns to end the confusion.
+**Échec** La cible est [confuse](/conditions/confus.html) pendant 1 minute. Elle peut tenter un nouveau jet de sauvegarde à la fin de chacun de ses tours pour annuler la condition.
 
-**Échec critique** Confused for 1 minute with no save to end early.
+**Échec critique** La cible est [confuse](/conditions/confus.html) pendant 1 minute sans possibilité d'annuler la condition plus tôt.
 
-Heightened
-
-8th
-
-You can target up to 10 creatures.
+**Elévations**
+* 8 : Vous pouvez cibler jusqu'à 10 créatures.

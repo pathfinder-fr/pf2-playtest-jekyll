@@ -16,7 +16,7 @@ traits:
   - visuel
 trigger: 
 cost: 
-range: 500 feet
+range: 100 cases (150 m)
 area: 
 targets: 
 duration: concentration
@@ -28,14 +28,18 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Crée l'llusion d'une créature qui peut combattre avec vous."
 ---
-You create an illusory image of a Huge or smaller creature. It makes appropriate sounds, generates normal smells, and feels right to the touch. If you and the image are ever farther than 500 feet apart, the spell ends. The image can’t speak, but you can use your actions to speak through the creature, with the spell disguising your voice as appropriate. You might need to attempt a Deception or Performance check to convincingly mimic the creature, as determined by the GM. This is especially likely if you’re trying to imitate a specific person and engage with someone that person knows. In combat, the illusion counts as a creature for flanking. It uses your spell roll for attack rolls and saving throws and your spell DC for its AC. If the image is hit by an attack or fails a save, the spell is dismissed. The creature has two actions per turn, which it takes when you Concentrate on the Spell. The illusion can’t directly affect the physical world, though its attacks can cause damage by making the target believe they’re real. If the illusory creature hits with a Strike, the target takes mental damage equal to 1d4 plus your spellcasting ability modifier. This is a mental effect. The illusion’s Strikes are nonlethal. If the damage doesn’t correspond to the image of the monster—for example, if a Large dragon dealt only 5 damage— the GM might allow the target to attempt a Perception check to disbelieve the spell as a free action. Any relevant resistances and weaknesses apply if the target thinks they do, as judged by the GM. For example, if the illusion wields a warhammer and attacks a creature resistant to bludgeoning damage, the creature would take less mental damage. However, illusory damage does not suppress regeneration or trigger other effects that require a certain damage type. Any creature that touches the image or uses the Seek action to examine it can attempt to disbelieve your illusion. When a creature disbelieves the illusion, it recovers from half the damage it had taken from it (if any) and doesn’t take any further damage from it. The GM should track illusory damage dealt by the illusion.
+Vous créez une image illusoire d'une créature de très grande taille ou plus petite.
 
-Heightened
+L'image émet les sons appropriés, génère les odeurs normales et semble correcte au toucher. Si vous et l'image êtes séparés de plus de 100 cases (150 m), le sort s'arrête.
 
--
+L'image ne peut pas parler, mais vous pouvez utiliser vos actions pour parler à travers elle à l'aide d'un sort qui déguise votre voix. Vous pouvez avoir besoin d'effectuer un jet de [Tromperie](/compétences/tromperie.html) ou de [Représentation](/compétences/représentation.html) pour pouvoir imiter la créature de manière convainquante (selon le choix du MJ) particulièrement si vous essayez d'imiter une personne spécifique et engagez la conversation avec quelqu'un que cette personne connais.
 
-1
+En combat, l'illusion compte comme une créature pour la prise en tenaille. Elle utilise votre jet de sort pour les jets d'attaque et de sauvegarde et votre DD de sort pour la CA. Si l'image est touchée par une attaque ou échoue à un jet de sauvegarde, le sort se termine. La créature possède 2 actions pas tour qu'elle utilise lorsque vous vous Concentrez sur le sort. 
 
-The damage of the image’s Strikes increases by 1d4 and the maximum size of creature you can create increases by one (to a maximum of Gargantuan).
+L'illusion ne peut pas affecter directement le monde physique mais ses attaques peuvent causer des dégâts en faisant croire à sa victime qu'ils sont réels. Si la *créature illusoire* touche avec une Attaque, la cible subit un nombre de points de dégâts mentaux égal à 1d4 plus le modification de votre caractéristique de lancement de sorts. Il s'agit d'un effet mental. Les attaques de l'illusion sont non létales. Si les dégâts ne correspondant pas à l'image que l'on se fait du monstre (par exemple si un grand dragon n'inflige que 5 points de dégâts), le MJ peut autoriser la cible à tenter un jet de [Perception](/ch9-jouer-à-pathfinder/perception.html) en action libre pour percer l'illusion. Toutes les [résistances](/ch9-jouer-à-pathfinder/dégâts.html#résistance) et [faiblesses](/ch9-jouer-à-pathfinder/dégâts.html#faiblesse) s'appliquent si la cible pense qu'elle le font (à la discrétion du MJ). Par exemple, si l'illusion manipule un marteau de guerre et attaque une créature [résistante](/ch9-jouer-à-pathfinder/dégâts.html#résistance) aux dégâts contondants, la créature subirait moins de dégâts mentaux. Néanmoins, les dégâts de l'illusion ne suppriment pas la regénération ou ne déclenche pas d'autres effets qui nécessitent un certain type de dégâts.
+
+Toute créature qui touche l'image ou utilise l'action Rechercher pour l'examiner peut tenter de percer votre illusion. Lorsqu'une créature l'a percée, elle récupère la moitié des dégâts que l'illusion lui a infligée (si il y en a) et ne subit plus aucun dégât de sa part. Le MJ devrait tenir le compte des dégâts que l'illusion à infligé à chacune des créatures.
+
+**Elévation** (+1) : Les dégâts infligés par les Attaques de l'illusion augmentent de 1d4 et la taille maximale de la créature que vous créez augmente d'une catégorie (jusqu'à un maximum de gargantuesque).

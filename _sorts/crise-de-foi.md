@@ -26,20 +26,20 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Inflige des dégâts mentaux à la cible."
 ---
-You assault the target's faith, riddling the creature with doubt and mental turmoil for 6d4 mental damage, or 6d6 mental damage if it can cast divine spells. The effects are determined by its Will save. To many deities, casting this spell on a follower of your own deity without significant cause is anathema.
+Vous assillez la foi de la cible, emplissant son esprit de doutes et de troubles mentaux. Cette attaque inflige 6d4 points de dégâts mentaux à la cible, ou 6d6 points de dégâts mentaux si la cible peut lancer des sorts divins.
 
-**Réussite** The target takes half damage.
+Les effets sont déterminés par le réusltat du jet de sauvegarde de Volonté de la cible.
 
-**Réussite critique** The target takes no damage.
+**Réussite** La cible subit la moitié des dégâts.
 
-**Échec** The target takes full damage.
+**Réussite critique** La cible ne subit aucun dégât.
 
-**Échec critique** The target takes double damage and can't cast divine spells for 1 round.
+**Échec** La cible subit la totalité des dégâts.
 
-Heightened
+**Échec critique** La cible subit le double des dégâts et ne peut pas lancer de sort divin pendant 1 round.
 
-1
+Pour beaucoup de déités, lancer ce sort sur un adepte de votre propre foi sans raison particulière est un anathème.
 
-Damage increases by 2d4 (2d6 if divine spellcaster)
+**Elévation** (+1) : Les dégâts augmentent de 2d4 (ou de 2d6 si la cible est un lanceur de sorts divins).

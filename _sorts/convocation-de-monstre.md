@@ -29,68 +29,36 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Convoque un monstre qui combat avec vous."
 ---
-You summon a level 0 creature from the summon monster list. This creature fights for you until the spell ends. The creature gains the summoned trait. The spell automatically ends if the monster’s Hit Points drop to 0. Summoned creatures have 2 actions per turn (which they use when you Concentrate on the Spell) and can’t use reactions. The creature attacks your enemies to the best of its abilities. If you can communicate with it, you can attempt to command it as part of your action to Concentrate on a Spell, but the GM determines the degree to which it follows your commands. Heightening the spell increases the maximum level of monster you can summon. You can always summon a monster of a lower level than the spell allows.
 
-Heightened
+Vous convoquez une créature de niveau 0 issue de la liste ci-dessous. Cette créature combat pour vous jusqu'à la fin  du sort. La créature gagne le trait conjuré. Le sort s'arrête automatiquement si le nombre de moints de vies de la créature tombe à 0.
 
--
+{: .table .table-sm .table-striped .table-hover}
+| Niveau du sort | Alliés naturels |
+|:---------------|:----------------|
+| 1 | **niveau 0** balai animé, <mark>bloodseeker</mark>, lynx, rat sanguinaire, scarabée de feu, cochon, poney, vipère |
+| 2 | **niveau 1** bureau animé, diablotin, méphite, quasit |
+| 3 | **niveau 2** armure animée, lémure, <:mark>sloth demon</mark> |
+| 4 | **niveau 3** statue animée, molosse infernal, élémentaire <mark>minor</mark> |
+| 5 | **niveau 4** diable barbu ; **niveau 5** élémentaire <mark>lesser</mark> |
+| 6 | **niveau 6** <mark>lust demon</mark>, cauchemar, salamandre ; **niveau 7** <mark>blood demon</mark>, élémentaire <mark>major</mark> |
+| 7 | **niveau 8** erinye ; **niveau 9** diable osseux, efrit, élémentaire noble, <mark>wrath demon</mark> |
+| 8 | **niveau 10** diable barbelé, <mark>slaver demon</mark> ; **niveau 11** seigneur-élémentaire, <mark>toad demon</mark> |
+| 9 | **niveau 12** <mark>slime demon</mark>, valkyrie ; **niveau 13** diable des glaces, <mark>treachery demon</mark> |
+| 10 | **niveau 14** <mark>boar demon</mark> ; **niveau 15** phoenix |
 
-2nd
+Les créatures convoquées possèdent 2 actions par tour (qu'elles utilisent lorsque vous vous Concentrez sur le sort) et ne peuvent pas utiliser de réaction. La créature attaque vos ennemis au mieux de ses possibilités. Si vous pouvez communiquer avec elle, vous pouvez essayer de lui donner des ordres dans le cadre de votre action de Concentration, mais le MJ détermine jusqu'à quel point elle suit vos ordres.
 
-Level 1.
+Elever le sort augmente le niveau maximum des créatures que vous pouvez convoquer. Vous pouvez toujours convoquer une créature d'un niveau inférieur au niveau que vous permet le sort.
 
-3rd
-
-Level 2.
-
-4th
-
-Level 3.
-
-5th
-
-Level 5.
-
-6th
-
-Level 7.
-
-7th
-
-Level 9.
-
-8th
-
-Level 11.
-
-9th
-
-Level 13.
-
-10th
-
-Level 15.
-
-Spell level||Monsters
-
-1st||Level 0: Animated broom, bloodseeker, bobcat, dog, dire rat, fire beetle, pig, pony, viper
-
-2nd||Level 1: Animated bureau, imp devil, mephit elemental, quasit demon
-
-3rd||Level 2: Animated armor, lemure devil, sloth demon
-
-4th||Level 3: Animated statue, hell hound, minor elemental
-
-5th||Level 5: Lesser elemental; Level 4: bearded devil
-
-6th||Level 7: Blood demon, major elemental; Level 6: lust demon, nightmare, salamander
-
-7th||Level 9: Bone devil, efreeti genie, greater elemental, wrath demon; Level 8: erinyes devil
-
-8th||Level 11: Elder elemental, toad demon; Level 10: barbed devil, slaver demon
-
-9th||Level 13: Ice devil, treachery demon; Level 12: slime demon, valkyrie
-
-10th||Level 15: Phoenix; Level 14: boar demon
+**Elévations**
+* 2 : Créatures de niveau 1 ou moins
+* 3 : Créatures de niveau 2 ou moins
+* 4 : Créatures de niveau 3 ou moins
+* 5 : Créatures de niveau 5 ou moins
+* 6 : Créatures de niveau 7 ou moins
+* 7 : Créatures de niveau 9 ou moins
+* 8 : Créatures de niveau 11 ou moins
+* 9 : Créatures de niveau 13 ou moins
+* 10 : Créatures de niveau 15 ou moins

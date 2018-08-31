@@ -25,20 +25,18 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Vous faites appel à votre déité pour infliger des dégâts à vos cibles."
 ---
-Choose an alignment your deity has (chaotic, evil, good, or lawful). You can’t cast this spell if you don’t have a deity or your deity your deity is true neutral. You deal 4d8 damage of that alignment. Creatures that match the alignment are unaffected. Those that neither match nor oppose it treat their result as one degree better.
+<mark>Le jet de sauvegarde n'est pas indiqué à voir avec les errata à venir</mark>
 
-**Réussite** The creature takes half damage.
+Vous choisissez l'un des alignements de votre déité (Chaos, Mal, Bien ou Loi). Vous ne pouvez pas lancer ce sort si vous n'avez pas de déité ou si votre déité est complètement Neutre. Vous infliges 4d8 points de dégâts de l'alignement choisi. Les créatures qui ont un alignement identique à celui choisi ne sont pas affectées par le sort et celles qui n'ont pas le même alignement ou dont l'alignement ne s'oppose pas à celui choisi considèrent leur résultat comme d'un niveau supérieur.
 
-**Réussite critique** The creature takes no damage.
+**Réussite** La créature subit la moitié des dégâts.
 
-**Échec** The creature takes full damage and is sick 1.
+**Réussite critique** La créature ne subit aucun dégâts.
 
-**Échec critique** Full damage, sick 2, and slowed 1 while sick.
+**Échec** La créature subit la totalité des dégâts et est [nauséeuse](/conditions/nauséeux.html) 1.
 
-Heightened
+**Échec critique** La créature subit la totalité des dégâts, est [nauséeuse](/conditions/nauséeux.html) 2 et [lente](/conditions/lent.html) 1 pendant qu'elle est [nauséeuse](/conditions/nauséeux.html).
 
-1
-
-The damage increases by 1d8.
+**Elévation** (+1) : Les dégâts augmentent de 1d8.

@@ -28,14 +28,14 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Aveugle la cible."
 ---
-You blind the target. The effect is determined by the target's Fortitude save. The target is bolstered against all castings of blindness.
+Vous [aveuglez](/conditions/aveuglé.html) la cible. L'effet est déterminé par le résultat du jet de sauvegarde de Vigueur de la cible. La cible est [endurante](/ch9-jouer-à-pathfinder/conditions.html#endurant) à tous les sorts de *cécité*.
 
-**Réussite** The target is blinded until its next turn begins.
+**Réussite** La cible est [aveuglée](/conditions/aveuglé.html) jusqu'au début de son prochain tour.
 
-**Réussite critique** The target is unaffected.
+**Réussite critique** La cible n'est pas affectée.
 
-**Échec** The target is blinded for 1 minute.
+**Échec** La cible est [aveuglée](/conditions/aveuglé.html) pendant 1 minute.
 
-**Échec critique** The target is blinded permanently.
+**Échec critique** La cible est [aveuglée](/conditions/aveuglé.html) de façon permanente.

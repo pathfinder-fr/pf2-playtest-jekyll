@@ -15,13 +15,13 @@ traits:
   - mental
 trigger: 
 cost: 
-range: planetary
+range: plnète entière
 area: 
-targets: up to 12 creatures you know by name and have met in person
+targets: jusqu'à 12 créatures dont vous connaissez le nom et que vous avez rencontré
 duration: 1 heure
 requirements: 
 castingtime: 10 minutes (S, V)
 
-summary: '..'
+summary: "Crée un rêve partagé par toutes les cibles dans lequel elles peuvent communiquer entre elles."
 ---
-Upon Casting this Spell, any targets—including you—can choose to immediately fall asleep. The spell ends for any creatures that don’t choose to fall asleep. Sleepers join a shared dream, where they can communicate with one another as though they were in the same room. Individual targets leave this shared dream upon awakening, and if all the targets awaken, the spell is dismissed.
+Dès que vous avez lancé ce sort, toutes les cibles (y compris vous-même) s'endorment immédiatement. Le sort se termine pour toute créature qui ne choisi pas de s'endormir. Les dormeurs rejoignent un rêve commun où ils peuvent communiquer les uns avec les autres comme s'ils étaient dans la même pièce. Les cibles quittent individuellement ce rêve commun lorsqu'elles se réveillent et si toutes se réveillent en même temps, le sort est annulé.

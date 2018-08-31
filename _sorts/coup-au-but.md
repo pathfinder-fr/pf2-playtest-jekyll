@@ -18,13 +18,13 @@ cost:
 range: 
 area: 
 targets: 
-duration: until the end of your turn
+duration: jusqu'à la fin de votre tour
 requirements: 
 
 casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Améliore la précision de votre prochaine attaque."
 ---
-The next time you make an attack roll before the end of your turn, roll the attack twice and use the better result. The attack ignores circumstance penalties to the attack roll and any miss chance due to the target being concealed or sensed.
+La prochaine fois que vous faites un jet d'attaque d'ici à la fin de votre tour, lancez le jet deux fois et conservez le meilleur résultat. L'attaque ignore les pénalités de circonstance aux jets d'attaque et toute chance d'échec dû au camouflage ou à la détection de la cible.

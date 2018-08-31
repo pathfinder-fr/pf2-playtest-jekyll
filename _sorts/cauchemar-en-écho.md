@@ -17,7 +17,7 @@ cost:
 range: 6 cases
 area: 
 targets: une créature
-duration: see text
+duration: voir texte
 requirements: 
 
 casting:
@@ -26,14 +26,14 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Crée un lien cauchemardesque entre vous et une créature."
 ---
-You create a nightmare conduit between your mind and the target, ensuring one of you is confused, depending on the target’s Will save.
+Vous créez un lien cauchemardesque entre votre esprti et la cible, s'assurant que l'un d'entre vous est [confus](/conditions/confus.html) selon le résultat du jet de sauvegarde de Volonté de la cible.
 
-**Réussite** You are confused until the end of your next turn.
+**Réussite** Vous êtes [confus](/conditions/confus.html) jusqu'à la fin de votre prochain tour.
 
-**Réussite critique** You are confused for 1 minute.
+**Réussite critique** Vous êtes [confus](/conditions/confus.html) pendant 1 minute.
 
-**Échec** The target is confused for 3 rounds. It can attempt a new Will save at the end of each of its turns to end the effect.
+**Échec** La cible est [confuse](/conditions/confus.html) pendant 3 rounds. Elle peut tenter un nouveau jet de sauvegarde de Volonté à la fin de chacun de ses tours pour annuler la condition.
 
-**Échec critique** The target is confused for 1 minute.
+**Échec critique** La cible est [confuse](/conditions/confus.html) pendant 1 minute.

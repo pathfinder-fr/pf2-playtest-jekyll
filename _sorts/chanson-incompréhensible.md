@@ -19,8 +19,8 @@ trigger:
 cost: 
 range: 24 cases
 area: 
-targets: up to five creatures
-duration: concentration, up to 1 minute
+targets: jusqu'à 5 créatures
+duration: concentration, jusqu'à 1 minute
 requirements: 
 
 casting:
@@ -29,26 +29,23 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Emet une chanson qui submerge l'esprit des cibles."
 ---
-Fleeting notes of a strange and unnatural song fill the air, overtaking the mind. Each target must attempt a Will save when you cast the spell, and again each time you Concentrate on the Spell. A creature needs to attempt only save against the song each round, and you have to keep the same targets when you Concentrate on the Spell.
+Les notes d'une chanson étrange et surnaturelle emplissent l'air, submergeant les esprits. Chaque cible doit effectuer une jet de sauvegarde de Volonté lorsque vous lancez le sort, et à chaque fois que vouv vous Concentrez sur le sort. Une créature n'effectue qu'un jet de sauvegarde contre la chanson à chaque round et vous devez conserver les mêmes cibles lorsque vous vous Concentrez sur le sort.
 
-**Réussite** Unaffected this round, but can be affected on subsequent rounds.
+**Réussite** La cible n'est pas affectée pendant ce round, mais peut l'être les rounds suivants.
 
-**Réussite critique** Unaffected, can’t be affected on subsequent rounds, and bolstered against unfathomable song.
+**Réussite critique** La cible n'est pas affectée pendant ce round ni pendant les suivants et est [endurante](/ch9-jouer-à-pathfinder/dégâts.html#endurant) au sort *chanson incompréhensible*.
 
-**Échec** Roll 1d4 on the table below.
+**Échec** Lancez 1d4 et appliquez l'effet correspondant du tableau ci-dessous.
 
-**Échec critique** Roll 1d4+1 on the table below.
+**Échec critique** Lancez 1d4+1 et appliquez l'effet correspondant du tableau ci-dessous.
 
-Roll||Effect
-
-1||Frightened 2
-
-2||Confused for 1 round
-
-3||Stupefied 4 for 1 round
-
-4||Blinded for 1 round
-
-5||Stunned 1 round and stupefied 1 for an unlimited duration
+{: .table .table-sm .table-striped .table-hover}
+| Résultat | Effet |
+|:---------|:------|
+| 1 | [effrayé](/conditions/effrayé.html) 2 |
+| 2 | [confus](/conditions/confus.html) pendant 1 round |
+| 3 | [stupéfié](/conditions/stupéfié.html) 4 pendant 1 round |
+| 4 | [aveuglé](/conditions/aveuglé.html) pendant 1 round |
+| 5 | [étourdi](/conditions/étourdi.html) pendant 1 round et [stupéfié](/conditions/stupéfié.html) 1 pendant une durée illimitée |
