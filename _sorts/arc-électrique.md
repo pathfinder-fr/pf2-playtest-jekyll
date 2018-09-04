@@ -29,7 +29,7 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: "Infloige des dégâts d'électricité."
+summary: "Inflige des dégâts d'électricité."
 ---
 Vous infligez 1d6 points de dégâts d'électricité. 
 
