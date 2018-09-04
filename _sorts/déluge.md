@@ -25,14 +25,8 @@ casting:
   - action: 1
     description: Incantation somatique
 
-summary: '..'
+summary: "Une aversetorrentielle camoufle et éblouit les créatures situées dans la zone."
 ---
-You call a torrential downpour. The rain extinguishes nonmagical flames. Creatures in the area are concealed and dazzled. They gain fire resistance 4. Creatures with weakness to water that end their turns in the area take damage equal to their weakness.
+Vous appelez une avers torrentielle. La pluie éteint les flammes non magiques. Les créatures dans la zone d'effet sont [camouflées](/conditions/camouflé.html) et [éblouies](/conditions/ébloui.html). Elles gagnent une [résistance](/ch9-jouer-à-pathfinder/dégâts.html#résistance) 4 au feu. Les créatures ayant une [faiblesse](/ch9-jouer-à-pathfinder/dégâts.html#faiblesse) à l'eau qui termenine leur tour dans la zone d'effet du sort subissent un nombre de points de dégâts égal à leur [faiblesse](/ch9-jouer-à-pathfinder/dégâts.html#faiblesse).
 
-Heightened
-
--
-
-1
-
-The amount of fire resistance increases by 2.
+**Elévation** (+1) : la [résistance](/ch9-jouer-à-pathfinder/dégâts.html#résistance) au feu augmente de 2.

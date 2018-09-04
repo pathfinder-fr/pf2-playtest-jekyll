@@ -18,7 +18,7 @@ trigger:
 cost: 
 range: 6 cases
 area: 
-targets: one humanoid creature
+targets: 1 créature humanoïde
 duration: varies
 requirements: 
 
@@ -28,20 +28,17 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "La cible est stupéfaite."
 ---
-You drastically reduce the target’s mental faculties. The effect depends on the target’s Will save.
+Vous réduisez drastiquement les facultés mentales de la cible. Les effets du sort dépendent du résultat du jet de sauvegade de Volonté de la cible.
 
-**Réussite** The target is stupefied 2 for 1 round.
+**Réussite** La cible est [supéfaite](/conditions/stupéfié.html) 2 pendant 1 round.
 
-**Réussite critique** The target is unaffected.
+**Réussite critique** La cible n'est pas affectée.
 
-**Échec** The target is stupefied 4 with a permanent duration.
+**Échec** La cible est [supéfaite](/conditions/stupéfié.html) 4 pour une durée permanente.
 
-**Échec critique** The target’s intellect is permanently reduced below that of an animal, and it treats its Charisma, Intelligence, and Wisdom modifiers as –5. It loses all class abilities that require mental faculties, including all spellcasting. If the target is a PC, she becomes an NPC under the GM’s control.
+**Échec critique** L'intellect de la cible est réduit de manière permanente à un niveau inférieur à celui d'un animal. Les modificateurs de son Charisme, son Intelligence et sa Sagesse passent à -5. Elle perd toutes ses capacités de classe qui nécessitent des facultés mentales (dont la capacité à lancer des sorts). Si la cible est un PJ, elle devient PNJ sous le contrôle du MJ.
 
-Heightened
-
-9th
-
-You can target a non-humanoid creature.
+**Elévations**
+* 9 : Vous pouvez cibler une créature non humanoïde.

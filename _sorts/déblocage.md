@@ -16,8 +16,8 @@ trigger:
 cost: 
 range: 6 cases
 area: 
-targets: one door, lock, or container
-duration: 1 minute or until dismissed
+targets: 1 porte, 1 cadenas ou un conteneur
+duration: 1 minute ou jusqu'à annulation
 requirements: 
 
 casting:
@@ -26,6 +26,10 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Facilite le déblocage ou le déverrouillage d'une porte, un cadenas ou un conteneur."
 ---
-You make the target easier to open. Knock grants any who try to open the target a +4 conditional bonus to any Thievery or Athletics checks to do so. You can attempt a Thievery check to open the target as part of casting knock. As soon as the target is opened or unlocked, the spell is dismissed. Knock dispels lock.
+La cible est plus facile à ouvrir. *Déblocage* donne à qui veut essayer d'ouvrir la cible un bonus conditionnel de +4 aux jets de [Pratique du voleur](/compétences/pratique-du-voleur.html) ou d'[Athlétisme](/compétences/athlétisme.html). 
+
+Vous pouvez lancer un jet pour ouvrir la cible en même temps que vous lancez le sort. Dès que la cible est ouverte ou déverrouillée, le sort est annulé.
+
+*Déblocage* dissipe [*verrouillage*](/sorts/verrouillage.html).

@@ -19,7 +19,7 @@ cost:
 range: 6 cases
 area: 
 targets: une créature
-duration: concentration, up to 10 minutes or until dismissed
+duration: concentration, jusqu'à 10 minutes ou jusqu'à annulation
 requirements: 
 
 casting:
@@ -28,14 +28,16 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Envoie la cible dans un labyrinthe extra-dimensionnel."
 ---
-When you cast maze, you transport the target into an extradimensional maze of eldritch origin. Once each turn, the target can spend 1 action to attempt a Survival check against your spell DC to escape the maze. The possible outcomes of the Survival check are as follows.
+Lorsque vous lancez le sort *dédale*, vous transportez la cible dans un labyrinthe extra-dimensionnel d'origine surnaturelle. Une fois par tour, la cible doit utiliser 1 action pour effectuer un jet de [Survie](/compétences/survie.html) contre le DD de votre sort pour s'échapper du labyrinthe. Les résultats possibles au jet de [Survie](/compétences/survie.html) sont les suivants :
 
-**Réussite** The creature is on the right path to the exit. If the target was already on the right path, it escapes the maze and the spell ends.
+**Réussite** La créature est sur le bon chemin vers la sortie. Si la cible était déjà sur le bon chemin, elle s'échappe et le sort se termine.
 
-**Réussite critique** The creature escapes and the spell ends.
+**Réussite critique** La créature s'échappe du labyrinthe et le sort se termine.
 
-**Échec** The creature makes no progress toward escape.
+**Échec** La créature n'effectue aucun progrès vers la sortie.
 
-**Échec critique** The creature makes no progress toward escape, and if it was on the right path it no longer is. Teleportation magic doesn’t help the creature escape unless the magic can transport across planes, such as plane shift. When the spell ends, either because the target escaped or the duration ran out, the target returns in the space it occupied when it was banished, or the nearest space if the original space is now filled. It loses any remaining actions it would have on its current turn, but it can spend reactions normally.
+**Échec critique** La créautre n'effectue aucun progrès vers la sortie et si elle était sur le bon chemin, elle ne l'est plus. 
+
+La téléportation magique n'aide pas la créature à s'échapper sauf si la magie peut transporter à travers les plans (comme [*changement de plan*](/sorts/changement-de-plan.html)). Lorsque le sort se termine (soit parce que la cible s'est échappée, soit parce que le sort est arrivé à sa durée maximale), la cible revient à l'espace qu'elle occupait avant d'être transportée dans le labyrinthe (ou l'espace disponible le plus proche s'il est maintenant occupé). Elle perd toutes les actions qui lui restaient lors de sont tour, mais elle peut utiliser des réactions normalement.

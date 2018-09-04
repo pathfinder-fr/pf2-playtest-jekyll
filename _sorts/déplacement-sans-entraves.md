@@ -22,6 +22,6 @@ casting:
   - action: L
     description: Incantation somatique
 
-summary: '..'
+summary: ""
 ---
-You can ignore magical impediments to your movement as if you benefited from the freedom of movement spell. This doesn’t let you escape being grabbed, restrained, tied up, or bound, from either mundane or magical means.
+You can ignore magical impediments to your movement as if you benefited from the freedom of movement spell. This doesn’t let you escape being grabbed, restrained, tied up, or bound, from either mundane or magical means.

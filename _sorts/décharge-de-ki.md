@@ -26,20 +26,16 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "La décharge inflige des dégâts et repousse les créatures dans la zone d'effet."
 ---
-You unleash your ki as a powerful blast of force that deals 4d4 force damage. Each creature in the area must attempt a Fortitude saving throw.
+Vous relachez votre ki en une décharge puissante qui inflige 4d4 points de dégâts de force. Chaque créature dans la zone d'effet doit effectuer un jet de sauvegarde de Vigueur.
 
-**Réussite** The creature takes half damage.
+**Réussite** La créature subit la moitié des dégâts.
 
-**Réussite critique** The creature is unaffected.
+**Réussite critique** La créature n'est pas affectée.
 
-**Échec** The creature takes full damage and is pushed 5 feet.
+**Échec** La créature subit la totalité des dégâts et est poussée d'1 case.
 
-**Échec critique** Double damage and pushed 10 feet.
+**Échec critique** La créature subit le double des dégâts et est poussée de 2 cases.
 
-Heightened
-
-1
-
-The damage increases by 2d4.
+**Elévation** (+1) : Les dégâts augmentent de 2d4.

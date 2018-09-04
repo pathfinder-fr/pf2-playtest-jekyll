@@ -18,7 +18,7 @@ cost:
 range: 
 area: 
 targets: 
-duration: 1 heure or until dismissed
+duration: 1 heure ou jusqu'à annulation.
 requirements: 
 
 casting:
@@ -27,18 +27,15 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "Vous déguise pour apparaître différent de ce que vous êtes habituellement."
 ---
-Your illusion can make you appear as another creature of the same body shape and roughly similar height (within 6 inches) and weight (within 50 pounds). The disguise is typically good enough to hide your identity, but not to impersonate a specific individual. The spell doesn’t change your voice, scent, or mannerisms. You can also make clothing and items you wear appear different, such as making your armor look like an ordinary dress. Held items are unaffected, and any worn item you remove returns to its true appearance until you don it again. Casting illusory disguise counts as setting up a disguise for the Impersonate use of Deception it ignores any circumstance penalties you might take for disguising yourself as a dissimilar creature, and it gives you a +4 conditional bonus to your Deception checks to avoid others seeing through your disguise. You can dismiss this disguise with a Verbal Casting action.
+Votre illusion peut vous faire apparaître comme une autre créature de la même forme et d'à peut près la même taille (à 15 cm près) et du même poids (à 25 kg près). Le déguisement est suffisamment bon pour masquer votre identité, mais pas pour imiter un individu particulier. Le sort ne modifie pas votre voix, votre odeur ou vos manières. Vous pouvez également modifier vos habits et les objets que vous transportez, comme faire ressembler votre armure à une robe ordinaire. Les objets que vous tenez en main ne sont pas affectés et tout objet que vous transportez reprennent leur propre apparence lorsque vous les abandonnez.
 
-Heightened
 
--
+Incanter *déguisement illusoire* compte dans la confection d'un déguisement pour l'action Imiter de la compétence [Tromperie](/compétences/tromperie.html). Le sort vous permet également d'ignorer les pénalités de circonstance que vous pourriez avoir si vous vous déguisez en une créature dissemblable à vous-même et il vous donne un bonus conditionnel de +4 au tests de [Tromperie](/compétences/tromperie.html) pour éviter que les autres ne voient à travers votre déguisement.
 
-2nd
+Vous pouvez annuler le sort avec une action d'Incentation verbale.
 
-The spell also disguises your voice and scent, and it gains the auditory trait.
-
-3rd
-
-You can appear as any creature of the same size, even a specific individual. You must have seen an individual to take on their appearance. The spell also disguises your voice and scent, and it gains the auditory trait.
+**Elévations**
+* 2 : Le sort déguise également votre voix et votre odeur et il gagne le trait auditif.
+* 3 : Vous pouvez apparaître comme n'importe quelle créature de la même taille que vous, même un individu spécifique. Vous devez avoir déjà vu cet individu pour pouvoir prendre son apparence. Le sorts déguise également votre voix et votre odeur et il gagne le trait auditif.

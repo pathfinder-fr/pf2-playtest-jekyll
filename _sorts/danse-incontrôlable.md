@@ -27,14 +27,16 @@ casting:
   - action: 1
     description: Incantation verbale
 
-summary: '..'
+summary: "La cible se met à danser frénétiquement."
 ---
-The target is overcome with an all-consuming urge to dance, depending on its Will save. For the duration of the spell, the target is flat-footed and can’t use reactions. While affected, the creature can’t use any move actions other than to dance by using the Stride action to move up to half its Speed.
+La cible est submergée par une incontrôlabel envie de danser, selon le résultat de sont jet de sauvegarde de Volonté. 
 
-**Réussite** The spell’s duration is 3 rounds, and the target must spend at least 1 action per turn dancing.
+**Réussite** Le sort dure 3 rounds et la cible doit utiliser au moins 1 action pour danser à chacun de ses tours.
 
-**Réussite critique** The target is unaffected.
+**Réussite critique** La cible n'est pas affectée.
 
-**Échec** The spell’s duration is 1 minute, and the target must spend at least 2 actions per turn dancing.
+**Échec** Le sort dure 1 minute et la cible doit utiliser au moins 2 actions pour danser  à chacun de ses tours.
 
-**Échec critique** The spell’s duration is 1 minute, and the target must spend all its actions each turn dancing.
+**Échec critique** Le sort dure 1 minute et la cible doit utiliser ses 3 actions pour pour danser à chacun de ses tours.
+
+Pendant la durée du sort, la cible est prise au dépourvu et ne peut pas utiliser de réaction. Lorsqu'elle est affectée, la créature, pour danser, ne peut pas utiliser d'autre action qu'une action de Déplacement, auquel cas elle se déplace la moitié de sa vitesse de déplacement. 
