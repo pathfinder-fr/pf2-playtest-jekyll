@@ -44,8 +44,8 @@ Armures
 | Armure lourde | Prix | Bonus à la CA | Bonus à la CAC | Bonus Max Dextérité | Pénalité aux compétences | Pénalité à la vitesse | Encombrement | Traits |
 |:--------------|:-----|:--------------|:---------------|:--------------------|:-------------------------|:----------------------|:-------------|:-------|
 | Clibanion | 125 pa | +5 | +2 | +2 | -3 | -2 cases | 3 | encombrant |
-| Armure de plaques | 175 pa | +5 | +2 | +2 | -4 | -2 cases | 3 | - |
-| Harnois | 300 pa | +6 | +2 | +1 | -5 | -2 cases | 4 | bruyant |
+| Armure de demi-plaques | 175 pa | +5 | +2 | +2 | -4 | -2 cases | 3 | - |
+| Armure de plaques complètes (niveau 2) | 300 pa | +6 | +2 | +1 | -5 | -2 cases | 4 | bruyant |
 
 {: .table .table-sm .table-striped .table-hover}
 | Bouclier | Prix | Bonus à la CA | Bonus à la CAC | Bonus Max Dextérité | Pénalité aux compétences | Pénalité à la vitesse | Encombrement | Traits |
@@ -64,7 +64,7 @@ Ces chiffres indiquent les bonus d'objet que vous ajoutez à votre CA et à votr
 ### Bonus maximal de Dextérité
 Ce nombre est la valeur maximale que votre modificateur de Dextérité applique à votre CA et à votre CAC selon l'armure que vous portez.
 
-Par exemple, si vous avez un modificateur de Dextérité de +4 et que vous portez une armure de plaques, la valeur que votre modificateur de Dextérité applique à votre CA et à votre CAC est limité à +2.
+Par exemple, si vous avez un modificateur de Dextérité de +4 et que vous portez une armure de demi-plaques, la valeur que votre modificateur de Dextérité applique à votre CA et à votre CAC est limité à +2.
 
 ### Pénalités d'armure aux compétences
 Vous subissez cette pénalité non typée à tous les tests de compétences basés sur la Force, la Dextérité et la Constitution, excepté ceux qui ont le trait attaque.

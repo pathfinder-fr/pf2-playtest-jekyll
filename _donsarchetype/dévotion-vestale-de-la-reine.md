@@ -31,6 +31,6 @@ requirements:
 summary: "Vous devenez maître en Vigueur et toute réussite est critique."
 ---
 
-Votre entraînement en tant que Vestale de la Reine vous a endurcie contre les conditions physiques difficiles. Vous devenez un maître en Vigueur. Chaque fois que vous réussissez un jet de Vigueur, vous considérez cette réussite comme une réussite critique. Vous gagnez également accès à une armure spéciale : l'armure de plaques de Vestale de la Reine. Il s'agit d'un objet de niveau 3 qui coûte 600 pa et offre +7 à la CA, +3 à la CAC et a une modificateur de Dextérité maximal de +0 (pour le reste, cette armure utilise les mêmes caractéristiques qu'une armure de plaques complète).
+Votre entraînement en tant que Vestale de la Reine vous a endurcie contre les conditions physiques difficiles. Vous devenez un maître en Vigueur. Chaque fois que vous réussissez un jet de Vigueur, vous considérez cette réussite comme une réussite critique. Vous gagnez également accès à une armure spéciale : l'armure de plaques de Vestale de la Reine. Il s'agit d'un objet de niveau 3 qui coûte 600 pa et offre +7 à la CA, +3 à la CAC et a une modificateur de Dextérité maximal de +0 (pour le reste, cette armure utilise les mêmes caractéristiques qu'une armure de plaques complètes).
 
 **Spécial** Vous ne pouvez pas choisir un autre don de dévotion avant d'avoir gagné deux autres dons dans l'archétype de Vestale de la Reine.

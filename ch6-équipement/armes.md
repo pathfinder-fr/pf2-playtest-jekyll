@@ -53,6 +53,7 @@ Armes simples de corps à corps
 |:-----|:-----|:-------|:-------------|:------|:-------|:-------|
 | Bâton | 0 pa | 1d4 C | 1 | 1 | masses | deux mains d8 |
 | Dague | 2 pa | 1d4 P | L | 1 | couteaux | agile, finesse, lancé 2 cases, polyvalent T |
+| Etoile du matin | 10 pa | 1d6 C | 1 | 1 | masses | polyvalent P |
 | Gant | 2 pa | 1d4 C | L | 1 | pugilat | agile, main libre |
 | Gant clouté | 3 pa | 1d4 P | L | 1 | pugilat | agile, main libre |
 | Gourdin | 0 pa | 1d6 C | 1 | 1 | masses | lancé 2 cases |
@@ -60,7 +61,6 @@ Armes simples de corps à corps
 | Lance d'arrêt | 5 pa | 1d8 P | 2 | 2 | lances | allonge |
 | Masse d'arme légère | 4 pa | 1d4 C | L | 1 | masses | agile, finesse, pousser |
 | Massue | 12 pa | 1d6 C | 1 | 1 | masses | pousser |
-| Morgenstern | 10 pa | 1d6 C | 1 | 1 | masses | polyvalent P |
 | Poings | - | 1d4 C | - | 1 | pugilat | agile, finesse, non létal, sans arme |
 | Serpe | 2 pa | 1d4 T | L | 1 | couteaux | agile, finesse, mise à terre |
 

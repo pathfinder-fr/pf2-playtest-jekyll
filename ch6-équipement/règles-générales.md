@@ -74,7 +74,7 @@ Si vous êtes [encombré](/conditions/encombré/html), votre Vitesse diminue de 
 
 #### Valeurs d'Encombrement
 
-L'Encombrement d'un objet peut être précisé sous la forme d'un nombre, de la lettre L (pour léger) ou d'une barre — (pour négligeable). Par exemple, une armure de plaques complète correspond à 4 Encombrement, une épée longue, à 1 Encombrement, une dague ou un parchemin est léger et un morceau de craie est négligeable. Dix objets légers forment 1 Encombrement mais vous n'avez pas besoin de compter les fractions (ainsi, 9 objets légers comptent pour 0 Encombrement et 11 objets légers, pour 1 Encombrement). Les objets d'Encombrement négligeable sont ignorés lorsque vous calculez l'Encombrement total, à moins que vous n'en transportiez de très grands nombres (au choix du MJ).
+L'Encombrement d'un objet peut être précisé sous la forme d'un nombre, de la lettre L (pour léger) ou d'une barre — (pour négligeable). Par exemple, une armure de plaques complètes correspond à 4 Encombrement, une épée longue, à 1 Encombrement, une dague ou un parchemin est léger et un morceau de craie est négligeable. Dix objets légers forment 1 Encombrement mais vous n'avez pas besoin de compter les fractions (ainsi, 9 objets légers comptent pour 0 Encombrement et 11 objets légers, pour 1 Encombrement). Les objets d'Encombrement négligeable sont ignorés lorsque vous calculez l'Encombrement total, à moins que vous n'en transportiez de très grands nombres (au choix du MJ).
 
 #### Estimer l'Encombrement d'un objet
 

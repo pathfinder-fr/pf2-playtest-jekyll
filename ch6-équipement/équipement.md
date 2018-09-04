@@ -46,6 +46,7 @@ Matériel d'aventurier
 | &nbsp;&nbsp;&nbsp;&nbsp;[Cadenas](#cadenas), Maître (niveau 7) | 1 500 pa | - | 2 |
 | Chaîne (3 m) | 40 pa | 1 | 2 |
 | [Chausse-trappes](#chausse-trappes) | 3 pa | L | 1 |
+| Chope | 1 pc | - | 1 |
 | Craie (les 10) | 1 pc | - | 1 |
 | [Coffre](#coffre) | 6 pa | 2 | 2 |
 | Corde de chanvre (15 m) | 1 pa | 1 | 2 |
@@ -79,7 +80,7 @@ Matériel d'aventurier
 | &nbsp;&nbsp;&nbsp;&nbsp;[Kit de trappes](#kit-de-trappes), Maître (niveau 7) | 3 000 pa | 8 | 2 |
 | [Lanterne à capote](#lanterne) | 7 pa | L | 1 |
 | [Lanterne sourde](#lanterne) | 10 pa | 1 | 1 |
-| [Livre d'artisan](#livre-dartisan) | 1 pa | L | 2 |
+| [Livre de base d'artisan](#livre-de-base-dartisan) | 1 pa | L | 2 |
 | [Livre de formules](#livre-de-formules) (vide) | 10 pa | 1 | 1 |
 | [Longue-vue](#longue-vue) | 200 pa | L | 2 |
 | &nbsp;&nbsp;&nbsp;&nbsp;[Longue-vue](#longue-vue), Expert (niveau 4) | 800 pa | L | 2 |
@@ -99,12 +100,12 @@ Matériel d'aventurier
 | [Outils d'artisan](#outils-dartisan) | 50 pa | 8 | 2 |
 | &nbsp;&nbsp;&nbsp;&nbsp;[Outils d'artisan](#outils-dartisan), Expert (niveau 2) | 200 pa | 8 | 2 |
 | &nbsp;&nbsp;&nbsp;&nbsp;[Outils d'artisan](#outils-dartisan), Maître (niveau 7) | 3 000 pa | 8 | 2 |
-| [Outils de cambrioleur](#outils-de-cambrioleur) | 30 pa | L | 2 |
-| &nbsp;&nbsp;&nbsp;&nbsp;[Crochets de remplacement](#outils-de-cambrioleur) | 6 pa | - | - |
-| &nbsp;&nbsp;&nbsp;&nbsp;[Outils de cambrioleur](#outils-de-cambrioleur), Expert (niveau 2) | 250 pa | L | 2 |
-| &nbsp;&nbsp;&nbsp;&nbsp;[Crochets de remplacement](#outils-de-cambrioleur), Expert (niveau 2) | 50 pa | - | - |
-| &nbsp;&nbsp;&nbsp;&nbsp;[Outils de cambrioleur](#outils-de-cambrioleur), Maître (niveau 7) | 3 600 pa | L | 2 |
-| &nbsp;&nbsp;&nbsp;&nbsp;[Crochets de remplacement](#outils-de-cambrioleur), Maître (niveau 7) | 720 pa | - | - |
+| [Outils de voleur](#outils-de-voleur) | 30 pa | L | 2 |
+| &nbsp;&nbsp;&nbsp;&nbsp;[Crochets de remplacement](#outils-de-voleur) | 6 pa | - | - |
+| &nbsp;&nbsp;&nbsp;&nbsp;[Outils de voleur](#outils-de-voleur), Expert (niveau 2) | 250 pa | L | 2 |
+| &nbsp;&nbsp;&nbsp;&nbsp;[Crochets de remplacement](#outils-de-voleur), Expert (niveau 2) | 50 pa | - | - |
+| &nbsp;&nbsp;&nbsp;&nbsp;[Outils de voleur](#outils-de-voleur), Maître (niveau 7) | 3 600 pa | L | 2 |
+| &nbsp;&nbsp;&nbsp;&nbsp;[Crochets de remplacement](#outils-de-voleur), Maître (niveau 7) | 720 pa | - | - |
 | Outre d'eau | 5 pc | L | 1 |
 | [Perche](#perche) (3 m) | 1 pc | 1 | 2 |
 | [Pied-de-biche](#pied-de-biche), Expert (niveau 2) | 5 pa | L | 2 |
@@ -123,7 +124,6 @@ Matériel d'aventurier
 | [Silex et amorce](#silex-et-amorce) | 5 pc | - | 2 |
 | [Symbole religieux](#symbole-religieux), argent | 20 pa | L | 1 |
 | [Symbole religieux](#symbole-religieux), bois | 1 pa | L | 1 |
-| Tasse | 1 pc | - | 1 |
 | Tente 2 personnes | 8 pa | L | 2 |
 | Tente 4 personnes | 50 pa | 1 | 2 |
 | Tente pavillon (niveau 2) | 400 pa | 12 | 2 |
@@ -211,7 +211,7 @@ Une lanterne diffuse de la [lumière vive](/ch9-jouer-à-pathinder/perceptioN.ht
 Une lanterne sourde diffuse sa lumière dans un cône de 12 cases.<br>
 Une lanterne à capote diffuse sa lumière dans un périmètre de 6 cases autour de la lanterne. Elle est équipée de volets qui vous permettent de bloquer la lumière. Ouvrir ou fermer les volets nécessite une action d'Intéraction avec une main libre.
 
-### Livre d'artisan
+### Livre de base d'artisan
 Ce livre contient les guides de fabrication (voir la section [formules](#formules) ci-dessous) de tous les objets communs de ce chapitre.
 
 ### Livre de formules
@@ -246,9 +246,9 @@ Vous pouvez créer des objets à partir de matériaux brut en utilisant des outi
 Les outils d'artisan de qualité Expert donnent un bonus d'objet de +1 aux tests d'[Artisanat](/ch4-compétences/artisanat.html) pour Fabriquer des objets. Les outils d'artisan de qualité Maître donnent une bonus d'objet de +2 aux tests d'[Artisanat](/ch4-compétences/artisanat.html) pour Fabriquer des objets.
 Les outils peuvent être différents selon le type d'objet fabriqué (à la discrétion du MJ). Par exemple, les outils d'un forgerone sont différent des outils d'un bûcheron.
 
-### Outils de cambrioleur
-Vous avez besoin d'outils de cambrioleur pour Crocheter des serrures ou des cadenas ou pour Désactiver des mécanismes (d'un certain type) en utilisant la compétence [Pratique du voleur](/ch4-compétences/pratique-du-voleur.html).<br>
-Des outils de cambrioleur de qualité Expert vous donne un bonus d'objet de +1 aux tests, et des outils de qualité Maître vous donne un bonus d'objet de +2.<br>
+### Outils de voleur
+Vous avez besoin d'outils de voleur pour Crocheter des serrures ou des cadenas ou pour Désactiver des mécanismes (d'un certain type) en utilisant la compétence [Pratique du voleur](/ch4-compétences/pratique-du-voleur.html).<br>
+Des outils de voleur de qualité Expert vous donne un bonus d'objet de +1 aux tests, et des outils de qualité Maître vous donne un bonus d'objet de +2.<br>
 Les crochets de remplacement sont nécessaires pour le cas où vos outils se casseraient suite à un échec critique à un test de [Pratique du voleur](/ch4-compétences/pratique-du-voleur.html).
 
 ### Perche
