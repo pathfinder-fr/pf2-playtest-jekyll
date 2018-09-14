@@ -1,5 +1,5 @@
 ---
-title: "Bard"
+title: "Barde"
 titleEN: "Bard"
 source: "Playtest Pathfinder"
 layout: trait
