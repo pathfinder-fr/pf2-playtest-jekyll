@@ -31,6 +31,11 @@ Vous pouvez accomplir l’action suivante de la compétence Savoir, même si vou
 
 {: .block .action1}
 > ### Se rappeler de connaissances
+>
+> {:.traits} Concentration, Secret
+>
+> ---
+>
 > Vous pouvez utiliser la compétence Savoir pour vous remémorer un peu des connaissances relatives à ce type de Savoir.
 > Le MJ détermine le DD pour de tels tests et si votre Savoir s’applique à ce sujet.
 >
@@ -41,12 +46,10 @@ Vous pouvez accomplir l’action suivante de la compétence Savoir, même si vou
 ## Utilisation de la compétence Savoir avec entraînement
 Vous pouvez tenter l’utilisation suivante de la compétence Savoir seulement si vous êtes entraîné dans la compétence Savoir.
 
+{:.block}
 > ### Pratiquer un métier
 > 
-> {: .traits}
-> Concentration
-> Secret
-> Temps libre
+> {:.traits} Temps libre
 >
 > ---
 >
