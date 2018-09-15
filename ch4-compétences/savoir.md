@@ -32,7 +32,10 @@ Vous pouvez accomplir l’action suivante de la compétence Savoir, même si vou
 {: .block .action1}
 > ### Se rappeler de connaissances
 >
-> {:.traits} Concentration, Secret
+> {: .traits} 
+>
+> concentration
+> secret
 >
 > ---
 >
@@ -49,7 +52,9 @@ Vous pouvez tenter l’utilisation suivante de la compétence Savoir seulement s
 {:.block}
 > ### Pratiquer un métier
 > 
-> {:.traits} Temps libre
+> {: .traits} 
+>
+> Temps libre
 >
 > ---
 >
