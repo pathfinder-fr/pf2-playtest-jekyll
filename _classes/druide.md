@@ -17,6 +17,7 @@ profReflex: Ent
 profWill: Exp
 
 skills: 3
+skill: Nature, une compétence 
 weapons: "Ent pour toutes les armes simples et le cimeterre"
 armor: "Ent pour les armures légères et intermédiaires non métalliques; Ent pour les boucliers légers et lourds non métalliques"
 spells: "Ent pour les jets, les DD et les jets d'attaque des sorts primaires"
