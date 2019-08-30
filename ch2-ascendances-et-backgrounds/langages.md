@@ -114,7 +114,7 @@ Langage secret
 
 ## La langue des signes
 
-Votre personnage pourrait utiliser la langue des signes au lieu d'un langage parlé. C'est tou particulièrement courant dans le cas des personnages sourds, malentendants ou muets. Dans ce cas, votre personnage peut communiquer en utilisant
+Votre personnage pourrait utiliser la langue des signes au lieu d'un langage parlé. C'est tout particulièrement courant dans le cas des personnages sourds, malentendants ou muets. Dans ce cas, votre personnage peut communiquer en utilisant
  la langue des signes associée avec le langage choisi (tout en sachant écrire et lire la forme écrite de ce langage).
 
  Quand vous choisissez les langages de votre personnage, vous décidez s'il connaît la version signée de ces langues ou uniquement la version parlée. Si vous choisisez la version signée au lieu de la version parlée, votre personnage reçoit [Lecture sur les lèvres] en don bonus. Cependant, s'il est incapable de parler, ce don ne lui donne pas la faculté de le faire. Un personnage muet, sourd ou malentendant ne peut pas utiliser l'ouïe comme [sens imprécis](/ch9-jouer-à-pathfinder/perception.html). Si un personnage perd ou regagne le sens de l'ouie au cours de ses aventures, il peut utiliser son temps libre pour réentraîner ses langages et opter pour les versions parlées au lieu des version signées (ou vice versa). Si vous jouez un personnage entendant qui connaît un ou plusieurs langages signés grâce à son historique (par exemple, un personnage entendant avec un parent sourd), vous pouvez recevoir [Langue des signes] en tant que don bonus si le MJ l'accepte.
